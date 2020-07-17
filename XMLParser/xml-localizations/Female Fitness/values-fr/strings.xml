@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Culture Physique Féminine</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">Exercices</string>
+    <string name="title_2">Entraînements</string>
+    <string name="title_3">Personnalisé</string>
+    <string name="title_4">Historique</string>
+    <string name="title_5">Plus</string>
+    <string name="done">Fait</string>
+    <string name="back">Retour</string>
+    <string name="titles">Titre:&amp;#32;</string>
+    <string name="downl_vid">Téléchargement vidéo</string>
+    <string name="please_wait">Veuillez patienter...</string>
+    <string name="cancel">Annuler</string>
+    <string name="edit">Éditer</string>
+    <string name="work">Mon Entraînement</string>
+    <string name="create_plus">Pour créer nouvel entraînement appuyez sur +</string>
+    <string name="save">Sauvegarder</string>
+    <string name="workout_name">Nom Entraînement:</string>
+    <string name="days_title">Numéro Jours:</string>
+    <string name="delete">Effacer</string>
+    <string name="work_title">Titre Entraînement:</string>
+    <string name="options">Options:</string>
+    <string name="camera">Caméra/Galerie</string>
+    <string name="ex_phot_title">Photos de l’Exercice</string>
+    <string name="name_desc">Nom, Description</string>
+    <string name="ex_name">Nom Exercice:</string>
+    <string name="desc">Description:</string>
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+    <string name="blanck">Veuillez remplir le champ de texte</string>
+    <string name="okey">Ok</string>
+    <string name="realy_cancel">Voulez-vous vraiment annuler le processus de téléchargement? Toute la progression sera perdue!</string>
+    <string name="download_all">Télécharger toutes les vidéos</string>
+    <string name="unzip">Décompression Fichiers</string>
+    <string name="files">Fichiers</string>
+    <string name="dow_video">Téléchargement Vidéos</string>
+    <string name="video_saved">Toutes les vidéos ont étés sauvegardées avec succès!</string>
+    <string name="conn">Veuillez vérifier votre connexion wi-fi ou connexion internet cellulaire!</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+    <string name="start">Commencer</string>
+    <string name="weight">Poids(kg.)</string>
+    <string name="repetitions">Répétitions</string>
+    <string name="set_s">Régler les secondes</string>
+    <string name="wei">Poids</string>
+    <string name="rep">Répétitions</string>
+    <string name="wei_rep">Performance</string>
+    <string name="no_history">Aucun exercice n’a été encore fait</string>
+    <string name="last_val">Dernières valeurs</string>
+    <string name="send_f">Vos commentaires</string>
+    <string name="rep_bug">Signaler un Bug</string>
+    <string name="tel_fr">Envoyer à un Ami</string>
+    <string name="rate_us">Evaluez nous</string>
+    <string name="ad">Ajouter</string>
+
+    <string name="exit">Êtes-vous sûr ?</string>
+    <string name="sdcard">Pas de Carte SD!!</string>
+    <string name="post_to">Poster sur le mur</string>
+    <string name="not_loged">Non Connecté</string>
+    <string name="log_fail">Échec de la Connexion</string>
+    <string name="posting">En train de Poster </string>
+    <string name="posting_succes">Posté avec Succès</string>
+    <string name="email_sent">Émail Envoyé</string>
+    <string name="email_notsent">Émail Non Envoyé</string>
+
+
+    <string name="reps1">3 séries et 12/12/12 répétitions</string>
+    <string name="reps2">3 séries et 15/15/15 répétitions</string>
+    <string name="reps3">3 séries et 20/20/20 répétitions</string>
+    <string name="reps4">3 séries et 30/30/30 répétitions</string>
+
+
+    <string name="appirator_app_title"></string>
+
+    <string name="app_name_fast">Fitness &amp; Musculation</string>
+    <string name="wk1">Vous avez tendance à garder un excédent de graisse corporelle autour de votre taille, vos bras et vos seins, avec très peu de graisses stockées dans la partie inférieure de votre corps. Soyez rapidement en forme avec des exercices combinés intenses pour le haut du corps.</string>
+    <string name="wk2">Vous êtes rectiligne comme un bâton avec très peu de courbes. Ajoutez plus de forme à votre tour de taille et sculptez vos fessiers avec ce programme d\'entraînement pour les types de corps banane.</string>
+    <string name="wk3">Votre buste et vos hanches sont plus larges comparés à votre taille. Ajoutez du tonus musculaire à tout votre corps et modelez la forme de ces bras et de ces  jambes avec cette séance d\'entraînement « courbeslicieuse »! .</string>
+    <string name="wk4">Vous avez les épaules larges et les hanches étroites. Renforcez-vous fondamentalement, et ajoutez un peu de forme à vos fesses et vos cuisses avec cette séance d\'entraînement pour type de corps triangle-inversé.</string>
+    <string name="wk5">Vous êtes un peu plus large en bas que vous ne l\'êtes en haut. Tonifiez vos bras et vos épaules, et renforcez-vous dans l’ensemble avec notre entraînement poire-friendly.</string>
+    <string name="dialog_future">Vous ne pouvez pas entrer de données pour des dates futures!</string>
+    <string name="info">Choisissez la véritable forme de votre corps.</string>
+
+    <string name="ex_guide_1">Pomme</string>
+    <string name="ex_guide_2">Banane</string>
+    <string name="ex_guide_3">Sablier</string>
+    <string name="ex_guide_4">Triangle Inversé</string>
+    <string name="ex_guide_5">Poire</string>
+    <string name="ex_name_1">Enroulement sur Ballon</string>
+    <string name="ex_desc_1">Préparation: Asseyez-vous sur le ballon d’exercice. Avancez et allongez-vous sur le ballon avec les épaules et la tête pendantes et les genoux et les hanches courbées. Mettez doucement votre dos en hyper-extension autour de la boule. Tenez les mains plaquées derrière la nuque ou les deux mains sur la poitrine et n’utilisez aucun poids. Fléchissez au niveau de la taille afin de relever le haut du torse. Revenez à la position initiale. Répétez.</string>
+    <string name="ex_name_2">Planche de Stabilité sur  Ballon</string>
+    <string name="ex_desc_2">Placez un ballon d\'exercice à proximité et étendez-vous en face sur le sol avec les mains espacées de la largeur des épaules dans une position de pompes. Maintenant, placez vos tibias inférieurs au sommet d\'un ballon d\'exercice. Astuce: A ce stade, vos jambes doivent être entièrement étendues avec les tibias sur le dessus du ballon et le haut du corps doit être dans une position pompes soutenu par vos deux bras tendus devant vous. Ce sera votre position de départ: - Tout en gardant votre dos parfaitement droit et le haut du corps immobile, levez vos fessiers vers le plafond, en serrant les abdos fermement afin de fermer la distance entre votre cage thoracique et vos hanches. Le résultat final sera que vous finirez dans une position haute de pont. - Expirez pendant que vous effectuez cette partie du mouvement. - Redescendez lentement vers votre position de départ tout en inspirant. Astuce: Ne laissez pas vos fessiers s’affaisser vers le bas. Répétez le nombre de répétitions recommandées.</string>
+    <string name="ex_name_3">Touche Doigts de pieds</string>
+    <string name="ex_desc_3">Pour commencer, allongez-vous sur le sol ou sur un tapis d\'exercice avec votre dos appuyé contre le sol. Vos bras doivent étendues sur les côtés avec les paumes vers le bas. Vos jambes doivent se toucher. Levez lentement vos jambes en l\'air jusqu\'à ce qu\'elles soient presque perpendiculaire au sol avec un angle au niveau des genoux de 90°. Tout en gardant le bas du dos plaqué contre le sol, soulevez lentement votre torse et vos mains pour essayer de toucher vos orteils. N\'oubliez pas d\'expirer en accomplissant cette partie de l\'exercice. Lentement commencez à redescendre votre torse et vos bras vers le bas jusqu’à la position de départ en inspirant. Souvenez-vous de garder vos bras tendus pointant vers vos orteils. Répétez le nombre de répétitions recommandées.</string>
+    <string name="ex_name_4">Extension de Jambe</string>
+    <string name="ex_desc_4">Allongez-vous sur un tapis d\'exercice avec les jambes étendues et vos paumes vers le bas à côté de vous. Ce sera votre position de départ: - Soulevez lentement votre torse, le dos appuyé contre le sol. N\'oubliez pas d\'expirer tout en accomplissant cette partie de l\'exercice. - Pliez vos genoux et tirez vos cuisses vers votre abdomen pendant que vous expirez. Continuer le mouvement jusqu\'à ce que vos genoux soient au niveau de votre poitrine. - Contractez vos abdominaux pendant que vous exécutez ce mouvement et maintenez pendant une seconde au sommet. Astuce: Lorsque vous effectuez le mouvement, les jambes (mollets) doivent toujours rester parallèles au sol. - Revenez à la position de départ tandis que vous inspirez. Répétez l\'opération pour la quantité de répétitions  recommandées.</string>
+    <string name="ex_name_5">Planche &amp; Pompe (Planche Basse et Haute)</string>
+    <string name="ex_desc_5">Commencez cet exercice en position « pompes » haute. Assurez-vous que vos mains sont justes sous vos épaules, que vos jambes sont droites et que votre cœur est engagé (position 1). Maintenez cette position pendant 15 secondes. Abaissez vos avant-bras sans tomber à genoux. Amenez un avant-bras à la fois vers le bas sur le tapis, en  planche basse. Avec votre avant-bras parallèle, maintenez cette position pendant 15 secondes (position 2). Puis revenir à la position haute de planche avec les deux bras tendus.</string>
+    <string name="ex_name_6">L’Alpiniste</string>
+    <string name="ex_desc_6">Prenez la position des pompes avec vos bras complètement droits. Votre corps doit former une ligne droite de la tête jusqu’aux chevilles [A]. Sans laisser votre posture au niveau du bas du dos changer, levez votre pied droit sur le sol et déplacez lentement votre genou droit vers la poitrine [B]. Revenez à la position de départ et répétez avec la jambe gauche. Alternez  d\'avant en arrière pour la durée de la série .</string>
+    <string name="ex_name_7">Enroulement Allongé sur le Côté</string>
+    <string name="ex_desc_7">Allongez-vous sur votre droite avec la main gauche sur le côté de la tête et les jambes légèrement surélevées, gauche sur la droite. Soulevez  votre torse vers le haut puis  vers le bas, en utilisant votre coude droit pour maintenir la stabilité. Tenez la pause, puis revenez à la position de départ.</string>
+    <string name="ex_name_8">Abdominaux en V</string>
+    <string name="ex_desc_8">Allongez-vous sur le dos et étendez  vos bras au-dessus de votre tête. Vous n\'avez pas besoin de serrer vos mains ensemble pour cet exercice. Dans un mouvement lent et contrôlé, soulevez simultanément vos bras et vos jambes, de sorte qu\'ils se rencontrent au milieu de votre torse. Remontent à la position de départ dans un mouvement lent et contrôlé. Gardez votre regard vers le plafond.</string>
+    <string name="ex_name_9">Saut sur Banc</string>
+    <string name="ex_desc_9">Commencer avec une boîte ou un banc à environ 50 cm. en face de vous. Tenez-vous avec vos pieds écartés de la largeur des épaules. Ce sera votre position de départ: - Réalisez un court squat pour préparer  le saut; balancez  vos bras derrière vous. – Rebondissez  de cette position, en étendant depuis  les hanches, les genoux et les chevilles pour sauter aussi haut que possible. - Balancez vos bras vers l\'avant et vers le haut -. Sautez par-dessus le banc, atterrissez  avec les genoux pliés, en absorbant l\'impact avec les jambes. - Tournez autour et faites face à la direction opposée, puis sautez en arrière par-dessus le banc .</string>
+    <string name="ex_name_10">Tirage à la Poulie Basse Assis</string>
+    <string name="ex_desc_10">Pour cet exercice, vous aurez besoin d\'accéder à une machine à poulie basse avec une barre en  V. Note: La barre en V vous permettra d\'avoir une prise neutre où les paumes de vos mains se font face. Pour prendre la position de départ, d\'abord asseyez-vous sur la machine et placez vos pieds sur la plate-forme avant ou la barre transversale fournie en veillant à ce que vos genoux soient légèrement pliés et non verrouillées. Penchez-vous et  gardez l\'alignement naturel de votre dos et saisissez les poignées de la barre en V. Avec vos bras tendus tirez en arrière jusqu\'à ce que votre torse ait à un angle de 90 degrés à partir de vos jambes. Votre dos doit être légèrement arqué et votre poitrine doit être immobile. Vous devriez sentir un étirement agréable sur vos latéraux pendant que vous maintenez la barre en face de vous. C\'est la position de départ de l\'exercice: - Garder le torse stationnaire, tirez les poignées vers votre torse tout en gardant les bras près celui-ci jusqu\'à ce que vous touchiez les abdominaux. - Expirez pendant que vous effectuez ce mouvement. À ce stade, vous devriez contracter fortement les muscles du dos. - Maintenez cette contraction pendant une seconde et lentement revenez à la position initiale en inspirant.  Répétez l\'opération pour la quantité recommandée de répétitions. Attention: Évitez de balancer votre torse d\'avant en arrière car cela peut vous pouvez causer des blessures au bas du dos .</string>
+    <string name="ex_name_11">Tirage Poitrine à la Poulie Haute Prise Large</string>
+    <string name="ex_desc_11">Asseyez-vous sur une machine avec un large barre attachée à la poulie supérieure. Assurez-vous que vous ajustez la genouillère de la machine pour s\'adapter à votre hauteur. Ces pads empêcher votre corps d\'être soulevée par la résistance attachée à la barre. Prenez la barre avec les paumes tournées vers l\'avant en utilisant la prise prescrite. Note sur les prises : Pour une prise large, vos mains doivent être espacées d’une distance plus large que la largeur des épaules. Pour une prise  moyenne, vos mains doivent être espacés d’une distance égale à la largeur des épaules et pour une prise en main proche d’une distance inférieure à la largeur de vos épaules. Alors que vous avez les deux bras tendus devant vous en tenant la barre à la largeur de prise choisie , amenez votre torse en arrière à peu près à 30 degrés ou plus , tout en créant une courbure sur le bas du dos et collez votre poitrine en avant . Ceci est votre position de départ : - Alors que vous expirez, amenez la barre jusqu\'à ce qu\'elle touche votre poitrine en tirant les épaules et les bras supérieurs vers le bas et le dos. Astuce: Concentrez-vous sur le fait de contracter les muscles du dos une fois que vous atteignez la position de contraction totale. - La partie supérieure du torse doit rester immobile et seuls les bras doivent bouger. - Les avant-bras ne doivent faire aucun autre travail, sauf pour tenir la barre, n\'essayez donc pas de tirer la barre vers le bas à l\'aide des avant-bras. Après une seconde dans la position contractée en serrant les omoplates, soulevez lentement la barre jusqu’ à la position de départ lorsque vos bras sont en extension complète et que les latéraux sont entièrement tendus. - Inspirez pendant cette partie du mouvement. Répétez ce mouvement le nombre de répétitions prescrites. »</string>
+    <string name="ex_name_12">Hyper-extensions (Extensions du Dos)</string>
+    <string name="ex_desc_12">Etendez-vous face vers le bas sur un banc d’hyper extension, en rentrant vos chevilles solidement sous les coussinets plantaires. Réglez le patin supérieur si possible de sorte que vos cuisses reposent à plat sur le coussin, laissant assez de place pour que vous puissiez vous plier au niveau de la taille, sans aucune restriction. Avec votre corps droit, croisez vos bras devant vous ou derrière votre tête. Ce sera votre position de départ : Astuce: Vous pouvez également maintenir une plaque de poids pour une résistance supplémentaire en face de vous dans vos bras croisés. – Commencez lentement par une flexion de la taille vers l’avant aussi loin que vous le pouvez tout en gardant votre dos bien à plat. - Inspirez pendant que vous effectuez ce mouvement. - Continuer à avancer jusqu\'à ce que vous sentiez un étirement agréable sur les ischio-jambiers et vous ne puissiez  plus continuer sans arrondir le dos. Astuce: Ne pas arrondir le dos pendant que vous effectuez cet exercice. Certaines personnes peuvent aller plus loin que d\'autres. L\'essentiel est que vous alliez aussi loin que votre corps vous le permet sans arrondir le dos. - Soulevez lentement votre torse et revenez à la position initiale en inspirant. Astuce: Évitez de cambrer le dos au-delà de la ligne droite. Aussi, ne balancez pas le torse à aucun moment afin d’éviter de blesser votre dos. Répétez l\'opération le nombre de répétitions recommandées.</string>
+    <string name="ex_name_13">Traction Assistée</string>
+    <string name="ex_desc_13">Attrapez la barre  avec une prise large en pronation. Descendez sur la plateforme. Certaines machines assistées vous obligent à vous agenouiller sur la plate-forme. Si aucune machine assistée n’est utilisée, aidez-vous au besoin d’un partenaire d\'entraînement pour vous tirer les pieds derrière les jambes ou poussez vous-même avec les jambes en extension. L\'amplitude du mouvement diminuera si la prise est trop large .</string>
+    <string name="ex_name_14">Elévation Latérale Tirage avec Deux Haltères</string>
+    <string name="ex_desc_14">Avec un haltère dans chaque main (paumes vers le torse), pliez vos genoux légèrement et amenez votre torse vers l\'avant en vous pliant au niveau de la taille ; en vous pliant pliez veillez à garder votre dos droit jusqu\'à ce qu\'il soit presque parallèle au sol. Astuce: Assurez-vous que vous gardez la tête haute. Les poids doivent être directement en face de vous et vos bras doivent pendre perpendiculaire au sol et à votre torse. Ceci est votre position de départ : - Tout en gardant le buste immobile, soulever les haltères sur vos côtés (en expirant), en gardant les coudes près du corps (ne pas exercer une force avec l\'avant-bras autre que de tenir les poids). - Dans la position contractée haute, serrez les muscles du dos et maintenez pendant une seconde. - Abaissez lentement le poids de nouveau à la position initiale en inspirant. Répétez l\'opération le nombre recommandé de répétitions. Attention: Cet exercice n\'est pas conseillé aux personnes ayant des problèmes de dos. Un exercice avec la poulie inférieure est un meilleur choix pour les personnes ayant des problèmes de dos. Assurez-vous d’avoir une position parfaite et ne jamais arrondir le dos, car cela peut favoriser les blessures au dos. Soyez prudent avec le poids utilisé, en cas de doute, utiliser moins de poids plutôt que trop.</string>
+    <string name="ex_name_15">Jambes Tendues à la Barre</string>
+    <string name="ex_desc_15">Cet exercice est mieux réalisé à l\'intérieur d\'un rack squat pour des raisons de sécurité. Pour commencer, placez d\'abord la barre sur le rack qui correspond le mieux à votre hauteur. Une fois la bonne hauteur choisie et la barre en place, placez-vous sous la barre et placez l’arrière de vos épaules (un peu en dessous du cou) en travers. Accrochez-vous à la barre avec les deux bras de chaque côté et soulevez- le rack en poussant en premier avec les jambes et dans le même temps redressez le torse. Éloignez-vous du rack et placez vos jambes dans une position écartée de la largeur des épaules. Gardez la tête haute en tout temps en regardant vers le bas, ce qui vous permet de garder l\'équilibre et aussi de maintenir le dos droit. Ce sera votre position de départ : - Garder vos jambes stables, déplacez votre torse vers l\'avant en fléchissant les hanches tout en inspirant. - Abaissez votre torse jusqu\'à ce qu\'il soit parallèle au sol. - Commencer à relever la barre tout en expirant en élevant votre torse pour revenir à la position de départ. Répétez l\'opération pour le nombre recommandé de répétitions. Attention: Ce n\'est pas un exercice à prendre à la légère. Soyez prudent avec le poids utilisé, en cas de doute, utilisez moins de poids plutôt que trop. Le Jambes Tendues à la Barre est un exercice très sûr, mais seulement si il est effectué correctement «.</string>
+    <string name="ex_name_16">Ecartés Couchés Inversés</string>
+    <string name="ex_desc_16">Pour commencer, allongez-vous sur un banc incliné avec la poitrine et le ventre pressés contre la pente. Ayez un haltère dans chaque main avec les paumes face à face (prise neutre). Tendez les bras en face de vous afin qu\'ils soient perpendiculaires à l\'angle de la banquette. Les jambes doivent être stationnaires en appliquant une pression avec la plante de vos orteils. C\'est la position de départ: - Maintenir la légère courbure des coudes, déplacer les poids loin les uns des autres (sur le côté) dans un mouvement d\'arc tout en expirant. Astuce: Essayez de serrer vos omoplates ensemble pour obtenir les meilleurs résultats de cet exercice. - Les bras doivent être levés jusqu\'à ce qu\'ils soient parallèles au sol. – Sentez la contraction et abaissez lentement les poids vers le bas jusqu’à la position de départ en inspirant. Répétez l\'opération le nombre recommandé de répétitions..</string>
+    <string name="ex_name_17">Tirage Horizontal Un Bras avec Haltère</string>
+    <string name="ex_desc_17">Choisir un banc plat et placez un haltère de chaque côté de celui-ci. Placez la jambe droite au-dessus de l’extrémité du banc, pliez votre torse vers l\'avant à partir de la taille jusqu\'à ce que le haut du corps soit parallèle au sol, et placez votre main droite à l\'autre bout du banc pour le soutien. Utilisez la main gauche pour ramasser l\'haltère sur le sol et levez le poids tout en gardant votre dos droit. La paume de la main doit être tournée vers le torse. Ce sera votre position de départ : - Tirer vers le haut sur le côté de votre poitrine, en gardant votre bras près de votre côté et en gardant le buste immobile. Expirez pendant que vous effectuez cette étape. Astuce: Concentrez-vous sur la contraction des muscles du dos une fois que vous atteignez la position finale. Assurez-vous aussi que la force est effectuée avec les muscles du dos et non avec les bras. Enfin, la partie supérieure du torse doit rester immobile et seuls les bras doivent bouger. Les avant-bras ne doivent faire aucun autre travail, sauf pour la tenue de l’haltère, donc ne pas essayer de tirer l\'haltère vers le haut en utilisant les avant-bras. - Abaissez vers le bas jusqu’à la position de départ. Inspirez pendant que vous effectuez cette étape. Répétez le mouvement pour le nombre spécifié de répétitions. \cf0  \cf2 Changez de côté et recommencez avec l\'autre bras. Variantes: les mouvements avec un seul bras peuvent également être effectués en utilisant une poulie haute ou une poulie basse à la place d\'un haltère .</string>
+    <string name="ex_name_18">Flexion des avant-bras avec des haltères</string>
+    <string name="ex_desc_18">Tenez-vous droit avec un haltère dans chaque main à bout de bras. Gardez vos coudes près de votre torse et faire tourner les paumes de vos mains jusqu\'à ce qu\'elles soient tournées vers l\'avant. Ce sera votre position de départ: - Maintenant, en gardant les bras stationnaires, expirez et levez les poids tout en contractant vos biceps. - Continuez à soulever des poids jusqu\'à ce que vos biceps soient entièrement contractés et que les haltères soient au niveau de l\'épaule. - Maintenez la position contractée pendant une brève pause. - Ensuite, inspirez lentement et commencez à baisser les haltères jusqu’à la position de départ. Répétez l\'opération le nombre recommandé de répétitions.</string>
+    <string name="ex_name_19">Flexion des avant-bras à la barre</string>
+    <string name="ex_desc_19">Tenez-vous le  torse droit tout en tenant un haltère avec une prise de la largeur des épaules. La paume de vos mains doit être orientée vers l\'avant et les coudes doivent être près du torse. Ce sera votre position de départ: - Tout en maintenant les bras fixes, soulevez les poids vers l\'avant en contractant les biceps tout en expirant. Astuce: Seuls les avant-bras doivent bouger. - Poursuivre le mouvement jusqu\'à ce que vos biceps soient entièrement contractés et que la barre soit au niveau de l\'épaule. - Maintenez la position contractée pendant une seconde et contractez fortement les biceps. - Commencez lentement à descendre la barre en position de départ tout en inspirant. Répétez l\'opération le nombre recommandé de répétitions .</string>
+    <string name="ex_name_20">Flexion des avant-bras à la barre, assis</string>
+    <string name="ex_desc_20">Saisissez une barre à environ la largeur des épaules (paumes vers l\'avant)  et asseyez-vous à l\'extrémité d\'un banc plat avec les haltères sur vos cuisses. Votre dos doit être droit, la tête regardant vers l\'avant et les pieds fermement sur le sol. Ce sera votre position de départ Seated Barbell Curl: - Alors que vous gardez vos bras stationnaires et à proximité de votre corps, inspirez et commencez à lever les poids vers l\'avant jusqu\'à ce que vous atteigniez une position complètement contracté. - Maintenez la position pendant une seconde, contractez vos biceps et redescendez le poids dans un mouvement contrôlé pour revenir à la position de départ .</string>
+    <string name="ex_name_21">Flexion des avant-bras à la barre, Couché sur un Plan Incliné</string>
+    <string name="ex_desc_21">Étendu contre un banc incliné, avec vos bras tenant un haltère et pendants sur une ligne horizontale. Ce sera votre position de départ: - Tout en gardant les bras stationnaire, soulevez  le poids aussi haut que vous le pouvez tout en contractant les biceps. Expirez pendant que vous effectuez cette partie du mouvement. Astuce: Seuls les avant-bras doivent bouger. Ne pas balancer les bras. - Après une deuxième contraction, lentement revenir à la position initiale en inspirant. Astuce: Assurez-vous que vous faites tout le chemin vers le bas. Répétez l\'opération le nombre de répétions recommandées. Variantes: Vous pouvez effectuer cet exercice à l\'aide d\'une barre EZ ou simple.</string>
+    <string name="ex_name_22">Flexion des avant-bras à la poulie basse debout</string>
+    <string name="ex_desc_22">Levez-vous avec votre torse droit tout en tenant une barre d\'enroulement à câble attaché à une poulie basse. Tenez la barre du câble à la largeur des épaules et gardez les coudes près du torse. La paume de vos mains doit être orientée vers le haut (prise en supination). Ce sera votre position de départ: - Tout en maintenant les bras fixes, soulevez les poids tout en contractant les biceps tandis que vous expirez. Seuls les avant-bras doivent bouger. Poursuivre le mouvement jusqu\'à ce que vos biceps soient entièrement contractés et que la barre soit au niveau de l\'épaule. Maintenez la position contractée pendant une seconde. - Commencez lentement à  retourner à la position initiale tout en inspirant. Répétez l\'opération pour le nombre recommandé de répétitions. Variante: Vous pouvez également effectuer ce mouvement en utilisant une barre EZ ou simple.</string>
+    <string name="ex_name_23">Rebond Fessiers</string>
+    <string name="ex_desc_23">Agenouillez-vous sur le sol ou un tapis d\'exercice et pliez la taille avec les bras tendus devant vous (perpendiculaire au torse) afin de vous mettre en position agenouillée push-up, mais avec les bras espacés de la largeur des épaules. Votre tête doit regarder vers l’avant et le pli des genoux doit créer un angle de 90 degrés entre les ischio-jambiers et les mollets. Ce sera votre position de départ : - Tout en expirant, levez votre jambe droite jusqu\'à ce que les ischio-jambiers soient alignés avec le dos tout en conservant l\'angle de 90 degrés. - Contractez les fessiers tout au long de ce mouvement et maintenez la contraction au sommet pendant une seconde. Astuce: A la fin du mouvement de la jambe supérieure doit être parallèle au sol tandis que le mollet doit être perpendiculaire. - Retour à la position initiale en inspirant et maintenant répétez avec la jambe gauche. - Continuer à alterner les jambes jusqu\'à ce que toutes les répétitions recommandées aient été effectuées. Variantes: Pour cet exercice, vous pouvez également effectuer toutes les répétitions avec une jambe d\'abord, puis l\'autre. En outre, vous pouvez également ajouter des poids de cheville.</string>
+    <string name="ex_name_24">Pont Fessiers sur Une Seule Jambe</string>
+    <string name="ex_desc_24">Allongez-vous sur le sol avec vos pieds sur le banc et les genoux fléchis. Levez une jambe, en tirant le genou vers votre poitrine. Ce sera votre position de départ: - Exécuter le mouvement guidant le talon, l\'extension de votre hanche vers le haut et en soulevant  votre fessiers. – Etendez aussi loin que possible, tenez en pause, puis revenez à la position de départ .</string>
+    <string name="ex_name_25">Soulevé de Terre Jambe Tendue sur Une Seule Jambe</string>
+    <string name="ex_desc_25">Debout, pieds joints et les mains juste en face des cuisses. Soulevez légèrement la jambe afin que le pied soit juste au-dessus du sol. Baissez le torse vers l\'avant et vers le bas tout en levant la jambe derrière. Gardez le dos droit et le genou de la jambe d\'appui légèrement fléchir. Gardez la hanche et le genou de la jambe levée étendu pour l\'ensemble du mouvement. Une fois que la tension se fait sentir ou que les mains sont en contact avec le sol, revenir à la position initiale en relevant le torse tout en descendant la jambe levée. Redressez le genou de la jambe d\'appui tandis que le torse revient à la verticale. Répéter.</string>
+    <string name="ex_name_26">Rebond avec Câble, Une Seule Jambe</string>
+    <string name="ex_desc_26">Accrochez une attache à une poulie basse, puis attachez le brassard à votre cheville. Face à la pile de poids, à une distance d\'environ deux pieds, et en saisissant l\'armature en acier comme soutien. Tout en gardant les genoux et les hanches légèrement fléchis et vos abdos bandés, contractez vos fessiers et jetez lentement  la jambe en arrière en décrivant  un arc de cercle aussi haut que possible tant que le mouvement reste confortable tout en expirant. Astuce: En pleine extension, serrez vos fessiers pendant une seconde afin de parvenir à une contraction maximale. Maintenant, ramenez lentement la jambe de travail vers l’avant, résistant à la traction du câble jusqu\'à ce que vous atteigniez la position de départ. Répétez l\'opération pour la quantité recommandée de répétitions. Changez de jambe et répétez le mouvement pour l\'autre côté. Variantes: Vous pouvez effectuer cet exercice avec des bandes d\'exercice .</string>
+    <string name="ex_name_27">Développé-Couché Incliné sur Machine Guidée</string>
+    <string name="ex_desc_27">Placez un banc incliné sous la machine guidée. Placez la barre à une hauteur que vous pouvez atteindre en position couchée lorsque vos bras sont presque entièrement déployés. Une fois le poids dont vous avez besoin sélectionné, allongez-vous sur le banc incliné et assurez-vous que votre poitrine est aligné avec la barre. En utilisant une prise en pronation (paumes vers l’avant) plus large que la largeur des épaules, déverrouillez la barre du rack et maintenez-la au-dessus vous avec vos bras verrouillés. Ce sera votre position de départ : - En inspirant, descendez lentement jusqu\'à ce que vous sentiez la barre sur votre poitrine. - Après une pause d\'une seconde, mettez la barre à la position de départ en expirant et appuyez sur la barre en utilisant les muscles de la poitrine. Verrouillez vos bras dans la position contractée, maintenez pendant une seconde, puis commencer à descendre lentement à nouveau. Astuce: Il devrait vous prendre au moins deux fois plus longtemps pour descendre que pour monter. - Répétez le mouvement de la quantité prescrite de répétitions. Lorsque vous avez terminé, placez la barre arrière du rack. Attention: Si vous découvrez cet exercice, il est conseillé d\'utiliser un partenaire car cet exercice peut être un peu difficile. Si aucun observateur n\'est disponible, alors soyez prudent avec la quantité de poids utilisée .</string>
+    <string name="ex_name_28">Pompes – Triceps Position Rapprochée</string>
+    <string name="ex_desc_28">Allongez-vous le visage vers le sol et placez vos mains plus rapprochées que la largeur des épaules pour une position de mains proches l’une de l’autre. Assurez-vous que vous tenez votre torse à bout de bras. Abaissez-vous jusqu\'à ce que votre poitrine touche presque le sol tout en inspirant. En utilisant vos triceps et certains de vos muscles pectoraux, poussez sur le haut du corps vers l\'arrière jusqu\'à la position de départ et contractez la poitrine. Expirez pendant que vous effectuez cette étape. Après une pause d\'une seconde en position contractée, répétez le mouvement pour la quantité prescrite de répétitions. Variantes: - Si vous découvres cet exercice et n’avez  pas la force d\'accomplir cela, vous pouvez soit pliez vos jambes au niveau des genoux pour réduire la résistance ou effectuez l\'exercice contre le mur au lieu du sol. - Pour les haltérophiles les plus avancées, vous pouvez placer vos pieds sur une grande surface, comme un banc, afin d\'augmenter la résistance.</string>
+    <string name="ex_name_29">Développé Incliné avec Haltères</string>
+    <string name="ex_desc_29">Allongez-vous sur un banc incliné avec un haltère dans chaque main au-dessus de vos cuisses. Les paumes de vos mains seront en face l’une de l’autre. Puis, en utilisant vos cuisses pour aider à pousser les haltères vers le haut, soulevez les haltères une à la fois afin que vous puissiez les tenir à la largeur des épaules. Une fois que vous avez les haltères soulevés à la largeur des épaules, tournez  vos poignets vers l\'avant de sorte que les paumes de vos mains soient face à vous. Ce sera votre position de départ: - Assurez-vous de garder un contrôle total sur les haltères à tout moment. Puis expirez et poussez les haltères vers le haut avec votre poitrine. - Verrouillez vos bras vers le haut, maintenez pendant une seconde, puis commencez à baisser lentement le poids. Astuce: Dans l\'idéal, en abaissant le poids cela devrait prendre environ deux fois plus longtemps que de l’élever. Répétez le mouvement de la quantité prescrite de répétitions. Lorsque vous avez terminé, placez les haltères sur vos cuisses, puis sur le sol. Il s\'agit de la manière la plus sûre pour libérer les haltères</string>
+    <string name="ex_name_30">Ecartés Développé Incliné</string>
+    <string name="ex_desc_30">Tenez un haltère dans chaque main et couchez-vous sur un banc incliné qui est réglé à un angle d\'inclinaison de plus de 30 degrés. Étendez vos bras au-dessus de vous avec une légère courbure au niveau des coudes. Maintenant tournez les poignets afin que les paumes de vos mains soient face à vous. Astuce: Les petits doigts doivent être côte à côte. Ce sera votre position de départ: - Comme vous inspirez, commencez à baisser lentement les bras sur le côté tout en gardant les bras tendus et en faisant tourner les poignets jusqu\'à ce que les paumes de la main soient face à face. Astuce: A la fin du mouvement, les bras seront à vos côtés avec les paumes vers le plafond. - Comme vous expirez commencez à ramener les haltères à la position de départ en inversant le mouvement et la rotation des mains pour que les petits doigts soient à côté l’un de l\'autre à nouveau. Astuce: Gardez à l\'esprit que le mouvement se produira au niveau de l\'articulation de l\'épaule et du poignet. Il n\'y a pas de mouvement qui se produit à l\'articulation du coude. Répétez l\'opération pour la quantité recommandée de répétitions.</string>
+    <string name="ex_name_31">Développé Incliné au Ballon Suisse avec Haltères</string>
+    <string name="ex_desc_31">Placez-vous sur le dos sur un ballon suisse afin que votre torse soit à un angle de 45 degrés par rapport au sol. Tenez les haltères justes au-dessus du menton, avec vos bras tendus. Gardez votre corps tendu et vos pieds à plat sur le sol.</string>
+    <string name="ex_name_32">Développé-Couché à la Barre</string>
+    <string name="ex_desc_32">Allongez-vous sur un banc plat. Utilisez une prise de largeur moyenne (une poignée qui crée un angle de 90 degrés au milieu du mouvement entre les avant-bras et le haut des bras), soulevez la barre du rack et maintenez au-dessus de vous avec vos bras verrouillés. Ce sera votre position de départ : - De la position de départ, inspirez et commencez à descendre lentement jusqu\'à ce que la barre touche le milieu de votre poitrine. - Après une courte pause, appuyez sur la barre jusqu’à la position de départ en expirant. Concentrez-vous sur la poussée de la barre en utilisant les muscles de la poitrine. - Verrouillez vos bras et contractez la poitrine dans la position contractée au sommet du mouvement, maintenez pendant une seconde, puis commencez à descendre lentement à nouveau. Astuce: Idéalement, l\'abaissement du poids devrait prendre environ deux fois plus longtemps que de le soulever. Répétez le mouvement pour la quantité prescrite de répétitions. Lorsque vous avez terminé, replacez la barre dans le rack. Attention: Si vous découvrez cet exercice, il est conseillé de faire appel à un partenaire. Si aucun observateur n\'est disponible, alors choisissez prudemment la quantité de poids utilisée</string>
+    <string name="ex_name_33">Tiré par-dessus avec Haltères Bras Tendus</string>
+    <string name="ex_desc_33">Placez un haltère debout sur un banc plat. Veillez à ce que l\'haltère reste bien placé au sommet du banc, et  se trouve perpendiculaire au banc (le torse en travers comme formant une croix) avec seulement vos épaules se trouvant sur la surface. Vos hanches doivent être en dessous de la banquette et vos jambes pliées, les pieds posés fermement sur le sol. La tête sera sur le banc aussi. Saisissez l\'haltère à deux mains et maintenez-le directement sur votre poitrine à bout de bras. Les deux paumes doivent être en appui contre la face inférieure d\'un des côtés de l’haltère. Ce sera votre position de départ : Attention: Assurez-vous toujours que l\'haltère utilisé pour cet exercice est sécurisé. En utilisant un haltère avec des plaques en vrac peut entraîner l\'haltère à s\'effondrer et à tomber sur votre visage. - Tout en gardant les bras tendus, abaissez le poids lentement en arc de cercle derrière votre tête tout en respirant jusqu\'à ce que vous sentiez un étirement sur la poitrine. - A ce stade, ramener les haltères à la position de départ en décrivant un arc à travers lequel  le poids sera réduit et expirez pendant que vous effectuez ce mouvement. - Maintenir le poids sur la position initiale pour recommencer et répétez le mouvement pour le nombre prescrit de répétitions. Attention: Si vous découvrez ce mouvement, ayez  un partenaire  vous maintenant le poids. Sinon, s\'il vous plaît assurez-vous que l\'haltère ne tombe pas sur vous pendant que vous positionnez votre torse pour effectuer l\'exercice sur le banc. En outre, comme je l’ai déjà dit, faites en sorte que l\'haltère utilisé est en parfait état. De vieux haltères ayant besoin de soudure ne doivent jamais être utilisés pour effectuer cet exercice.</string>
+    <string name="ex_name_34">Flexion des Cuisses sur Machine Guidée</string>
+    <string name="ex_desc_34">Pour commencer, réglez d\'abord la barre sur la hauteur qui correspond le mieux à votre hauteur. Une fois la bonne hauteur choisie et la barre chargée, placez-vous  sous la barre et placez le dos de vos épaules (un peu en dessous du cou) en travers de celle-ci. Accrochez-vous à la barre avec les deux bras de chaque côté (paumes vers l’avant), déverrouillez le rack et soulevez en poussant d’abord avec les jambes et dans le même temps, redressez le torse. Placez vos pieds écartés d\'une largeur d’épaule avec les doigts de pied pointant légèrement vers l’extérieur. Gardez la tête haute en tout temps et maintenez le dos droit. Ce sera votre position de départ : Note: Sachez que nous allons utiliser la position moyenne qui vise un développement global, mais vous pouvez choisir l\'une des trois positions discutés dans la section des positions des pieds. - Commencer à baisser lentement la barre en pliant les genoux que vous maintenez droite avec la tête vers le haut. Continuez jusqu\'à ce que l\'angle entre la cuisse et les mollets sont d’un peu moins de 90 degrés (ce qui est le point où les cuisses sont inférieurs à la parallèle au sol) . - Inspirez pendant que vous effectuez cette partie du mouvement. Astuce: Si vous avez effectué l\'exercice correctement, l\'avant des genoux devrait faire une ligne droite imaginaire avec les orteils qui sont  perpendiculaire à l’avant. Si vos genoux ont dépassé cette ligne imaginaire (s’ils ont dépassé vos orteils), vous subissez un stress indu sur le genou et l\'exercice a été effectué incorrectement. - Commencer à lever la barre tandis que vous expirez en poussant sur le sol avec le talon de votre pied et redressez les jambes à nouveau pour revenir à la position de départ. - Répétez l\'opération pour la quantité recommandée de répétitions .</string>
+    <string name="ex_name_35">Flexion Ample des Cuisses sur Machine Guidée</string>
+    <string name="ex_desc_35">Mettez-vous en place pour la Flexion Ample des Cuisses sur Machine Guidée en mettant la barre à environ la hauteur des épaules et en chargeant tout le poids que vous voulez utiliser sur ladite machine. Tenez-vous sous la barre avec les jambes dans une position large et vos orteils pointés légèrement vers l\'extérieur. Saisissez la barre avec une prise large et le centre de la barre au-dessus des muscles de votre dos. La barre ne doit pas s\'appuyer sur votre cou! Gardez le dos droit et les yeux tournées vers l\'avant et prenez le poids: - Faites un léger pas en avant. - Gardez les yeux vers l\'avant avec le dos droit, s\'accroupir lentement jusqu\'à ce que vos cuisses soient parallèles au sol. – Poussez sur les talons, relevez la barre jusqu’à la position de départ. - Répétez l\'opération pour les répétitions souhaitées ».</string>
+    <string name="ex_name_36">Fentes Arrières sur Machine Guidée</string>
+    <string name="ex_desc_36">Avec la hauteur de la barre supérieure à la poitrine, placez la barre sur le dos des épaules et les barres de préhension sur les côtés. Placez les pieds sous la barre. Redresser les jambes afin de soulever le poids. Débrayez la barre en tournant la barre vers l’arrière. Reculez  une jambe tout en pliant la jambe d\'appui. Plantez l’avant-pied loin sur le plancher. Baissez le corps par flexion du genou et de la hanche de la jambe d\'appui jusqu\'à ce que le genou de la jambe arrière soit presque en contact avec le sol. Revenez à la position debout d’origine en étendant la hanche et du genou de la jambe de soutient avant et ramener la jambe arrière à côté de la jambe d\'appui. Répétez le mouvement avec les jambes opposées en alternance entre les séries .</string>
+    <string name="ex_name_37">Presse à Cuisses</string>
+    <string name="ex_desc_37">En utilisant une machine de presse jambes, s\'asseoir sur la machine et placer vos pieds sur la plate-forme directement en face de vous avec une position de pieds moyenne (largeur des épaules). Note: Nous allons utiliser la position moyenne décrite ci-dessus qui vise le développement global, mais vous pouvez choisir l\'une des trois positions décrites dans la section de positionnement des pieds. Abaissez les barres de sécurité retenant la plate-forme lestée en place et poussez sur la plate-forme jusqu\'à ce que vos jambes soient complètement étendues devant vous. Astuce: Assurez-vous que vous ne bloquez pas les genoux. Votre torse et vos jambes doivent faire un angle de 90 degrés parfait. Ce sera votre position de départ : - Alors que vous inspirez, abaissez lentement la plate-forme jusqu\'à ce que le haut et le bas des jambes forment un angle de 90 degrés. - Poussez principalement avec les talons de vos pieds et en utilisant les quadriceps revenez à la position de départ en expirant. Répétez l\'opération pour la quantité recommandée de répétitions et veillez à verrouiller les épingles de sûreté correctement une fois que vous avez terminé. Vous ne voulez pas que la plate-forme tombe sur vous en pleine charge. Attention: Toujours vérifier pour vous assurer que lorsque vous re-rackez, le poids de la plate-forme est bien verrouillé ».</string>
+    <string name="ex_name_38">Flexion des Jambes à la Machine</string>
+    <string name="ex_desc_38">Placez le dos de votre torse contre le patin arrière de la machine et accrochez vos épaules sous les épaulettes fournies. Placez vos jambes dans la plate-forme en utilisant une position moyenne de la largeur des épaules avec les doigts de pied légèrement vers l’extérieur. Astuce: Gardez la tête haute en tout temps et aussi maintenez le dos sur la surface à tout moment. Placez vos bras sur les poignées latérales de la machine et désengager les barres de sécurité (qui sur la plupart des designs se fait en déplaçant les poignées latérales d\'une position de face à une position diagonale). Maintenant, redressez vos jambes sans bloquer les genoux. Ce sera votre position de départ : Note: Nous allons utiliser la position moyenne décrite ci-dessus qui vise le développement global, mais vous pouvez choisir l\'une des trois positions décrites dans la section de positionnement des pieds. - Commencer à descendre lentement l\'unité en pliant les genoux tandis que vous maintenez une posture droite avec le haut de la tête (le dos plaqué à tout moment). Continuez jusqu\'à ce que l\'angle entre la cuisse et les mollets devienne un peu moins de 90 degrés (ce qui est le point où les cuisses sont inférieures à la parallèle au sol). - Inspirez pendant que vous effectuez cette partie du mouvement. Astuce: Si vous avez effectué l\'exercice correctement, l\'avant des genoux devrait faire une ligne droite imaginaire avec les orteils qui est perpendiculaire à l’avant. Si vos genoux ont dépassé cette ligne imaginaire (s\'ils ont dépassés vos orteils), et vous placez un stress indu sur le genou et l\'exercice a été effectué incorrectement. - Commencez à soulever l\'appareil tandis que vous expirez en poussant le sol avec principalement le talon de votre pied pendant que vous vous redressez les jambes et reveniez à la position de départ. Répétez l\'opération pour la quantité recommandée de répétitions.</string>
+    <string name="ex_name_39">Ischio-Jambiers Assis à la Machine</string>
+    <string name="ex_desc_39">Réglez le levier de la machine pour s\'adapter à votre hauteur et asseyez-vous  sur la machine avec votre dos contre le tapis de support pour le dos. Placez le dos de la jambe au-dessus du levier rembourré (quelques centimètres sous les mollets) et fixer le pad tout contre vos cuisses, juste au-dessus des genoux. Puis, saisissez les poignées latérales sur la machine tout en pointant vos orteils droit (ou vous pouvez aussi utiliser l\'une des deux autres positions) et assurez-vous que les jambes sont entièrement droite juste en face de vous. Ce sera votre position de départ: - Tandis que vous expirez, tirez le levier de la machine autant que possible à l\'arrière de vos cuisses en fléchissant les genoux. - Gardez votre torse stable à tout moment. Maintenez la position contractée pendant une seconde. - Revenez lentement à la position de départ en inspirant. Répétez l\'opération pour la quantité recommandée de répétitions. Attention: Ne jamais utiliser trop de poids sur l\'exercice de sorte que vous commencez à vous balancer et trembler car vous pouvez risquer des blessures au bas du dos et une déchirure aux ischio-jambiers .</string>
+    <string name="ex_name_40">Extensions de Jambes</string>
+    <string name="ex_desc_40">Pour cet exercice, vous aurez besoin d\'utiliser une machine d\'extension de la jambe. Choisissez d\'abord votre poids et asseyez-vous sur la machine avec les jambes sous le pad (pieds pointés vers l’avant) et les mains tenant les barres latérales. Ce sera votre position de départ : Astuce: Vous aurez besoin d\'ajuster le tampon de sorte qu\'il tombe sur le dessus de votre jambe (juste au-dessus de vos pieds). Aussi, assurez-vous que vos jambes forment un angle de 90 degrés entre la jambe inférieure et supérieure. Si l’angle est inférieur à 90 degrés alors cela signifie que le genou est au-dessus des orteils, qui à son tour crée une contrainte excessive à l\'articulation du genou. Si la machine est conçue de cette façon, soit trouvez une autre machine ou tout simplement faites en sorte que lorsque vous commencez à exécuter l\'exercice vous vous arrêtez de descendre une fois que vous dépassez l\'angle de 90 degrés. – En utilisant vos quadriceps, étendez vos jambes au maximum tandis que vous expirez. S\'assurer que le reste du corps reste fixe sur le siège. - Tenez en pause une seconde sur la position contractée. - Abaissez lentement le poids vers l\'arrière jusqu’à la position initiale en inspirant, et en s\'assurant que vous ne dépassez pas la limite de 90 degrés. Répétez l\'opération pour le temps recommandé.</string>
+    <string name="ex_name_41">Flexion des Jambes Pliées</string>
+    <string name="ex_desc_41">Tenez des poids à la base avec les deux mains et tenez-vous debout. Déplacez vos jambes afin qu\'elles soient plus espacées que la largeur des épaules avec vos genoux légèrement pliés. Vos orteils doivent être orientés vers l\'extérieur. Ceci est votre position de départ: Note: Vos bras doivent être stationnaires pendant l\'exécution de l\'exercice. - Lentement pliez les genoux et baissez vos jambes jusqu\'à ce que vos cuisses soient parallèles au sol. Assurez-vous d’inspirer, car c\'est la partie excentrique de l\'exercice. - Appuyez principalement avec le talon du pied pour ramener le corps à la position de départ en expirant. Répétez l\'opération pour la quantité recommandée de répétitions. Attention: Si vous gardez votre dos droit cela peut entraîner des blessures au dos .</string>
+    <string name="ex_name_42">Flexion des Jambes Sumo à Enroulement Latéral</string>
+    <string name="ex_desc_42">Tenez-vous debout avec vos pieds légèrement plus écartés que la largeur des hanches, les orteils et les genoux font un angle d\'environ 45 degrés, les mains derrière la tête. Pliez vos genoux et le bas dans un squat sumo (baissant les hanches aussi bas que possible sans laisser les genoux fléchir vers l\'avant ou l\'arrière). Lorsque vous appuyez remonter à la position debout, levez votre genou droit vers votre coude droit. Reposez votre pied droit et répétez immédiatement le squat sumo de gauche. Répéter, en alternant les côtés à chaque fois .</string>
+    <string name="ex_name_43">Flexion Latérale des Jambes</string>
+    <string name="ex_desc_43">Commencez debout, les pieds joints. Faites un squat à mi-chemin vers le bas et faites un pas de côté vers la droite aussi loin que vous le pouvez. Ramenez la jambe droite vers la gauche, revenir à votre position de départ. Faites-le vers un côté différent à chaque fois.</string>
+    <string name="ex_name_44">Fentes avec Haltères</string>
+    <string name="ex_desc_44">Commencez debout avec vos pieds écartés de la largeur des épaules et vos mains redressées au-dessus de la tête maintenant le poids. Faites un pas en avant avec une jambe, fléchissant les genoux pour baisser vos hanches. Descendez jusqu\'à ce que votre genou arrière touche presque le sol. Votre posture doit rester droite et votre genou avant doit rester au-dessus de l\'avant du pied. Dirigez avec le talon de votre pied directeur et étendez les deux genoux pour vous élever vers le haut. Un pas en avant avec votre pied arrière, répétant l’exercice sur la jambe opposée .</string>
+    <string name="ex_name_45">Flexion en Fente Arrière avec Genou en l’air</string>
+    <string name="ex_desc_45">Tenez-vous avec votre torse bien droit tenant deux haltères dans vos mains à vos côtés. Ce sera votre position de départ: - Reculez la jambe droite à environ deux pieds ou à peu près, du pied gauche, puis abaissez le haut du corps tout en gardant le buste droit et en maintenant l\'équilibre. Inspirez lorsque vous descendez. Astuce: Comme dans les autres exercices, ne laissez pas votre genou aller de l\'avant au-delà de vos orteils lorsque vous descendez, car cela va mettre une pression excessive sur l\'articulation du genou. Assurez-vous que vous gardez votre jambe avant perpendiculaire au sol. Gardez le torse droit au cours de la fente; les fléchisseurs de la hanche souples. Une longue fente met l\'accent sur le grand fessier; une courte fente souligne les quadriceps. – Poussez et revenez à la position de départ tandis que vous expirez, lever le genou bien droit en gardant le dos droit. Astuce: Utilisez la plante de vos pieds pour pousser afin d\'accentuer les quadriceps. Mettez l\'accent sur les fessiers, appuyez avec vos talons. Maintenant, répétez avec la jambe opposée.</string>
+    <string name="ex_name_46">Fente Arrière Croisée à la Barre</string>
+    <string name="ex_desc_46">Pour commencer, placez d\'abord la barre sur un rack juste au-dessous du niveau des épaules. Une fois la bonne hauteur choisie et la barre chargée, passez sous la barre et placez le dos de vos épaules (un peu en dessous du cou) au travers de celle-ci. Accrochez-vous à la barre avec les deux bras de chaque côté et soulevez le rack en poussant d’abord avec les jambes et dans le même temps redressez le torse. Faites un pas pour sortir du rack et ramenez le pied droit en arrière et vers la gauche et baissez dans une fente de sorte que le genou gauche soit plié d\'environ 90 degrés tout en gardant le torse droit et en maintenant l\'équilibre. Inspirez lorsque vous descendez. Note: Ne laissez pas votre genou aller de l\'avant au-delà de vos orteils tandis que vous descendez, car cela va mettre une pression excessive sur l\'articulation du genou. En utilisant principalement le talon de votre pied, poussez et revenez à la position de départ en expirant. Répétez le mouvement pour la quantité recommandée de répétitions, puis passez à la jambe gauche .</string>
+    <string name="ex_name_47">Levées de Jambe Couchés sur le Côté</string>
+    <string name="ex_desc_47">Allongez-vous sur le côté, les jambes empilées et votre tête appuyée sur le bras. Contractez les muscles de l\'avant de la cuisse supérieure et soulevez la jambe en l\'air. Maintenez la position pendant un instant, baissez afin de toucher le bas de la jambe, puis soulevez à nouveau. Vous pouvez également utiliser des poids aux chevilles ou une bande de résistance</string>
+    <string name="ex_name_48">Step avec Levée du Genou</string>
+    <string name="ex_desc_48">Debout face à un banc d\'une hauteur appropriée avec vos pieds ensemble. Ce sera votre position de départ: - Commencez le mouvement en montant, en mettant votre pied gauche sur le dessus de la banquette. - Etendez la hanche et le genou pour vous lever sur le banc. – Tandis que vous vous tenez sur le banc avec votre jambe gauche, fléchissez le genou droit et la hanche, pour porter le genou aussi haut que vous le pouvez. Inversez ce mouvement visant à descendre du banc, puis répétez la séquence sur la jambe opposée.</string>
+    <string name="ex_name_49">Flexion avec Haltères</string>
+    <string name="ex_desc_49">Tenez-vous debout et droit un haltère dans chaque mains (paumes vers le côté de vos jambes). Placez vos pieds dans une position moyenne d\'une largeur d’épaule avec les doigts de pieds légèrement vers l’extérieur. Gardez la tête haute tout le temps en regardant vers le bas, ce qui vous permet de garder l\'équilibre et de maintenir le dos droit. Ce sera votre position de départ : - Commencez à baisser lentement votre torse en pliant les genoux tout en maintenant une posture droite avec la tête vers le haut. Continuez jusqu\'à ce que vous atteigniez 90 degrés. - Inspirez pendant que vous effectuez cette partie du mouvement. Astuce: Si vous avez effectué l\'exercice correctement, l\'avant des genoux devrait faire une ligne droite imaginaire avec les orteils qui est perpendiculaire à l’avant. Si vos genoux ont passé cette ligne imaginaire (s’ils sont dépassés vos orteils), vous subissez un stress indu sur le genou et l\'exercice a été effectué incorrectement. - Commencez à lever la barre tandis que vous expirez en poussant sur le sol avec le talon de votre pied pendant que vous vous redressez les jambes à nouveau et revenez à la position de départ. Répétez l\'opération pour la quantité recommandée de répétitions.</string>
+    <string name="ex_name_50">Soulevé de terre Jambes Tendues avec Haltères</string>
+    <string name="ex_desc_50">Saisir une barre avec une prise en pronation (paumes vers le bas). Vous pouvez avoir besoin d’enveloppements de poignet si vous utilisez une quantité significative de poids. Tenez-vous avec votre buste droit et les jambes espacées d’une largeur d\'épaule ou dans une position étroite. Les genoux doivent être légèrement fléchis. Ceci est votre position de départ : - En gardant les genoux stationnaires, abaissez  la barre à au-dessus de vos pieds en pliant les hanches tout en gardant le dos droit. - Continuez à avancer comme si vous alliez ramasser quelque chose par terre jusqu\'à ce que vous sentiez un étirement sur les muscles ischio-jambiers. Inspirez pendant que vous effectuez ce mouvement. - Commencer à ramener votre torse bien droit à nouveau en élargissant vos hanches jusqu\'à ce que vous soyez de retour à la position de départ. Expirez pendant que vous effectuez ce mouvement. Répétez l\'opération pour la quantité recommandée de répétitions. Attention: Ceci n\'est pas un exercice qui est recommandée pour les personnes ayant des problèmes au bas du dos. En outre, il doit être traité avec le plus grand respect accordant une attention particulière à ne pas arrondir le dos avant que vous déplaciez le torse, le dos doit toujours être droit. Enfin, faire des mouvements saccadés ou trop de poids peut blesser votre dos.</string>
+    <string name="ex_name_51">Soulevé de terre Sumo Jambes Tendues</string>
+    <string name="ex_desc_51">Commencez avec une plaque dans vos mains. Les pieds doivent être réglés très large. Prenez une grande respiration, puis abaissez vos hanches, regardant en avant avec votre tête et avec votre poitrine. En gardant les genoux stationnaires, abaissez la barre au-dessus de vos pieds en pliant les hanches tout en gardant le dos droit. Continuez à avancer comme si vous alliez chercher quelque chose sur le sol jusqu\'à ce que vous sentiez un étirement sur les muscles ischio-jambiers. Inspirez pendant que vous effectuez ce mouvement. Commencer à apporter votre torse bien droit à nouveau en élargissant vos hanches jusqu\'à ce que vous soyez de retour à la position de départ. Expirez pendant que vous effectuez ce mouvement. Répétez l\'opération pour la quantité recommandée de répétitions.</string>
+    <string name="ex_name_52">Extension Une Jambe sur le Côté à la Poulie</string>
+    <string name="ex_desc_52">Accrochez une manchette de cheville en cuir à une poulie basse, puis attachez le brassard à votre cheville. Tenez-vous à côté de la pile de poids à une distance d\'environ deux pieds, en saisissant l\'armature en acier comme soutien. Tout en gardant les genoux et les hanches légèrement fléchis et vos abdos serrés, Contractez vos fessiers en étendant lentement la jambe sur le côté aussi haut qu\'il sera confortable d’aller tandis vous expirez. Astuce: En pleine extension, serrez vos fessiers pendant une seconde afin de parvenir à une contraction maximale. Maintenant, ramenez lentement la jambe de travail en avant, résistant à la traction du câble jusqu\'à ce que vous atteigniez la position de départ. Répétez l\'opération pour la quantité recommandée de répétitions. Changez de jambe et répétez le mouvement pour l\'autre côté. Variantes: Vous pouvez effectuer cet exercice avec des bandes d\'exercice .</string>
+    <string name="ex_name_53">Développé avec Haltères Arnold</string>
+    <string name="ex_desc_53">Asseyez-vous sur un banc d\'exercice avec soutien du dos et tenez deux haltères en face de vous, à la hauteur de la poitrine avec vos paumes vers votre corps et vos coudes pliés. Astuce: Vos bras doivent être à côté de votre torse. La position de départ devrait ressembler à la phase contractée d\'une flexion avec haltère: - Maintenant, pour exécuter le mouvement, soulevez les haltères tandis que vous tournez les paumes de vos mains jusqu\'à ce qu\'elles soient tournées vers l’avant. - Continuez à soulever les haltères jusqu\'à ce que vos bras soient étendus au-dessus de vous dans la position du bras droit. Expirez pendant que vous effectuez cette partie du mouvement. - Après une pause d\'une seconde dans la phase supérieure, commencez à abaisser les haltères jusqu’à la position initiale en tournant les paumes de vos mains vers vous. Astuce: Le bras gauche est tourné dans le sens horaire compteur tandis que la droite va être tournée dans le sens antihoraire. Inspirez pendant que vous effectuez cette partie du mouvement. Répétez l\'opération pour la quantité recommandée de répétitions. Variantes: Vous pouvez effectuer l\'exercice debout mais ce n\'est pas recommandé pour les personnes ayant des problèmes au bas du dos .</string>
+    <string name="ex_name_54">Développé Alterné avec Haltère</string>
+    <string name="ex_desc_54">Placez deux haltères à vos épaules. Placez les haltères à vos épaules en poussant sur les jambes et les hanches pendant que vous tirez les haltères vers les épaules. Appuyez sur l\'une directement au-dessus en poussant avec le coude, la paume orientée vers l\'avant tout en maintenant l\'autre haltère stationnaire. Abaissez l\'haltère vers la position de départ et enchainez immédiatement avec votre autre bras .</string>
+    <string name="ex_name_55">Elévation en Avant avec Deux Haltères</string>
+    <string name="ex_desc_55">Choisissez une paire d\'haltères et tenez-vous avec le buste droit et les haltères sur le devant de vos cuisses à bout de bras avec les paumes de vos mains face aux cuisses. Ce sera votre position de départ: - Tout en maintenant le torse stationnaire (ne pas balancer), soulevez les haltères à l\'avant avec une légère courbure au coude et les paumes des mains toujours vers le bas. Continuez à aller jusqu\'à ce que les bras soient légèrement supérieurs à la parallèle au sol. - Expirez en exécutant cette partie du mouvement et tenez la pause pendant une seconde au sommet. – Tandis que vous inspirez, abaissez les haltères lentement jusqu’à la position de départ. Répétez l\'opération pour la quantité recommandée de répétitions. Variantes: Cet exercice peut également être effectué par les mains en alternance, ce qui signifie faire une répétition avec le bras droit, puis une avec le gauche, vers la droite, etc. En outre, vous pouvez aussi bien utiliser une barre.</string>
+    <string name="ex_name_56">Elévation Deltoïde à la Poulie Basse en Station Debout</string>
+    <string name="ex_desc_56">Commencez par vous tenir debout à la droite d\'une ligne de poulie basse. Utilisez votre main gauche pour venir à travers le corps et récupérer une seule poignée fixée à la poulie basse avec une prise en pronation (paumes vers le bas). Reposez votre bras en face de vous. Votre main droite doit saisir la machine pour un meilleur soutien et équilibre. Assurez-vous que votre dos est droit et vos pieds sont écartés les uns des autres. C\'est la position de départ: - Commencer à utiliser la main gauche qui vient à travers votre corps jusqu\'à ce qu\'il soit élevé à la hauteur des épaules en expirant. - Sentez la contraction au sommet pendant un instant et commencez à baisser lentement la poignée vers le bas jusqu’à la position de départ en inspirant. Répétez l\'opération pour la quantité recommandée de répétitions. Changez de bras et répétez l\'exercice.</string>
+    <string name="ex_name_57">Elévation à la Poulie en Avant</string>
+    <string name="ex_desc_57">L’élévation à la Poulie en Avant est un excellent exercice pour isoler les deltoïdes avant. Mettez-vous en place pour l\'exercice en attachant une sangle de câble à une poulie basse et en sélectionnant le poids que vous souhaitez utiliser. Tenez-vous dos à la machine et saisissez la sangle. Tenez-vous droit avec vos yeux regardant vers l’avant, tenant la sangle juste à côté de vos cuisses. C\'est la position de départ: - Pour l’exécution, soulevez lentement la sangle jusqu\'à environ la hauteur des épaules tout en gardant les bras tendus et le corps fixe. – Tenez la pause, puis abaissez lentement la barre jusqu’à la position de départ. - Ne lâchez pas la pile ni n’abandonnez la barre à toucher votre corps.</string>
+    <string name="ex_name_58">Pompe de Triceps Un Bras</string>
+    <string name="ex_desc_58">Allongez-vous sur votre droite avec le genoux fléchis et les hanches empilés. Enroulez le bras droit autour de l\'épaule et placez la main gauche sur le sol en face de vous. Contractez les triceps pour pousser le corps vers le haut et sur le sol, redressant le bras gauche autant que vous le pouvez. Abaisser de quelques centimètres et continuer à pousser vers le haut et vers le bas avant de changer de côté </string>
+    <string name="ex_name_59">Extension des Triceps avec Haltères en Station Debout</string>
+    <string name="ex_desc_59">Pour commencer, levez-vous avec un haltère tenue par les deux mains. Vos pieds doivent être espacés de la largeur des épaules les uns des autres. Lentement utilisez les deux mains pour saisir l\'haltère et soulevez au-dessus de votre tête jusqu\'à ce que les deux bras soient en extension complète. La résistance doit être posée dans les paumes de vos mains avec les pouces autour de lui. La paume des mains doit être orientée vers le plafond. Ce sera votre position de départ: - Garder vos bras près de la tête avec les coudes à l\'intérieur et perpendiculairement au sol, abaissez la résistance dans un mouvement semi-circulaire derrière votre tête jusqu\'à ce que vos avant-bras touchent vos biceps. Astuce: Les bras doivent rester immobiles et les avant-bras doivent bouger. Inspirez pendant que vous effectuez cette étape. - Retour à la position de départ en utilisant les triceps pour soulever les haltères. Expirez pendant que vous effectuez cette étape. Répétez l\'opération pour la quantité recommandée de répétitions.</string>
+    <string name="ex_name_60">Répulsions sur un Banc à une Jambe</string>
+    <string name="ex_desc_60">Commencez avec les mains paumes vers le bas sur un banc. Ayez une jambe étendue et une jambe plantée sur le sol. Le plus proche votre pied est sur le banc, le plus facile ce sera. Augmentez l\'intensité en plaçant votre pied aussi loin que possible ou gardez  votre pied aussi près du banc pour que ce soit plus facile. Pliez les coudes et plongez aussi loin que vous le pouvez sans que vos fesses touchent réellement le sol. Redressez vos bras. Changez de jambe et répétez.</string>
+    <string name="ex_name_61">Extension Latérale des Triceps du Bras avec Haltères en Station Debout</string>
+    <string name="ex_desc_61">Avec un haltère dans une main et la paume vers votre torse, pliez vos genoux légèrement et amenez votre torse vers l\'avant, en pliant à la taille, tout en gardant le dos bien droit jusqu\'à ce qu\'il soit presque parallèle au sol. Assurez-vous que vous gardez la tête haute. Le bras supérieur doit être proche du torse et parallèle au sol pendant que l\'avant-bras est dirigé vers le sol et que la main tient le poids. Astuce: Il devrait y avoir un angle de 90 degrés entre l\'avant-bras et le haut du bras. Ceci est votre position de départ: - Garder les bras stationnaire, utilisez les triceps pour soulever des poids tandis que vous expirez jusqu\'à ce que les avant-bras soient parallèles au sol et tout le bras est étendu. Comme beaucoup d\'autres exercices pour les bras, seulement l\'avant-bras se déplace. - Après une deuxième contraction dans la partie supérieure, abaissez lentement l’haltère à la position initiale en inspirant. Répétez le mouvement pour la quantité prescrite de répétitions. Changez les bras et répétez l\'exercice. </string>
+    <string name="ex_name_62">Extension des Triceps Un Bras à la Poulie</string>
+    <string name="ex_desc_62">Avec votre main droite, saisir une poignée unique attaché à la poulie haute - tenez par une prise en supination (paumes vers le haut). Vous devez être debout directement en face de la pile de poids. Maintenant, tirez la poignée vers le bas afin que votre bras et votre coude soient enfermés dans le côté de votre corps. Le bras et l’avant-bras doivent former un angle aigu (moins de 90 degrés). Vous pouvez conserver l\'autre bras à la taille et vous pouvez avoir une jambe en face de vous et l\'autre en arrière pour un meilleur équilibre. Ce sera votre position de départ : - Comme vous contractez les triceps, déplacez la fixation de la poignée uniquement, vers votre côté jusqu\'à ce que votre bras soit droit. Expirez pendant que vous effectuez ce mouvement. Astuce: Seuls les avant-bras doivent bouger. Vos bras doivent rester stationnaire à tout moment. - Presser les triceps et maintenez pendant une seconde dans cette position contractée. - Ramenez lentement la poignée à la position de départ. Répétez l\'opération pour la quantité recommandée de répétitions, puis effectuer le même mouvement avec l\'autre bras. Variantes: Vous pouvez utiliser des bandes d\'exercice pour effectuer cet exercice.</string>
+    <string name="ex_name_63">Tirage des Triceps à la Poulie Haute</string>
+    <string name="ex_desc_63">Fixez une barre droite ou coudée à une poulie haute et saisissez la avec une prise en pronation (paumes vers le bas) de la largeur des épaules. Debout avec le buste droit et une très faible inclinaison vers l’avant, ramenez les bras près du corps et perpendiculaires au sol. Les avant-bras doivent être orientés vers le haut vers la poulie, car ils tiennent la barre. Ceci est votre position de départ : - Utiliser les triceps, amenez la barre jusqu\'à ce qu\'elle touche la partie avant de vos cuisses et les bras sont en pleine extension perpendiculaire au sol. Les bras doivent toujours rester immobiles à côté de votre torse et les avant-bras doivent bouger. Expirez pendant que vous effectuez ce mouvement. - Après une deuxième pause à la position contractée, amenez la barre lentement jusqu\'au point de départ. Inspirez pendant que vous effectuez cette étape. Répétez l\'opération pour la quantité recommandée de répétitions. Variations : Il existe de nombreuses variantes à ce mouvement. Par exemple, vous pouvez utiliser une fixation de barre EZ ainsi qu\'une barre en V qui permet au pouce d’être plus élevé que le petit doigt. En outre, vous pouvez attacher une corde sur la poulie et utiliser une prise inversée sur les exercices de barre .</string>
+
+    <string name="ex_name_5063">Flexion Des Cuisses Et Bond</string>
+    <string name="ex_desc_5063">Groupe Musculaire : Les quadriceps \n\nÉtape n°1 : Fléchissez bas les cuisses comme si vous étiez receveuse au base-ball. \n\nÉtape n°2 : Bondissez vers le haut et vers l\'extérieur tout en écartant les coudes vers le plafond. \n\nÉtape n°3 : Bondissez vers le haut et resserrez les jambes en baissant les bras en même temps.</string>
+
+    <string name="ex_name_5064">Planche</string>
+    <string name="ex_desc_5064">Muscles : Muscle du flanc (Rectus Abdominis) \n\nÉtape n°1 : Tendez les jambes tout droit et élevez-vous sur les orteils. Tout en gardant le dos droit, placez les avant-bras par terre. \n\nÉtape n°2 : Vos avant-bras devraient être perpendiculaires au haut des bras. Maintenez la position aussi longtemps que possible.</string>
+
+    <string name="ex_name_5065">Extension Du Dos</string>
+    <string name="ex_desc_5065">Muscles : Bas du Dos \n\nÉtape n°1 : Allongez-vous face contre terre. Placez les bras droits devant vous. \n\nÉtape n°2 : Levez les jambes et le haut du corps vers le plafond et étendez-vous autant que possible. Tenez la position pendant une seconde. Revenez à la position de départ.</string>
+
+    <string name="ex_name_5066">Extension Du Dos 2</string>
+    <string name="ex_desc_5066">Groupe Musculaire : Bas du Dos \n\nÉtape n°1 : Allongez-vous face contre terre les bras à côté des hanches et les paumes tournées vers le sol. Activez les muscles abdominaux en tirant les abdominaux vers la colonne vertébrale et en pressant les muscles fessiers. \n\nÉtape n°2 : Expirez lentement, soulevez la poitrine du sol et tendez les bras vers le haut et vers l\'arrière, vers les hanches. Faites pivoter les pouces vers le plafond en effectuant le mouvement. \n\nÉtape n°3 : Au sommet du mouvement, arrêtez-vous deux secondes puis revenez à la position initiale.</string>
+
+    <string name="ex_name_5067">Toucher Des Jambes</string>
+    <string name="ex_desc_5067">Muscles : Muscle du flanc (Rectus Abdominis) \n\nÉtape n°1 : Allongez-vous par terre, levez les jambes jusqu\'à ce qu\'une jambe soit perpendiculaire au sol. Tendez complètement les bras devant vous. \n\nÉtape n°2 : Tendez les mains vers les orteils. Tenez la position pendant une seconde puis revenez à la position initiale.</string>
+
+    <string name="ex_name_5068">Le Coup De Pied Abdominal</string>
+    <string name="ex_desc_5068">Muscles : Muscle du flanc (Rectus Abdominis) \n\nÉtape n°1 : Tenez-vous bien droite les pieds écartés de la largeur des épaules. \n\nÉtape n°2 : Levez la jambe gauche aussi haut que possible et touchez votre pied gauche des deux mains. \n\nÉtape n°3 : Revenez à la position initiale et répétez le mouvement de l\'autre côté. \n\nÉtape n°4 : Continuez à changer rapidement de côté jusqu\'à ce que la série soit complète.</string>
+
+    <string name="ex_name_5069">Le Running Under</string>
+    <string name="ex_desc_5069">Muscles : Muscle du flanc (Rectus Abdominis) \n\nÉtape n°1 : Prenez une position de pompe avec les mains sous les épaules. Votre corps doit former une ligne droite de la tête aux talons. \n\nÉtape n°2 : Levez le pied droit du sol et dirigez le genou droit vers la poitrine. Tapotez le sol avec le pied droit puis revenez à la position de départ. \n\nÉtape n°3 : Changez de jambe à chaque répétition.</string>
+
+    <string name="ex_name_5070">Les Abdos</string>
+    <string name="ex_desc_5070">Muscles : Muscle du flanc (Rectus Abdominis) \n\nÉtape n°1 : Allongez-vous les jambes pliées et les pieds posés à plat par terre. Croisez les bras sur la poitrine ou mettez-vous les mains derrière les oreilles. \n\nÉtape n°2 : Utilisez les abdos pour lever la tête et le haut du torse tout en gardant le bas du dos fermement pressé contre le sol. \n\nÉtape n°3 : Arrêtez-vous un instant avec les omoplates à un peu plus de cinq centimètres du sol puis revenez lentement à la position de départ en effectuant un mouvement contrôlé.</string>
+
+    <string name="ex_name_5071">Traction Intérieur-Extérieur</string>
+    <string name="ex_desc_5071">Muscles : Muscle du flanc (Rectus Abdominis) \n\nÉtape n°1 : Allongez-vous par terre, placez les deux mains sous les hanches, tendez complètement les jambes et levez-les légèrement. \n\nÉtape n°2 : Pliez les jambes vers le haut du corps et tenez la position pendant une seconde. Revenez à la position de départ.</string>
+
+    <string name="ex_name_5072">La Levée Des Fesses</string>
+    <string name="ex_desc_5072">Muscles : Muscle du flanc (Rectus Abdominis) \n\nÉtape n°1 : Allongez-vous sur le dos les mains le long du corps et les jambes pointées droit vers le plafond, perpendiculaires au torse. \n\nÉtape n°2 : Tirez le nombril vers l\'intérieur et fléchissez les fessiers en levant les hanches à seulement quelques centimètres du sol. Ensuite, baissez les hanches.</string>
+
+    <string name="ex_name_5073">Compression Des Abdos</string>
+    <string name="ex_desc_5073">Muscle : Muscle du flanc (Rectus Abdominis) \n\nÉtape n°1 : Allongez-vous par terre, pliez les genoux et gardez les pieds écartés de 45 à 60 centimètres. Vous devriez avoir les bras étendus le long du corps. \n\nÉtape n°2 : Comprimez le torse vers l\'avant et levez-le d\'environ 7-10 centimètres vers la droite et touchez-vous le talon droit tout en tenant la contraction pendant une seconde. Expirez tout en effectuant ce mouvement. \n\nÉtape n°3 : Maintenant, revenez lentement vers la position de départ en inspirant. \n\nÉtape n°4 : Maintenant, comprimez le torse vers l\'avant et levez-le d\'environ 7-10 centimètres vers la gauche et touchez-vous le talon gauche tout en tenant la contraction pendant une seconde. Expirez tout en effectuant ce mouvement puis revenez à la position de départ en inspirant. Maintenant que vous avez touché les deux talons, on considère que vous avez effectué 1 répétition. Continuez en changeant de côté.</string>
+
+    <string name="ex_name_5074">La Torsion Russe</string>
+    <string name="ex_desc_5074">Muscles : Les obliques \n\nÉtape n°1 : Asseyez-vous par terre avec une kettlebell ou une médecine-ball à côté de vous. Rapprochez les jambes et pliez les genoux à environ 90 degrés. Gardez la poitrine levée et le dos droit. \n\nÉtape n°2 : Ramassez la médecine-ball ou kettlebell en la tenant à l\'envers par les poignées pour mieux la contrôler. Elle devrait être à hauteur de poitrine. \n\nÉtape n°3 : Tordez légèrement le torse en faisant attention à ne pas faire le dos rond. Levez les pieds du sol mais gardez les genoux l\'un contre l\'autre et les jambes pliées.</string>
+
+    <string name="ex_name_5075">Les Abdos Bicyclette</string>
+    <string name="ex_desc_5075">Muscles : Les obliques \n\nÉtape n°1 : Allongez-vous sur le dos, soulevez les épaules du tapis et levez les jambes. \n\nÉtape n°2 : Rapprochez un genou et le coude opposé l\'un de l\'autre en vous tortillant d\'un côté puis tendez complètement l\'autre jambe. \n\nÉtape n°3 : Revenez à la position de départ puis passez au côté opposé. \n\nÉtape n°4 : Répétez l\'exercice jusqu\'à ce que la série soit complète.</string>
+
+    <string name="ex_name_5076">Le Crabe Dansant</string>
+    <string name="ex_desc_5076">Muscles : Muscle du flanc (Rectus Abdominis) \n\nÉtape n°1 : Allongez-vous par terre. Placez les mains et les jambes par terre. \n\nÉtape n°2 : Levez le haut du corps.Tapotez rapidement la jambe gauche de la main droite puis changez de côté. Accélérez, faites-le aussi vite que possible.</string>
+
+    <string name="ex_name_5081">Coup De Pied Arrière Fessiers 2</string>
+    <string name="ex_desc_5081">Muscles : Les fessiers \n\nÉtape n°1 : Mettez-vous sur les mains et sur les genoux sur un tapis ou par terre. Vous devriez avoir le dos parallèle au sol et levé, comme indiqué. \n\nÉtape n°2 : En contrôlant votre mouvement, levez la jambe jusqu\'à ce que les ischio-jambiers soient alignés avec le dos tout en maintenant la flexion à 90 degrés. Assurez-vous de fléchir les fessiers quand vous avez la jambe complètement tendue derrière vous. A la fin du mouvement, le haut de jambe devrait être parallèle au sol alors que le mollet devrait lui être perpendiculaire. Revenez à la position de départ et répétez le mouvement avec l\'autre jambe.</string>
+
+    <string name="ex_name_5082">COUPS DE PIED LATERAUX FESSIERS</string>
+    <string name="ex_desc_5082">Groupe Musculaire : Les fessiers \n\nÉtape n°1 : Commencez par vous mettre sur les mains et sur les genoux, comme indiqué. Vos genoux devraient être positionnés sous les hanches et vos poignets devraient être juste sous les épaules. \n\nÉtape n°2 : Gardez le dos droit tout en levant un genou du sol. Gardez le genou plié tout en le levant vers l\'extérieur, vers le haut et vers le côté. \n\nÉtape n°3 : Tenez brièvement cette position puis baissez lentement le genou jusqu\'à lui faire rejoindre le sol. Arrêtez-vous un instant puis répétez l\'exercice.</string>
+
+    <string name="ex_name_5083">Le Coup De Pied Latéral Accroupi</string>
+    <string name="ex_desc_5083">Groupe Musculaire : Les fessiers \n\nÉtape n°1 : Commencez en position accroupie, les hanches en arrière et les pieds écartés de la largeur des épaules. \n\nÉtape n°2 : En vous relevant, faites basculer votre poids sur la jambe droite et levez la jambe gauche de côté. \n\nÉtape n°3 : Revenez à la position accroupie et répétez avec la jambe droite.</string>
+
+    <string name="ex_name_5084">La Fente Inversée</string>
+    <string name="ex_desc_5084">Muscles : Les fessiers \n\nÉtape n°1 : Tenez-vous debout les pieds écartés de la largeur des épaules, les orteils pointés vers l\'avant. \n\nÉtape n°2 : Tendez votre jambe dominante aussi loin que possible vers l\'arrière et descendez jusqu\'à ce que ce genou touche le sol, en gardant le torse aussi droit que possible. \n\nÉtape n°3 : Poussez votre talon avant pour revenir à la position de départ, puis donnez immédiatement un coup rapide avec cette jambe. Cela compte pour une répétition.</string>
+
+    <string name="ex_name_5085">La Fente Arrière</string>
+    <string name="ex_desc_5085">Muscles : Les quadriceps \n\nÉtape n°1 : Tenez-vous les pieds écartés de la largeur des épaules, les orteils pointés vers l\'avant. \n\nÉtape n°2 : Reculez en laissant fléchir les hanches et les genoux pour baisser le corps. En ne laissant reposer la jambe arrière que sur les coussinets du pied, descendez jusqu\'à ce que le genou touche presque le sol. \n\nÉtape n°3 : En poussant sur votre pied plié, revenez à la position de départ et répétez l\'exercice en changeant de jambe.</string>
+
+    <string name="ex_name_5086">Le Toucher De Jambes En Position Planche</string>
+    <string name="ex_desc_5086">Muscles : Bas du Dos \n\nÉtape n°1 : 1. Commencez par une position basse de planche avec le corps en ligne droite, les coudes pliés sous les épaules et les pieds écartés de la largeur des hanches. \n\nÉtape n°2 : Levez la jambe gauche à un angle de 45 degrés puis baissez le pied sur l\'autre cheville. \n\nÉtape n°3 : Allez à la position de départ et répétez avec l\'autre jambe.</string>
+
+    <string name="ex_name_5087">Extension Les Hanches Allongées</string>
+    <string name="ex_desc_5087">Muscles : Les fessiers \n\nÉtape n°1 : Allongez-vous par terre et placez les talons sur le sol, gardez les genoux légèrement pliés et les bras le long du corps. \n\nÉtape n°2 : En poussant avec les fessiers et les ischio-jambiers, ancrez les talons des pieds dans le sol et levez les hanches jusqu\'à ce que le corps forme une rampe. Arrêtez-vous un instant et retournez lentement à votre position de départ.</string>
+
+    <string name="ex_name_5088">Extension Les Hanches Allongées Avec Une Chaise</string>
+    <string name="ex_desc_5088">Muscles : Les fessiers \n\nÉtape n°1 : Allongez-vous le dos sur la chaise et placez les talons sur le sol. Gardez les genoux légèrement pliés et les bras le long du corps. \n\nÉtape n°2 : En poussant avec les fessiers et les ischio-jambiers, ancrez les talons des pieds dans le sol et levez les hanches jusqu\'à ce que le corps forme une rampe. Arrêtez-vous un instant et retournez lentement à votre position de départ.</string>
+
+    <string name="ex_name_5089">Le Split Squat Bulgare</string>
+    <string name="ex_desc_5089">Muscles : Les quadriceps \n\nÉtape n°1 : Placez un pied par terre, à environ un mètre devant une chaise, et posez l\'autre pied en équilibre sur une chaise derrière vous. Placez les mains devant la poitrine. \n\nÉtape n°2 : Utilisez votre pied avant pour rester équilibrée pendant que vous pliez les deux genoux pour baisser le corps tout droit jusqu\'à ce que le genou arrière se trouve à quelques centimètres du sol et jusqu\'à ce que votre jambe avant soit pliée à 90 degrés. Le reste du corps devrait former une ligne droite. Revenez à votre position de départ et changez de jambe.</string>
+
+    <string name="ex_name_5090">Le Step Up</string>
+    <string name="ex_desc_5090">Muscles : Les fessiers \n\nÉtape n°1 : Tenez-vous près du banc de musculation. Avec le pied droit, montez sur le banc tout en gardant le pied gauche par terre. \n\nÉtape n°2 : Levez le genou gauche devant vous. \n\nÉtape n°3 : Descendez avec la jambe gauche. Répétez l\'exercice avec l\'autre jambe en changeant de côté tout le temps.</string>
+
+    <string name="ex_name_5091">Le Coup De Pied En Arrière Sur Banc</string>
+    <string name="ex_desc_5091">Muscles : Les fessiers \n\nÉtape n°1 : Mettez-vous sur les mains et les genoux sur un banc. Vous devriez avoir le dos parallèle au sol et levé, comme indiqué. \n\nÉtape n°2 : En contrôlant votre mouvement, lancez un des pieds en arrière et vers le haut comme si vous donniez un coup de pied au plafond derrière vous. Assurez-vous de fléchir les fessiers et les fesses quand vous aurez la jambe complètement tendue derrière vous. Revenez à la position de départ et répétez avec l\'autre jambe.</string>
+
+    <string name="ex_name_5092">Le Coup De Pied Aux Fesses</string>
+    <string name="ex_desc_5092">Muscles : Les quadriceps \n\nÉtape n°1 : Commencez par vous tenir bien droite et envoyez un coup de talon du sol vers vos fessiers, les bras positionnés devant la poitrine. \n\nÉtape n°2 : Ensuite, passez à l\'autre côté.</string>
+
+    <string name="ex_name_5093">Le Coup De Pied En Arrière Accroupi</string>
+    <string name="ex_desc_5093">Groupe Musculaire : Les fessiers \n\nÉtape n°1 : Commencez en écartant les pieds un peu plus que la largeur des épaules et accroupissez-vous. \n\nÉtape n°2 : En vous relevant, transférez votre poids vers une jambe et donnez un coup de pied en arrière avec l\'autre jambe. \n\nÉtape n°3 : Revenez à la position de départ et répétez de l\'autre côté.</string>
+
+    <string name="ex_name_5095">Les Pompes Avec Toucher</string>
+    <string name="ex_desc_5095">Muscles : Les pectoraux \n\nÉtape n°1 : Allongez-vous la poitrine en avant les mains par terre. Placez les mains sous les épaules. La distance entre les mains devrait être inférieure à l\'écart entre vos épaules. Soulevez-vous avec les bras pour qu\'il ne reste que les mains et les orteils par terre. Gardez le dos droit, les mains légèrement orientées vers l\'extérieur. \n\nÉtape n°2 : Baissez-vous en pliant les coudes jusqu\'à ce que la poitrine se trouve à quelques centimètres du sol. Les coudes devraient se plier vers les pieds.</string>
+
+    <string name="ex_name_5096">Extension En T</string>
+    <string name="ex_desc_5096">Muscle   : Les pectoraux \n\nÉtape n°1 : Commencez dans la position classique des pompes mais, pendant que vous vous poussez vers le haut, faites tourner le corps pour que votre bras droit se soulève et s\'étende au-dessus de votre tête, comme dans l\'illustration. Vos bras et votre torse devraient former un T. \n\nÉtape n°2 : Revenez à la position de départ, baissez-vous, puis poussez vers le haut et tournez jusqu\'à ce que votre main gauche soit orientée vers le plafond.</string>
+
+    <string name="ex_name_5115">Les Pompes</string>
+    <string name="ex_desc_5115">Muscles : Les pectoraux \n\nÉtape n°1 : Les jambes tendues vers l\'arrière, placez les mains sous les épaules, écartées légèrement plus que la largeur des épaules. \n\nÉtape n°2 : Commencez à plier les coudes puis baissez la poitrine jusqu\'à ce qu\'elle se trouve juste au-dessus du sol. \n\nÉtape n°3 : Poussez pour revenir à la position de départ. L\'idéal serait de faire se succéder une poussée d\'une seconde, une pause d\'une seconde et un compte à rebours de deux secondes. \n\nÉtape n°4 : Répétez.</string>
+
+    <string name="ex_name_5116">Fléchissement Des Triceps</string>
+    <string name="ex_desc_5116">Muscles : Le triceps brachial \n\nÉtape n°1 : Placez les mains sur une chaise derrière vous de façon à ce que vos doigts soient tournés vers l\'avant. \n\nÉtape n°2 : Étendez les jambes et commencez à plier les coudes. \n\nÉtape n°3 : Baissez-vous jusqu\'à ce que vos bras forment un angle de 90 degrés. \n\nÉtape n°4 : Relevez-vous de façon à ce que vos bras soient droits, puis répétez l\'exercice.</string>
+
+    <string name="ex_name_5117">La Chenille</string>
+    <string name="ex_desc_5117">Groupe Musculaire : Les quadriceps \n\nÉtape n°1 : Tenez-vous bien droite avec les pieds séparés de la largeur des épaules puis penchez-vous jusqu\'à ce que vos doigts touchent le sol. \n\nÉtape n°2 : Faites avancer progressivement vos mains aussi loin que possible tout en gardant les jambes droites et arrêtez-vous. Revenez à la position de départ en accomplissant la manœuvre inverse et répétez jusqu\'à ce que la série soit complète.</string>
+
+    <string name="ex_name_5097">La Position Chaise</string>
+    <string name="ex_desc_5097">Muscles   : Les quadriceps \n\nÉtape n°1 : Commencez en position de montagne et, en inspirant, relevez les bras avec les paumes face l\'une à l\'autre. \n\nÉtape n°2 . Pendant que vous expirez, pliez les genoux et asseyez-vous en position chaise. \n\nÉtape n°3 . Restez en position chaise de 30 secondes à 1 minute.</string>
+
+    <string name="ex_name_5098">Les Squats</string>
+    <string name="ex_desc_5098">Muscles : Les fessiers \n\nÉtape n°1 : Tenez-vous les pieds séparés de la largeur des hanches. \n\nÉtape n°2 : Baissez les hanches jusqu\'à avoir les cuisses parallèles au sol. Relevez-vous en poussant jusqu\'au bout, arrêtez-vous puis redescendez jusqu\'à ce que vos cuisses soient à nouveau parallèles au sol. \n\nÉtape n°3 : Arrêtez-vous un instant puis recommencez.</string>
+
+    <string name="ex_name_5099">Le Squat Bondissant</string>
+    <string name="ex_desc_5099">Groupe Musculaire : Les quadriceps \n\nÉtape n°1.Tenez-vous les pieds un peu plus écartés que la largeur des épaules, les orteils pointés légèrement vers l\'extérieur et asseyez-vous en position chaise. \n\nÉtape n°2 : Poussez par les talons pour bondir vers le haut en tournant de 180 degrés vers la gauche. \n\nÉtape n°3 : Atterrissez sur les orteils avec les genoux légèrement pliés et accroupissez-vous. \n\nÉtape n°4 : Bondissez rapidement vers le haut en tournant vers la droite puis remettez-vous en position accroupie. Répétez l\'exercice jusqu\'à ce que la série soit complète.</string>
+
+    <string name="ex_name_5100">Le Squat Du Sumo</string>
+    <string name="ex_desc_5100">Muscles : Les quadriceps \n\nÉtape n°1 : Tenez-vous les pieds très écartés les orteils pointés vers l\'extérieur. \n\nÉtape n°2 : Baissez-vous en pliant les genoux et en reculant les hanches. \n\nÉtape n°3 : Quand vous avez les cuisses parallèles au sol, relevez-vous et répétez l\'exercice.</string>
+
+    <string name="ex_name_5101">Le Jump Lunge</string>
+    <string name="ex_desc_5101">Groupe Musculaire : Les fessiers \n\nÉtape n°1 : Faites un grand pas vers l\'arrière et baissez les hanches de façon à ce que le genou arrière se trouve juste au-dessus du sol et de façon à ce que la cuisse avant soit parallèle au sol. \n\nÉtape n°2 : Bondissez en l\'air et changez de positions de jambes. \n\nÉtape n°3 : Bondissez à nouveau et revenez à la position de départ. \n\nÉtape n°4 : Répétez l\'exercice jusqu\'à ce que la série soit complète.</string>
+
+    <string name="ex_name_5102">Les Pompes Accroupies</string>
+    <string name="ex_desc_5102">Groupe Musculaire : Les deltoïdes \n\nÉtape n°1 : En tenant des haltères à hauteur des épaules, asseyez-vous sur les talons et baissez-vous jusqu\'à vous accroupir. \n\nÉtape n°2 : Ancrez les talons dans le sol et poussez des hanches vers l\'avant pour vous lever tout en faisant monter les haltères par-dessus les épaules.</string>
+
+    <string name="ex_name_5103">Le Burpee</string>
+    <string name="ex_desc_5103">Groupe Musculaire : Les quadriceps \n\nÉtape n°1 : Tenez-vous droite avec les pieds écartés de la largeur des épaules. \n\nÉtape n°2 : Accroupissez-vous et placez les mains devant les pieds. \n\nÉtape n°3 : Remontez d\'un bond jusqu\'à avoir les jambes complètement tendues et le corps en position de planche. \n\nÉtape n°4 : Faites une pompe, bondissez vers l\'avant puis poussez sur les talons pour revenir à la position de départ. \n\nÉtape n°5 : Répétez l\'exercice jusqu\'à ce que la série soit complète.</string>
+
+    <string name="ex_name_5104">Le Squat Sumo Avec Haltères</string>
+    <string name="ex_desc_5104">Groupe Musculaire : Les fessiers \n\nÉtape n°1 : Tenez-vous avec les pieds écartés d\'environ deux fois la largeur des épaules et pointez les orteils vers l\'extérieur en tenant un haltère des deux mains. \n\nÉtape n°2 : Accroupissez-vous et mettez le haltère entre les jambes. \n\nÉtape n°3 : Relevez-vous en gardant le haltère dans la même position avec les mains. \n\nÉtape n°4 : Revenez à la position accroupie et répétez pendant toute la durée de la série</string>
+
+    <string name="ex_name_5105">Planche Latérale Avec Lever Latéral De Haltère</string>
+    <string name="ex_desc_5105">Groupe Musculaire : Les obliques \n\nÉtape n°1 : Commencez par adopter une position de planche latérale modifiée, la jambe supérieure étendue et la jambe inférieure pliée en arrière et le genou sur le tapis. \n\nÉtape n°2 : Levez la jambe supérieure aussi haut que possible et, en même temps, levez le bras supérieur puis baissez-le. \n\nÉtape n°3 : Répétez puis changez de côté.</string>
+
+    <string name="ex_name_5106">Les Sauts En Étoile</string>
+    <string name="ex_desc_5106">Groupe Musculaire : Les quadriceps \n\nÉtape n°1 Tenez-vous droite les pieds rapprochés et les mains le long du corps. \n\nÉtape n°2 : Bondissez vers le haut, écartez les pieds et ramenez les deux mains ensemble au-dessus de la tête. \n\nÉtape n°3 : Bondissez à nouveau et revenez à la position de départ. \n\nÉtape n°4 : Répétez l\'exercice jusqu\'à ce que la série soit complète.</string>
+
+    <string name="ex_name_5107">La Course Les Genoux Levés</string>
+    <string name="ex_desc_5107">Groupe Musculaire : Les quadriceps \n\nÉtape n°1 : Tenez-vous droite les pieds écartés de la largeur des épaules. Tournez-vous vers l\'avant et dégagez la poitrine. \n\nÉtape n°2 : Remontez les genoux jusqu\'à la taille puis atterrissez lentement sur la pointe des pieds. \n\nÉtape n°3 : Répétez l\'exercice jusqu\'à ce que la série soit complète.</string>
+
+    <string name="ex_name_5108">Le Sur-Place Les Bras Levés</string>
+    <string name="ex_desc_5108">Muscles : Les quadriceps \n\nÉtape n°1 : Tenez-vous les jambes bien écartées, les bras levés et tendus. \n\nÉtape n°2 : Quand vous bondissez, inversez la position de vos jambes et, en même temps, levez les mains vers le haut. \n\nÉtape n°3 : Continuez à courir sur place.</string>
+
+    <string name="ex_name_5109">L\'homme Qui Court</string>
+    <string name="ex_desc_5109">Muscles : Les quadriceps \n\nÉtape n°1 : Tenez-vous droite avec les pieds écartés de la largeur des épaules et tournez-vous vers l\'avant en dégageant la poitrine. \n\nÉtape n°2 : Commencez à remonter les genoux et atterrissez lentement sur la pointe des pieds. \n\nÉtape n°3 : Répétez l\'exercice jusqu\'à ce que la série soit complète.</string>
+
+    <string name="ex_name_5110">Petits Sauts Latéraux</string>
+    <string name="ex_desc_5110">Muscles : Les mollets \n\nÉtape n°1 : Tenez-vous droite les mains le long du corps et les pieds séparés de la largeur des hanches. \n\nÉtape n°2 : Bondissez vers la droite puis vers la gauche des deux pieds, d\'un mouvement rapide et répétitif. \n\nÉtape n°3 : Répétez l\'exercice jusqu\'à ce que la série soit complète.</string>
+
+    <string name="ex_name_5111">La Corde À Sauter</string>
+    <string name="ex_desc_5111">Muscles : Les mollets \n\nÉtape n°1 : Placez les mains à peu près à la hauteur de la taille, les coudes légèrement pliés, en gardant le haut des bras proche du corps. \n\nÉtape n°2 : Faites pivoter vos poignets pour simuler l\'usage d\'une corde à sauter et bondissez. \n\nÉtape n°3 : Bondissez des deux pieds en même temps et atterrissez sur la pointe des pieds.</string>
+
+    <string name="ex_name_5112">Les Cross Jacks</string>
+    <string name="ex_desc_5112">Muscles : Les mollets \n\nÉtape n°1 : Tenez-vous droite les pieds écartés de la largeur des épaules et les bras levés et tendus vers les côtés. \n\nÉtape n°2 : Bondissez vers le haut et croisez la jambe gauche devant la droite et le bras gauche par-dessus le droit. \n\nÉtape n°3 : Bondissez à nouveau et revenez à la position de départ. \n\nÉtape n°4 : Répétez en inversant la position des bras et des jambes.</string>
+
+    <string name="ex_name_5113">Le Lunge Shoulder Press</string>
+    <string name="ex_desc_5113">Muscles : Les quadriceps \n\nÉtape n°1 : Tenez-vous les pieds séparés de la largeur des hanches et tenez un haltère à chaque main. Placez les haltères à hauteur des épaules. \n\nÉtape n°2 : Faites un pas vers l\'avant avec la jambe gauche et fléchissez les genoux jusqu\'à ce que le genou arrière se trouve juste au-dessus du sol. Poussez les haltères vers le haut. \n\nÉtape n°3 : Répétez ce mouvement pendant toute la durée de la série puis changez de jambe.</string>
+
+    <string name="ex_name_5114">Lever De Haltère D\'un Seul Bras</string>
+    <string name="ex_desc_5114">Muscles : Les deltoïdes \n\nÉtape n°1 : Saisissez un haltère de la main droite, pliez les genoux, poussez les hanches vers l\'arrière et placez le haltère entre vos pieds. \n\nÉtape n°2 : Faites remonter le haltère en étendant les hanches et les genoux et, quand le haltère atteint le niveau de l\'épaule, faites pivoter la main vers l\'avant et faites monter brusquement le haltère comme en envoyant un coup de poing vers le haut. \n\nÉtape n°3 : Baissez le haltère et revenez à la position initiale. \n\nÉtape n°4 : Répétez puis changez de côté.</string>
+
+    <string name="ex_name_5077">Le Coup En Arrière Avec Haltères</string>
+    <string name="ex_desc_5077">Muscles : Le triceps brachial \n\nÉtape n°1 : Saisissez deux haltères, emmenez votre torse vers l\'avant et pliez légèrement les genoux. \n\nÉtape n°2 : Relevez les coudes de façon à avoir le haut des bras parallèle au sol puis donnez un coup en arrière jusqu\'à avoir les bras complètement tendus. \n\nÉtape n°3 : Baissez lentement les poids jusqu\'à retrouver la position de départ. \n\nÉtape n°4 : Répétez.</string>
+
+    <string name="ex_name_5078">Bonjour</string>
+    <string name="ex_desc_5078">Muscles : Bas du Dos \n\nÉtape n°1 : Tenez-vous droite les pieds écartés de la largeur des épaules. Placez-vous le haltère long sur l\'arrière des épaules. Tenez le haltère long à l\'aide d\'une prise par le dessus. La distance entre les mains devrait dépasser la largeur des épaules. Ajustez les pieds de façon à ce qu\'ils pointent légèrement vers l\'extérieur. \n\nÉtape n°2 : Gardez le dos droit et pliez le haut du corps jusqu\'à ce qu\'il soit parallèle au sol. Tenez la position pendant une seconde. Revenez à la position de départ.</string>
+
+    <string name="ex_name_5079">Lever De Haltère D\'un Seul Bras 2</string>
+    <string name="ex_desc_5079">Muscles : Le triceps brachial \n\nÉtape n°1 : Utilisez votre main non-dominante pour tenir un haltère tout en plaçant votre main dominante et votre genou dominant sur un banc, comme dans l\'illustration. \n\nÉtape n°2 : Gardez le dos plat pendant que vous laissez pendre le haltère sur votre côté pour que votre bras s\'aligne juste devant votre épaule. \n\nÉtape n°3 : Tirez le haltère vers le haut et vers l\'arrière, vers la hanche, tout en gardant le coude près du corps. Pendant que vous effectuez ce mouvement, n\'oubliez pas d\'utiliser les muscles du haut du dos. Arrêtez-vous un instant puis revenez lentement à la position de départ.</string>
+
+    <string name="ex_name_5080">Soulevé De Terre</string>
+    <string name="ex_desc_5080">Muscles : Les fessiers \n\nÉtape n°1 : Relevez-vous en vous dressant de toute votre hauteur, les pieds écartés de la largeur des épaules, puis tenez un haltère à chaque main. \n\nÉtape n°2 : Poussez les hanches vers l\'arrière et baissez les haltères tout en gardant les jambes droites ou seulement légèrement pliées. \n\nÉtape n°3 : Revenez à la position de départ et répétez l\'exercice.</string>
+
+    <string name="ex_name_5094">SAUT EN ETOILE</string>
+    <string name="ex_desc_5094">Groupe de muscles. Quadriceps \n\nEtape 1. Commencer avec une posture relaxée avec un écartement entre les pieds équivalents à celui des épaules et maintenir les bras près du corps. \n\nEtape 2. Pour initier le mouvement, s’accroupir à moitié et bondir aussi haut que possible. Etirer entièrement le corps en écartant les jambes et les bras autant que possible.</string>
+
+    <string name="extra_main_name">Plans de formation</string>
+
+    <string name="day">Jour</string>
+    <string name="round">Série</string>
+    <string name="day1">2 jours par semaine</string>
+    <string name="day2">3 jours par semaine</string>
+    <string name="day3">4 jours par semaine</string>
+    <string name="restorePurchases">Restaurer les achats</string>
+    <string name="textUpgrade">Passer à la version Premium pour déverrouiller 50 nouveaux exercices et supprimer les pubs.</string>
+    <string name="one_day_ADS1">1 jour SANS PUB</string>
+    <string name="one_day_ADS2">VOIR LA VIDÉO SPONSORISÉE</string>
+    <string name="upgrade">METTRE À NIVEAU</string>
+    <string name="free">Gratuit</string>
+    <string name="tell_friend">Envoyer à un Ami</string>
+    <string name="send_feedback">Vos commentaires</string>
+    <string name="rate_app">Evaluez nous</string>
+    <string name="facebook">Partagez l’app sur Facebook</string>
+    <string name="twitter">Partagez l’application sur Twitter</string>
+    <string name="ic_googleplay">Nos autres applications</string>
+    <string name="ic_settings_">Réglages</string>
+    <string name="social_follow">Restez connecté avec VGFIT</string>
+    <string name="reminder">Rappel</string>
+    <string name="daily_reminder">Rappel quotidien</string>
+    <string name="after_days">Après %1$s jours d\'inactivité</string>
+    <string name="frequency">Fréquence</string>
+    <string name="menu_bt">Bouton de menu</string>
+    <string name="units">Unités</string>
+    <string name="purch_restored">Les achats intégrés ont été restaurés</string>
+    <string name="success">Réussi !</string>
+
+    <string name="ex_cat_1">Abdomens</string>
+    <string name="ex_cat_2">Dos</string>
+    <string name="ex_cat_3">Biceps</string>
+    <string name="ex_cat_4">Fesses</string>
+    <string name="ex_cat_5">Pectoraux</string>
+    <string name="ex_cat_6">Jambes</string>
+    <string name="ex_cat_7">Epaules</string>
+    <string name="ex_cat_8">Triceps</string>
+    <string name="time_worout">C’est l’heure de l’exercice !</string>
+
+
+    <string name="cat_name6">Abdos</string>
+    <string name="cat_name7">Exercice fessier</string>
+    <string name="cat_name8">Corps pour le bikini</string>
+    <string name="cat_name9">Bruler les graisses</string>
+    <string name="cat_name10">Bras, torse et dos</string>
+    <string name="cat_name11">Jambes fines</string>
+    <string name="cat_name12">Corps total et cardio</string>
+
+    <string name="extraDescription6">Mincissez et travaillez vos abdos avec cet entraînement croisé pour brûler des graisses.</string>
+    <string name="extraDescription7">Exercice centré sur les muscles fessiers pour les sculpter.</string>
+    <string name="extraDescription8">La combinaison parfaite d’exercices pour une sculpture totale et un corps plus puissant.</string>
+    <string name="extraDescription9">S’affiner et mincir avec ce circuit stimulant pour bruler les graisses.</string>
+    <string name="extraDescription10">Excellent exercice centré sur les muscles de vos bras, de votre torse et de votre dos.</string>
+    <string name="extraDescription11">Excellent exercice centré sur la sculpture des jambes.</string>
+    <string name="extraDescription12">Exercice conçu pour bruler les graisses et la sculpture complète du corps.</string>
+
+    <string name="Focus">Focalisation</string>
+    <string name="Goal">Objectif</string>
+    <string name="Skill_level">Niveau d’aptitude</string>
+    <string name="Target_Group">Groupe ciblé</string>
+    <string name="Place">Lieu</string>
+    <string name="Equipment">Équipement</string>
+
+    <string name="focus_1">Abdomen.</string>
+    <string name="focus_2">Muscles fessiers.</string>
+    <string name="focus_3">Tous les muscles du corps.</string>
+    <string name="focus_4">Définition des muscles et combustion des graisses.</string>
+    <string name="focus_5">Biceps, triceps, pectoraux, bas du dos.</string>
+    <string name="focus_6">Fessiers, ischio-jambiers, quadriceps.</string>
+
+    <string name="goal_1">Définition des abdos et combustion des graisses.</string>
+    <string name="goal_2">Pour sculpter et donner du volume.</string>
+    <string name="goal_3">Mise en forme du corps.</string>
+    <string name="goal_4">Routine de cardio pour tout le corps.</string>
+    <string name="goal_5">Prenez de la force et de la définition.</string>
+
+    <string name="skill_level">Débutant Intermédiaire Avancé.</string>
+
+    <string name="target_group">Homme et Femme.</string>
+
+    <string name="equipment_1">Tapis</string>
+    <string name="equipment_2">Banc, tapis.</string>
+    <string name="equipment_3">Haltères, barres.</string>
+    <string name="equipment_4">Banc, haltères, tapis.</string>
+    <string name="place">Salle de sport, Maison, Bureau.</string>
+
+    <string name="doneKey">Fait</string>
+    <string name="editKey">Éditer</string>
+    <string name="intervalsKey">Intervalles</string>
+    <string name="myWorkoutsKey">Mes exercices</string>
+    <string name="pauseKey">Pause</string>
+    <string name="resetKey">Réinitialiser</string>
+    <string name="resumeKey">Reprendre</string>
+    <string name="roundsKey">Rounds</string>
+    <string name="startKey">Commencer</string>
+    <string name="currentsetkey">Réglages actuels</string>
+    <string name="resttimekey">Temps de repos</string>
+    <string name="worktimekey">Temps d’effort</string>
+    <string name="minkey">Min</string>
+    <string name="seckey">Sec</string>
+    <string name="sets_extra1">30 secondes sans repos</string>
+    <string name="sets_extra2">3 séries et 12/11/10 répétions</string>
+    <string name="sets_extra3">35 secondes d’effort 15 secondes de repos</string>
+    <string name="sets_extra4">30 secondes d’effort 15 secondes de repos</string>
+    <string name="sets_extra5">2 séries 15 répétitions</string>
+
+    <string name="rep_extra1">30 secondes d’effort 15 secondes de repos</string>
+    <string name="rep_extra2">30 s. durée d’exercice, 15 s. temps de repos, 30 s. repos entre cycles</string>
+    <string name="rep_extra3">3 séries et 12/11/10 répétions</string>
+
+    <string name="rep_extra1_how">Durée d’exercice de 30 sec., temps de repos entre exercices de 15 sec.</string>
+    <string name="rep_extra2_how">Durée d’exercice de 30 sec., temps de repos entre exercices de 15 sec., temps de repos entre rounds de 30 sec.</string>
+    <string name="rep_extra3_how">Temps de repos entre exercices de 30 sec., temps de repos entre séries de 45 sec.</string>
+
+    <string name="enter_text">Entrez le message texte</string>
+    <string name="main_work">Exercices conçus pour l’haltérophilie, la prise de masse musculaire et pour augmenter votre force.</string>
+
+    <string name="namemeal1_1">Fraises et crème d\'avoine</string>
+    <string name="ingredientMeal1_1">&#189; tasse d\'avoine de flocon d\'avoine \n\n&#8531; tasse de lait écrémé \n\n&#8531; tasse de yaourt grec à la vanille \n\n&#189; tasse de fraises coupées en morceaux \n\n2 cuillères à soupe de yaourt grec allégé à la vanille \n\n1 cuillère à soupe d\'amandes grillées</string>
+    <string name="stepsMakeMeal1_1">Au cours de la soirée, mélanger les flocons d’avoine, le lait et &#8531; tasse de yaourt dans un récipient ou un grand bol jusqu’à obtenir un mélange homogène. Couvrir et réserver au réfrigérateur pendant toute la nuit. Faites&#8211;vous plaisir!</string>
+
+
+    <string name="namemeal1_2">Elixir doré</string>
+    <string name="ingredientMeal1_2">2 pommes \n\n4 oranges moyennes, pelées \n\n1 citron, pelé \n\n5&#8211;7cm de racine de gingembre frais, pelé \n\n5cm de curcuma frais, pelé \n\n2 tasses d\'eau froide \n\n1 poignée de glaçons</string>
+    <string name="stepsMakeMeal1_2">Dans un blender à haute vitesse, mixer tous les ingrédients jusqu’à obtention d’un smoothie en ajoutant de l’eau si nécessaire. Un bon blender à haute vitesse vous donnera un excellent smoothie. Si vous voulez une boisson plus fluide, vous pouvez extraire les ingrédients sans la fibre et tous les nutriments si vous le souhaitez. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal1_3">Poulet frit façon Tso</string>
+    <string name="ingredientMeal1_3">4 escalopes de poulet, coupées en cube \n\n1 tasse de farine \n\nhuile végétale \n\nsel \n\npoivre noir fraîchement moulu \n\n2 gousses d\'ail émincées \n\n&#189; boîte de bouillon de volaille \n\n3 cuillères à soupe de miel \n\n4 cuillères à soupe de sauce de soja \n\n2 cuillères à soupe de jus de citron vert \n\n2 boîtes de fleurons de brocoli \n\n2 boîtes de riz blanc cuit, pour la garniture</string>
+    <string name="stepsMakeMeal1_3">Dans un grand bol, saupoudrer légèrement le poulet avec de la fécule de maïs. Transférer les morceaux dans un grand bol contenant la farine afin de les recouvrir sur chaque face. Remplir à moitié une grande sauteuse avec de l’huile végétale et la chauffer à feu moyen&#8211;fort. Frire le poulet, puis l’égoutter et le réserver. Ajouter 2 cuillères à soupe de fécule de maïs et agiter pour l’incorporer. Dans la sauce, ajouter les brocolis et les carottes. Faire cuire pour une consistance tendre pendant 5 minutes. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal1_4">Tisane aux plantes</string>
+    <string name="ingredientMeal1_4">1 tasse d\'eau \n\n1 cuillère à café de gingembre frais râpé \n\n1 cuillère à café de zeste de citron vert râpé \n\n1 cuillère à café de jus de citron vert \n\n3 feuilles de menthe fraîche</string>
+    <string name="stepsMakeMeal1_4">Porter l’eau à ébullition dans une casserole et mélanger le reste des ingrédients. Faire bouillir et agiter jusqu’à ce que la tisane soit infusée. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal1_5">Cuisses de poulet grillées au citron façon Dijon avec salade Arugula</string>
+    <string name="ingredientMeal1_5">4 cuisses de poulet désossées et sans peau \n\n&#189; cuillère à café de sel \n\n&#188; cuillère à café de poivre noir moulu \n\n2,5 cuillères à soupe d\'huile d\'olive \n\n2 cuillères à café de jus de citron \n\n1 cuillère à café d\'ail émincé \n\nun peu d\'huile pour la cuisson \n\n1 cuillère à soupe de vinaigre balsamique \n\n1 cuillère à café de miel \n\n1 tasse de tomates raisin, coupées en deux \n\n1 boîte (150g) de jeunes pousses d\'Arugula</string>
+    <string name="stepsMakeMeal1_5">Saupoudrer le poulet avec &#188; cuillère à café de sel et 1/8 cuillère à café de poivre. Mélanger le poulet avec 1&#8211;1,5 cuillère à café d’huile, de jus de citron, de moutarde et d’ail dans un bol. Bien mélanger pour recouvrir le poulet. Laisser reposer 4 minutes. Faire chauffer une plaque de grill à feu moyen. Badigeonner la plaque avec un peu d’huile. Ajouter le poulet sur la plaque et le faire cuire pendant 5 minutes sur chaque face ou jusqu’à ce qu’il soit à point. Couper le poulet en tranches fines. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal2_1">Crunch Cottage aux fruits rouges</string>
+    <string name="ingredientMeal2_1">&#189; tasse de fromage frais allégé à 2% \n\n2 cuillère à soupe de granola \n\n&#189; tasse de bananes coupées en tranche \n\n&#189; tasse de mélange de fruits rouges assortis</string>
+    <string name="stepsMakeMeal2_1">Verser à la cuillère le fromage frais dans un petit bol. Couvrir avec les autres ingrédients. Faites&#8211;vous plaisir!</string>
+
+
+    <string name="namemeal2_2">Kiwi et ananas</string>
+    <string name="ingredientMeal2_2">4 cuillères à soupe d\'eau \n\n&#189; tasse de lait \n\n&#189; tasse de yaourt \n\n1,5 cuillère à soupe de miel \n\n1 kiwi, pelé \n\n1 tasse d\'ananas en morceaux \n\n&#189; mangue \n\n2 glaçons</string>
+    <string name="stepsMakeMeal2_2">Mixer tous les ingrédients à basse vitesse jusqu\'à obtention d\'un smoothie épais. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal2_3">Poulet au citron à la sauteuse</string>
+    <string name="ingredientMeal2_3">4 escalopes de poulet \n\n&#188; tasse de beurre \n\n2 cuillères à soupe d\'huile d\'olive \n\n1 citron \n\n1 citron coupé en tranche \n\n&#188; tasse de vin blanc \n\n1 cuillère à café de sel \n\n1 cuillère à café de poivre noir \n\n&#189; cuillère à café de paprika \n\n&#189; cuillère à café de persil séché</string>
+    <string name="stepsMakeMeal2_3">Réunir la farine, le sel, le poivre, le paprika et le persil dans un saladier. Faire chauffer l’huile et le beurre à feu moyen&#8211;fort. Recouvrir chaque escalope de poulet dans le mélange de farine et les ajouter dans la sauteuse chaude. Ajouter le jus de citron, le vin blanc, le zeste de citron et le romarin dans la sauteuse. Faire cuire le poulet sur chaque face à point. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal2_4">Cookies courgettes et quinoa</string>
+    <string name="ingredientMeal2_4">&#189; tasse de beurre d\'arachide crémeux \n\n&#188; tasse de miel \n\n1 banane \n\n1 œuf \n\n1 cuillère à café d\'extrait de vanille \n\n&#189; tasse de flocons d\'avoine \n\n&#189; tasse de flocons de quinoa \n\n1 cuillère à café de cannelle \n\n&#188; cuillère à café de sel \n\n1 tasse de courgette écrasée et égouttée</string>
+    <string name="stepsMakeMeal2_4">Préchauffer le four à 175°C. Ajouter le beurre d’arachide, le miel, la banane, l’œuf et la vanille dans un grand bol et mélanger. Ajouter les flocons d’avoine, de quinoa, la poudre à lever, les épices et le sel dans le bol et mélanger. Incorporer les courgettes écrasée et les graines de chia. Faire des cookies avec une cuillère sur un plat à pâtisserie. Faire cuire les cookies pendant 15 à 18 minutes jusqu’à ce que les bords soient brun doré. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal2_5">Crevette savoureuse avec garniture fraîche</string>
+    <string name="ingredientMeal2_5">1 livre de grosses crevettes \n\n2 piments rouges \n\n1 poireau, finement émincé \n\n0,5&#8211;1 cuillère à soupe de câpres, rincées et égouttées \n\n2 gousses d\'ail, finement émincées \n\n&#189; tasse de persil grossièrement haché \n\n3 cuillères à soupe de jus de citron \n\n2 cuillères d\'huile d\'olive</string>
+    <string name="stepsMakeMeal2_5">Faire chauffer une sauteuse à feu moyen et ajouter de l’huile. Ajouter les crevettes, les piments, le poireau, les câpres, l’ail, le sel et le poivre et faire cuire pendant 4 minutes jusqu’à ce que les crevettes soient roses. Retirer du feu. Ajouter le jus de citron en raclant le fonde la sauteuse avec une cuillère. Servir les crevettes saupoudrées de persil et de basilic frais. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal3_1">Flocons d\'avoine, graines de lin avec myrtilles</string>
+    <string name="ingredientMeal3_1">3 tasses d\'eau \n\n2 tasses de flocons d\'avoine \n\n3 cuillères à soupe de graines de lin moulues \n\n1/8 cuillère à café de sel \n\n&#188; tasse de lait entier \n\n1 tasse de myrtilles \n\n1 cuillère à soupe de myrtilles en conserve \n\n&#189; cuillère à soupe de zeste de citron \n\n1 cuillère à soupe de jus de citron</string>
+    <string name="stepsMakeMeal3_1">Porter à ébullition 3 tasses d’eau. Mélanger les flocons d’avoine, ajouter les graines de lin et le sel. Baisser le feu à moyen&#8211;doux et faire cuire jusqu’à obtention d’une consistance tendre en mélangeant fréquemment. Incorporer le lait et le beurre. Pendant ce temps, combiner les myrtilles et les 4 ingrédients suivants dans un bol à micro&#8211;onde. Faire chauffer au four à micro&#8211;onde pendant 1,5 minute en mélangeant toutes les 30 secondes. Répartir les flocons d’avoine dans 4 bols. Couvrir avec les myrtilles et les noix de pécan. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal3_2">Smoothie au lait de noix de coco avec myrtilles</string>
+    <string name="ingredientMeal3_2">280g de myrtilles surgelées \n\n3 bananes mûres \n\n1 tasse de yaourt nature \n\n1 tasse de lait de noix de coco non sucré \n\n2 cuillères à soupe de miel</string>
+    <string name="stepsMakeMeal3_2">Dans un blender, mixer les myrtilles, les bananes, le yaourt, le lait de noix de coco et le miel. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal3_3">Friture de poulet de d\'asperge</string>
+    <string name="ingredientMeal3_3">1 cuillère à soupe de sauce soja \n\n1 cuillère à soupe de miel \n\n2 escalopes de poulet, coupées en morceaux \n\n1 cuillère à soupe d\'huile d\'olive \n\n1 poignée d\'asperges, coupées en morceaux \n\n4 gousses d\'ail, finement émincées \n\n2 cuillères à café d\'huile de sésame toastée</string>
+    <string name="stepsMakeMeal3_3">Dans un sachet zippé, mélanger la sauce soja et le miel. Ajouter le poulet et mélanger pour le recouvrir. Réserver au réfrigérateur. Puis, faire chauffer l’huile dans une grande sauteuse à feu moyen. Retirer les asperges et réserver. Retirer le poulet de la marinade et l’ajouter dans la sauteuse. Puis, ajouter l’ail, les oignons verts et la marinade réservée dans une casserole. Retirer du feu et mélanger avec l’huile de sésame. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal3_4">Tisane à la menthe et à la lavande</string>
+    <string name="ingredientMeal3_4">&#188; tasse de pétales frais de lavande \n\n1 tasse de feuilles fraîches de menthe \n\n4 tasses d\'eau</string>
+    <string name="stepsMakeMeal3_4">Placer les pétales de lavande et les feuilles de menthe dans une casserole, verser l’eau et porter à ébullition. Réduire le feu et laisser mijoter la tisane jusqu’à ce qu’elle soit à votre goût, 15 à 20 minutes. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal3_5">Fajitas au chili</string>
+    <string name="ingredientMeal3_5">1 livre d\'escalopes de poulet sans peau \n\n&#189; poivron rouge, vert et jaune, finement émincés \n\n&#8531; tasse d\'eau \n\n2 cuillères à soupe de sauce soja \n\n1 pincée de sel \n\n1 pincée de poivre noir \n\n2 cuillères à soupe d\'huile d\'olive \n\n1 gros oignon, finement émincé</string>
+    <string name="stepsMakeMeal3_5">Mélanger tous les ingrédients de la marinade avec le poulet dans un récipient et réfrigérer pendant au moins 2 heures. Retirer la viande de la marinade et la faire griller à feu moyen pendant 4&#8211;5 minutes sur chaque face. Couper la viande en fins bâtonnets. Pour la sauce, mélanger 2 cuillères à soupe d’eau, 1 cuillère à café de sauce soja, &#188; de cuillère à café de jus de citron vert, la pincée de sel et de poivre noir et 1 cuillère à soupe d’huile d’olive. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal4_1">Flocons d\'avoine généreux aux fruits</string>
+    <string name="ingredientMeal4_1">&#189; tasse de flocons d\'avoine \n\n1 tasse d\'eau \n\n1 cuillère à soupe de miel \n\n1 cuillère à soupe d\'extrait de vanille \n\n&#189; cuillère à café de cannelle moulue \n\n&#188; tasse de myrtilles \n\n4 fraises coupées en morceaux \n\n&#189; banane coupées en tranche</string>
+    <string name="stepsMakeMeal4_1">Combiner l’eau et les flocons d’avoine dans un bol à micro&#8211;onde. Faire chauffer au four à micro&#8211;onde à puissance élevée jusqu’à ce que les flocons d’avoine aient absorbé toute l’eau. Incorporer le miel, l’extrait de vanille et la cannelle moulue. Ajouter les myrtilles et couvrir avec la banane et les fraises en morceaux. Faire&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal4_2">Smoothie café</string>
+    <string name="ingredientMeal4_2">1 cuillère à café de café expresso instantané en poudre \n\n1 cuillère à soupe d\'eau chaude \n\n1 petite banane, pelée, coupée en morceaux et congelée \n\n&#188; tasse de lait écrémé \n\n1 cuillère à soupe de miel \n\n&#189; tasse de glaçon \n\ncannelle moulue</string>
+    <string name="stepsMakeMeal4_2">Dans un blender, mélanger le café en poudre et l’eau chaude. Laisser reposer pendant une minute. Ajouter la banane, le lait et le miel. Mixer jusqu’à obtention d’un smoothie. Ajouter progressivement la glace jusqu’à obtention de la consistance souhaitée. Saupoudrer avec une pointe de cannelle. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal4_3">Friture de poulet et ananas</string>
+    <string name="ingredientMeal4_3">110g d\'escalopes de poulet \n\n40g d\'ananas \n\n120g de riz brun \n\n&#8531; cuillère à soupe d\'huile d\'olive \n\n&#189; cuillère à café de moutarde \n\n1/6 cuillère à soupe de paprika \n\nsel de mer \n\npoivre</string>
+    <string name="stepsMakeMeal4_3">Découper les escalopes de poulet crues en petits morceaux. Assaisonner les morceaux de poulet avec le paprika et la moutarde. Ajouter l’huile d’olive dans une sauteuse, puis faire revenir les morceaux d’escalope. Faire cuire pendant environ 4 minutes pour avoir 80% d’une cuisson à point. Puis, ajouter le poivron coupé en morceaux. Faire cuire pendant 2&#8211;3 minutes de plus avant d’ajouter l’ananas coupé en dés. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal4_4">Truffes au chocolat</string>
+    <string name="ingredientMeal4_4">&#189; tasse de noix, de noix de cajou et d\'amandes laissées trempées dans l\'eau toute la nuit \n\n3&#8211;4 cuillères à soupe de lait d\'amande \n\n&#188; tasse de graines de tournesol \n\n&#188; tasse de graines de courge \n\n2 cuillères à soupe de farine de caroube \n\n3 cuillères à soupe de flocons de noix de coco</string>
+    <string name="stepsMakeMeal4_4">Tout ajouter dans un blender sauf les flocons de noix de coco et mélanger. Faire des petites boules avec le mélange en utilisant une cuillère à crème glacée. Rouler chaque boule dans les flocons de noix de coco. Servir frais. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal4_5">Saumon cuit avec légumes</string>
+    <string name="ingredientMeal4_5">2 filets de saumon \n\n1 tasse de courgette émincée \n\n1 tasse de brocoli \n\n&#189; tasse de tomates cerise \n\nsel \n\npoivre \n\nhuile d\'olive</string>
+    <string name="stepsMakeMeal4_5">Préchauffer le four à 190°C. Mélanger les légumes dans une grande casserole. Assaisonner les légumes avec le sel, le poivre et l’huile d’olive. Placer les filets à côté des légumes et faire cuire pendant 18 à 20 minutes ou jusqu’à ce que le saumon soit cuit et les légumes tendres. Faites&#8211;vous plaisir !"</string>
+
+
+    <string name="namemeal5_1">Flocons d\'avoine, noix et banane</string>
+    <string name="ingredientMeal5_1">&#189; tasse de flocons d\'avoine \n\n1 tasse d\'eau \n\n1 banane découpée en tranche \n\n1 cuillère à soupe de noix hachées \n\n1 cuillère à soupe de cannelle moulue</string>
+    <string name="stepsMakeMeal5_1">Combiner les noix et 1 tasse d’eau dans un petit bol à micro&#8211;onde. Faire chauffer au four à micro&#8211;onde à puissance élevée pendant 3 minutes. Couvrir avec la banane découpée en tranche, les noix et la cannelle. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal5_2">Puissance rose</string>
+    <string name="ingredientMeal5_2">1,5 tasse de petits fleurons de chou&#8211;fleur frais \n\n2 tasses de cubes de pastèque (sans pépin ni peau) \n\n1,5 tasse de fraises entières \n\n1 pot de yaourt grec à la framboise \n\n2 cuillères à soupe de fraise en conserve (en option)</string>
+    <string name="stepsMakeMeal5_2">Dans une petite casserole, faire cuire le chou&#8211;fleur, en le couvrant d’eau bouillante, jusqu’à ce qu’il soit tendre. Dans un blender, mélanger le chou&#8211;fleur cuit, la pastèque, les fraises, le yaourt et, si souhaité, les fraises en conserve. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal5_3">Poulet farcie aux asperges façon barbecue</string>
+    <string name="ingredientMeal5_3">2 escalopes de poulet fines, 85g chacune \n\n12 pointes d\'asperge \n\n2 cuillères à soupe de sauce barbecue \n\n1 pincée de paprika \n\n1 pincée d\'ail en poudre \n\n1 pincée de poivre</string>
+    <string name="stepsMakeMeal5_3">Préchauffer le four à 200°C. Aplatir le poulet avec un maillet. Assaisonner les escalopes de poulet avec 1 cuillère à soupe de sauce barbecue (pour chaque pièce) et l’assaisonnement de votre choix. Placer le poulet sur un grill avec la face ouverte vers le bas. Faire cuire au four ou sur un grill pendant environ 8 à 10 minutes. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal5_4">Tisane au gingembre et au curcuma</string>
+    <string name="ingredientMeal5_4">2 tasses d\'eau \n\n&#189; cuillère à café de gingembre frais haché \n\n&#189; cuillère à café de cannelle moulue \n\n1 cuillère à café de miel \n\n1 quartier de citron</string>
+    <string name="stepsMakeMeal5_4">Porter l’eau à ébullition dans une petite casserole. Ajouter le curcuma, le gingembre et la cannelle. Réduire le feu et laisser mijoter pendant 10 minutes. Verser la tisane dans un grand verre, ajouter le miel et le citron. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal5_5">Kébabs de crevettes grillées et avocat</string>
+    <string name="ingredientMeal5_5">450g de grandes crevettes \n\n1,5 avocat \n\n1 poivron rouge \n\n1 poivron orange \n\n1 poivron jaune \n\n1 oignon rouge \n\n1 cuillère à soupe de purée d\'ail \n\n&#189; cuillère à soupe d\'huile d\'olive vierge extra \n\n1 citron vert \n\nsel, poivre</string>
+    <string name="stepsMakeMeal5_5">Préchauffer votre grill à environ 200°C. Couper les légumes et l’avocat en gros morceaux pour le kébab. Décortiquer les crevettes et assaisonner. Choisir des légumes fibreux car ils sont plus consistants et ils se tiendront mieux dans le kébab sous la chaleur intense. Placer les kébabs sur le grill et faire cuire pendant environ 8&#8211;10 minutes, puis les retourner et les aire cuire pendant encore 8 à 10 minutes. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal6_1">Le matin parfait</string>
+    <string name="ingredientMeal6_1">&#188; tasse de raisins et cuillère à café de zeste d\'orange émincé \n\n1 cuillère à café de vanille \n\n&#189; fromage de Neufchâtel à la crème allégée (225g) \n\nchapelure \n\n2 tasses de framboises, myrtilles, fraises découpées en morceaux et/ou poires fraîches \n\n&#189; tasse de granola allégé \n\nmiel \n\nzeste d\'orange émincé</string>
+    <string name="stepsMakeMeal6_1">Mélanger la chapelure et le fromage. Saupoudrer sur un plat. Asperger avec de l’huile et faire cuire pendant 20 à 25 minutes. Dans quatre verres, placer une couche de mélange de fromage à la crème, une couche de fruit et une couche de granola. Répéter les couches jusqu’en haut du verre. Ajouter du miel et saupoudrer avec le zeste d’orange émincé. Préparer 4 portions. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal6_2">Thé vert, kiwi et mangue</string>
+    <string name="ingredientMeal6_2">2,5 tasses de cubes de mangue surgelés \n\n3/4 tasse de yaourt à la vanille \n\n2 cuillères à soupe de miel \n\n2 cuillères à soupe d\'eau \n\n3 kiwis mûrs \n\n2 tasses de glaçons \n\n&#189; tasse de jeunes pousses d\'épinard \n\n2 cuillères à soupe de thé vert liquide</string>
+    <string name="stepsMakeMeal6_2">Réunir la mangue, la ½ tasse de yaourt, les 2 cuillères à soupe de miel, les 2 cuillères à soupe d’eau et le zeste de citron dans un blender et mixer jusqu’à obtention d’une consistance onctueuse. Ajouter ¼ tasse de yaourt, 2 cuillères à soupe de miel, le kiwi et les 3 ingrédients suivants dans le blender et mixer jusqu’à obtention d’une consistance onctueuse. Faites&#8211;vous</string>
+
+
+    <string name="namemeal6_3">Friture de poulet au citron</string>
+    <string name="ingredientMeal6_3">140g d\'escalopes de poulet, découpées en petits morceaux \n\n34g de brocoli \n\n25g de jeune champignon Portobello \n\n&#188; poivron rouge \n\n20g d\'oignon rouge \n\nun peu d\'huile de noix de coco \n\ngraines de sésame \n\n&#188; cuillère à café d\'amidon de marante \n\n1/8 cuillère à soupe de purée d\'ail \n\n&#188; cuillère à café de purée de gingembre</string>
+    <string name="stepsMakeMeal6_3">Dans un bol, mélanger tous les ingrédients de la sauce pour la friture. Ajouter un peu d’huile de noix de coco dans une sauteuse et faire chauffer à feu moyen. Faire revenir les morceaux de poulet et les cuire jusqu’à ce qu’il soit 85% à point. Puis, faire revenir les légumes et mélanger avec une spatule. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal6_4">Maïs mexicain grillé</string>
+    <string name="ingredientMeal6_4">4 épis de maïs \n\n1,5 tasse de crème fermentée \n\n1 tasse de parmesan râpé \n\n1 jus de citron de vert \n\npoudre de chili \n\n2 citrons verts découpés en quartiers pour la garniture</string>
+    <string name="stepsMakeMeal6_4">Faire griller le maïs en le tournant une fois sur un grill chaud jusqu’à ce qu’il commence à légèrement carboniser. Dans un petit bol, mélanger la mayonnaise, la crème fermentée et la coriandre. Verser sur le maïs le jus de citron vert et assaisonner avec le parmesan. Saupoudrer avec le chili en poudre. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal6_5">Burger de saumon à l\'avocat</string>
+    <string name="ingredientMeal6_5">1 livre de filet de saumon \n\n1 tasse de miettes de pain \n\n1 œuf \n\n1 cuillère à soupe de jus de citron \n\nsel et poivre \n\nhuile d\'olive \n\n1 gros avocat, haché \n\n&#8531; tasse d\'oignons rouge hachés \n\n1 jus de citron vert</string>
+    <string name="stepsMakeMeal6_5">Couper le filet de saumon en petits morceaux et le transférer dans un saladier. Mélanger doucement avec le reste des ingrédients. Laisser reposer le mélange pendant 5&#8211;10 minutes. Faire chauffer un peu d’huile dans une grande casserole à feu moyen. Former des petits pâtés avec le mélange à base de saumon. Faire frire les pâtés jusqu’à ce que les deux faces soient brunies pendant environ 4 minutes. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal7_1">Flocons d\'avoine, noix, banane et fraises</string>
+    <string name="ingredientMeal7_1">150g de flocons d\'avoine (cuits) \n\n&#189; banane écrasée \n\n50g de fraises \n\n2 cuillères à soupe de lait d\'amande \n\n1 cuillère à soupe d\'extrait de vanille \n\n2 cuillères à soupe de noix hachées \n\n1 sachet de stévia \n\nzeste de citron pour la garniture \n\n1 cuillère à soupe de yaourt grec (2% de matières grasses) \n\n&#189; cuillère à soupe de noix hachées \n\ndes graines de pavot</string>
+    <string name="stepsMakeMeal7_1">Faire cuire les flocons d’avoine comme indiqué, puis les réserver. Ajouter tous les ingrédients dans un bol sauf les fraises et mélanger minutieusement. Couvrir les flocons d’avoine avec les fraises fraîchement hachées. Garnir avec le yaourt grec, les noix hachés et les graines de pavot. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal7_2">Fraise banane</string>
+    <string name="ingredientMeal7_2">2 tasses de fraise \n\n1 banane fraîche et pelée \n\n1 tasse de lait \n\n1 cube de glace \n\n1 cuillère à soupe de miel</string>
+    <string name="stepsMakeMeal7_2">Ajouter tous les ingrédients dans un blender et les mixer jusqu’à obtention d’un smoothie. Si celui&#8211;ci est trop épais, ajouter plus de lait. S’il est trop fluide, ajouter plus de fruit et/ou de glace. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal7_3">Préparation poulet Kung Pao épicé et léger</string>
+    <string name="ingredientMeal7_3">150g d\'escalopes de poulet \n\n1/6 gousse d\'ail \n\n33g de pois gourmant \n\n150g de poivron \n\n2/3 cuillère à soupe d\'eau \n\n&#8531; cuillère à soupe de sauce tomate \n\n1/6 cuillère à soupe de gingembre frais \n\n1/6 cuillère à soupe de sauce chili \n\n1/8 cuillère à soupe de vinaigre de riz \n\noignon vert émincé</string>
+    <string name="stepsMakeMeal7_3">Dans un bol, ajouter les ingrédients pour la sauce et les fouetter. Chauffer une sauteuse à feu moyen et ajouter un peu d’huile d’olive. Quand la sauteuse est chaude, faire revenir l’ail et laisser transpirer pendant environ 2 minutes. Puis, ajouter les escalopes de poulet découpées en morceaux. Faire cuire le poulet jusqu’à ce que la surface soit bien saisie, pendant environ 6 à 8 minutes. Faire revenir les poivrons pendant environ 3 minutes. Verser lentement la sauce et agiter fréquemment. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal7_4">Tisane à la menthe et à la lavande</string>
+    <string name="ingredientMeal7_4">&#188; tasse de pétales frais de lavande \n\n1 tasse de feuilles fraîches de menthe \n\n4 tasses d\'eau</string>
+    <string name="stepsMakeMeal7_4">Placer les pétales de lavande et les feuilles de menthe dans une casserole, verser l’eau et porter à ébullition. Réduire le feu et laisser mijoter la tisane jusqu’à ce qu’elle soit à votre goût, 15 à 20 minutes. Faites&#8211;vous plaisir !</string>
+
+
+    <string name="namemeal7_5">Poisson en papillotes avec épinards et tomates</string>
+    <string name="ingredientMeal7_5">1 poignée d\'asperges \n\n2 tomates émincées \n\n2 filets tilapia \n\nhuile d\'olive \n\n&#189; cuillère à café de sauce ail et chili \n\nsel \n\n1 citron émincé</string>
+    <string name="stepsMakeMeal7_5">Préchauffer le four à 190°C. Dans un petit bol, mélanger l’huile d’olive, la sauce chili et le sel. Placer les pointes d’asperge au centre d’une feuille d’aluminium et couvrir avec les tomates émincées, puis assaisonner. Placer un filet sur les tomates dans chaque papillote et arroser le poisson avec le mélange à base d’huile d’olive. Disposer les tranches de citron sur le poisson. Faire cuire le poisson au four pendant 25&#8211;30 minutes. Faites&#8211;vous plaisir !</string>
+    <string name="cat_name13">Plan nutritionnel</string>
+    <string name="focus_13">Plan de nutrition saine 7 jours</string>
+    <string name="goal_13">Accélérer le métabolisme pour la perte de poids.</string>
+    <string name="extraDescription13">Être en forme comme jamais ! Apprenez comment manger, découvrez les aliments qui brûlent les graisses, mangez des plats délicieux pour accélérer votre métabolisme.</string>
+    <string name="meal">Repas %1$d</string>
+    <string name="ingredients">Ingrédients</string>
+    <string name="steps">Étapes</string>
+    <string name="titleDay1">Des recettes saines qui sont géniales à préparer et à déguster</string>
+    <string name="descriptionDay1">Pour garder votre métabolisme en pleine forme, vous devez prendre votre premier repas au plus tard 1 heure après le lever.</string>
+    <string name="titleDay2">Une bonne nutrition est la base d\'une bonne santé</string>
+    <string name="descriptionDay2">La solution est de prendre un repas au plus tard 1 heure après le lever afin de stimuler votre métabolisme.</string>
+    <string name="titleDay3">Planifier à l\'avance le petit-déjeuner</string>
+    <string name="descriptionDay3">Pour brûler le plus vite possible les graisses, le petit-déjeuner est très important pour la réussite de votre perte de poids.</string>
+    <string name="titleDay4">Les carbohydrates apportent de l\'énergie au corps</string>
+    <string name="descriptionDay4">Les études montrent que 5 repas par jour sont importants pour conserver une masse corporelle saine.</string>
+    <string name="titleDay5">Les protéines sont essentielles pour la croissance et le développement</string>
+    <string name="descriptionDay5">La nutrition joue un rôle clé pour garder un mode de vie sain.</string>
+    <string name="titleDay6">Vous êtes ce que vous mangez</string>
+    <string name="descriptionDay6">C\'est absolument vrai si vous voulez que votre corps reste au top de sa forme.</string>
+    <string name="titleDay7">Contrôler la taille des portions avec de plus petites assiettes</string>
+    <string name="descriptionDay7">Supprimer la prise d\'aliments sous le coup de l\'émotion en surmontant vos envies insatiables.</string>
+    <string name="days_plan">Plan de %1$d jours</string>
+    <string name="extra">Extra</string>
+    <string name="exercise">EXERCICE</string>
+
+    <string name="timer">Minuteur</string>
+    <string name="ex_cat_88">Тout</string>
+    <string name="muscle">Muscle</string>
+
+    <string name="congrulation">Félicitations !</string>
+    <string name="thnak_you">Merci beaucoup!</string>
+    <string name="after_update">Vous avez 50 nouveaux exercices, 7 nouveaux plans d\'entraînement, 1 plans de nutrition et aucune publicité.</string>
+    <string name="first_restore">Vous avez la version Premium. 7 plans d\'entraînement et 1 plans de nutrition ont été ajoutés pour vous.</string>
+    <string name="upgrade_new">METTRE À JOUR</string>
+    <string name="description_upgrade">Débloquez tous les nouveaux plans conçus par les meilleurs coachs. Atteignez vos objectifs plus facilement.</string>
+    <string name="no_ads">PAS DE PUBS</string>
+    <string name="no_ads_description">ÉLIMINEZ TOUTE LA PUBLICITÉ. PROFITEZ DE VOS SESSIONS D\'ENTRAÎNEMENT SANS PUBS</string>
+    <string name="noty_sound">Son de notification</string>
+    <string name="noty_sound_description">Choisissez votre ton spécial pour la notification de ne rien manquer</string>
+    <string name="new_workouts">NOUVELLES ENTRAÎNEMENTS</string>
+    <string name="new_workouts_desription">7 NOUVEAUX PLANS D\'ENTRAÎNEMENT PERSONNALISÉS POUR CHAQUE GROUPE MUSCULAIRE ET OBJECTIF FITNESS POUR SE CONCENTRER SUR DES RÉSULTATS MAXIMAUX.</string>
+    <string name="upgrade_header">Mise à jour pour débloquer 50 nouveaux exercices, 10 plans d\'entraînement, 2 plans de nutrition et supprimer les publicités.</string>
+    <string name="sound">Son</string>
+    <string name="buy">Acheter</string>
+
+    <string name="get_lifetime_access">ACCÈS À VIE</string>
+    <string name="one_time_payment">paiement unique</string>
+    <string name="_3_days_for_free">7 jours GRATUITS</string>
+    <string name="get_workouts_courses_with_powerful_support">Des cours avec des exercices prêts à 100 % avec un support en béton !</string>
+    <string name="only_now">"Seulement maintenant "</string>
+    <string name="start_your_positive_transformation_today">Commencez votre transformation\npositive aujourd\'hui !</string>
+    <string name="try_it_now">Essayer maintenant</string>
+    <string name="_3_day_nfree_trial">Essai gratuit\n3 jours</string>
+    <string name="_7_day_nfree_trial">Essai gratuit\n7 jours</string>
+    <string name="new_workoutsN">Nouveaux \nexercices</string>
+    <string name="month">/mois</string>
+    <string name="year">/année</string>
+    <string name="monthly_slim">Мensuel</string>
+    <string name="after">après</string>
+    <string name="nutritionPlanName1">FAIRE DU MUSCLE</string>
+    <string name="nutritionPlanName2">PERTE DE POIDS</string>
+    <string name="nutrition_plans">Plans nutritionnels</string>
+    <string name="title_11">Exercices</string>
+</resources>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Water Reminder</string>
+	<string name="welcome">bienvenido</string>
+	<string name="info_input_text">por favor, introduce tu información antes de empezar</string>
+	<string name="units_of_measure">unidades de medida</string>
+	<string name="gender">sexo</string>
+	<string name="weight">peso</string>
+	<string name="training">entrenamiento</string>
+	<string name="wake_up">despertar</string>
+	<string name="sleep">sueño</string>
+	<string name="metric">métrico</string>
+	<string name="imperial">imperial</string>
+	<string name="kg">kg</string>
+	<string name="lbs">lbs</string>
+	<string name="ml">ml</string>
+	<string name="l">l</string>
+	<string name="oz">oz</string>
+	<string name="male">hombre</string>
+	<string name="female">mujer</string>
+	<string name="receive_notifications_from">recibir notificaciones desde</string>
+	<string name="receive_notifications_until">recibir notificaciones hasta</string>
+	<string name="done">hecho</string>
+	<string name="reset_to_recommended">restablecer la configuración recomendada</string>
+	<!-- mainviewcontroller -->
+	<string name="today">hoy</string>
+	<string name="add_drink">añadir bebida</string>
+	<string name="select_drink">seleccionar bebida</string>
+	<string name="of">de</string>
+	<string name="are_you_sure_you_want_to_delete_selected_drink">¿estás seguro de que quieres borrar la bebida seleccionada?</string>
+	<string name="cancel">cancelar</string>
+	<string name="ok">ok</string>
+	<string name="delete_drink">borrar bebida</string>
+	<string name="edit_drink">editar bebida</string>
+	<!-- tabbarcontroller -->
+	<string name="home">inicio</string>
+	<string name="remind">recordar</string>
+	<string name="history">historial</string>
+	<string name="settings">configuración</string>
+	<!-- reminderviewcontroller -->
+	<string name="reminder_type">tipo de recordatorio</string>
+	<string name="every">cada</string>
+	<string name="minutes">minutos</string>
+	<string name="hour">hora</string>
+	<string name="hours">horas</string>
+	<string name="save">guardar</string>
+	<string name="sound">sonido</string>
+	<!-- historyviewcontrolelr -->
+	<string name="week">semana</string>
+	<string name="month">mes</string>
+	<string name="week_of">semana de</string>
+	<!-- settingsviewcontroller -->
+	<string name="default_drink_size">tamaño de la bebida por defecto</string>
+	<string name="rate_the_app">valorar la aplicación</string>
+	<string name="contact_us">contacta con nosotros</string>
+	<string name="share_app">compartir la aplicación</string>
+	<string name="other_apps">otras aplicaciones</string>
+	<string name="achievements">logros</string>
+	<!-- contact us -->
+	<string name="enter_text_message">introducir mensaje de texto</string>
+	<!-- getfullversionviewcontroller -->
+	<string name="buy">comprar</string>
+	<string name="no_ads">sin anuncios</string>
+	<string name="restore_purchases">restaurar compras</string>
+	<string name="notifications_sound">sonido de las notificaciones</string>
+	<string name="more_drinks">más bebidas</string>
+	<string name="water_plays_a_very_important_role_in_your_body_use_the_app_effectively_and_lead_an_active_lifestyle">el agua juega un papel muy importante en tu cuerpo, utiliza la aplicación de forma efectiva y lleva un estilo de vida activo</string>
+	<string name="remind_drinking_water_on_time_more_effectively_without_the_distraction_of_ads">recuerda beber agua a la hora indicada de forma más efectiva sin la distracción de los anuncios</string>
+	<string name="choose_your_special_tone_for_notification_not_to_miss_anything">elige tu tono especial de notificación para no perderte nada</string>
+	<string name="add_multiple_types_of_drinks_to_get_precise_result">añade varios tipos de bebidas para obtener un resultado preciso</string>
+	<!-- otherappsviewcontroller -->
+	<!-- achievements -->
+	<string name="first_glass">primer vaso</string>
+	<string name="first_day">primer día</string>
+	<string name="one_week">una semana</string>
+	<string name="_30_days">30 días</string>
+	<string name="_100_days">100 días</string>
+	<string name="_365_days">365 días</string>
+	<string name="congratulations">¡enhorabuena!</string>
+	<string name="you_got_an_award">¡has conseguido un premio!</string>
+	<string name="see_all_awards">ver todos los premios</string>
+	<string name="share_with_friends">compartir con los amigos</string>
+	<string name="you_earned_this_award_for_your_first_glass">has ganado este premio por tu primer vaso</string>
+	<string name="you_earned_this_award_for_your_first_day">has ganado este premio por tu primer día</string>
+	<string name="you_earned_this_award_for_completing_your_first_week">has ganado este premio por completar tu primera semana</string>
+	<string name="you_earned_this_award_for_completing_your_first_30_days">has ganado este premio por completar tus primeros 30 días</string>
+	<string name="you_earned_this_award_for_completing_your_first_100_days">has ganado este premio por completar tus primeros 100 días</string>
+	<string name="you_earned_this_award_for_completing_your_first_365_days">has ganado este premio por completar tus primeros 365 días</string>
+	<!-- drinks -->
+	<string name="water">Agua</string>
+	<string name="coffee">Café</string>
+	<string name="tea">Té</string>
+	<string name="milk">Leche</string>
+	<string name="orange_juice">Zumo de Naranja</string>
+	<string name="soda">Refresco</string>
+	<string name="wine">Vino</string>
+	<string name="other">Otros</string>
+	<string name="beer">Cerveza</string>
+	<string name="coconut_water">Agua de coco</string>
+	<string name="energy_drink">Bebida energética</string>
+	<string name="yogurt">Yogurt</string>
+	<string name="smoothie">Smoothie</string>
+	<string name="hot_chocolate">Chocolate caliente</string>
+	<string name="kefir">Kéfir</string>
+	<string name="cacao">Cacao</string>
+	<string name="chicory">Achicoria</string>
+	<string name="milkshake">Batido de leche</string>
+	<string name="bouillon">Caldo</string>
+	<string name="ayran">Ayran</string>
+	<string name="cranberry">Arándanos</string>
+	<string name="compote">Compota</string>
+	<string name="sport_drink">Bebida deportiva</string>
+	<string name="protein">Bebida de proteina</string>
+	<string name="kvass">Kvass</string>
+	<string name="lemonade">Limonada</string>
+	<string name="kombucha">Kombucha</string>
+	<string name="kissel">Kissel</string>
+	<string name="mate">Mate</string>
+	<string name="latte">Café con leche</string>
+	<string name="whisky">Bebida alcohólica</string>
+	<string name="soya_milk">Leche de soja</string>
+	<string name="cider">Sidra</string>
+	<string name="barley_drink">Bebida de cebada</string>
+	<string name="spritz">Spritz</string>
+	<string name="bubble_tea">Té de burbujas</string>
+	<string name="decaf_coffee">Café Descaf</string>
+	<string name="oolong_tea">Té de oolong</string>
+	<string name="non_alc_beer">Cerveza sin Alc.</string>
+	<string name="intake_time">Tiempo de Ingesta</string>
+	<string name="cappuccino">Capuchino</string>
+	<string name="herbal_tea">Té de hierbas</string>
+	<string name="sparkling_water">Agua Con Gas</string>
+	<string name="cola">Cola</string>
+	<string name="slurpee">Slurpee</string>
+	<string name="flat_white">Flat White</string>
+	<string name="oatmeal_drink">Bebida de avena</string>
+	<string name="sake">Sake</string>
+	<string name="matcha">Matcha</string>
+	<string name="sangria">Sangría</string>
+	<string name="mojito">Mojito</string>
+	<string name="cucumber_water">Agua de pepino</string>
+	<string name="lemon_water">Agua de limon</string>
+	<string name="ice_tea">Té helado</string>
+	<string name="kool_aid">Kool-Aid</string>
+	<string name="almond_milk">Leche de Almendras</string>
+	<string name="aloe_juice">Jugo de Aloe</string>
+	<string name="tonic_water">Agua Tónica</string>
+	<string name="chai_tea">Té Chai</string>
+	<string name="rice_drink">Bebida de Arroz</string>
+	<string name="diet_coke">Diet Coke</string>
+	<string name="zero_coke">Cola Cero</string>
+	<string name="lowfat_milk">Leche Baja en Grasa</string>
+	<string name="mors">Mors</string>
+	<string name="golden_milk">Leche de Oro</string>
+	<string name="buttermilk">Suero de la Leche</string>
+	<string name="cordial_juice">Jugo Cordial</string>
+	<string name="apple_juice">Jugo de Manzana</string>
+
+	<!-- new -->
+	<string name="upgrade">mejorar</string>
+	<string name="everyday">cada día</string>
+	<string name="reminder_alert_title">el recordatorio se ha activado entre las %1$s y las %2$s</string>
+	<string name="first_notification_text">alera de líquido: bebe más agua</string>
+	<string name="second_notification_text">es hora de beber algo de agua</string>
+	<string name="third_notification_text">tu cuerpo necesita agua. bébela.</string>
+	<string name="required_water_consumption_text">es importante que bebas %s de agua al día, \npero si lo deseas puedes cambiar este número</string>
+	<string name="drink_enough_water_txt">bebe agua suficiente y sé saludable usando está aplicación increíble %s</string>
+
+	<string name="enable_noty_query">Se ha deshabilitado el acceso a las notificaciones</string>
+	<string name="enable_noty">Habilitar</string>
+	<string name="get_lifetime_access">CONSIGUE ACCESO TOTAL</string>
+</resources>

@@ -1,0 +1,90 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+	<!-- Base application theme. -->
+	<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+		<!-- Customize your theme here. -->
+		<!--<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorAccent">@color/colorAccent</item>-->
+		<item name="colorPrimaryDark">@color/general_gray</item>
+		<item name="windowNoTitle">true</item>
+	</style>
+
+	<style name="PlayerTheme" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="android:windowEnableSplitTouch">false</item>
+		<item name="android:splitMotionEvents">false</item>
+	</style>
+
+	<style name="SplashTheme" parent="AppTheme">
+		<item name="windowActionBar">false</item>
+		<item name="windowNoTitle">true</item>
+		<item name="android:windowBackground">@drawable/splash_screen</item>
+	</style>
+
+	<style name="MuscleTheme" parent="AppTheme">
+		<item name="windowActionBar">false</item>
+		<item name="android:windowFullscreen">true</item>
+	</style>
+
+	<style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+	<style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+	<style name="switchStyle" parent="Theme.AppCompat.Light">
+		<item name="colorControlActivated">#AADB00</item>
+	</style>
+
+	<style name="NavigationDrawerStyle">
+
+		<item name="android:listPreferredItemHeightSmall">75dp</item>
+		<!--<item name="android:textSize">20sp</item>&lt;!&ndash; text size in menu&ndash;&gt;-->
+
+		<!--&lt;!&ndash; item size in menu&ndash;&gt;-->
+		<!--<item name="android:listPreferredItemHeightSmall">80dp</item>-->
+		<!--<item name="listPreferredItemHeightSmall">40dp</item>-->
+
+		<!--&lt;!&ndash; item padding left in menu&ndash;&gt;-->
+		<!--<item name="android:listPreferredItemPaddingLeft">20dp</item>-->
+		<!--<item name="listPreferredItemPaddingLeft">20dp</item>-->
+
+		<!--&lt;!&ndash; item padding right in menu&ndash;&gt;-->
+		<!--<item name="android:listPreferredItemPaddingRight">20dp</item>-->
+		<!--<item name="listPreferredItemPaddingRight">20dp</item>-->
+	</style>
+	<style name="ActivityDialog" parent="@android:style/Theme.Dialog">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">fill_parent</item>
+	</style>
+	<style name="StyleButton_right">
+		<item name="android:paddingRight">@dimen/margin_left_backbt</item>
+		<item name="android:paddingLeft">@dimen/margin_left_backbt_text</item>
+		<item name="android:paddingTop">30dp</item>
+		<item name="android:paddingBottom">30dp</item>
+		<item name="android:background">@android:color/transparent</item>
+	</style>
+	<style name="AppTheme2" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="android:windowTranslucentStatus" tools:targetApi="kitkat">true</item>
+		<item name="android:windowTranslucentNavigation" tools:targetApi="kitkat">true</item>
+        <!--<item name="android:windowNoTitle">true</item>-->
+        <!--<item name="android:windowActionBar">false</item>-->
+        <!--<item name="android:windowFullscreen">true</item>-->
+        <!--<item name="android:windowContentOverlay">@null</item>-->
+	</style>
+	<style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light.NoActionBar">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowActionBar">false</item>
+		<item name="android:windowFullscreen">true</item>
+		<item name="android:windowContentOverlay">@null</item>
+	</style>
+	<declare-styleable name="OutlineTextView" >
+		<attr name="outlineColor" format="color" />
+		<attr name="outlineWidth" format="dimension" />
+	</declare-styleable>
+
+	<style name="StyleButton_left">
+		<item name="android:paddingRight">30dp</item>
+		<item name="android:paddingLeft">15dp</item>
+		<item name="android:paddingTop">30dp</item>
+		<item name="android:paddingBottom">30dp</item>
+		<item name="android:background">@android:color/transparent</item>
+	</style>
+</resources>

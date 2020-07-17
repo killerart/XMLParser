@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">VGFIT</string>
+	<string name="exercise_1">哑铃-卷腹</string>
+	<string name="exercise_2">药球碰脚趾</string>
+	<string name="exercise_3">自体重带球仰卧抬腿</string>
+	<string name="exercise_4">交替平躺触踝</string>
+	<string name="exercise_5">自体重碰脚趾1</string>
+	<string name="exercise_6">自体重仰卧起坐</string>
+	<string name="exercise_7">自体重卷腹</string>
+	<string name="exercise_8">负重俄罗斯转体</string>
+	<string name="exercise_9">负重卷腹</string>
+	<string name="exercise_10">肘碰膝卷腹</string>
+	<string name="exercise_11">肘碰膝卷腹另一侧</string>
+	<string name="exercise_12">自体重侧向平板支撑</string>
+	<string name="exercise_13">自体重侧向平板支撑另一侧</string>
+	<string name="exercise_14">斜V举另一侧</string>
+	<string name="exercise_15">斜V举另一侧</string>
+	<string name="exercise_16">单腿压</string>
+	<string name="exercise_17">单腿压另一侧</string>
+	<string name="exercise_18">药球传球</string>
+	<string name="exercise_19">蚌式</string>
+	<string name="exercise_20">滚动</string>
+	<string name="exercise_21">自体重拉入</string>
+	<string name="exercise_22">球上卷腹</string>
+	<string name="exercise_23">瑞士球卷腹</string>
+	<string name="exercise_24">药球转体</string>
+	<string name="exercise_25">健身球转体 (药球)</string>
+	<string name="exercise_26">哑铃转体</string>
+	<string name="exercise_27">BOSU哑铃卷腹</string>
+	<string name="exercise_28">自体重侧向平板支撑 1</string>
+	<string name="exercise_29">自体重侧向平板支撑-1另一侧</string>
+	<string name="exercise_30">药球转体1</string>
+	<string name="exercise_31">自体重仰卧抬腿 1</string>
+	<string name="exercise_32">自体重仰卧抬腿2</string>
+	<string name="exercise_33">杠铃滑滚</string>
+	<string name="exercise_34">健腹抬腿 2</string>
+	<string name="exercise_35">自体重躯干转体</string>
+	<string name="exercise_36">自体重转体2</string>
+	<string name="exercise_37">自体重碰脚趾2</string>
+	<string name="exercise_38">自体重仰卧交替抬腿</string>
+	<string name="exercise_39">健身单车</string>
+	<string name="exercise_40">自体重碰脚趾3</string>
+	<string name="exercise_41">自体重仰卧抬腿3</string>
+	<string name="exercise_42">药球躯干转体</string>
+	<string name="exercise_43">药球卷腹</string>
+	<string name="exercise_44">自体重垂直交替抬腿</string>
+	<string name="exercise_45">自体重超人起飞</string>
+	<string name="exercise_46">自体重交替超人起飞</string>
+	<string name="exercise_47">杠铃划船</string>
+	<string name="exercise_48">自体重超人起飞3</string>
+	<string name="exercise_49">自体重伸手抬腿</string>
+	<string name="exercise_50">自体重挺直伸手抬腿</string>
+	<string name="exercise_51">自体重挺直伸手抬腿另一侧</string>
+	<string name="exercise_52">平衡球平板支撑</string>
+	<string name="exercise_53">平衡球腰部训练</string>
+	<string name="exercise_54">哑铃俯卧撑划船</string>
+	<string name="exercise_55">桥式健身球</string>
+	<string name="exercise_56">哑铃划船 2</string>
+	<string name="exercise_57">哑铃硬举</string>
+	<string name="exercise_58">长凳平板支撑</string>
+	<string name="exercise_59">CHEER 平板支撑</string>
+	<string name="exercise_60">哑铃划船 2</string>
+	<string name="exercise_61">哑铃划船2 另一侧</string>
+	<string name="exercise_62">杠铃早安式</string>
+	<string name="exercise_63">横杠弯举划船</string>
+	<string name="exercise_64">横杠弯举划船2</string>
+	<string name="exercise_65">健身球二头弯举</string>
+	<string name="exercise_66">哑铃二头弯举</string>
+	<string name="exercise_67">坐式弯举</string>
+	<string name="exercise_68">哑铃二头下弯举</string>
+	<string name="exercise_69">哑铃二头弯举</string>
+	<string name="exercise_70">哑铃二头弯举另一侧</string>
+	<string name="exercise_71">哑铃二头上斜</string>
+	<string name="exercise_72">手腕向外弯举</string>
+	<string name="exercise_73">哑铃二头长凳弯举</string>
+	<string name="exercise_74">哑铃二头坐式弯举</string>
+	<string name="exercise_76">杠铃手腕弯举</string>
+	<string name="exercise_77">药球俯卧撑</string>
+	<string name="exercise_78">踏步机俯卧撑</string>
+	<string name="exercise_79">自体重踏步机俯卧撑</string>
+	<string name="exercise_80">自体重屈膝俯卧撑</string>
+	<string name="exercise_81">哑铃地板俯卧撑</string>
+	<string name="exercise_82">自体重内侧俯卧撑</string>
+	<string name="exercise_83">自体重俯卧撑</string>
+	<string name="exercise_84">自体重伸展俯卧撑</string>
+	<string name="exercise_85">自体重俯卧撑触肩 2</string>
+	<string name="exercise_86">自体重俯卧撑穿横杠</string>
+	<string name="exercise_87">药球侧俯卧撑</string>
+	<string name="exercise_88">支撑自体重俯卧撑</string>
+	<string name="exercise_89">移动俯卧撑</string>
+	<string name="exercise_90">哑铃俯卧撑划船 1</string>
+	<string name="exercise_91">BOSU 侧向俯卧撑</string>
+	<string name="exercise_92">滚动俯卧撑</string>
+	<string name="exercise_93">健身球胸下压</string>
+	<string name="exercise_94">上斜凳俯卧撑</string>
+	<string name="exercise_95">健身球飞鸟</string>
+	<string name="exercise_96">哑铃T俯卧撑</string>
+	<string name="exercise_97">椅式屈膝</string>
+	<string name="exercise_98">俯卧撑哑铃伸展</string>
+	<string name="exercise_99">上斜杠铃卧推</string>
+	<string name="exercise_100">卧推上举</string>
+	<string name="exercise_101">下斜卧推</string>
+	<string name="exercise_102">负重俯卧撑</string>
+	<string name="exercise_103">反握下斜卧推</string>
+	<string name="exercise_104">哑铃下斜卧推</string>
+	<string name="exercise_105">仰卧哑铃飞鸟</string>
+	<string name="exercise_106">哑铃正握卧推</string>
+	<string name="exercise_107">仰卧长凳俯卧撑</string>
+	<string name="exercise_108">哑铃屈伸</string>
+	<string name="exercise_109">上斜长凳哑铃飞鸟</string>
+	<string name="exercise_110">自体重平板支撑触脚 1</string>
+	<string name="exercise_111">仰卧臀屈伸</string>
+	<string name="exercise_112">健身球腿弯举</string>
+	<string name="exercise_113">仰卧臀屈伸1</string>
+	<string name="exercise_114">仰卧臀屈伸-1 另一侧</string>
+	<string name="exercise_115">自体重跳跃</string>
+	<string name="exercise_116">药球弓箭步</string>
+	<string name="exercise_117">哑铃弓箭步</string>
+	<string name="exercise_118">药球弓箭步 2</string>
+	<string name="exercise_119">药球深蹲</string>
+	<string name="exercise_120">药球弓箭步1</string>
+	<string name="exercise_121">自体重侧箭步</string>
+	<string name="exercise_122">自体重侧箭步另一侧</string>
+	<string name="exercise_123">BOSU跳跃</string>
+	<string name="exercise_124">自体重开步跳</string>
+	<string name="exercise_125">自体重开合跳</string>
+	<string name="exercise_126">哑铃箭步推举</string>
+	<string name="exercise_127">BOSU膝盖奔跑</string>
+	<string name="exercise_128">BOSU箭步 2</string>
+	<string name="exercise_129">BOSU跳跃深蹲</string>
+	<string name="exercise_130">自体重高抬腿跳跃</string>
+	<string name="exercise_131">杠铃后拉深蹲</string>
+	<string name="exercise_132">自体重高抬腿拳击</string>
+	<string name="exercise_133">哑铃挺举1</string>
+	<string name="exercise_134">哑铃耸肩跳跃</string>
+	<string name="exercise_135">哑铃前蹲</string>
+	<string name="exercise_136">单哑铃侧箭步另一侧</string>
+	<string name="exercise_137">单哑铃侧箭步另一侧</string>
+	<string name="exercise_138">自体重深蹲单腿两侧</string>
+	<string name="exercise_139">自体重深蹲单腿两侧</string>
+	<string name="exercise_140">哑铃箭步2</string>
+	<string name="exercise_141">哑铃抓举1</string>
+	<string name="exercise_142"> 哑铃波比</string>
+	<string name="exercise_143">哑铃挺举1</string>
+	<string name="exercise_144">BOSU仰卧起坐</string>
+	<string name="exercise_145">哑铃单腿硬举</string>
+	<string name="exercise_146">哑铃单腿硬举另一侧</string>
+	<string name="exercise_147">哑铃分腿蹲另一侧</string>
+	<string name="exercise_148">哑铃分腿蹲另一侧</string>
+	<string name="exercise_149">杠铃辅助深蹲</string>
+	<string name="exercise_150">单腿杠铃分腿</string>
+	<string name="exercise_151">单腿杠铃分腿另一侧</string>
+	<string name="exercise_152">凳上仰卧臀屈伸</string>
+	<string name="exercise_153">自体重提踵</string>
+	<string name="exercise_154">长凳高抬腿跳跃 2</string>
+	<string name="exercise_155">长凳高抬腿跳跃 2</string>
+	<string name="exercise_156">长凳侧边跳跃</string>
+	<string name="exercise_157">长凳箭步</string>
+	<string name="exercise_158">哑铃深蹲跳跃</string>
+	<string name="exercise_159">长凳膝撑</string>
+	<string name="exercise_160">杠铃后箭步</string>
+	<string name="exercise_161">杠铃后拉深蹲</string>
+	<string name="exercise_162">杠铃后箭步2</string>
+	<string name="exercise_163">举重深蹲 2</string>
+	<string name="exercise_164">相扑硬举</string>
+	<string name="exercise_165">哑铃深蹲 2</string>
+	<string name="exercise_166">杠铃深蹲 2</string>
+	<string name="exercise_167">哑铃旋转T伸屈</string>
+	<string name="exercise_168">哑铃旋转T伸屈另一侧</string>
+	<string name="exercise_169">哑铃上推</string>
+	<string name="exercise_170">自体重俯卧撑穿横杠</string>
+	<string name="exercise_171">平衡球前举 3</string>
+	<string name="exercise_172">平衡球前举 3</string>
+	<string name="exercise_173">杠铃片前举</string>
+	<string name="exercise_174">哑铃螺旋</string>
+	<string name="exercise_175">哑铃螺旋另一侧</string>
+	<string name="exercise_176">站姿稻草人 2</string>
+	<string name="exercise_177">哑铃耸肩跳跃</string>
+	<string name="exercise_178">哑铃三角肌后束划船</string>
+	<string name="exercise_179">后束平举</string>
+	<string name="exercise_181">单臂哑铃上举</string>
+	<string name="exercise_182">单臂哑铃另一侧</string>
+	<string name="exercise_183">哑铃肩上推举</string>
+	<string name="exercise_184">哑铃侧平举 1</string>
+	<string name="exercise_185"> 哑铃前平举2 </string>
+	<string name="exercise_186">哑铃侧平举 1</string>
+	<string name="exercise_187">长凳哑铃划船</string>
+	<string name="exercise_188">杠铃箭步举</string>
+	<string name="exercise_189">直立划船</string>
+	<string name="exercise_190">杠铃前平举</string>
+	<string name="exercise_191">推举</string>
+	<string name="exercise_192">杠铃俯身划船</string>
+	<string name="exercise_193">自体重无手指分腿俄式俯卧撑</string>
+	<string name="exercise_194">军式俯卧撑</string>
+	<string name="exercise_195">药球俯卧撑</string>
+	<string name="exercise_196">BOSU膝式俯卧撑</string>
+	<string name="exercise_197">健身球俯卧撑</string>
+	<string name="exercise_198">健身球法式推举</string>
+	<string name="exercise_199">哑铃划船屈伸</string>
+	<string name="exercise_200">站姿单臂三头肌伸展</string>
+	<string name="exercise_201">站姿单臂三头肌伸展另一侧</string>
+	<string name="exercise_202">凳上屈伸</string>
+	<string name="exercise_203">三头肌过头伸展</string>
+	<string name="exercise_204">仰卧单臂屈伸</string>
+	<string name="exercise_205">仰卧单臂屈伸另一侧</string>
+	<string name="exercise_206">卧式三头肌屈伸</string>
+	<string name="exercise_207">三头肌过头伸展1</string>
+	<string name="exercise_208">站式过头伸展</string>
+	<string name="exercise_209">颈部拉伸</string>
+	<string name="exercise_210">站式身体手臂- 伸展手臂</string>
+	<string name="exercise_211">站式头后 – 伸展三头肌</string>
+	<string name="exercise_212">站式头后另一侧</string>
+	<string name="exercise_213">伸展深度转体</string>
+	<string name="exercise_214">伸展站式脚手</string>
+	<string name="exercise_215">伸展站式手到脚</string>
+	<string name="exercise_216">伸展坐式屈膝</string>
+	<string name="exercise_217">站式伸展内收肌</string>
+	<string name="exercise_218">站式伸展内收肌另一侧</string>
+	<string name="exercise_219">伸展仰卧屈膝</string>
+	<string name="exercise_220">伸展仰卧屈膝另一侧</string>
+	<string name="exercise_221">伸展儿童式</string>
+	<string name="exercise_223">自体重滑雪跳跃</string>
+	<string name="exercise_224">自体重高抬腿</string>
+	<string name="exercise_225">相扑跳跃2</string>
+	<string name="exercise_226">双深蹲</string>
+	<string name="exercise_227">自体重俯卧撑触肩 2</string>
+	<string name="exercise_228">自体重波比</string>
+	<string name="exercise_229">自体重俯卧撑3</string>
+	<string name="exercise_230">蒸汽机</string>
+	<string name="exercise_231">自体重仰卧抬腿 1</string>
+	<string name="exercise_232">乌鸦式</string>
+	<string name="exercise_233">自体重平板支撑触脚 1</string>
+	<string name="exercise_236">单哑铃侧箭步另一侧</string>
+	<string name="exercise_237">单哑铃侧箭步另一侧</string>
+	<string name="exercise_238">哑铃抓举1</string>
+	<string name="exercise_239">哑铃抓举-1 另一侧</string>
+	<string name="exercise_240">单臂体侧举</string>
+	<string name="exercise_241">单臂体侧举另一侧</string>
+	<string name="exercise_242">坐式弯举</string>
+	<string name="exercise_244">内收肌群伸展</string>
+	<string name="exercise_261">碰脚趾3</string>
+	<string name="exercise_262">哑铃平举</string>
+	<string name="exercise_263">屈膝V举</string>
+	<string name="exercise_264">自体重碰脚趾1</string>
+	<string name="exercise_265">腹部V-移动</string>
+	<string name="exercise_266">自体重平板支撑触脚 1</string>
+	<string name="exercise_268">长凳哑铃二头弯举</string>
+	<string name="exercise_269">自体重登山者</string>
+	<string name="exercise_270">BOSU 腿弯举</string>
+	<string name="exercise_271">药球卷腹长凳</string>
+	<string name="exercise_272">杠铃深蹲 2</string>
+	<string name="exercise_273">哑铃提踵</string>
+	<string name="exercise_274">杠铃提踵</string>
+	<string name="exercise_275">俯卧撑旋转T伸屈</string>
+	<string name="exercise_276">站姿稻草人1</string>
+	<string name="exercise_277">上斜肩旋转</string>
+	<string name="exercise_278">站式三头肌拉伸</string>
+	<string name="exercise_279">杠铃三头肌拉伸</string>
+
+	<string name="description_1">肌群: 腹直肌\n\n步骤 1: 平躺在地上。将双脚抬起至垂直于地面。握着哑铃手臂向上伸展。\n\n步骤 2: 双手往前触碰脚趾。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_100">肌群: 胸肌 \n\n步骤 1: 躺在平凳上。正握EZ曲杠，两手距离稍微比肩宽，并且保持双臂完全伸展。EZ曲杠放置在胸部中心的上方。\n\n步骤 2: 朝下胸放下EZ曲杠，手肘贴紧身躯。EZ曲杠在动作结束前应该轻触胸部。尽量不要将EZ曲杠弹离胸部。坚持一阵子。回到起始姿势。您的背部应时时紧贴长凳。尽量避免腿部运动。</string>
+	<string name="description_101">肌群: 胸肌 \n\n步骤 1: 躺在下斜凳上。正握EZ曲杠，两手距离稍微比肩宽， 并且保持双臂完全伸展。EZ曲杠放置在胸部中心的上方。\n\n步骤 2: 朝下胸放下EZ曲杠，手肘贴紧身躯。EZ曲杠在动作结束前应该轻触胸部。尽量不要将EZ曲杠弹离胸部。坚持一阵子。 回到起始姿势。您的背部应时时紧贴长凳。尽量避免腿部运动。</string>
+	<string name="description_103">肌群: 胸肌 \n\n步骤 1: 躺在下斜凳上。正握EZ曲杠，两手距离稍微比肩宽， 并且保持双臂完全伸展。 EZ曲杠放置在胸部中心的上方。\n\n步骤 2: 朝下胸放下EZ曲杠，手肘贴紧身躯。EZ曲杠在动作结束前应该轻触胸部。尽量不要将EZ曲杠弹离胸部。坚持一阵子。回到起始姿势。您的背部应时时紧贴长凳。尽量避免腿部运动。</string>
+	<string name="description_109">肌群: 胸肌 \n\n步骤 1: 躺在上斜长凳上。双手各握一个哑铃。双臂在胸部上方完全伸展。\n\n步骤 2: 手肘微微弯曲，哑铃向身体两侧放下，直到哑铃位于上半身两侧。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_110">肌群: 腹直肌\n\n步骤 1: 俯卧于地。用脚趾和前臂支撑身体抬离地面。保持背部挺直，抬起右脚。尽可能长地维持姿势。回到起始姿势,换另一只脚重复动作。</string>
+	<string name="description_111">肌群：臀肌 \n\n步骤 1. 双脚伸直平躺于地面或软垫上。手臂放在软垫上，臀部两侧的位置。\n\n步骤 2. 双脚保持伸直，腰部抬起离地。经过几次重复动作后，回到初始姿势。交换双脚位置并在另一个方向重复动作。</string>
+	<string name="description_112">肌群: 后腿肌肉\n\n步骤 1: 平躺在地上。将双脚放在健身球上，腰部应该抬起离地。利用您的手臂稳定身体的位置。\n\n步骤 2: 将健身球滚向自己的身体。在动作结束时，脚板踏在健身球上。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_113">肌群：臀肌 \n\n步骤 1. 平躺在地上或软垫上，其中一只脚伸直，另一只脚弯曲脚板踏在地上。将手臂放在软垫上，臀部两侧的位置。\n\n步骤 2. 将腰部抬离地面，同时保持脚伸直。坚持一阵子回到起始姿势。几次重复动作后，交换双脚位置并在另一个方向重复动作。</string>
+	<string name="description_114">肌群：臀肌 \n\n步骤 1. 平躺在地上或软垫上，其中一只脚伸直，另一只脚弯曲脚板踏在地上。将手臂放在软垫上，臀部两侧的位置。\n\n步骤 2. 将腰部抬离地面，同时保持脚伸直。坚持一阵子回到起始姿势。几次重复动作后，交换双脚位置并在另一个方向重复动作。</string>
+	<string name="description_116">肌群：股四头肌\n\n步骤 1: 双脚与肩同宽站立。双臂握着药球在身前完全伸直。 \n\n步骤 2: 保持背部挺直，一只脚向旁边踏出，屈膝降低身体。后脚可转动但是应保持位置，在前脚大腿和地面平行时钉住。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_118">肌群: 股四头肌 \n\n步骤 1: 双脚与肩同宽站立。双臂握着药球在头上完全伸展。\n\n步骤 2: 保持背部挺直, 一只脚向旁边踏出，屈膝降低身体。后脚可转动但是应保持位置，在前脚大腿和地面平行时钉住。坚持一秒钟。回到起始姿势。换一个方向重复动作。</string>
+	<string name="description_119">肌群: 股四头肌 \n\n步骤 1: 双脚与肩同宽站立。在身前握着药球，调整双脚以便脚趾稍微朝外。\n\n步骤 2: 屈膝降低身体。在整个动作中应该保持背部挺直。在您的大腿和地面平行时钉住。当您回到起始姿势时，从腰部用力。</string>
+	<string name="description_123">肌群: 股四头肌 \n\n步骤 1. 站在一个BOSU前,双臂向下伸直摆在两侧。您与BOSU的位置应保持在两个脚步的距离。\n\n步骤 2. 踏步向前踩在BOSU上。降低身体同时弯曲前脚膝盖，后脚保持挺直。\n\n步骤 3. 弯曲的前脚推开回到起始姿势，重复动作。为了让动作更具有挑战性，双手可以各握一只哑铃进行锻炼。</string>
+	<string name="description_126">肌群: 股四头肌 \n\n步骤 1: 双脚与肩同宽站立。双手各持哑铃放在两侧。\n\n步骤 2: 保持背部挺直, 一脚踏步向前，另一只脚屈膝降低身体。前脚大腿与地面平行时钉住。 双臂握住哑铃，推举过头并保持伸直。向后退并回到起始姿势.</string>
+	<string name="description_127">肌群: 股四头肌 \n\n 步骤 1. 将一个BOSU翻过来，圆顶部分朝下。双手放在半球边缘，把自己的身体撑起来，只有双手和脚趾着地。背部挺直。双手稍微往外摆。步骤 2: 其中一只脚朝上半身弯曲。步骤 3: 当您收起弯曲的那只脚回到起始姿势时，同时弯曲另一只脚，朝上半身提起。这是一次重复。</string>
+	<string name="description_128">肌群: 股四头肌 \n\n步骤 1. 站在一个BOSU前,双臂向下伸直摆在两侧。您与BOSU的位置应保持在两个脚步的距离。\n\n步骤 2. 往前踏在BOSU上，弯曲其中一只膝盖，下降身体，如图所示。\n\n步骤 3. 前脚收回，回到起始姿势然后重复动作。为了让动作更具有挑战性，双手可以各握一只哑铃进行锻炼。</string>
+	<string name="description_129">肌群: 股四头肌 \n\n步骤 1. 站立在一个BOSU上，手臂摆放在身体两侧。\n\n步骤 2. 弯曲双膝臀部朝下，形成一个半深蹲的姿势。身体往前倾以保持平衡。\n\n步骤 3. 双脚使力让身体跳起，并在落回BOSU上时，回到深蹲的姿势。为了增加难度，双手可以各持一个哑铃。</string>
+	<string name="description_130">肌群: 股四头肌 \n\n 步骤 1: 脸朝下躺着，双手在肩膀的位置，手掌着地支撑身体。步骤 2: 用力将身体推起，去到深蹲的姿势。步骤 3: 尽可能高地跳跃，双膝收向胸部。</string>
+	<string name="description_132">肌群: 股四头肌 \n\n步骤 1: 双脚并拢站立。原地踏步，膝盖抬至肚子的高度。双手各持哑铃，在移动双脚的同时进行拳击动作。\n\n步骤 2: 一只脚放下时另一只脚抬起，这是一次重复。</string>
+	<string name="description_134">肌群: 斜方肌\n\n步骤 1: 双脚与肩同宽站立。手持哑铃放在身体两侧。\n\n步骤 2: 稍微弯曲膝盖。 \n\n步骤 3: 跳起来。在跳跃时耸肩。回到起始姿势.</string>
+	<string name="description_138">肌群: 股四头肌 \n\n步骤 1: 站立。左脚在身前抬起。\n\n步骤 2: 屈膝降低身体。您的背部在整个动作中应保持挺直。在您的大腿几乎与地面平行时钉住。当您回到起始姿势时，从腰部发力。</string>
+	<string name="description_142">肌群: 股四头肌 \n\n步骤 1: 双脚与肩同宽站立。\n\n步骤 2: 蹲下身体双手触地。\n\n步骤 3: 往后跳起去到俯卧撑的姿势，只有您的双手和脚趾触地。\n\n步骤 4: 弯曲手肘，降低身体直到胸部距离地面几寸的位置。手肘应弯向双脚。坚持一秒钟 \n\n步骤 5: 完全伸展手臂以回到俯卧推姿势。\n\n步骤 6: 往前跳起以让双脚接近双手。保持深蹲姿势。双臂完全伸展往前跳跃。回到起始姿势。</string>
+	<string name="description_143">肌群: 股四头肌 \n\n步骤 1: 蹲下。手持哑铃摆在身下，背部挺直。胸部外挺往前看。\n\n步骤 2: 将哑铃抬起离地。当哑铃抬高至胫骨时，向上跳跃。利用动力将哑铃抬高至肩膀。\n\n步骤 3: 在肩膀位置接着哑铃后，利用动力蹲下。之后站起。\n\n步骤 4: 稍微屈膝\n\n步骤 5: 跳跃时哑铃高举过头，站直。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_144">肌群: 腹直肌\n\n步骤 1. 躺在BOSU半球上，臀部位于半球边缘。双手放在脑后，轻轻支撑颈项。\n\n步骤 2. 呼气并在BOSU半球上卷曲上半身。坚持一阵子，然后慢慢回到起始姿势。\n\n步骤 3. 以缓慢、可以控制的速度移动。试着保持臀部不动。专注在移动脊椎而不是臀部。</string>
+	<string name="description_145">肌群：臀肌 \n\n步骤 1. 手持哑铃放在大腿前站立，掌心朝向身体。双脚距离与肩同宽，脚趾朝前。\n\n步骤 2. 左脚往身后抬起，距离地面几英寸，右脚大腿和地面垂直。臀部往后挺，身体朝前倾，同时保持腹肌收紧与背部挺直。右脚膝盖应稍微弯曲。\n\n步骤 3. 尽可能地往前弯曲，同时保持腰部挺直。回到起始姿势。用另一只脚重复动作。</string>
+	<string name="description_146">肌群：臀肌 \n\n步骤 1. 手持哑铃放在大腿前站立，掌心朝向身体。双脚距离与肩同宽，脚趾朝前。\n\n步骤 2. 右脚往身后抬起，距离地面几英寸，左脚大腿和地面垂直。臀部往后挺，身体朝前倾，同时保持腹肌收紧与背部挺直。左脚膝盖应稍微弯曲。\n\n步骤 3. 尽可能地往前弯曲，同时保持腰部挺直。回到起始姿势。用另一只脚重复动作。</string>
+	<string name="description_148">肌群: 股四头肌 \n\n步骤 1: 手持哑铃放在身体两侧站立。一只脚在前，另一只在后。后脚放置在长凳上。\n\n步骤 2: 弯曲前脚膝盖以降低身体。弯曲前脚膝盖以降低身体。前脚大腿与地面平行时钉住。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_150">肌群：股四头肌 \n\n步骤 1: 在肩膀上放置杠铃，正握杠铃。双手的距离应大于肩膀的距离。一只脚在前，另一只在后。后脚放置在长凳上。\n\n步骤 2: 弯曲前脚膝盖以降低身体。前脚大腿与地面平行时钉住。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_151">肌群：股四头肌 \n\n步骤 1: 在肩膀上放置杠铃，正握杠铃。双手的距离应大于肩膀的距离。一只脚在前，另一只在后。后脚放置在长凳上。\n\n步骤 2: 弯曲前脚膝盖以降低身体。前脚大腿与地面平行时钉住。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_152">肌群：臀肌 \n\n步骤 1. 躺在地上，把双脚放在椅子上，双脚膝盖稍微弯曲，手臂放在身体两侧。\n\n步骤 2. 利用臀肌和后腿肌肉出力，脚后跟朝下压，挺起臀部直到身体形成一个斜坡。暂停动作，然后慢慢地回到起始姿势。</string>
+	<string name="description_155">肌群: 股四头肌 \n\n步骤 1: 昂首挺胸并保持背部挺直。双手摆在身体两侧。\n\n步骤 2: 稍微弯曲膝盖。\n\n步骤 3: 尽可能高地跳起，膝盖往胸前收起。</string>
+	<string name="description_156">肌群: 股四头肌 \n\n步骤 1: 昂首挺胸并保持背部挺直。双手摆在身体两侧。\n\n步骤 2: 稍微弯曲膝盖。一只脚踩在长凳上支撑身体。\n\n步骤 3: 尽可能高地跳起，膝盖往胸前收起。</string>
+	<string name="description_157">肌群: 股四头肌 \n\n步骤 1. 站在一个长凳前,双臂向下伸直摆在两侧。您与长凳的位置应保持在两个脚步的距离。\n\n步骤 2. 往前踏在长凳上，弯曲其中一只膝盖，下降身体，如图所示。\n\n步骤 3. 弯曲的前脚推开回到起始姿势，重复动作。为了让动作更具有挑战性，双手可以各握一只哑铃进行锻炼。</string>
+	<string name="description_158">肌群: 股四头肌 \n\n步骤 1: 站立在一个长凳前。双脚与肩同宽，把脚趾调整到稍微朝外摆。\n\n步骤 2: 弯曲膝盖降低身体。在整个运动过程中，保持背部挺直。 在整个运动过程中，保持背部挺直。当大腿与地面平行时钉住，或是屁股触碰到长凳时钉住。当您回到起始姿势时，从腰部发力。</string>
+	<string name="description_161">肌群: 股四头肌 \n\n步骤 1: 双脚与肩同宽站立。正握杠铃，并将杠铃放在后腿后面。双手距离与肩同宽。\n\n步骤 2: 弯曲膝盖降低身体。 在整个运动过程中，保持背部挺直。当大腿与地面平行时钉住，或是当杠铃触地时。当您回到起始姿势时，从腰部发力。</string>
+	<string name="description_163">肌群: 股四头肌 \n\n步骤 1: 双脚与肩同宽站立。正握杠铃。 双手距离与肩同宽。把脚趾调整到稍微朝外摆。双臂完全伸展将杠铃举起 \n\n步骤 2: 弯曲膝盖降低身体。 在整个运动过程中，保持背部挺直。当大腿与地面平行时钉住。当您回到起始姿势时，从腰部发力。</string>
+	<string name="description_164">肌群: 腰部 \n\n步骤 1: 将EZ曲杠放在地上。站在离曲杠一寸左右的位置。双脚距离与肩同宽。在尽可能不动用臀部的情况下，降低身体正握EZ曲杠。稍微弯曲膝盖。胸部外挺往前看。\n\n步骤 2: 拉起EZ曲杠直到呈站立姿势。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_167">肌群：股四头肌 \n\n步骤 1. 以俯卧撑的姿势开始，左手握着哑铃。保持手臂伸展并运用核心肌群。\n\n步骤 2. 将身体重心移到左臂，向右旋转身躯，将右臂朝天举起，使得身体呈一个T字形。\n\n步骤 3. 坚持3秒，然后回到起始姿势，在另一侧重复动作。这是一次重复。</string>
+	<string name="description_168">肌群：股四头肌 \n\n步骤 1. 以俯卧撑的姿势开始，左手握着哑铃。保持手臂伸展并运用核心肌群。\n\n步骤 2. 将身体重心移到左臂，向右旋转身躯，将右臂朝天举起，使得身体呈一个T字形。\n\n步骤 3. 坚持3秒，然后回到起始姿势，在另一侧重复动作。这是一次重复。</string>
+	<string name="description_169">肌群：臀肌、股四头肌 \n\n步骤 1: 双脚与肩同宽站立。手持哑铃站立。哑铃应置于肩膀位置。\n\n步骤 2: 稍微弯曲膝盖。\n\n步骤 3: 手臂向上推举直到手臂完全伸直。回到起始姿势。</string>
+	<string name="description_170">肌群: 胸肌 \n\n步骤 1: 俯卧在地双手撑地。双手应放在下胸左右的位置。双手的距离应稍微宽于肩膀。用手臂撑起身体，只有双手和脚趾着地。背部保持挺直。双手稍微指向朝外。抬起臀部向上挺，手臂完全伸直。\n\n步骤 2: 想像离地面两尺的地方有一个横杠，穿入横杠直到上半身完全穿过横杠。手肘弯曲。动作结束时挺直手臂。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_171">肌群: 三角肌 \n\n步骤 1. 坐在一个抗力球上，手持轻哑铃。脚板踏地，双手垂放在两侧，掌心朝后。\n\n步骤 2. 保持手臂完全伸直，慢慢地在身前举起哑铃，直到手臂与地面平行。\n\n步骤 3. 坚持一秒，然后慢慢地放下哑铃。</string>
+	<string name="description_172">肌群: 三角肌 \n\n步骤 1. 坐在一个抗力球上，手持轻哑铃。脚板踏地，双手垂放在两侧，掌心朝后。\n\n步骤 2. 保持手臂完全伸直，慢慢地在身前举起哑铃，直到手臂与地面平行。\n\n步骤 3. 坚持一秒，然后慢慢地放下哑铃。</string>
+	<string name="description_174">肌群: 三角肌 \n\n步骤 1. 双手握着铃片，放在大腿的位置。手臂保持伸直，完全站直。\n\n步骤 2. 在身前举起铃片，并提到肩膀上，上半身同时扭转到那一侧。\n\n步骤 3. 回到起始姿势并重复动作，这时要更换方向。</string>
+	<string name="description_175">肌群: 三角肌 \n\n步骤 1. 双手握着铃片，放在大腿的位置。手臂保持伸直，完全站直。\n\n步骤 2. 在身前举起铃片，并提到肩膀上，上半身同时扭转到那一侧。\n\n步骤 3. 回到起始姿势并重复动作，这时要更换方向。</string>
+	<string name="description_179">肌群: 三角肌 \n\n步骤 1. 手持哑铃，拇指朝着对方。专注于保持背部挺直，手肘稍微弯曲，腰部尽可能前倾。让哑铃悬挂在手臂下\n\n步骤 2. 慢慢地、尽可能高地举起哑铃，弯曲手臂或背部。暂停，然后放下哑铃回到起始姿势。</string>
+	<string name="description_18">肌肉: 腹直肌\n\n步骤 1. 俯卧在地，弯曲膝盖。手臂和双脚在空中伸直，双手握球。\n\n步骤 2. 慢慢地抬起头和肩膀。把球放在双脚上。\n\n步骤 3. 坚持，然后回到起始姿势。</string>
+	<string name="description_181">肌群: 三角肌 \n\n步骤 1: 双脚与肩同宽站立。双手正握哑铃，放在头脑两侧。\n\n步骤 2: 稍微弯曲膝盖。\n\n步骤 3: 跳起来并向上举起哑铃。双臂完全伸展将哑铃高举过头。着地时一脚在前，一脚在后。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_182">肌群: 三角肌 \n\n步骤 1: 双脚与肩同宽站立。双手正握哑铃，放在头脑两侧。\n\n步骤 2: 稍微弯曲膝盖。\n\n步骤 3: 跳起来并向上举起哑铃。双臂完全伸展将哑铃高举过头。着地时一脚在前，一脚在后。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_186">肌群: 三角肌 \n\n步骤 1: 躺在上斜凳上。手握哑铃放在身体两侧。\n\n步骤 2: 举起手臂直到手臂与上半身垂直。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_188">肌群: 三角肌 \n\n步骤 1. 正握杠铃，双手距离与肩同宽。杠铃应放在肩膀的高度。膝盖要稍微弯曲，双脚距离与肩同宽。运用您的核心肌肉。\n\n步骤 2. 弯曲膝盖并降低身体: \n\n步骤 3. 运用爆发力，向上高举杠铃过头。双臂应该完全伸展，双脚分开呈交错式站立，一脚在前一脚在后。前脚膝盖稍微弯曲。</string>
+	<string name="description_191">肌群: 三角肌 \n\n步骤 1. 将重量支架放在上胸的高度。双手抓着横杠，抬起支架并用肩膀支撑。\n\n步骤 2. 稍微弯曲膝盖、臀部和脚踝降低身体。\n\n步骤 3. 双脚发力并把杠铃从肩膀举起来，高举过头直到手肘伸直。\n\n步骤 4. 放下杠铃回到肩膀并重复动作。</string>
+	<string name="description_194">肌群: 胸肌 \n\n步骤 1: 俯卧在地双手撑地。双手应放在下胸左右的位置。 双手的距离应稍微宽于肩膀。用手臂撑起身体，只有双手和脚趾着地。背部保持挺直。双手稍微朝外指 \n\n步骤 2: 肩膀与双手对齐，手肘弯曲降低身体，直到胸部距离地面几寸的位置。手肘应向双脚的方向弯曲。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_196">肌群: 胸肌 \n\n步骤 1. 双膝着地，双手放在BOSU上。手臂与肩同宽，手肘弯曲，胸部靠近BOSU的触点。这时膝盖应该弯曲，双脚向上而不是放在地上，如图所示。\n\n步骤 2. 伸直手臂向上撑起身体。\n\n步骤 3. 再次降低胸部靠近BOSU。重复动作。请记得在整个动作过程中保持背部挺直。</string>
+	<string name="description_197">肌群: 胸肌 \n\n步骤 1: 健身球放在地上，双手放在健身球上。双手的距离应稍微宽于肩膀。用手臂举起身体，双手在球上，脚趾在地上。背部保持挺直。双手稍微指向朝外。\n\n步骤 2: 弯曲手肘降低身体直到胸部距离健身球几寸。手肘应向双脚的方向弯曲。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_204">肌群: 三头肌\n\n步骤 1. 躺在长凳上，膝盖弯曲脚着地。右手握着一个轻哑铃，伸直手臂让哑铃位于肩膀上方。左手穿过胸前握着右手上臂，稳固右手。\n\n步骤 2. 转动重量，让掌心朝内。在不移动上臂的情况下，弯曲手肘并慢慢地放下哑铃，直到哑铃达到头部侧边。\n\n步骤 3. 慢慢地举起哑铃回到上方的位置。完成运动组合，换另一只手进行。</string>
+	<string name="description_205">肌群: 三头肌\n\n步骤 1. 躺在长凳上，膝盖弯曲脚着地。左手握着一个轻哑铃，伸直手臂让哑铃位于肩膀上方。右手穿过胸前握着左手上臂，稳固左手。\n\n步骤 2. 转动重量，让掌心朝内。在不移动上臂的情况下，弯曲手肘并慢慢地放下哑铃，直到哑铃达到头部侧边。\n\n步骤 3. 慢慢地举起哑铃回到上方的位置。完成运动组合，换另一只手进行。</string>
+	<string name="description_22">肌群: 腹直肌\n\n步骤 1: 躺在BOSU球上。双手放在头部，双脚着地。\n\n步骤 2: 抬起上半身，同时腰部紧贴抗力球。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_223">肌群:股四头肌 \n\n步骤 1: 背部挺直站立。双手放在身体两侧。跳到右侧，左脚去到右脚后方。前脚膝盖稍微弯曲。\n\n步骤 2: 跳到左侧，同时降低身体，右脚去到左脚后方。前脚膝盖稍微弯曲。</string>
+	<string name="description_224">肌群:股四头肌 \n\n 步骤 1: 双脚并拢站直。原地奔跑，将膝盖提至腹部的高度。步骤 2: 当一只脚放下时，另一只脚跟着抬起。这是一次重复。</string>
+	<string name="description_226">肌群:GLUTES \n\n 步骤 1: 双脚与肩同宽站立。把脚趾调整到稍微朝外摆。步骤 2: 弯曲膝盖降低身体。 在整个运动过程中，保持背部挺直。当大腿与地面平行时钉住。当您回到起始姿势时，从腰部发力。</string>
+	<string name="description_227">肌群:股四头肌 \n\n 步骤 1: 胸部着地，手掌放在地面。利用手臂支撑起身体，脚趾着地。步骤 2: 一只手臂触碰肩膀。回到起始姿势。</string>
+	<string name="description_228">肌群:股四头肌 \n\n 步骤 1: 胸部着地，手掌放在地面。利用手臂支撑起身体，脚趾着地。步骤 2: 双脚膝盖带到腹部的位置。回到起始姿势。</string>
+	<string name="description_229">肌群:胸肌\n\n步骤 1胸部着地，手掌放在地面。双手放在下胸两侧。双手的距离应稍微宽于肩膀。用手臂撑起身体，只有双手和脚趾着地。背部保持挺直。双手稍微朝外指 \n\n步骤 2: 弯曲手肘降低身体直到胸部距离地面几寸的位置。手肘应向双脚的方向弯曲。与此同时，一只脚的膝盖带到手肘的位置。坚持一秒钟\n\n步骤 3: 回到起始姿势。\n\n步骤 4: 弯曲手肘降低身体直到胸部距离地面几寸的位置。手肘应向双脚的方向弯曲。与此同时，一只脚的膝盖带到手肘的位置。坚持一秒钟。</string>
+	<string name="description_230">肌群: 腹直肌\n\n步骤 1. 双脚与肩同宽站立，手指放在耳朵后方。\n\n步骤 2. ，提起右脚膝盖，左手手肘触碰右脚膝盖，身体转向右臀的方向。\n\n步骤 3. 回到起始姿势并在另一侧重复动作。重复两个连续的重复动作。</string>
+	<string name="description_231">肌群:腹直肌\n\n步骤 1: 平躺在地上。双手放在身体两侧。双脚完全伸展。\n\n步骤 2: 将脚抬起至30度角的位置，坚持一秒钟 \n\n步骤 3: 将脚抬起至60度角的位置，坚持一秒钟\n\n步骤 4: 将脚抬起至90度角的位置，坚持一秒。回到起始姿势。</string>
+	<string name="description_232">肌群: 腹直肌\n\n步骤 1: 以桌面式的姿势开始。\n\n步骤 2: 吸气并挺起尾骨，让脊椎呈弓形，肚子向下突起。\n\n步骤 3: 坚持几个呼吸的时间。\n\n步骤 4: 呼气回到起始姿势。</string>
+	<string name="description_237">肌群: 股四头肌 \n\n步骤 1: 双脚与肩同宽站立。手持哑铃。\n\n步骤 2: 保持背部挺直，一只脚向旁边踏去，弯曲膝盖降低身体，后脚定在原地。 当前脚大腿与地面平时钉住。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_238">肌群: 三角肌 \n\n步骤 1: 开始时，躬身前倾，收紧腰部，双脚与肩同宽。\n\n步骤 2. 抓起哑铃收紧腹部肌肉。迅速向上举起哑铃，直到手臂伸直，如图所示。哑铃不可大幅度往外甩，而是要贴近身体移动。\n\n步骤 3. 哑铃高举过头一阵子，然后放下回到起始姿势。</string>
+	<string name="description_239">肌群: 三角肌 \n\n步骤 1: 开始时，躬身前倾，收紧腰部，双脚与肩同宽。\n\n步骤 2. 抓起哑铃收紧腹部肌肉。迅速向上举起哑铃，直到手臂伸直，如图所示。哑铃不可大幅度往外甩，而是要贴近身体移动。\n\n步骤 3. 哑铃高举过头一阵子，然后放下回到起始姿势。</string>
+	<string name="description_240">肌群: 背阔肌\n\n步骤 1: 双脚与肩同宽站立。双手放在臀部的位置。\n\n步骤 2: 一只手臂高举过头，身体弯向一侧。维持15-25秒。在另一侧重复动作。</string>
+	<string name="description_241">肌群: 背阔肌\n\n步骤 1: 双脚与肩同宽站立。双手放在臀部的位置。\n\n步骤 2: 一只手臂高举过头，身体弯向一侧。维持15-25秒。在另一侧重复动作。</string>
+	<string name="description_242">后腿肌肉\n\n 步骤 1: 双脚与臀同宽站立。双手手指在身前交织，手掌翻向外面，然后沿着耳朵伸展手臂，手掌向上。步骤 2: 手掌交换重复动作。</string>
+	<string name="description_244">肌肉: 内收肌 \n\n步骤 1: 坐在地上鞋底相对。保持背部挺直。双手放在脚踝。 \n\n步骤 2: 向地板压低上半身和膝盖。维持15-25秒.</string>
+	<string name="description_25">肌群: 腹斜肌 \n\n步骤 1 躺在健身球上。手持一个药球放在身前。\n\n步骤 2: 向一个方向扭转身体。坚持一秒钟。\n\n步骤 3: 向另一个方向扭转身体。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_26">肌群: 腹斜肌 \n\n步骤: 1: 双脚与肩同宽站立。手持哑铃放在身前。\n\n步骤 2: 向一个方向扭转身体。坚持一秒钟 \n\n步骤 3: 回到起始姿势. \n\n步骤 4: 向另一个方向扭转身体。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_261">肌肉: 腹直肌\n\n 步骤 1: 平躺在地上。双手和双脚支撑身体。\n\n 步骤 2: 一只手臂触碰一只脚。回到起始姿势。</string>
+	<string name="description_262">肌群: 腹直肌\n\n步骤 1: 坐在地上。手持哑铃躺下，同时抬起双脚直到您达到平衡。\n\n步骤 2: 双脚膝盖向上半身弯曲，同时张开手臂。向前移动上半身以维持平衡。 坚持一秒钟。回到起始姿势。</string>
+	<string name="description_264">肌群: 腹直肌\n\n步骤 1: 平躺在地上。伸展双脚，双手放在头后。步骤 2: 用双手触碰脚趾。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_266">肌群: 腰部\n\n步骤 1: 俯卧于地。用脚趾和前臂支撑身体抬离地面。保持背部挺直，抬起右脚触碰另一只脚的脚后跟。回到平板支撑的姿势。</string>
+	<string name="description_27">肌群: 腹直肌\n\n 步骤 1: 上半身向下躺在BOSU半球上。双脚在地，膝盖弯曲。步骤 2: 抬起上半身同时背部紧贴BOSU半球。坚持一秒。回到起始姿势。</string>
+	<string name="description_270">肌群: 股四头肌 \n\n步骤 1: 躺在地上膝盖指向天空。把双脚放在BOSU半球上。使用双手来固定位置。步骤 2: 现在向上抬起臀部。在回到起始姿势前坚持一秒钟。</string>
+	<string name="description_275">肌群：股四头肌 \n\n步骤 1. 以俯卧撑的姿势开始。保持手臂伸展并运用核心肌群。\n\n步骤 2. 将身体重心移到左臂，向右旋转身躯，将右臂朝天举起，使得身体呈一个T字形。 \n\n步骤 3. 坚持3秒，然后回到起始姿势，在另一侧重复动作。这是一次重复。</string>
+	<string name="description_277">肌群: 三角肌 \n\n步骤 1. 手持轻哑铃趴在一个45度的上斜凳上。胸部和腹部应靠在椅背上。\n\n步骤 2. 在身体两侧抬起手肘，直到上臂与地面平行。手臂在这时候应该呈90度角\n\n步骤 3. 不移动上臂，旋转手臂以抬起哑铃，直到前臂与地面平行。您的手臂应该还是维持在正确的角度。之后反转动作，把哑铃放下。</string>
+	<string name="description_36">肌群: 腹斜肌 \n\n步骤 1: 平躺在地上。抬起双脚直到大腿与地面垂直。保持双脚伸直双臂在身体两侧完全伸展。\n\n步骤: 2: 扭转上半身，同时把双脚放下到一侧。坚持一秒钟。\n\n步骤: 3: 回到起始姿势 \n\n步骤 4: 扭转上半身，同时把双脚放下到另一侧。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_4">肌群: 腹直肌\n\n步骤 1: 躺在地上弯曲膝盖，双脚保持18-24寸的距离。手臂伸直贴近身体。\n\n步骤 2: 卷腹3-4寸并触碰右脚脚踝。恢复姿势并重复动作。卷腹并触碰左脚脚踝。卷腹时保持腰部紧贴地面。重复此动作。</string>
+	<string name="description_41">肌群: 腹直肌\n\n步骤 1: 平躺在地上。双手放在身体两侧。双脚完全伸展。步骤 2: 保持双脚伸直并举起双脚，坚持一秒钟。回到起始姿势。</string>
+	<string name="description_55">肌群：臀肌 \n\n步骤 1: 平躺在地上，双脚放在健身球上。双手放在身体两侧稳固位置。 \n\n步骤 2: 臀部向上抬起，坚持一秒钟。回到起始姿势。</string>
+	<string name="description_57">肌群: 腰部\n\n步骤 1: 双脚与肩同宽站立，双手正握哑铃。下降身体直到哑铃位于胫骨的位置。膝盖稍微弯曲。胸部向外挺，背部挺直。\n\n步骤 2: 抬起身体直到身体站直。胸部保持外挺。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_60">肌群: 背阔肌\n\n步骤 1: 一只脚跪在平凳上，一只手放在凳子上支撑身体。另一只脚踏在地上，手持哑铃。\n\n步骤 2: 直直地朝胸部举起哑铃，避免手肘过度外开。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_61">肌群: 背阔肌\n\n步骤 1: 一只脚跪在平凳上，一只手放在凳子上支撑身体。另一只脚踏在地上，手持哑铃。\n\n步骤 2: 直直地朝胸部举起哑铃，避免手肘过度外开。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_69">肌群: 二头肌\n\n步骤 1: 在一个长凳上坐下。背部前倾挺直。一手反握哑铃，手肘放在大腿内侧的位置。\n\n步骤 2: 上臂维持不动举起哑铃。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_70">肌群: 二头肌\n\n步骤 1: 在一个长凳上坐下。背部前倾挺直。一手反握哑铃，手肘放在大腿内侧的位置。\n\n步骤 2: 上臂维持不动举起哑铃。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_80">肌群: 胸肌 \n\n步骤 1: 俯卧在地双手撑地。双手应放在下胸左右的位置。 双手距离与肩同宽。用手臂撑起身体，只有双手和脚趾着地。背部保持挺直。双手稍微指向朝外。\n\n步骤 2: 弯曲手肘降低身体直到胸部距离地面几寸的位置。手肘应向双脚的方向弯曲。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_87">肌群: 胸肌 \n\n步骤 1: 俯卧在地双手撑地。双手应放在下胸左右的位置。双手的距离应稍微宽于肩膀。用手臂撑起身体，只有双手和脚趾着地。背部保持挺直。药球放在其中一只手下面，双手稍微指向朝外。\n\n步骤 2: 弯曲手肘降低身体直到胸部距离地面几寸的位置。手肘应向双脚的方向弯曲。坚持一秒钟。\n\n步骤 3: 回到起始姿势。\n\n步骤 4: 将球滚到另一只手中。\n\n步骤 5: 弯曲手肘降低身体直到胸部距离地面几寸的位置。手肘应向双脚的方向弯曲。坚持一秒钟。\n\n步骤 6: 将身体从地面抬起，把球滚回第一只手。</string>
+	<string name="description_9">肌群: 腹直肌\n\n步骤 1: 平躺在地上。双脚在地，膝盖弯曲。手握重量并完全伸直手臂。\n\n步骤 2: 抬起上半身同时背部紧贴地面。坚持一秒钟。回到起始姿势。</string>
+	<string name="description_96">肌群: 胸肌: \n\n步骤 1: 胸部着地，手掌放在地面。双手握住哑铃,放在下胸两侧。双手的距离应稍微宽于肩膀。用手臂撑起身体，只有双手和脚趾着地。背部保持挺直。双手稍微指向朝外。\n\n步骤 2: 弯曲手肘降低身体直到胸部距离地面几寸的位置。手肘应向双脚的方向弯曲。坚持一秒钟。\n\n步骤 3: 回到起始姿势。\n\n步骤 4: 举起一只手臂让哑铃朝向天空。坚持一秒钟。\n\n步骤 5: 回到起始姿势。\n\n步骤 6: 弯曲手肘降低身体直到胸部距离地面几寸的位置。手肘应向双脚的方向弯曲。坚持一秒钟。\n\n步骤 7: 回到起始姿势。</string>
+	<string name="description_98">肌群: 胸肌 \n\n步骤 1: 手持2个哑铃。双手的距离应稍微宽于肩膀。用手臂撑起身体，只有哑铃和脚趾着地。手持哑铃完全伸直。\n\n步骤 2: 手臂应该抬高到眼睛的位置。\n\n步骤 3: 回到起始姿势。 \n\n步骤 4: 挥动手肘向上举起一只哑铃。手的移动应该是一个直线。坚持一秒钟。\t\n\n步骤 5: 回到起始姿势。\n\n步骤 6: 弯曲手肘降低身体直到胸部距离地面几寸的位置。手肘应向双脚的方向弯曲。坚持一秒钟。\n\n步骤 7: 回到起始姿势 \n\n步骤 8: 挥动手肘向上举起另一只哑铃。手的移动应该是一个直线。坚持一秒。回到起始姿势。</string>
+	<string name="description_10">主要肌肉：腹肌\n其他肌肉：无\n\n1. 平躺于地面，弯曲双腿，将脚掌平放于地面。双手置于耳后，手肘自然向外展开。抬起右腿，将右脚置于左膝上。\n\n2. 向前卷腹转体，试着用左手肘触碰右膝。然后恢复原位，交换双腿位置，向前卷腹，试着用右手肘触碰左膝。重复以上动作。</string>
+	<string name="description_40">主要肌肉：腹斜肌\n其他肌肉：腹肌\n\n1. 平躺于地面。抬起双腿直至与地面垂直。向上伸直手臂。\n\n2. 用手触碰脚趾。保持一秒。回到起始位置。</string>
+	<string name="description_33">主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 双膝支撑于地面，双手握住腹肌轮，让其刚好位于胸部之下。保持背部平整，腹部收紧，头部、颈部与背部呈一条直线。\n\n2. 尽可能向前滚动腹肌轮，始终保持核心部位紧绷。当不可能再远的时候停止运动，始终保持中间位置在背部。\n\n3. 回到初始位置</string>
+	<string name="description_271">主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺于长椅上，小腿勾住扶手。\n\n2. 双手置于脑后，卷腹，挤压腹部肌肉。腹肌用力，然后回到起始位置。</string>
+	<string name="description_19">主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺于地面，双手交叉于胸膛。让膝盖与上半身成90度。双腿并拢。\n\n2. 腹肌用力，同时抬起肩膀和盆骨，像是用膝盖去碰天花板。</string>
+	<string name="description_11">主要肌肉：腹肌\n其他肌肉：无\n\n1. 平躺于地面，弯曲双腿，将脚掌平放于地面。双手置于耳后，手肘自然向外展开。抬起右腿，将右脚置于左膝上。\n\n2. 向前卷腹转体，试着用左手肘触碰右膝。然后恢复原位，交换双腿位置，向前卷腹，试着用右手肘触碰左膝。重复以上动作。</string>
+	<string name="description_49">主要肌肉：臀肌\n其他肌肉：腹斜肌，腰肌\n\n1. 四肢着地，呈跪姿。双腿分开与臀同宽，双手与肩同宽。让脊柱处于正中间的位置。腹肌绷紧，往后背方向用力。\n\n2. 不要有任何水平移动，并且保持腹部处于吸紧状态，慢慢抬起方向相反的手和腿直至与地面平行。跟随你设定的节奏完成动作。\n\n3. 吸气，慢慢收回手和腿，回到起始位置。\n\n4. 重复想要的次数，然后换另一侧的手和腿重复以上动作。</string>
+	<string name="description_34">主要肌肉：腹直肌\n其他肌肉：腰肌\n\n1. 如图所示，平躺于地面，双手垫于尾椎之下，双腿直立。\n\n2. 收紧腹部，向上抬起臀部直至脱离地面若干英寸，注意臀部用力。然后放下臀部。</string>
+	<string name="description_12">主要肌肉：腹斜肌\n其他肌肉：无\n\n1. 侧身躺于地面，双腿伸直。抬起身体离开地面，同时一条手臂支撑于地面。\n\n2. 保持腹肌用力30-60秒。让上半身呈一条直线，手肘刚好位于肩部下方。\n\n3. 恢复到起始位置，然后重复以上动作。</string>
+	<string name="description_42">主要肌肉：腹斜肌\n其他肌肉：腹直肌，腰肌\n\n1. 平躺于地面。抬起双腿直至大腿与地面呈90度。保持腿部伸直。向两侧完全舒展双臂。\n\n2.转动身体的同时，双腿往一边倒下。维持一秒。 \n\n3. 回到起始位置。\n\n4. 转动身体的同时，双腿往另一边倒下。维持一秒。回到起始位置。</string>
+	<string name="description_35">主要肌肉：腹斜肌\n其他肌肉：腹直肌，腰肌\n\n1. 平躺于地面。抬起双腿直至大腿与地面呈90度。保持腿部伸直。向两侧完全舒展双臂。\n\n2.转动身体的同时，双腿往一边倒下。维持一秒。 \n\n3. 回到起始位置。\n\n4. 转动身体的同时，双腿往另一边倒下。维持一秒。回到起始位置。</string>
+	<string name="description_20">主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 双膝支撑于地面，双手握住腹肌轮，让其刚好位于胸部之下。保持背部平整，腹部收紧，头部、颈部与背部呈一条直线。\n\n2. 尽可能向前滚动腹肌轮，始终保持核心部位紧绷。当不可能再远的时候停止运动，始终保持中间位置在背部。\n\n3. 回到初始位置</string>
+	<string name="description_2">主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 面朝上平躺于地面，双腿伸直。手持健身球，双臂伸直于头部上方。\n\n2. 同时抬起上半身和腿部，健身球运往脚的方向。回到起始位置。</string>
+	<string name="description_13">主要肌肉：腹斜肌\n其他肌肉：无\n\n1. 侧身躺于地面，双腿伸直。抬起身体离开地面，同时一条手臂支撑于地面。\n\n2. 保持腹肌用力30-60秒。让上半身呈一条直线，手肘刚好位于肩部下方。\n\n3. 恢复到起始位置，然后重复以上动作。</string>
+	<string name="description_43">主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 平躺于地面，双手分别持一个健身实心球。膝盖弯曲90度，双脚平放于地面，持球与胸部做对抗。\n\n2. 完成仰卧起坐的动作。\n\n3. 挤压腹部肌肉，上半身抬起呈坐姿。\n\n4. 暂停，然后慢慢回到起始位置。看情况重复以上动作。</string>
+	<string name="description_3">主要肌肉：腹直肌\n其他肌肉：腹斜肌，腰肌\n\n1. 平躺于地面。双手持球。双腿完全舒展。往上身方向抬起一条腿并弯曲，将健身球置于弯曲的腿下。\n\n2. 回到起始位置的同时，往上身方向抬起另一条腿并做弯曲状，再一次将健身球置于弯曲的腿下。以上是一套完整的重复动作。</string>
+	<string name="description_50">主要肌肉：臀肌\n其他肌肉：腹斜肌，腰肌\n\n1. 四肢着地，呈跪姿。双腿分开与臀同宽，双手与肩同宽。让脊柱处于正中间的位置。腹肌绷紧，往后背方向用力。\n\n2. 不要有任何水平移动，并且保持腹部处于吸紧状态，慢慢抬起方向相反的手和腿直至与地面平行。跟随你设定的节奏完成动作。\n\n3. 吸气，慢慢收回手和腿，回到起始位置。\n\n4. 重复想要的次数，然后换另一侧的手和腿重复以上动作。</string>
+	<string name="description_14">主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 侧身躺于地面，身体呈一条直线，双臂交叉于胸前。\n\n2. 抬起双腿，确保双腿紧紧地并拢。虽然动作不大，但是你会感觉到腹斜肌受到了充分的挤压。\n\n3. 暂停，然后慢慢回到起始位置。尽可能多地重复以上动作，然后换边。</string>
+	<string name="description_44">主要肌肉：腹肌\n其他肌肉：无\n\n1. 后背朝下平躺于地面，双臂位于身体两侧。手掌朝下。双腿完全伸展。\n\n2. 抬起一条腿至45度，交换两条腿的位置，像剪刀一样。不要让脚碰到地面。</string>
+	<string name="description_51">主要肌肉：臀肌\n其他肌肉：腹斜肌，腰肌\n\n1. 四肢着地，呈跪姿。双腿分开与臀同宽，双手与肩同宽。让脊柱处于正中间的位置。腹肌绷紧，往后背方向用力。\n\n2. 不要有任何水平移动，并且保持腹部处于吸紧状态，慢慢抬起方向相反的手和腿直至与地面平行。跟随你设定的节奏完成动作。\n\n3. 吸气，慢慢收回手和腿，回到起始位置。\n\n4. 重复想要的次数，然后换另一侧的手和腿重复以上动作。</string>
+	<string name="description_58">主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 开始的时候做好俯卧撑的姿势，弯曲手肘，用整个上臂代替手掌支撑起身体的重量。从肩部到脚踝，整个身体呈一条直线。\n\n2. 绷紧腹部肌肉。保持这个姿势30秒，然后放松。</string>
+	<string name="description_59">主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 开始的时候做好俯卧撑的姿势，弯曲手肘，用整个上臂代替手掌支撑起身体的重量。从肩部到脚踝，整个身体呈一条直线。\n\n2. 绷紧腹部肌肉。保持这个姿势30秒，然后放松。</string>
+	<string name="description_15">主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 侧身躺于地面，身体呈一条直线，双臂交叉于胸前。\n\n2. 抬起双腿，确保双腿紧紧地并拢。虽然动作不大，但是你会感觉到腹斜肌受到了充分的挤压。\n\n3. 暂停，然后慢慢回到起始位置。尽可能多地重复以上动作，然后换边。</string>
+	<string name="description_52">主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 开始的时候做好俯卧撑的姿势，弯曲手肘，用整个上臂代替手掌支撑起身体的重量。从肩部到脚踝，整个身体呈一条直线。\n\n2. 绷紧腹部肌肉。保持这个姿势30秒，然后放松。</string>
+	<string name="description_30">主要肌肉：腹斜肌\n其他肌肉：腹直肌，腰肌\n\n1. 平躺于地面。抬起双腿直至大腿与地面呈90度。保持腿部伸直。向两侧完全舒展双臂。\n\n2.转动身体的同时，双腿往一边倒下。维持一秒。 \n\n3. 回到起始位置。\n\n4. 转动身体的同时，双腿往另一边倒下。维持一秒。回到起始位置。</string>
+	<string name="description_16">主要肌肉：腹直肌\n其他肌肉：臀肌\n\n1. 平躺于地面，双手置于身体两侧。\n\n2. 抬起一条腿，弯曲至90度，然后置于另一条伸直的腿上方。\n\n3. 保持该姿势，抬起伸直的那条腿开始锻炼。\n\n4. 按情况重复锻炼动作。变换腿的相对位置，重复以上动作。</string>
+	<string name="description_46">主要肌肉：腰肌\n其他肌肉：臀肌、腿后肌\n\n1. 俯卧于地面。完全伸展手臂，置于身体前方。\n\n2. 向上抬起左腿和右臂。保持一秒。\n\n3. 回到起始位置。\n\n4. 向上抬起右腿和左臂。保持一秒。回到起始位置。</string>
+	<string name="description_233">主要肌肉：腹直肌\n其他肌肉：腹斜肌\n\n1. 开始的时候做好俯卧撑的姿势，弯曲手肘，用整个上臂代替手掌支撑起身体的重量。从肩部到脚踝，整个身体呈一条直线。\n\n2. 绷紧腹部肌肉。保持这个姿势30秒，然后放松。</string>
+	<string name="description_24">主要肌肉：斜腹肌\n其他肌肉：无\n\n1. 坐于地面，将壶铃或实心健身球置于身旁。双腿并拢，屈膝。保持胸部挺立、后背挺直。\n\n2. 举起哑铃或健身球，让它处于胸部的高度。\n\n3. 身体微微向后倾斜，注意不要倒到地上。将双脚抬离地面，保持双膝并拢，腿部弯曲。\n\n4. 快速转动身体，由壶铃牵引着身体从一边转向另一边。胸膛和头部应该随着一起转动，而保持双腿不动。从始至终收紧腹部，保持腹肌用力。</string>
+	<string name="description_17">主要肌肉：腹直肌\n其他肌肉：臀肌\n\n1. 平躺于地面，双手置于身体两侧。\n\n2. 抬起一条腿，弯曲至90度，然后置于另一条伸直的腿上方。\n\n3. 保持该姿势，抬起伸直的那条腿开始锻炼。\n\n4. 按情况重复锻炼动作。变换腿的相对位置，重复以上动作。</string>
+	<!-- FNB -->
+	<string name="description_121">肌肉群：四头肌\n\n第一步：直立，双脚与肩同宽，双手合十置于胸前。\n\n挺直胸部，单脚向侧边跨步，另一条腿屈膝降低身体，后脚在原地向内侧倾。大腿与地面垂直时停止动作，坚持片刻，再返回初始位置。</string>
+	<string name="description_68">1. 稍微屈膝。保持背部弯曲与挺直。单手反握哑铃。手肘置于大腿内侧。\n\n2. 弯举哑铃，保持上臂不动。保持此姿态数秒种。返回初始姿态。</string>
+	<string name="description_72">坐下，两前臂放在大腿或长凳上。反手抓杠，两腕被动伸展：\n\n- 吸气并上卷手腕。 \n\n- 动作完成时呼气。</string>
+	<string name="description_165">肌肉群：四头肌\n\n第一步：站直，双脚分立，与肩同宽。将杠铃放于肩膀后部，正握杠铃，双手距离宽于肩距，调整双脚，微微向外张开。\n\n第二步：屈膝降低重心。整个移动过程，注意背部保持挺直状态。大腿与地面平行时停止动作，回到起始位置时，腰背发力。</string>
+	<string name="description_73">1. 采取坐姿，背部挺直。锤式握着哑铃。保持手臂伸直。\n\n2. 弯举哑铃，保持上臂不动。在进行锻炼期间，不准移动肩膀。保持此姿态数秒种，然后返回初始姿态。</string>
+	<string name="description_122">肌肉群：四头肌\n\n第一步：直立，双脚与肩同宽，双手合十置于胸前。\n\n挺直胸部，单脚向侧边跨步，另一条腿屈膝降低身体，后脚在原地向内侧倾。大腿与地面垂直时停止动作，坚持片刻，再返回初始位置。</string>
+	<string name="description_166">肌肉群：四头肌\n\n第一步：站直，双脚分立，与肩同宽。将杠铃放于肩膀后部，正握杠铃，双手距离宽于肩距，调整双脚，微微向外张开。\n\n第二步：屈膝降低重心。整个移动过程，注意背部保持挺直状态。大腿与地面平行时停止动作，回到起始位置时，腰背发力。</string>
+	<string name="description_74">1. 采取坐姿，背部挺直。反握哑铃，哑铃于身体两侧垂下。保持手臂伸直。\n\n2. 弯举哑铃，保持上臂不动。在进行锻炼期间，不准移动肩膀。保持此姿态数秒种，然后返回初始姿态。</string>
+	<string name="description_206">双手各持哑铃平躺在板上，并从肩部伸直手臂: \n\n- 吸气并慢慢地弯曲手臂。 \n\n- 当你完成运动时，慢慢呼气返回起始位置。这个运动能够平均地锻炼三头肌的每一个头。</string>
+	<string name="description_210">肌肉群：三角肌\n\n第一步：直立，双脚与肩同宽。\n\n第二步：右臂过体完全伸展，同时与地面平行，左臂弯曲，用左臂拉伸右臂并贴近身体，坚持15-25秒，换臂重复此动作。</string>
+	<string name="description_75">肌肉群：肱二头肌\n\n第一步：背部挺直站立，紧握曲杠铃，保持与肩部同宽，曲杠铃置于大腿前部。\n\n第二步：前臂向上提起曲杠铃，肩部保持不动，坚持片刻，放下手臂至初始位置。</string>
+	<string name="description_207">开始的时候，以站姿的形式靠拢(手掌面向前方)握杠铃或E-Z杠铃，双手应分开靠近与肩同宽。双脚亦应分开与肩同宽。现在往头顶上方举起杠铃直至手臂完全伸直。保持肘部弯曲。这将会是你的起始位置。保持上臂紧贴头部且肘部弯曲，与地面呈垂直，在头部后方以半圆运动降低阻力直至前臂接触到三头肌。提示: 上臂应保持固定并应仅移动前臂。当吸气时你会进行这一个步骤。利用三头肌升起杠铃以返回至起始位置。当呼气时你则会进行这一个步骤。</string>
+	<string name="description_211">肌肉群：肱三头肌\n\n第一步：直立，双脚与肩同宽，单手置于上背中心，肘部指向屋顶方向。\n\n第二步：另一只手握住肘部，向下拉肘部并移向头部，坚持15-25秒，另一侧重复此动作。</string>
+	<string name="description_76">1. 反握杠铃，保持手臂伸直。杠铃垂直于伸展的手指之间。\n\n2. 屈腕以将杠铃尽可能高地弯举。\n\n3. 作反向动作以降低杠铃。</string>
+	<string name="description_77">1. 卧躺，双手放在地板上。双手置于胸部下方的两侧。双手距离与肩同宽。用手臂抬举身体，以至仅双手及脚趾触及地面。保持背部挺直。使推球处于单手下方。双手稍微朝外。\n\n2. 屈肘，降低你的身体直到胸部几乎触及地面。手肘应朝脚部弯曲。保持此姿态数秒种。返回初始姿态。\n\n3. 用手滚转推球，重复相同动作。</string>
+	<string name="description_81">1. 躺在地板上。反握哑铃。上臂放在地板上，使哑铃朝上。\n\n2. 朝上伸展手臂。保持数秒种。始终保持全背部躺在板凳上。禁止移动双脚。然后返回初始位置。</string>
+	<string name="description_124">肌肉群：四头肌\n\n第一步：挺直背部站立，双手置于身体两侧。\n\n第二步：轻屈膝部。\n\n第三步：尽可能向高跳跃。</string>
+	<string name="description_208">肌肉群：背阔肌\n\n第一步：站直，双脚与肩同宽，双腿微屈，双手置于身体前方，十指交叉。\n\n伸展双臂并过顶，尽量向高处拉伸，坚持15-25秒。</string>
+	<string name="description_212">肌肉群：肱三头肌\n\n第一步：直立，双脚与肩同宽，单手置于上背中心，肘部指向屋顶方向。\n\n第二步：另一只手握住肘部，向下拉肘部并移向头部，坚持15-25秒，另一侧重复此动作。</string>
+	<string name="description_78">肌肉群：胸肌\n\n第一步：双脚置于台阶器上，双手置于地板上。双手位于胸部下方位置，双手距离略宽于肩距。双臂支撑身体，双手触地，注意保持背部挺直，双手方向微向外。\n\n第二步：屈肘降低身体，直至胸部离地几英寸。屈肘方向应朝向双脚，坚持片刻，再返回初始位置。</string>
+	<string name="description_82">俯卧，手臂伸直，掌心平放于地面上，你的双手与肩同宽（或更宽）。双脚互相靠拢或稍微开立：\n\n- 吸气，屈肘以让躯干靠近地面，避免使你的脊柱过伸。 \n\n- 呼气，撑起回到手臂伸展的姿态，完成动作。</string>
+	<string name="description_79">1. 双手置于板凳上，进入标准的俯卧撑姿态。\n\n2. 降低身体直到胸部几乎触及板凳，暂停，然后返回初始姿态。始终保持恰当的姿态以防止髋部摆动，收紧腹肌，伸直双脚并用脚趾支撑体重，以确保重心稳定。重复动作。</string>
+	<string name="description_83">俯卧，手臂伸直，掌心平放于地面上，你的双手与肩同宽（或更宽）。双脚互相靠拢或稍微开立：\n\n- 吸气，屈肘以让躯干靠近地面，避免使你的脊柱过伸。 \n\n- 呼气，撑起回到手臂伸展的姿态，完成动作。</string>
+	<string name="description_125">肌肉群：四头肌\n\n第一步：直立，背部挺直，双手置于身体两侧。\n\n第二步：双脚向外跳，距离宽于肩宽，同时，举起双臂过头顶。此姿势保持片刻，然后回到初始位置。</string>
+	<string name="description_173">1. 采取站姿，背部挺直，双手各握负重。使负重置于大腿前侧。\n\n2. 向前抬举手臂直到手臂与地面呈平行。保持此姿态数秒种。返回初始位置。</string>
+	<string name="description_209">肌肉群：颈部\n\n第一步：直立，双脚与肩同宽，双臂置于身体两侧。\n\n第二步：将脖子转到一侧，上体微扭转，坚持15-25秒。另一侧重复此动作。</string>
+	<string name="description_84">肌肉群：胸肌\n\n第一步：双手撑地成俯卧姿势，位置置于肩部下方，距离略窄于肩距。双臂撑起身体，仅用手脚撑地，坚持片刻，双手方向略向外。\n\n第二步：屈肘降低身体，直至胸部离地几英寸，屈肘方向应朝向双脚。\n\n第三步：撑起身体的同时，伸展单臂，并坚持片刻，再返回初始位置。</string>
+	<string name="description_213">肌肉群：背阔肌\n\n第一步：深蹲，双脚与肩同宽，双手置于臀部，视线向前看。\n\n第二步：身体向一侧扭曲，直至拉伸身体，另一侧重复此动作。</string>
+	<string name="description_85">肌肉群：胸肌\n\n第一步：双手撑地成俯卧姿势，双手置于胸部下方，双手距离略窄于肩距。双臂支撑身体，仅双手与脚尖触地。背部保持挺直，双手方向略向外。\n\n第二步：屈肘降低身体，使胸与地面距离几英寸，注意肘部向脚的方向弯曲。\n\n第三步：每次撑起时，单手轻触对肩，并坚持片刻，再回到初始位置。</string>
+	<string name="description_214">肌肉群：蹄筋\n\n第一步：直立，双脚距离宽于双肩，双手置于臀部。\n\n第二步：双腿挺直，一手置于另一只手之上，弯腰触地。</string>
+	<string name="description_86">俯卧，手臂伸直，掌心平放于地面上，你的双手与肩同宽（或更宽）。双脚互相靠拢或稍微开立：\n\n- 吸气，屈肘以让躯干靠近地面，避免使你的脊柱过伸。 \n\n- 呼气，撑起回到手臂伸展的姿态，完成动作。</string>
+	<string name="description_90">1. 将两个哑铃置于身体前侧，哑铃距离与肩同宽，跪下并握着哑铃。保持手臂伸直，双脚伸展并略靠着，锁定手肘。\n\n2. 屈肘，保持背部挺直，降低身体至地面。\n\n3. 抬举身体，直到手臂伸直及不锁定手肘。重复动作。</string>
+	<string name="description_131">1. 站直，双脚距离与肩同宽。正握杠铃。双手距离比肩宽。脚稍微朝外。手臂伸展，抬举杠铃过头顶。\n\n2. 屈膝，以降低身体。始终保持背部挺直。当大腿与地面呈平行或杠铃触及地面时，暂停。用下背部的力量来返回初始位置。</string>
+	<string name="description_215">肌肉群：四头肌\n\n第一步：直立，双脚合拢，双手置于身体两侧。\n\n单腿向后弯曲，用手握住脚，拉伸蹄筋，坚持15-25秒，另一条腿重复此动作。</string>
+	<string name="description_91">1. 卧躺，双手放在地板上。双手置于胸部下方的两侧。双手距离与肩同宽。用手臂抬举身体，以至仅双手及脚趾触及地面。保持背部挺直。使推球处于单手下方。双手稍微朝外。\n\n2. 屈肘，降低你的身体直到胸部几乎触及地面。手肘应朝脚部弯曲。保持此姿态数秒种。返回初始姿态。\n\n3. 用手滚转推球，重复相同动作。</string>
+	<string name="description_263">肌肉群：腹直肌\n\n第一步：平躺于地面，双臂置于身体两侧，向上屈膝并静置。\n\n第二步：迅速起身，胸部贴近膝盖，双臂与地面平行。</string>
+	<string name="description_88">1. 将两个哑铃置于身体前侧，哑铃距离与肩同宽，跪下并握着哑铃。保持手臂伸直，双脚伸展并略靠着，锁定手肘。\n\n2. 屈肘，保持背部挺直，降低身体至地面。\n\n3. 抬举身体，直到手臂伸直及不锁定手肘。重复动作。</string>
+	<string name="description_92">1. 以俯卧撑姿态开始，但确保双手置于更前侧，并比肩宽。双脚尽可能远地移前，以抬高髋部。始终保持后背与双脚直。\n\n2. 胸部往下与往前移动，直到它几乎触及地面。肩膀应与双手平行。\n\n3. 暂停，向下推动髋部，伸直手臂。再次暂停，然后作出反向动作，直到你返回初始位置。</string>
+	<string name="description_176">1. 盯着前直方，双脚与肩同宽，正握哑铃，哑铃置于大腿前侧。手臂抬到身体两侧，直到上臂与地面呈平行。\n\n2. 朝前转动手肘，直到前臂朝上。保持此姿态数秒种。返回初始姿态。</string>
+	<string name="description_216">肌肉群：内收肌群\n\n第一步：坐在地上，双脚脚底互抵，背部挺直，双手置于膝盖上。\n\n第二步：向地面降低上身及膝盖，坚持15-25秒。</string>
+	<string name="description_89">肌肉群：胸肌\n\n第一步：双手撑地成俯卧姿势，双手位置放于胸部偏下方，双手具体略宽于肩距。双臂支撑身体，仅双手与脚尖触地。背部保持挺直，双手方向略向外，注意保持背部与腿部挺直。\n\n第二步：手臂保持不动，双腿向双臂方向跳跃，然后再向后跳回初始位置。</string>
+	<string name="description_93">1. 俯卧于稳定球上。双脚置于地板上。正握哑铃，将哑铃置于胸部侧边。\n\n2. 伸展前侧的手臂。暂停片刻。返回初始位置。</string>
+	<string name="description_220">肌肉群：蹄筋\n\n第一步：平躺于地面，双腿完全伸展，双臂置于身体两侧。\n\n第二步：抬起一条腿接近胸部，膝盖保持弯曲，双手放在大腿上，左腿向上身拉，坚持15-25秒。</string>
+	<string name="description_94">1. 双手置于板凳上，进入标准的俯卧撑姿态。\n\n2. 降低身体直到胸部几乎触及板凳，暂停，然后返回初始姿态。始终保持恰当的姿态以防止髋部摆动，收紧腹肌，伸直双脚并用脚趾支撑体重，以确保重心稳定。重复动作。</string>
+	<string name="description_133">肌肉群：股后肌群\n\n第一步：下蹲。中握哑铃，背部挺直，胸部外张，视线向前。\n\n第二步：提起哑铃，哑铃过胫时，向上跳跃。借势举起哑铃并至肩部。\n\n第三步：置哑铃于肩部，借势下蹲，随后站直。\n\n微屈膝部，向上跳跃。\n\n跳跃的同时，举起哑铃并过头部。站直，坚持片刻，返回初始位置。</string>
+	<string name="description_177">站直，哑铃置于身体两侧，双脚间的宽度刚好，以至于你能舒适地持着哑铃。若哑铃用于臂弯举或前平举锻炼，你所施的力量会更大。耸肩，就如你正回答问题，向某人说道“我不晓得。”勿向前弯腰驼背，尝试保持挺直的姿态。如果你发现自己弯腰驼背或后仰，稍微减轻哑铃的重量。</string>
+	<string name="description_217">肌肉群：内收肌群\n\n第一步：直立，双脚具体大大宽于肩距，双手置于臀部。\n\n第二步：身体向一侧减低重心，另一条腿拉直，坚持15-25秒，另一边重复此动作。</string>
+	<string name="description_221">肌肉群：后背\n\n第一步：背部拉直，跪于地面。\n\n第二步：于前部拉直双臂，向后坐，屁股尽量触脚，注意保持背部与头部拉直。</string>
+	<string name="description_95">1. 卧躺于稳定球上。双脚置于地板上。锤式握着两个哑铃。朝胸部上方伸展手臂。\n\n2. 保持手肘略屈，降低哑铃直到哑铃处于上半身两侧。保持此姿态数秒种。返回初始姿态。</string>
+	<string name="description_265">坐在训练椅边缘，握着你背后的训练椅以平衡身体，往前伸直双脚，膝盖微屈。双脚朝你的胸部抬高，使胸部尽量向膝盖靠拢。</string>
+	<string name="description_178">肌肉群：三角肌\n\n第一步：弯腰，双臂垂直握住哑铃，掌心向内，双脚与臀距同宽。\n\n第二步：向外举起哑铃，直至与肩同高，注意背部保持平直，举哑铃的时候可以适当屈肘，然后放下哑铃至初始位置。</string>
+	<string name="description_218">肌肉群：内收肌群\n\n第一步：直立，双脚具体大大宽于肩距，双手置于臀部。\n\n第二步：身体向一侧减低重心，另一条腿拉直，坚持15-25秒，另一边重复此动作。</string>
+	<string name="description_222">肌肉群：后背\n\n第一步：俯卧于地面，伸展身体，双手置于胸前，手掌托地。\n\n第二步：双臂向屋顶方向撑体，双臂完全撑展，坚持15-25秒。</string>
+	<string name="description_97">肌肉群：肱三头肌\n\n第一步：手掌触凳，面朝前方，如图所示。大腿垂直，脚跟牢牢触地。撑直双臂，移动身体，背部置于练习凳前方。\n\n第二步：手臂弯曲成90°角，降低重心如图所示。如果想训练轻松一些，可以弯曲膝盖，双脚向练习凳移动。</string>
+	<string name="description_135">双脚稍微分开站立，手持哑铃于身体两侧：\n\n- 直视前方，微微弓起背部，下蹲。 \n\n- 大腿与地面成平行，伸直双腿，还原动作。\n\n- 完成动作时呼气。</string>
+	<string name="description_183">1. 站直，双脚与肩同宽。正握哑铃。哑铃置于头部侧边。\n\n2. 抬举哑铃过头顶直到手臂完全伸展。保持此姿态数秒种。返回初始位置。</string>
+	<string name="description_219">肌肉群：蹄筋\n\n第一步：平躺于地面，双腿完全伸展，双臂置于身体两侧。\n\n第二步：抬起一条腿接近胸部，膝盖保持弯曲，双手放在大腿上，左腿向上身拉，坚持15-25秒。</string>
+	<string name="description_267">肌肉群：下背\n\n第一步：将曲杠铃置于地板，小腿与杠铃保持一英寸的距离。保持直立，双脚与肩同宽。不要移动臀部，降低重心正握曲杠铃，轻弯膝盖，面部向前，眼睛向前看。\n\n第二步：提举曲杠铃直至站直，坚持片刻，再返回初始位置。</string>
+	<string name="description_99">肌肉群：\n\n第一步：平躺于练习凳上，正握曲杠铃，双手距离略宽于肩距。直臂握曲杠铃，使曲杠铃置于胸部垂直上方。\n\n第二步：曲杠铃向胸部方向下降，肘部贴近身体，直至曲杠铃轻触胸部。坚持片刻，再回到初始位置。注意保持背部始终贴紧练习凳，腿部请勿移动。</string>
+	<string name="description_21">肌肉群：腹直肌\n\n第一步：平躺于地面，双手置于臀侧，充分伸展双腿并轻抬。\n\n第二步：向上身屈腿，坚持片刻，再返回初始位置。</string>
+	<string name="description_136">肌肉群：四头肌\n\n第一步：站直，双脚分立，与肩同宽。用中等力度握住哑铃置于身边。\n\n第二步：保持背部处于挺直状态，同时一只脚向外迈出一步，弯曲膝盖，降低重心。后脚保持原位。当前面的大腿与地面处于平行状态时，停止下降重心。维持这个姿势一秒。返回起始姿势。</string>
+	<string name="description_140">肌肉群：四头肌\n\n第一步：直立，双脚分立，与肩同宽。锤握哑铃于身体两侧。\n\n第二步：背部挺直，单脚向前跨步，屈膝降低重心。大腿与地面平行时停止，坚持片刻，再退回到初始位置。</string>
+	<string name="description_184">肌肉群：三角肌\n\n第一步：站直，双脚分立，与肩同宽。保持背部挺直，手臂轻轻放在身体前方。肘部微微弯曲，两手分握一个哑铃。\n\n第二步：向外举起哑铃，往上抬起至肩膀高度。保持手掌朝向地面方向。\n\n第三步：保持手肘弯曲，慢慢降低回到起始位置，重复以上动作数遍</string>
+	<string name="description_272">肌肉群：四头肌\n\n第一步：站直，双脚分立，与肩同宽。将杠铃放于肩膀后部，正握杠铃，双手距离宽于肩距，调整双脚，微微向外张开。\n\n第二步：屈膝降低重心。整个移动过程，注意背部保持挺直状态。大腿与地面平行时停止动作，回到起始位置时，腰背发力。</string>
+	<string name="description_23">肌肉群：腹肌\n\n第一步：平躺于平衡球，双手托举一健身球于身体上方。\n\n第二步：下身紧贴平衡球，上身向上抬，坚持片刻，再返回初始位置。</string>
+	<string name="description_137">肌肉群：四头肌\n\n第一步：站直，双脚分立，与肩同宽。用中等力度握住哑铃置于身边。\n\n第二步：保持背部处于挺直状态，同时一只脚向外迈出一步，弯曲膝盖，降低重心。后脚保持原位。当前面的大腿与地面处于平行状态时，停止下降重心。维持这个姿势一秒。返回起始姿势。</string>
+	<string name="description_141">肌肉群：三角肌\n\n第一步：蹲在一只哑铃上方，保持弓后背姿势，双脚与肩同宽。\n\n第二步：紧抓哑铃，收紧腹肌，迅速向上提起哑铃，直至手臂垂直并锁住，注意哑铃贴近身体一动，勿向外摇摆。\n\n第三步：举过头顶，坚持片刻，然后回到初始位置。</string>
+	<string name="description_185">1. 坐在斜板上，双手各握一个哑铃，手臂伸直并置于身体两侧。\n\n2. 保持手肘伸直，向前抬举哑铃，直到双手处于眼睛水平。\n\n3. 始终保持手腕后部平直及手肘伸直。返回初始位置。</string>
+	<string name="description_225">肌肉群：四头肌\n\n第一步：直立，双脚距离宽于肩距，双臂伸展，将健身球置于身前，调整双脚微向外张。\n\n第二步：屈膝降低身体，运动过程背部保持挺直，大腿平行于地面时停止，用后背发力回到初始位置。</string>
+	<string name="description_269">肌肉群：四头肌\n\n双手撑地成俯卧姿势，位置接近头部，手距略宽于肩距。双臂支撑身体，仅手脚触地，注意保持背部挺直，双手方向略向外。\n\n第二步：单腿向上身方向弯曲。\n\n第三步：此腿复原至初始位置，另一条腿向上身方向弯曲。重复进行此动作。</string>
+	<string name="description_273">1. 采取坐姿，背部挺直，两个杠铃个别置于两只大腿下部。在移动杠铃时，用双手平衡身体。\n\n2. 踮脚尖，提踵。保持此姿态数秒种。小腿放回地面上。</string>
+	<string name="description_190">站立，双腿轻微展开。反手握住杠铃并将其放在大腿上。保持背部挺直并收缩腹肌：\n\n- 吸气并手臂挺直向前将杠铃举至将至眼睛处。 \n\n- 完成动作后呼气。</string>
+	<string name="description_274">1. 保持站姿，背部挺直，杠铃置于肩膀上方。反握杠铃。双手距离比肩膀宽。\n\n2. 踮脚尖，提踵。保持此姿态数秒种。小腿放回地面上。</string>
+	<string name="description_139">1. 站立，双脚与肩同宽。尽可能高地向前抬举单脚。\n\n2. 用腹部吸气，臂部往后推并尽可能地蹲下，同时尽力保持躯干挺直。深蹲时前脚踵可触及地面，若你能蹲地很下。\n\n3. 呼气，返回初始位置。换另一只脚重复动作。</string>
+	<string name="description_31">肌肉群：腹直肌\n\n第一步：平躺于地面，双手置于身体两侧，伸展双腿。\n\n第二步：举起双腿，成30°角，坚持片刻。\n\n第三步：举起双腿，成60°角，坚持片刻。\n\n第四步：举起双腿，成90°角，坚持片刻，再回到初始位置。</string>
+	<string name="description_187">坐在长凳上，向前倾，脚放至地面并拢。将哑铃举至侧面，你可以保持手放直并慢慢将其放回起始位置。</string>
+	<string name="description_28">侧躺，以腿部开始。转向一侧，身体抬离地面，一只屈臂与地面平行。尽量保持身体呈一直线，你的肘部正好位于肩部下方。</string>
+	<string name="description_32">坐在训练椅边缘，握着你背后的训练椅以平衡身体，往前伸直双脚，膝盖微屈。双脚朝你的胸部抬高，使胸部尽量向膝盖靠拢。</string>
+	<string name="description_192">站立，膝盖微屈。你的躯干前倾约45度，保持你的背部挺直。反握着杠桿，双手比肩宽，让你的手臂垂向地面。\n\n- 吸气，等长收缩腹部，将杠桿垂直向上拉，直到它触及你的胸部。\n\n- 呼气，回到初始姿态。</string>
+	<string name="description_29">侧躺，以腿部开始。转向一侧，身体抬离地面，一只屈臂与地面平行。尽量保持身体呈一直线，你的肘部正好位于肩部下方。</string>
+	<string name="description_276">1. 双脚与肩同宽。双手垂直于身体两侧。\n\n2. 确保手臂伸直，缓慢地抬举哑铃至肩膀水平，同时屈臂直到手臂呈90度及前臂与身体呈平行。保持手掌朝地。\n\n3. 保持屈肘，缓慢地降回初始位置，重复目标锻炼次数。</string>
+	<string name="description_189">通过手肘把横杠举向你的下巴。当上臂与地面平行时，停止推举，并将其以举起相同的路线放低至。当你达到你动作的最高点时，你的手肘应该高于你的手腕。</string>
+	<string name="description_193">肌肉群：胸肌\n\n第一步：双手触地，置于胸前，手距略宽于肩距。双臂支撑身体，仅双手与双脚触地，注意背部保持挺直，双手方向略向外。\n\n第二步：降低身体，直至双肘接近地面，坚持片刻，再返回初始地面。</string>
+	<string name="description_102">1. 进入标准的俯卧撑姿态，即双手置于肩膀下方。但这次吩咐你的伙伴将负重放在你的背上，即肩胛之间。\n\n2. 屈肘以降低身体直到胸部触及地面，保持背部挺直。\n\n3. 暂停，然后抬举身体。</string>
+	<string name="description_278">肌肉群：肱三头肌\n\n第一步：保持直立，双脚与肩同宽，过头举哑铃，双手位置如图所示。肘部弯曲，将哑铃悬于背部上方。\n\n第二步：伸展肘部，放松手腕，过头举哑铃。举至顶部，坚持片刻，再返回初始位置。重复此动作。</string>
+	<string name="description_37">肌肉群：腹直肌\n\n第一步：平躺于地面，伸展双腿，双手放于头下。\n\n第二步：用手触脚尖，坚持片刻，再返回初始位置。</string>
+	<string name="description_38">肌肉群：腹直肌\n\n第一步：平躺于地面，双手置于身体两侧，充分伸展双腿并微微抬起。腿部挺直，并抬单腿。\n\n第二步：双腿交替进行此动作。</string>
+	<string name="description_147">1. 站在板凳前侧大约2-3英尺，保持背部挺直，双手各握一个哑铃。右脚往后伸展，另一只脚放在板凳上。\n\n2. 当你缓慢地屈左脚时或降低身体以进入弓箭步姿态时，保持背部挺直并昂头。当左大腿约与地面呈平行时，暂停。\n\n3. 缓慢地提高身体，直到左脚再次伸直，然后重复动作。切记换脚锻炼。</string>
+	<string name="description_279">抬起手把到眼部的上方，保持三头肌在一些拉力状态下的同时双臂处于延伸位置。现在，让上臂固定在延伸的位置，同时弯曲肘部，慢慢将杠铃往额头方向放下。</string>
+	<string name="description_39">肌肉群：腹斜肌\n\n第一步：平躺于地面，抬腿与地面垂直，双手置于头下。\n\n第二步：移动左肘与右腿至其相触。\n\n第三步：移动左肘与右腿，返回初始位置。同时，移动右肘与左腿至其相触。重复此动作。</string>
+	<string name="description_104">肌肉群：胸肌\n\n第一步：平躺于下斜式练习凳，正握哑铃，双臂伸直。\n\n第二步：哑铃向胸部方向下降，肘部贴近身体。坚持片刻再返回初始位置，注意保持背部始终贴紧练习凳，腿部不要移动。</string>
+	<string name="description_236">肌肉群：四头肌\n\n第一步：站直，双脚分立，与肩同宽。用中等力度握住哑铃置于身边。\n\n第二步：保持背部处于挺直状态，同时一只脚向外迈出一步，弯曲膝盖，降低重心。后脚保持原位。当前面的大腿与地面处于平行状态时，停止下降重心。维持这个姿势一秒。返回起始姿势。</string>
+	<string name="description_5">肌肉群：腹直肌\n\n第一步：平躺于地面，抬双腿直至与地面垂直。在身体前方完全伸直双臂。\n\n双手触脚尖，坚持片刻，再返回初始位置。</string>
+	<string name="description_45">1. 俯卧于地板。手臂往前伸直。\n\n2.往上抬高双脚与上半身。保持此姿态一秒钟。返回初始姿态。</string>
+	<string name="description_105">肌肉群：胸肌\n\n第一步：平躺于下斜式练习凳，正握哑铃，双臂伸直。\n\n第二步：哑铃向胸部方向下降，肘部贴近身体。坚持片刻再返回初始位置，注意保持背部始终贴紧练习凳，腿部不要移动。</string>
+	<string name="description_6">肌肉群：腹直肌\n\n第一步：平躺于地面，双手放于头下，弯曲膝部，双脚贴于地面。\n\n第二步：上身向上，坚持片刻，再回到初始位置。</string>
+	<string name="description_149">1. 站直，平椅置于你后方。双脚与肩同宽。杠铃置于肩膀后方。正握杠铃。双手距离比肩宽。脚朝外。\n\n2. 屈膝，以降低身体。始终保持背部挺直。当大腿与地面呈平行或杠铃触及地面时，暂停。用下背部的力量来返回初始位置。</string>
+	<string name="description_153">1. 站直，双脚与髋同宽，双手握着杠铃，双臂置于身体两侧。\n\n2. 保持背部挺直，缓慢地抬举两只脚的脚趾，尽力抬高脚跟。\n\n3. 暂停，然后缓慢地降低脚跟。</string>
+	<string name="description_7">平躺在地板上。双脚平放在地板上，膝盖弯屈。双臂彻底往上伸直。上半身往上抬举，同时确保您的下半身在地板上。维持一秒鐘。回到初始姿态。</string>
+	<string name="description_8">坐在地板上，双腿弯屈，躯干稍微往后倾。手臂挺直 ，双手合握于躯干前。躯干转向一侧，然后回到中心位置，继而向另一侧旋转躯干。</string>
+	<string name="description_47">站立，膝盖微屈。你的躯干前倾约45度，保持你的背部挺直。反握着杠桿，双手比肩宽，让你的手臂垂向地面。\n\n- 吸气，等长收缩腹部，将杠桿垂直向上拉，直到它触及你的胸部。\n\n- 呼气，回到初始姿态。</string>
+	<string name="description_106">初始姿态为坐在训练椅上，握着哑铃并将之紧贴大腿。躯干向后屈，直到仰卧在训练椅上，使用大腿以协助你将哑铃推举至胸部。然后，手臂朝胸部上方伸直（保持肘部微屈），掌心向前。保持你的双腿平方于地板上，背部处于中立姿态（至多允许背部稍微拱起）。肘部向两侧弯屈，以降低哑铃。持续动作直到你的肘部略低于肩部。然后，再次往上推举哑铃，让哑铃在高位互相靠拢（互不接触），并略向内侧微屈。保持你的肘部微屈，而不是锁定肘部关节。重复动作直到你完成一组锻炼。为了起坐，持着哑铃紧贴胸部，向上踢腿，接着向前倾以让你的身体有动力起坐。</string>
+	<string name="description_154">肌肉群：四头肌\n\n第一步：背部挺直站立，双手置于身体两侧托练习凳。\n\n第二步：轻屈膝。\n\n第三步：尽量向高跳跃，屈膝贴向胸部。</string>
+	<string name="description_198">1. 背部躺在稳定球上。双手各握一个哑铃，手臂置于胸部上方并伸直。\n\n2. 屈肘，将哑铃降至头部侧边。\n\n3. 伸直手臂，抬高哑铃至初始位置。</string>
+	<string name="description_48">1. 俯卧于地板。手臂往前伸直。\n\n2.往上抬高双脚与上半身。保持此姿态一秒钟。返回初始姿态。</string>
+	<string name="description_53">1. 俯卧于地板。手臂往前伸直。\n\n2.往上抬高双脚与上半身。保持此姿态一秒钟。返回初始姿态。</string>
+	<string name="description_107">双脚放在凳子或斜板上，进入标准的俯卧撑姿态。\n\n2. 降低身体直到胸部几乎触及地面，暂停，返回初始位置。始终保持恰当的姿态以防止髋部摆动，收紧腹肌，伸直双脚并用脚趾支撑体重，以确保重心稳定。</string>
+	<string name="description_199">1. 双脚与肩同宽，膝略屈。双手各握一个轻的哑铃，腰部前倾。直到躯干几乎直下，手掌向内，如图所示。\n\n2. 向上抬举负重至胸部侧边，手臂弯曲角度恰当。理想的是，上臂应与地面呈平行。\n\n3. 手臂立即往后屈伸。\n\n4. 收紧三头肌，屈肘以将负重降回身体两侧。\n\n5. 降低负重直到手臂在肩膀下方下垂。</string>
+	<string name="description_54">肌肉群：胸肌\n\n第一步：中手握两个哑铃，双手距离略宽于肩距，双臂撑体，仅哑铃与脚尖触地。注意保持背部挺直，双手方向略向外。\n\n第二步：屈肘降低身体，使胸部靠近地面。屈肘方向应朝向双脚，坚持片刻。\n\n第三步：返回初始位置。\n\n第四步：向上提肘，手垂直抬起哑铃，坚持片刻。\n\n第五步：返回初始位置。\n\n第六步：换手，重复上述动作。</string>
+	<string name="description_108">此锻炼与杠铃屈臂上拉极其类似，只是你使用哑铃，而不是杠铃。背部着地平躺。初始姿态是持着哑铃并将其置于胸部上方，肘部微屈。手臂伸展（与哑铃一起）至尽可能远的头部后方，以缓慢地降低哑铃。实际上，你的手臂和哑铃将处于你头部的后方/上方，并垂落于训练椅的下方，这动作可让你大幅度地伸展肌肉！缓慢地使哑铃回到初始位置，专注于保持你的微屈肘部是锁定的。</string>
+	<string name="description_200">肌肉群：肱三头肌\n\n第一步：垂直站立，双脚与肩同宽，左手握一个轻型哑铃。\n\n第二步：左臂垂直，过头举起哑铃，伸右臂用右手环扣左肘，使上臂保持平稳。\n\n第三步：上臂保持不动，缓慢曲左肘，降下哑铃，尽力置于头部后方。\n\n第四步：伸展哑铃过头部，直至左臂伸直，重复此套动作。哑铃换至右手，右臂重复此动作。</string>
+	<string name="description_56">肌肉群：背阔肌\n\n第一步：轻弯膝盖，背部直弯，中握哑铃至身体两侧。\n\n第二步：垂直向胸部提起哑铃，注意肘部勿向外张开。坚持片刻，再返回初始位置。</string>
+	<string name="description_201">肌肉群：肱三头肌\n\n第一步：垂直站立，双脚与肩同宽，左手握一个轻型哑铃。\n\n第二步：左臂垂直，过头举起哑铃，伸右臂用右手环扣左肘，使上臂保持平稳。\n\n第三步：上臂保持不动，缓慢曲左肘，降下哑铃，尽力置于头部后方。\n\n第四步：伸展哑铃过头部，直至左臂伸直，重复此套动作。哑铃换至右手，右臂重复此动作。</string>
+	<string name="description_62">肌肉群：腿后肌\n\n第一步：站直，双脚分开，与肩同宽。将杠铃置于双肩后。反手握住杠铃。手掌间的距离须大于肩宽。调整脚尖，微微向外张开。\n\n第二步：保持背部挺直的同时，弯曲上本身直至与地面平行。维持该姿势1秒。返回到起始动作位置。</string>
+	<string name="description_202">肌肉群：肱三头肌\n\n第一步：手掌触凳，面朝前方，如图所示。大腿垂直，脚跟牢牢触地。撑直双臂，移动身体，背部置于练习凳前方。\n\n第二步：手臂弯曲成90°角，降低重心如图所示。如果想训练轻松一些，可以弯曲膝盖，双脚向练习凳移动。</string>
+	<string name="description_63">肌肉群：背阔肌\n\n第一步：双膝微微弯曲。俯身并保持背部挺直。双手间距与肩同宽，反握EZ曲杆，并将之置于身下。\n\n第二步：往胸部方向垂直向上提起EZ曲杆。限制手肘向外扩张。维持该姿势1秒钟。返回到起始动作位置。</string>
+	<string name="description_64">站立，膝盖微屈。你的躯干前倾约45度，保持你的背部挺直。反握着杠桿，双手比肩宽，让你的手臂垂向地面。\n\n- 吸气，等长收缩腹部，将杠桿垂直向上拉，直到它触及你的胸部。\n\n- 呼气，回到初始姿态。</string>
+	<string name="description_115">肌肉群：腹直肌\n\n第一步：俯卧于地面，仅用双手与脚尖支撑于地面，背部保持挺直。\n\n第二步：双臂保持不动，双脚向胸部位置跳跃，再跳跃回初始位置。</string>
+	<string name="description_203">1. 坐在板凳上，双手各握一个压力。手臂完全伸展至头顶上，手掌相对。\n\n2. 当你降低哑铃至头后方直到前臂与地面呈平行时，保持上臂稳定。\n\n3. 暂停，伸直手臂以将哑铃置于初始位置。</string>
+	<string name="description_65">1. 背部挺直，坐在训练球上，双手各握一个哑铃，身体两侧的手臂伸直。手掌朝外，如图所示。\n\n2. 缓慢地屈肘以弯举手臂，哑铃朝向肩膀水平，而不改变手臂的位置。仅仅是屈肘以弯曲手臂，而不向其它方向移动。在抬举哑铃时，勿转动手腕。</string>
+	<string name="description_66">肌肉群：肱二头肌\n\n第一步：微屈膝部，背部挺直，膝外部下握哑铃。\n\n第二步：上臂不动，提起哑铃，坚持片刻，再回到初始位置。</string>
+	<string name="description_67">站立，双脚与臂部同宽，当你握着中等重量的哑铃，并将其置于大腿前侧时，收缩腹肌。挤压肱二头肌和屈臂，朝肩部举起负重。保持肘部固定，尽量举高哑铃，而不活动肘部。缓慢地降低哑铃，在低位时确保肘部稍微弯屈（例如，勿锁定关节，尝试保持肌肉的张力）</string>
+	<string name="description_71">1. 俯卧于下斜椅上。反握哑铃，哑铃悬挂于身体两侧。保持手臂伸直。\n\n2. 缓慢地抬举哑铃。手腕始终保持固定，勿转动它们，保持上臂垂直于地面。</string>
+	<string name="description_195">1. 卧躺，双手放在地板上。双手置于胸部下方的两侧。双手距离与肩同宽。用手臂抬举身体，以至仅双手及脚趾触及地面。保持背部挺直。使推球处于单手下方。双手稍微朝外。\n\n2. 屈肘，降低你的身体直到胸部几乎触及地面。手肘应朝脚部弯曲。保持此姿态数秒种。返回初始姿态。\n\n3. 用手滚转推球，重复相同动作。</string>
+	<string name="description_117">站立，双脚与肩同宽，双手握着负重往头上伸直。弯曲膝盖以降低臂部，单脚向前迈步 降低直到膝盖后方几乎触及地面. 保持挺直姿态和膝盖前缘超过脚尖。领引脚的脚跟施以推力，伸展双脚膝盖，往上抬起身体。后脚向前迈步，重复弓步锻炼。</string>
+	<string name="description_120">站立，双脚与肩同宽，双手握着负重往头上伸直。弯曲膝盖以降低臂部，单脚向前迈步 降低直到膝盖后方几乎触及地面. 保持挺直姿态和膝盖前缘超过脚尖。领引脚的脚跟施以推力，伸展双脚膝盖，往上抬起身体。后脚向前迈步，重复弓步锻炼。</string>
+	<string name="description_159">站立，双脚靠拢，面向合适高度的训练凳。初始姿态： - 开始动作为往上挪一步，左脚放在训练凳上。- 伸展臂部和前脚的膝盖以站立在训练凳上。- 当你用左脚站立于训练凳上时，弯曲右边的膝盖和臂部，尽可能高地抬举膝盖。以相反的动作走下训练凳，然后换另一只脚重复动作。</string>
+	<string name="description_160">1. 杠铃架在背部上方，正握握住杠铃，两手距离稍微比肩膀宽。\n\n2. 两脚距离8寸站开，脚趾朝前。\n\n3. 往前迈出一步（2-3尺），收缩腹部，上身保持直立。\n\n4. 缓缓地降低一边的膝盖，像是跪下一样另一边的膝盖弯曲成90度，膝盖不要动地。\n\n5. 降低身体，维持姿势一阵子，然后再回到起始姿势。两脚替换方向重复动作。</string>
+	<string name="description_162">1. 杠铃架在背部上方，正握握住杠铃，两手距离稍微比肩膀宽。\n\n2. 两脚距离8寸站开，脚趾朝前。\n\n3. 往前迈出一步（2-3尺），收缩腹部，上身保持直立。\n\n4. 缓缓地降低一边的膝盖，像是跪下一样另一边的膝盖弯曲成90度，膝盖不要动地。\n\n5. 降低身体，维持姿势一阵子，然后再回到起始姿势。两脚替换方向重复动作。</string>
+	<string name="description_268">1. 坐在上斜凳上，双手各持一只哑铃，手臂自然伸直。手肘贴近身体。\n\n2. 转动掌心，掌心朝向身体。这是起始姿势。\n\n3. 上臂固定，弯举哑铃。上举过程中，哑铃超过大腿位置时旋转手腕，使掌心向后。呼气时肱二头肌收缩，并确保只有前臂移动。继续动作直到肱二头肌完全收缩，并且哑铃到达肩膀高度。维持收缩肱二头肌的姿势一秒。\n\n4. 缓缓地把哑铃放回起始姿势，吸气，旋转手腕回到中握的姿势。\n\n5. 重复该动作至推荐的重复次数。</string>
+	<string name="active_rest_day_title">活跃的休息日</string>
+	<string name="active_rest_day_description">训练的持续性是您看见真正的锻炼成果，以及健康益处的关键。您越是坚持训练，您越快看到具体的成果。\\n\\n 进度显示了训练得越多，身体的健身效果越明显。它是帮助您维持健康体重的平衡。消耗的能量一定要等于，或是大于摄取的能量。</string>
+	<string name="add_or_remove_exercise">增加或移除训练</string>
+	<string name="after_days">在 %1$d 天的不活跃后</string>
+	<string name="begin_workout">开始锻炼</string>
+	<string name="cancel">取消</string>
+	<string name="cardio_description">20到40分钟的心血管活动，对于促进新陈代谢的活跃十分重要，并帮助额外卡路里的消耗，进而达到减肥的效果\n\n 我建议在早餐之前就先进行有氧运动。这样，您接下来的一天能量将大大提升。这在开始时会有点困难，但是在一个星期后，您将会感到非常地美好，您会进入一个周期循环之中。\n\n 如果您无法做到这一点，我会建议您在重量训练，或是在晚餐后进行有氧运动。戴上耳机听听您喜欢的音乐，有助于您愉快地度过这段时光。</string>
+	<string name="cardio">有氧运动</string>
+	<string name="category_1">腹部</string>
+	<string name="category_2">背部</string>
+	<string name="category_3">二头肌</string>
+	<string name="category_4">胸部</string>
+	<string name="category_6">肩旁</string>
+	<string name="category_7">三头肌</string>
+	<string name="category_8">伸展</string>
+	<string name="change_exercise_order">更换训练秩序</string>
+	<string name="choose_a_custom_length">选择一个自定义长度</string>
+	<string name="create_custom_workout_title">按着 + 则创建新的锻炼</string>
+	<string name="contact_v">时时得到VGFIT的消息</string>
+	<string name="current_settings">当前设置</string>
+	<string name="custom">自定义</string>
+	<string name="daily_reminder">每日提醒</string>
+	<string name="done">完成</string>
+	<string name="done_w">完成</string>
+	<string name="download_all_videos">下载所有视频</string>
+	<string name="downloading_videos">内容下载中</string>
+	<string name="edit">编辑</string>
+	<string name="edit_custom_workout">编辑自定义的锻炼</string>
+	<string name="endurance">耐力</string>
+	<string name="endurance_description">总燃脂有氧运\n动的改善</string>
+	<string name="enter_workout_name">输入锻炼名称:</string>
+	<string name="exercise_length_key">锻炼时长 (秒):</string>
+	<string name="exercise_name">训练名称</string>
+	<string name="exercises">训练</string>
+	<string name="extra_plan_workouts">额外的锻炼计划</string>
+	<string name="focused">专注</string>
+	<string name="focused_description">整体的健美和\n能量获取</string>
+	<string name="frequency_days">频率</string>
+	<string name="go">开始</string>
+	<string name="halfway">完成一半了</string>
+	<string name="history">历史</string>
+	<string name="hit_choice">HIT (高强度间歇训练)</string>
+	<string name="hit_choice_description">30 秒的训练， 15 秒的休息</string>
+	<string name="how_many_minutes">多少分钟？</string>
+	<string name="intervals">间隔</string>
+	<string name="kcal">千卡</string>
+	<string name="length_of_rest_break">休息时长(秒):</string>
+	<string name="min">分钟</string>
+	<string name="mobility">灵活性</string>
+	<string name="mobility_description">获得健美以及\n柔软的身躯</string>
+	<string name="more">更多</string>
+	<string name="more_sec">更多秒数</string>
+	<string name="my_workouts">我的锻炼</string>
+	<string name="new_workout_name">新锻炼名称</string>
+	<string name="next_exercise">下一个训练</string>
+	<string name="ok">好的</string>
+	<string name="pausing_workout">暂停锻炼中</string>
+	<string name="plans">计划</string>
+	<string name="premium">高级</string>
+	<string name="prepare">准备</string>
+	<string name="prepare_workout">准备锻炼</string>
+	<string name="preview">预览</string>
+	<string name="preview_key">预览:</string>
+	<string name="preview_time_interval_key">间歇时间预览 (秒):</string>
+	<string name="rate_us">对我们进行评级</string>
+	<string name="reminder">提醒</string>
+	<string name="rename_workout">重新命名锻炼</string>
+	<string name="repetition">REPETITION</string>
+	<string name="repetitions">重复</string>
+	<string name="reset">重设</string>
+	<string name="rest_time">休息时间</string>
+	<string name="rest_time_key">休息时间:</string>
+	<string name="restore">恢复</string>
+	<string name="resuming_workout">恢复锻炼中</string>
+	<string name="round">轮次</string>
+	<string name="rounds">轮次</string>
+	<string name="save">储存</string>
+	<string name="search_for_exercise">搜寻训练项目</string>
+	<string name="sec">秒</string>
+	<string name="seconds">秒</string>
+	<string name="selected_exercise">已选定的训练项目</string>
+	<string name="send_feed">发送反馈意见</string>
+	<string name="set_custom_interval">设置自定义间隔</string>
+	<string name="sets">训练组</string>
+	<string name="settings">设定</string>
+	<string name="sharef">在Facebook分享</string>
+	<string name="skip">略过</string>
+	<string name="start">开始</string>
+	<string name="start_7_minutes">开始7分操</string>
+	<string name="start_workout">起始锻炼</string>
+	<string name="strenght">力量</string>
+	<string name="strenght_description">获得强壮的纯\n肌肉增长</string>
+	<string name="tabata_choice">TABATA</string>
+	<string name="tabata_description">20 秒的训练， 10 秒的休息</string>
+	<string name="tell_friend">推荐朋友</string>
+	<string name="time_sec">时间(秒)</string>
+	<string name="time_to_workout">是时候锻炼了！</string>
+	<string name="title_7_minutes">7分操</string>
+	<string name="try_a_new_timing_variation">尝试新的计时变数</string>
+	<string name="tweet">推特我们</string>
+	<string name="upgrade_now">现在就升级</string>
+	<string name="weight_kg">重量(公斤)</string>
+	<string name="work_time">锻炼时间</string>
+	<string name="workout">锻炼</string>
+	<string name="workout_done">锻炼完成，做得很棒</string>
+	<string name="workouts">锻炼</string>
+	<string name="delete">删除</string>
+	<string name="category_5">双腿</string>
+	<string name="pause">暂停</string>
+	<string name="resume">恢复</string>
+	<string name="other_apps">我们的其它应用程式</string>
+	<string name="rest_next_exercise">下一个训练</string>
+	<string name="rest_last_exercise">最后一个训练:</string>
+	<string name="workouts_category_description_header">20项锻炼而且没有广告</string>
+	<string name="workouts_category_description_footer">内置锻炼播放器，内容专注于居家训练、燃脂、增加肌肉以及获得精壮的腹肌</string>
+	<string name="undo">消除</string>
+	<string name="exercise_75">EZ曲杠二头弯举</string>
+	<string name="exercise_222">辅助伸展腰部手臂</string>
+	<string name="exercise_267">EZ曲杠硬举</string>
+	<string name="extra_workout_1">减重计划</string>
+	<string name="extra_workout_2">健身计划</string>
+	<string name="extra_workout_3">腹肌与核心</string>
+	<string name="day">天</string>
+	<string name="superset_1">极速高强度间歇训练</string>
+	<string name="superset_equipment_1">软垫• 哑铃</string>
+	<string name="superset_2">高强度</string>
+	<string name="superset_3">燃脂训练循环</string>
+	<string name="superset_4">集中训练营</string>
+	<string name="superset_5">核心力量</string>
+	<string name="superset_6">总锻炼效果</string>
+	<string name="superset_7">强化</string>
+	<string name="superset_8">核心塑形</string>
+	<string name="superset_9">身体屈肌</string>
+	<string name="superset_10">下半身</string>
+	<string name="superset_11">全身锻炼</string>
+	<string name="superset_12">强度间歇</string>
+	<string name="superset_13">总效果</string>
+	<string name="superset_14">极速有氧运动</string>
+	<string name="superset_15">腹肌燃脂训练</string>
+	<string name="superset_16">循环间断</string>
+	<string name="superset_17">腹肌与手臂</string>
+	<string name="superset_18">TABATA间歇锻炼</string>
+	<string name="superset_19">能量的平衡</string>
+	<string name="superset_20">核心控制</string>
+	<string name="superset_21">动态循环</string>
+	<string name="superset_22">专注在腹肌</string>
+	<string name="superset_23">获得能量</string>
+	<string name="superset_24">全身健美</string>
+	<string name="superset_equipment_10">软垫 • 哑铃 • 长凳</string>
+	<string name="superset_equipment_23">软垫 • 哑铃 • 长凳</string>
+	<string name="superset_equipment_3">软垫 • 哑铃 • 长凳</string>
+	<string name="superset_equipment_4">软垫 • 哑铃 • 长凳</string>
+	<string name="superset_equipment_6">软垫 • 哑铃 • 长凳</string>
+	<string name="superset_equipment_9">软垫 • 哑铃 • 长凳</string>
+	<string name="superset_equipment_11">软垫• 长凳</string>
+	<string name="superset_equipment_13">软垫• 长凳</string>
+	<string name="superset_equipment_14">软垫• 长凳</string>
+	<string name="superset_equipment_15">软垫• 长凳</string>
+	<string name="superset_equipment_17">软垫• 长凳</string>
+	<string name="superset_equipment_19">软垫• 哑铃</string>
+	<string name="superset_equipment_20">软垫• 哑铃</string>
+	<string name="superset_equipment_21">软垫• 哑铃</string>
+	<string name="superset_equipment_22">软垫• 哑铃</string>
+	<string name="superset_equipment_24">软垫• 哑铃</string>
+	<string name="superset_equipment_7">软垫• 哑铃</string>
+	<string name="superset_equipment_8">软垫</string>
+	<string name="superset_equipment_5">软垫</string>
+	<string name="superset_equipment_2">训练软垫</string>
+	<string name="superset_equipment_12">软垫• 椅子</string>
+	<string name="cardio_title">跑步 • 旋转 • 游泳 • 骑自行车</string>
+	<string name="focus">专注</string>
+	<string name="equipment">设备</string>
+	<string name="seven_days_plan">7天锻炼计划</string>
+	<string name="plan_focus_1">燃脂•肌肉耐力•强健力量 • 核心力量•全身力量和能量</string>
+	<string name="plan_equipment_1">软垫 • 长凳•哑铃 • 杠铃</string>
+	<string name="plan_seven_days_plan_1">中度与强度等级 • 初学者与进阶学者</string>
+	<string name="plan_focus_2">纯肌肉的增长 • 胸部 • 手臂•肩膀 • 下半身核心力量全身锻炼• 能量增长</string>
+	<string name="plan_equipment_2">软垫 • 长凳 • 哑铃 • 杠铃</string>
+	<string name="plan_seven_days_plan_2">中度与强度等级 • 初学者与进阶学者</string>
+	<string name="plan_focus_3">燃脂• 核心力量 • 循环训练 • 下半身耐力</string>
+	<string name="plan_equipment_3">训练软垫</string>
+	<string name="plan_seven_days_plan_3">中度与强度等级 • 初学者与进阶学者</string>
+	<string name="unlock_plan">解锁计划</string>
+	<string name="extra_equipment_11">杠铃</string>
+	<string name="extra_equipment_12">长凳 •  杠铃 •  哑铃</string>
+	<string name="extra_equipment_3">软垫•  杠铃 •  哑铃</string>
+	<string name="extra_equipment_5">软垫• 哑铃</string>
+	<string name="extra_equipment_8">长凳 •  杠铃 •  哑铃</string>
+	<string name="extra_equipment_9">杠铃 •  哑铃</string>
+	<string name="extra_muscle_group_1">胸部 | 手臂 | 腹肌</string>
+	<string name="extra_muscle_group_10">有氧运动</string>
+	<string name="extra_muscle_group_13">有氧运动</string>
+	<string name="extra_muscle_group_16">有氧运动</string>
+	<string name="extra_muscle_group_18">有氧运动</string>
+	<string name="extra_muscle_group_2">有氧运动</string>
+	<string name="extra_muscle_group_20">有氧运动</string>
+	<string name="extra_muscle_group_6">有氧运动</string>
+	<string name="extra_muscle_group_11">双腿 | 小腿肌群</string>
+	<string name="extra_muscle_group_12">肩膀 | 斜方肌</string>
+	<string name="extra_muscle_group_14">活跃的休息日</string>
+	<string name="extra_muscle_group_21">活跃的休息日</string>
+	<string name="extra_muscle_group_7">活跃的休息日</string>
+	<string name="extra_muscle_group_15">腹肌锻炼周期</string>
+	<string name="extra_muscle_group_17">腹肌锻炼周期</string>
+	<string name="extra_muscle_group_19">腹肌锻炼周期</string>
+	<string name="extra_muscle_group_3">背部 | 手臂 | 腹肌</string>
+	<string name="extra_muscle_group_4">高强度间歇锻炼</string>
+	<string name="extra_muscle_group_5">肩膀 | 三头肌</string>
+	<string name="extra_muscle_group_8">胸部 |三头肌</string>
+	<string name="extra_muscle_group_9">背部 |二头肌</string>
+	<string name="extra_equipment_1">软垫• 长凳</string>
+	<string name="not_selected_exercise">您尚未选择任何运动</string>
+	<string name="week">周</string>
+	<string name="month">月</string>
+	<string name="three_month">3个月</string>
+	<string name="muscles">肌肉</string>
+	<string name="graph">图表</string>
+
+	<string name="detailed">更多详情</string>
+	<!-- muscles -->
+	<string name="upper_abs">上腹</string>
+	<string name="lower_abs">下腹</string>
+	<string name="obliques_abs">侧腹肌</string>
+	<string name="back">背部</string>
+	<string name="lower_back">腰部</string>
+	<string name="chest">胸部</string>
+	<string name="hamstrings">腘绳肌</string>
+	<string name="quadriceps">四头肌</string>
+	<string name="glutes">臀大肌</string>
+	<string name="shoulders">肩膀</string>
+	<string name="triceps">肱三头肌</string>
+	<string name="calfs">小腿</string>
+	<string name="forearms">前臂</string>
+	<string name="biceps">肱二头肌</string>
+	<string name="no_history_for_this_day">这一天没有历史记录</string>
+	<string name="muscles_activity_for_7_days">7天的肌肉活动</string>
+	<string name="all">全部</string>
+
+	<string name="stop_workout_question">您是否要停止锻炼?</string>
+	<string name="confirm">确认</string>
+	<string name="yes">是</string>
+	<string name="choose_purpose_of_training">选择训练的目的</string>
+	<string name="guidance_through_every_exercise">每项锻炼的指导</string>
+	<string name="get_the_results">获取成绩</string>
+	<string name="get_started">开始</string>
+	<string name="track_your_progress_for_7_days">追踪你7天的进展</string>
+	<string name="download_completed">下载完成</string>
+
+	<string name="nutrition">营养</string>
+
+	<string name="one_time_payment">一次性付款</string>
+	<string name="get_lifetime_access">获取终身使用权</string>
+	<string name="_3_days_for_free">3天免费</string>
+	<string name="get_workouts_courses_with_powerful_support">获取 100% 准备好的锻炼课程以及强力支援!</string>
+	<string name="only_now">只限现在</string>
+	<string name="start_your_positive_transformation_today">今天就开启您的\n积极转型!</string>
+	<string name="try_it_now">立即试用</string>
+	<string name="_3_day_nfree_trial">3-天 \n免费试用</string>
+	<string name="_7_day_nfree_trial">7-天 \n免费试用</string>
+	<string name="new_workoutsN">新\n锻炼</string>
+	<!--<string name="month">/月</string>-->
+	<string name="year">/年</string>
+	<string name="monthly_slim">每月一次</string>
+	<string name="after">之后</string>
+	<string name="nutritionPlanName2">减重计划</string>
+	<string name="nutritionPlanName1">健身计划</string>
+	<string name="nutrition_plans">营养 计划</string>
+	<string name="title_11">運動</string>
+	<string name="get_yearly">獲取年度訪問權限</string>
+	<string name="included">包括</string>
+	<string name="no_ads">无广告</string>
+	<string name="noty_sound">通知声音</string>
+
+	<string name="namemeal1_1_1">香味漿果燕麥餡餅</string>
+	<string name="ingredientMeal1_1_1">150克的燕麥，5.3盎司（煮熟） \n\n49克藍莓，1.8盎司 \n\n50克1.8盎司黑莓 \n\n3湯匙的切碎核桃 \n\n&#189;湯匙的椰油 \n\n&#188;茶匙的薑黃 \n\n&#188;茶匙的多香果粉 \n\n"原味"包裝甜菊 \n\n1搓肉桂 \n\n1湯匙的格蘭諾拉麥片</string>
+	<string name="stepsMakeMeal1_1_1">按指示烹煮燕麥，然後放在一邊。用中火加熱不粘鍋，加入椰子油。鍋子加熱後，加入漿果，放入肉桂調味，攪拌。關火讓醬汁變稠。攪拌均勻，如果想要還可以加入多一些肉桂。把熱熱的漿果糖漿放在燕麥上面，用格蘭諾拉麥片裝飾，並增加爽脆感。請慢慢享用！</string>
+
+
+	<string name="namemeal1_2_1">蘑菇番茄煎蛋</string>
+	<string name="ingredientMeal1_2_1">4個蛋白 \n\n1粒雞蛋 \n\n&#189;杯低脂乾酪 \n\n&#189;杯切片蘑菇 \n\n&#189;粒切丁番茄</string>
+	<string name="stepsMakeMeal1_2_1">稍微攪拌雞蛋。使用噴劑，在不粘鍋裡煎蛋。在煎蛋中心放入乾酪、蘑菇和番茄，煮到雞蛋定型，對折一半就行了。請慢慢享用！</string>
+
+
+	<string name="namemeal1_3_1">橙蜜是拉差雞</string>
+	<string name="ingredientMeal1_3_1">0.1公斤/0.25磅雞胸肉 \n\n1/8湯匙的芝麻油 \n\n12.5克/0.4盎司拉差香甜辣椒醬 \n\n鹽 \n\n胡椒</string>
+	<string name="stepsMakeMeal1_3_1">烤箱或烤架設定在375°F/190°C的溫度。在密封袋中加入醃製的材料混合。試試味道並調整。雞肉拿去醃製，然後放進冰箱放至少30分鐘。拿出雞肉後放到烤架上烤大約15到20分鐘，直到雞肉的汁流乾。請慢慢享用！</string>
+
+
+	<string name="namemeal1_4_1">辣牛肉西蘭花</string>
+	<string name="ingredientMeal1_4_1">140克/6盎司牛排 \n\n130克 /4.4盎司糙米 \n\n91克/3.3盎司西蘭花 \n\n31克 / 1盎司切片紅燈籠椒 \n\n新鮮芫荽 \n\n1粒酸甘 \n\n紅辣椒醬 \n\n蒜頭</string>
+	<string name="stepsMakeMeal1_4_1">將牛後腹肉排切塊，以辣椒醬和新鮮大蒜調味。用中火加熱平底深鍋，噴上椰油。鍋子熱時放入肉塊煎熟。一面肉塊熟透時，翻面繼續烹煮，並加入西蘭花和燈籠椒。翻炒食物確保食物都炒熟。請慢慢享用！</string>
+
+
+	<string name="namemeal1_5_1">煙熏三文魚鱷梨醬</string>
+	<string name="ingredientMeal1_5_1">1粒鱷梨 \n\n57克/16盎司煙熏三文魚 \n\n17克/0.6盎司紅蔥，切碎 \n\n2湯匙芫荽，切碎 \n\n2湯匙希臘乳酪 \n\n胡椒</string>
+	<string name="stepsMakeMeal1_5_1">把鱷梨搗成泥狀，混合所有材料。以芥末、孜然、檸檬汁、希臘乳酪和胡椒調味。請慢慢享用！</string>
+
+
+	<string name="namemeal1_6_1">香草蝦</string>
+	<string name="ingredientMeal1_6_1">1磅大蝦 \n\n2顆紅辣椒 \n\n1根韭蔥 \n\n0.5&#8211;1湯匙續隨子，洗乾淨瀝乾 \n\n2瓣蒜瓣，切薄片 \n\n&#189;杯切細的芫荽 \n\n3湯匙檸檬汁 \n\n2湯匙橄欖油</string>
+	<string name="stepsMakeMeal1_6_1">中火加熱炒鍋，放油加熱。放入蝦、辣椒、韭蔥、蒜、鹽和胡椒，烹煮4分鐘直到蝦肉呈粉紅色。關火。加上檸檬汁，用勺子從鍋底挖起食物。最後用新鮮芫荽和九層塔葉裝飾。請慢慢享用！</string>
+
+
+	<string name="namemeal2_1_1">香料梨燕麥</string>
+	<string name="ingredientMeal2_1_1">3/4杯水 \n\n&#189;杯燕麥 \n\n鹽少許 \n\n&#189;粒梨，切薄片 \n\n1茶匙蜜糖 \n\n1.5湯匙的低脂加糖煉乳 \n\n1/8茶匙的肉桂 \n\n1/8茶匙的荳蔻 \n\n1/8茶匙的薑粉 \n\n1/8茶匙的香草精</string>
+	<string name="stepsMakeMeal2_1_1">用一個中等的平底深鍋把水煮沸。拌入燕麥並加入少許的鹽。燉5分鐘，不時攪拌。用中火加熱鍋子，噴一層烹飪噴霧劑。倒入梨並烹煮2分鐘。在熱熱的燕麥中拌入加糖煉乳、肉桂、荳蔻、薑粉、多香果粉以及香草精，然後放上切片的梨和核桃。請慢慢享用</string>
+
+
+	<string name="namemeal2_2_1">雞蛋、火雞、菠菜和烤番薯</string>
+	<string name="ingredientMeal2_2_1">2粒雞蛋 \n\n2片火雞培根，未醃製 \n\n75克/2.6盎司紅薯，切碎 \n\n75克/2.6盎司魚種土豆 \n\n30克/1盎司生菠菜 \n\n香料風洞調味劑 \n\n海鹽 \n\n胡椒</string>
+	<string name="stepsMakeMeal2_2_1">烤爐設定在420°F/ 215°C的溫度。把番薯和紅薯放在不沾鍋烤盤。用鹽和胡椒為番薯調味，灑上橄欖油。加入新鮮切碎的草藥（迷迭香和鼠尾草），或是您可以使用香料風洞調味劑。在調味劑中搓揉番薯，烘烤大約20分鐘。在煎鍋中撒上橄欖油並用中火加熱，加入雞蛋、培根和菠菜。把它們倒入碗中，放上烤番薯就行了。請慢慢享用！</string>
+
+
+	<string name="namemeal2_3_1">不含乳製品的雞肉意大利面</string>
+	<string name="ingredientMeal2_3_1">110克/&#188;磅雞胸肉 \n\n42克/&#189;盎司全麥意大利面 \n\n&#188;湯匙的橄欖油 \n\n75毫升2%液體盎司的椰奶 \n\n45毫升1.6盎司雞湯 \n\n160克/5/2盎司蘆筍 \n\n&#189;粒檸檬 \n\n&#188;瓣蒜瓣 \n\n1.3湯匙的新鮮芫荽</string>
+	<string name="stepsMakeMeal2_3_1">按指示烹煮意大利面，放在一旁。以鹽、胡椒和牛至調味。在平底深鍋中加入一半的橄欖油，中火加熱。鍋熱以後，烹煮雞肉直到熟透。拿出雞肉，放入雞湯、檸檬汁，燉幾分鐘，再加入意大利面。請慢慢享用！</string>
+
+
+	<string name="namemeal2_4_1">辣花椰菜蒸粗麥粉</string>
+	<string name="ingredientMeal2_4_1">110克/ &#188;磅絞牛瘦肉，切細 \n\n210克/7.5盎司紅腰豆 \n\n&#189;串番茄 \n\n橄欖油噴劑 \n\n鹽、胡椒 \n\n3/8湯匙辣椒粉 \n\n3/8湯匙煙熏辣椒粉 \n\n1湯匙橄欖油 \n\n&#188;湯匙蔥蒜</string>
+	<string name="stepsMakeMeal2_4_1">用中火加熱平底深鍋，噴上橄欖油。放入牛肉碎烹煮6&#8211;8分鐘，加入調味並繼續攪拌。把牛肉放到燉鍋裡，加入番茄和紅腰豆。攪拌，然後加入辣椒慢火燉8小時。請慢慢享用！</string>
+
+
+	<string name="namemeal2_5_1">低碳雞肉堡</string>
+	<string name="ingredientMeal2_5_1">140克或5盎司絞雞肉 \n\n2棵波托貝羅蘑菇 \n\n1生菜 \n\n2片紅甘藍葉 \n\n3粒番茄 \n\n&#189;片鱷梨，切細 \n\n鹽 \n\n蒜粉 \n\n辣椒 \n\n煙熏辣椒粉</string>
+	<string name="stepsMakeMeal2_5_1">把烤箱設定在375°F/190°C。蘑菇面朝下放在烤盤，噴一點橄欖油。撒上一些鹽和蒜，烘烤8到10分鐘。為雞肉調味，做成漢堡的肉餅狀，在平底深鍋里中火烹煮。把蘑菇拿出烤箱，開始做漢堡。蘑菇面朝上，加上生菜、紅甘藍、番茄、雞肉餅、羊乳乾酪、鱷梨和蘿蔔。請慢慢享用！</string>
+
+
+	<string name="namemeal2_6_1">檸檬烤雞胸</string>
+	<string name="ingredientMeal2_6_1">3湯匙的檸檬汁 \n\n2湯匙的橄欖油 \n\n2瓣蒜瓣，切碎 \n\n7塊雞胸半只 \n\n&#189;茶匙的鹽 \n\n&#189;茶匙新鮮黑胡椒粉 \n\n烹飪噴劑</string>
+	<string name="stepsMakeMeal2_6_1">用中高火準備燒烤。在一個大塑料袋內，混合首4樣材料，然後封袋。放在冰箱內醃製30分鐘。從袋子中拿出雞肉，均勻撒上鹽和胡椒。雞肉放上噴了烹飪噴劑的烤架烤，兩邊都烤熟。請慢慢享用！</string>
+
+
+	<string name="namemeal3_1_1">藍莓亞麻籽燕麥</string>
+	<string name="ingredientMeal3_1_1">3杯水 \n\n2杯燕麥 \n\n3湯匙的亞麻籽粉 \n\n1/8茶匙的鹽 \n\n&#188;杯全脂牛奶 \n\n1杯藍莓 \n\n1湯匙的藍莓醬 \n\n&#189;茶匙的檸檬皮碎片 \n\n1湯匙的檸檬汁</string>
+	<string name="stepsMakeMeal3_1_1">將3杯水煮沸，拌入燕麥，加上亞麻籽和鹽。把爐火調到中火，把燕麥煮至柔軟，過程中要時常攪拌。拌入牛奶和牛油。與此同時，把藍莓和剩下的4種材料，放進微波爐高火微波1.5分鐘，每30秒攪拌一下。將燕麥分別盛入4個碗中，放上燕麥和核桃。請慢慢享用！</string>
+
+
+	<string name="namemeal3_2_1">炒蛋與鱷梨烤麵包</string>
+	<string name="ingredientMeal3_2_1">2粒雞蛋 \n\n2片烤麵包 \n\n1粒鱷梨 \n\n1茶匙酸柑汁 \n\n鹽 \n\n黑胡椒 \n\n香菜</string>
+	<string name="stepsMakeMeal3_2_1">依據個人喜好準備烤麵包和炒蛋。削去鱷梨的皮並搗成泥，配上酸柑汁、鹽和胡椒。在烤麵包每一面均勻塗上鱷梨，然後放上炒蛋，依據個人喜好進行調味。請慢慢享用</string>
+
+
+	<string name="namemeal3_3_1">雞肉炒蘆筍</string>
+	<string name="ingredientMeal3_3_1">1湯匙醬油 \n\n1湯匙蜜糖 \n\n2塊雞胸，切小 \n\n1湯匙橄欖油 \n\n1把蘆筍，切小 \n\n4瓣蒜瓣，切薄片 \n\n2茶匙芝麻油</string>
+	<string name="stepsMakeMeal3_3_1">在密封袋中混合醬油和蜜糖，加入雞肉攪​​拌以沾上醬汁。之後放入冰箱待用。與此同時，中火加熱一個大平底深鍋。拿出蘆筍放在一旁。拿出雞肉放到鍋中，然後加入蒜、青蔥和醃製材料。煮好後放上一些芝麻油。請慢慢享用！</string>
+
+
+	<string name="namemeal3_4_1">酸甜蝦</string>
+	<string name="ingredientMeal3_4_1">340克 / 3/4磅大蝦 \n\n1湯匙芝麻油 \n\n2湯匙蜜糖 \n\n1湯匙蒜泥 \n\n1湯匙紅辣椒醬 \n\n&#189;粒酸甘汁</string>
+	<string name="stepsMakeMeal3_4_1">用一個袋子混合所有材料，醃製至少20分鐘，然後拿去烹煮。請慢慢享用！</string>
+
+
+	<string name="namemeal3_5_1">蒜香蘆筍配帕瑪森乾酪碎</string>
+	<string name="ingredientMeal3_5_1">1磅新鮮蘆筍 \n\n2湯匙橄欖油 \n\n3湯匙帕瑪森乾酪碎 \n\n2瓣蒜瓣，切碎 \n\n鹽和胡椒</string>
+	<string name="stepsMakeMeal3_5_1">蘆筍下半部削細。把蘆筍放到鍋裡，以鹽和胡椒調味，倒入橄欖油。在烤架上排成一列，用中火烤5&#8211;10分鐘，直到蘆筍有點焦，變得嫩。請慢慢享用！</string>
+
+
+	<string name="namemeal3_6_1">檸檬第戎烤雞配芝麻菜沙拉</string>
+	<string name="ingredientMeal3_6_1">4（2盎司）去皮去骨的雞腿 \n\n&#189;湯匙鹽 \n\n&#188;茶匙黑胡椒粉 \n\n2.5湯匙橄欖油 \n\n2茶匙檸檬汁 \n\n1茶匙蒜末 \n\n烹飪噴劑 \n\n1湯匙意大利香醋 \n\n1茶匙蜜糖 \n\n1杯熟番茄，切半 \n\n1（5盎司）包嫩芝麻菜</string>
+	<string name="stepsMakeMeal3_6_1">雞肉撒上&#188;茶匙鹽和1/8茶匙胡椒粉。雞肉混合1&#8211;1.5茶匙的油、檸檬汁、芥末和蒜末，均勻混合。靜置4分鐘。中火加熱烤盤，噴上烹飪噴劑，把雞肉放入鍋中，烤5分鐘直到雞肉熟透。把雞肉切成&#188;寸厚的肉塊。請慢慢享用！</string>
+
+
+	<string name="namemeal4_1_1">蘋果酒燕麥</string>
+	<string name="ingredientMeal4_1_1">&#189;杯的蘋果酒 \n\n鹽 \n\n&#189;杯的燕麥 \n\n2湯匙的牛奶 \n\n2湯匙的碎核桃</string>
+	<string name="stepsMakeMeal4_1_1">把蘋果酒、&#188;杯水和鹽加入一個平底深鍋裡，用中火煮沸。拌入燕麥，烹煮5分鐘，不時攪拌燕麥。同時，用中火加熱一個煎鍋，烤香核桃，攪拌。關火併在燕麥中加入牛奶。請慢慢享用！</string>
+
+
+	<string name="namemeal4_2_1">蛋白、蘆筍和糙米與藜麥意式烘蛋</string>
+	<string name="ingredientMeal4_2_1">6個蛋白 \n\n2條蘆筍 \n\n120克糙米和藜麥（煮熟），4.4盎司 \n\n1個甜迷你紅燈籠椒 \n\n蒜粉 \n\n胡椒 \n\n鹽 \n\n&#189;個粉紅葡萄柚</string>
+	<string name="stepsMakeMeal4_2_1">把烤爐設定到410°F/ 200°C。在煎鍋灑上一些橄欖油，放入糙米和藜麥。倒入蛋白，加入蘆筍切片和燈籠椒切片。在微波爐中烘烤15分鐘。請慢慢享用！</string>
+
+
+	<string name="namemeal4_3_1">麻辣宮保雞丁餐前準備</string>
+	<string name="ingredientMeal4_3_1">150克/0.3磅雞胸肉 \n\n1/6瓣蒜瓣 \n\n33克/1.17盎司荷蘭豆 \n\n150克/5.17盎司燈籠椒 \n\n2/3湯匙的水 \n\n&#8531;湯匙的番茄醬 \n\n1/6湯匙的新鮮生薑 \n\n1/6湯匙的紅辣椒醬 \n\n1/6湯匙的米醋 \n\n切碎的青蔥</string>
+	<string name="stepsMakeMeal4_3_1">在碗中攪拌醬料的材料。中火加熱平底深鍋並噴上橄欖油。當鍋子熱了以後爆香蒜頭約2分鐘，然後加入雞胸塊。將雞肉煮至皮焦，約6到8分鐘。放入燈籠椒炒約3分鐘。慢慢倒入醬料並攪拌。請慢慢享用！</string>
+
+
+	<string name="namemeal4_4_1">牛肉炒西蘭花和燈籠椒</string>
+	<string name="ingredientMeal4_4_1">1磅牛後腹肉排，修正過的 \n\n3湯匙低鈉醬油 \n\n1茶匙蒜末 \n\n&#189;茶匙黑胡椒粉 \n\n&#188;茶匙的辣椒乾 \n\n3/4磅的西蘭花 \n\n2湯匙芥花油 \n\n1粒大紅燈籠椒，切成1寸大小 \n\n4杯長穀米</string>
+	<string name="stepsMakeMeal4_4_1">將牛排切成一半，再逆紋切成1/8寸厚的肉片。牛肉和醬油、蒜末和黑胡椒攪拌，放入冰箱冰30分鐘。把&#189;湯匙的水、蠔油和紅燈籠椒混合放在一個小碗裡。西蘭花切成小朵，對角切成&#188;寸厚的片狀，烹煮約2分鐘。請慢慢享用！</string>
+
+
+	<string name="namemeal4_5_1">烤墨西哥玉米</string>
+	<string name="ingredientMeal4_5_1">4根玉米 \n\n1.5杯酸奶油 \n\n1杯帕瑪森乾酪碎 \n\n1粒酸甘汁 \n\n辣椒粉 \n\n2粒酸甘，當裝飾</string>
+	<string name="stepsMakeMeal4_5_1">玉米在烤架上烤，稍微烤焦時轉動玉米。在一個小碗中，把蛋黃醬、酸奶油和芫荽混合在一起。在玉米淋上酸甘汁，以帕瑪森乾酪碎調味，再撒上辣椒粉就行了。請慢慢享用！</string>
+
+
+	<string name="namemeal4_6_1">奶油菠菜炒蛋</string>
+	<string name="ingredientMeal4_6_1">900克全葉菠菜 \n\n1杯烹飪晚安（8%） \n\n&#189;杯斯佩爾特小麥/大麥珍珠 \n\n6&#8211;8粒大蔥 \n\n4粒雞蛋 \n\n2盎司磨碎的帕馬森乾酪 \n\n檸檬汁 \n\n鹽 \n\n胡椒</string>
+	<string name="stepsMakeMeal4_6_1">以400°F /200°C的溫度預熱烤箱。按指示烹煮谷糧。確保菠菜已解凍。如果沒有解凍，蒸煮約10分鐘。清洗大蔥並切碎。加入菠菜、檸檬、奶油、起司、肉豆蒄、鹽和胡椒，攪拌後放入烤箱烘烤10分鐘，直到蛋白固定，蛋黃則是柔軟的。請慢慢享用！</string>
+
+
+	<string name="namemeal5_1_1">炒鸡蛋和肉桂香蕉燕麦</string>
+	<string name="ingredientMeal5_1_1">2粒雞蛋 \n\n3個蛋白 \n\n40克/2.8盎司的速食燕麥 \n\n1條香蕉 \n\n肉桂</string>
+	<string name="stepsMakeMeal5_1_1">在碗裡打2粒雞蛋和3個蛋白。用一點鹽和胡椒調味。在平底鍋中加入一些油加熱。倒入雞蛋輕輕攪拌，直到蛋煮熟，然後關火。準備速食燕麥，充分攪拌並加入一些肉桂調味。請慢慢享用！</string>
+
+
+	<string name="namemeal5_2_1">烤鱷梨雞蛋配酸柑荷蘭醬</string>
+	<string name="ingredientMeal5_2_1">2顆鱷梨 \n\n4粒小雞蛋 \n\n蒔蘿、百里香、芫荽 \n\n4個蛋黃 \n\n6湯匙的牛油 \n\n鹽 \n\n黑胡椒粉</string>
+	<string name="stepsMakeMeal5_2_1">以425 °F的溫度預熱烤箱。把鱷梨切半挖掉種子。輕輕挖去一些果肉以讓雞蛋有足夠的位置。把鱷梨放進烤箱，利用烤盤的側邊穩固鱷梨。在鱷梨的洞中打入雞蛋，烘烤大約15分鐘直到蛋白固定，蛋黃呈現想要的濃度。請慢慢享用！</string>
+
+
+	<string name="namemeal5_3_1">烤雞包蘆筍</string>
+	<string name="ingredientMeal5_3_1">2塊雞胸切塊，每塊3盎司 \n\n12枝蘆筍 \n\n2湯匙燒烤醬 \n\n1撮煙熏辣椒粉 \n\n1撮蒜粉 \n\n1撮胡椒</string>
+	<string name="stepsMakeMeal5_3_1">把烤箱設定在400°F / 200°C。用木錘弄平雞肉，以1湯匙的燒烤醬調味（每一塊）。雞肉開口處朝下放在燒烤架上燒烤，或放在烤爐烤約8到10分鐘。請慢慢享用！</string>
+
+
+	<string name="namemeal5_4_1">甜辣椒三文魚</string>
+	<string name="ingredientMeal5_4_1">1片三文魚片 \n\n鹽 \n\n黑胡椒 \n\n1茶匙油 \n\n4湯匙甜辣椒醬 \n\n1.5茶匙酸甘汁 \n\n&#189;茶匙白芝麻</string>
+	<string name="stepsMakeMeal5_4_1">以鹽和胡椒為三文魚調味。將辣椒醬、酸柑汁、芝麻和芫荽混合在一起。用中火加熱平底深鍋，加上一點油。將三文魚煎熟。請慢慢享用！</string>
+
+
+	<string name="namemeal5_5_1">黑豆沙拉搭配酸甘孜然</string>
+	<string name="ingredientMeal5_5_1">1杯切成薄片的芹菜 \n\n3/4杯切片紅蔥 \n\n2（15盎司）罐黑豆，洗乾淨並瀝乾 \n\n&#188;杯酸甘汁 \n\n1湯匙的橄欖油</string>
+	<string name="stepsMakeMeal5_5_1">沙拉的部分，在大碗裡混合芹菜、蔥和黑豆，攪拌均勻。將剩餘的材料放在小碗混合，攪拌直到材料混合在一起。將兩碗東西混合在一起，均勻攪拌即可。請慢慢享用！</string>
+
+
+	<string name="namemeal5_6_1">檸檬雞</string>
+	<string name="ingredientMeal5_6_1">4塊雞胸 \n\n&#188;杯牛油 \n\n2湯匙橄欖油 \n\n1粒檸檬 \n\n1粒檸檬切片 \n\n&#188;杯白酒 \n\n1茶匙鹽 \n\n1茶匙黑胡椒粉 \n\n&#189;茶匙辣椒 \n\n&#189;茶匙幹芫荽</string>
+	<string name="stepsMakeMeal5_6_1">將麵粉、鹽、胡椒、辣椒和芫荽混合在一起。用中高火加熱油和牛油。每塊雞胸都沾上麵粉，然後放到熱鍋中。加入檸檬汁、白酒、檸檬和迷迭香。把雞肉各邊都煮熟。請慢慢享用！</string>
+
+
+	<string name="namemeal6_1_1">蘋果肉桂燕麥</string>
+	<string name="ingredientMeal6_1_1">29克/1盎司未煮熟的燕麥（1盎司） \n\n120毫升的不加糖杏仁牛奶，4.2液體盎司 \n\n80毫升的水，2.8液體盎司 \n\n&#8531;粒青蘋果，切碎 \n\n1湯匙的肉桂 \n\n&#188;湯匙的馬卡粉 \n\n1/6湯匙的香草精</string>
+	<string name="stepsMakeMeal6_1_1">把牛奶、水和糖放入平底深锅里。加入切碎的苹果，然后中火加温直到沸腾。加入燕麦和肉桂煮3&#8211;5分钟，不时搅拌。当燕麦煮熟后，加入香草精就行了。请慢慢享用！</string>
+
+
+	<string name="namemeal6_2_1">火雞與蔬菜煎蛋捲</string>
+	<string name="ingredientMeal6_2_1">1粒雞蛋 \n\n4個蛋白 \n\n85克/3盎司火雞絞瘦肉，煮熟 \n\n1把菠菜（生） \n\n58克/2.1盎司燈籠椒 \n\n8克/1盎司羊乳酪</string>
+	<string name="stepsMakeMeal6_2_1">在煎鍋中烹煮並調味火雞絞瘦肉。在另一個鍋煎蛋，加上羊乳酪、菠菜、燈籠椒和火雞絞肉。等它稍冷一些，然後用錫箔包裹。請慢慢享用！</string>
+
+
+	<string name="namemeal6_3_1">雞肉炒鳳梨</string>
+	<string name="ingredientMeal6_3_1">110克雞胸，4盎司 \n\n40克鳳梨，1.4盎司 \n\n \n\n120克糙米，4.4盎司 \n\n&#8531;湯匙的橄欖油 \n\n&#189;茶匙布朗芥末 \n\n1/6湯匙煙熏辣椒粉 \n\n海鹽 \n\n胡椒</string>
+	<string name="stepsMakeMeal6_3_1">把生雞肉切成小塊，以煙熏辣椒粉和布朗芥末調味。在平底深鍋中加入橄欖油，再放入雞肉。烹煮4分鐘，讓雞肉80%熟，然後加入切片燈籠椒，再煮2或3分鐘，最後放入鳳梨。請慢慢享用！</string>
+
+
+	<string name="namemeal6_4_1">蒜香檸檬三文魚</string>
+	<string name="ingredientMeal6_4_1">1磅三文魚片 \n\n16盎司螺旋通心粉/意大利面 \n\n1茶匙蒜末 \n\n2湯匙橄欖油 \n\n&#189;杯九層塔葉子，切碎 \n\n鹽和胡椒 \n\n2湯匙檸檬汁 \n\n2茶匙續隨子</string>
+	<string name="stepsMakeMeal6_4_1">按包裝指示烹煮意大利面。同時，以鹽和胡椒調味三文魚，以350°F烤15&#8211;20分鐘，依據厚度而定。意大利面煮好後，瀝乾，伴入蒜、橄欖油、九層塔葉並調味。加上檸檬汁和續隨子混合。請慢慢享用！</string>
+
+
+	<string name="namemeal6_5_1">綠色肌肉奶昔</string>
+	<string name="ingredientMeal6_5_1">2片羽衣甘藍的葉子 \n\n&#189;粒鱷梨 \n\n&#189;粒青梨 \n\n2片鳳梨 \n\n3粒草莓 \n\n&#188;條黃瓜 \n\n1枝新鮮薄荷（選擇性） \n\n1粒酸甘（汁而已） \n\n冰 \n\n水</string>
+	<string name="stepsMakeMeal6_5_1">所有材料加到攪拌器，攪拌1分鐘，確保移除所有大塊食物，然後攪拌到變成奶昔。請慢慢享用！</string>
+
+
+	<string name="namemeal6_6_1">芥末烤雞</string>
+	<string name="ingredientMeal6_6_1">110克/&#188;磅的雞胸 \n\n鹽 \n\n胡椒\n\n醬料的材料:\n\n31克/1盎司芥末 \n\n10.5克/0.37盎司蜜糖 \n\n15毫升/0.5液體盎司蘋果醋 \n\n&#188;茶匙的煙熏辣椒粉 \n\n&#188;茶匙的薑黃</string>
+	<string name="stepsMakeMeal6_6_1">烤架加熱到400 F/200°C。用一個碗攪拌醬料的材料。以鹽和胡椒調味雞肉，用木製烤肉串串肉。雞肉放到烤架上烤10到12分鐘。然後刷上醬料再烤8到10分鐘直到雞肉熟透。請慢慢享用</string>
+
+
+	<string name="namemeal7_1_1">香蕉核桃燕麥</string>
+	<string name="ingredientMeal7_1_1">&#189;杯燕麥 \n\n1杯水 \n\n1條切片香蕉 \n\n1湯匙的碎核桃 \n\n1茶匙的肉桂粉</string>
+	<string name="stepsMakeMeal7_1_1">把一杯水和燕麥放入可微波的碗中，高火微波3分鐘。然後加上切片的香蕉、核桃和肉桂粉就行了。請慢慢享用！</string>
+
+
+	<string name="namemeal7_2_1">蘑菇和菠菜煎蛋</string>
+	<string name="ingredientMeal7_2_1">1湯匙的橄欖油 \n\n&#189;杯切碎的青蔥 \n\n3片蒜瓣，剁碎 \n\n1（8盎司）包切片白蘑菇 \n\n1個百里香枝 \n\n6盎司新鮮嫩菠菜 \n\n鹽 \n\n黑胡椒碎 \n\n8粒大雞蛋</string>
+	<string name="stepsMakeMeal7_2_1">中高火加熱煎鍋，加點油。放入青蔥、蒜末、蘑菇和百里香。加入菠菜拌炒直到水份蒸發。在一個小碗中混合一撮鹽、胡椒和4粒蛋，攪拌打蛋。把火降至中火，倒入雞蛋烹煮1分鐘。鏟起雞蛋翻面烹煮。請慢慢享用！</string>
+
+
+	<string name="namemeal7_3_1">日式照燒雞和西蘭花</string>
+	<string name="ingredientMeal7_3_1">2杯西蘭花小朵 \n\n1大塊雞胸，切丁 \n\n1湯匙油 \n\n鹽和胡椒 \n\n1個燈籠椒，切片 \n\n2杯糙米 \n\n&#188;杯醬青 \n\n2湯匙米酒醋 \n\n1瓣蒜瓣，切碎 \n\n&#189;茶匙芝麻油 \n\n&#188;茶匙薑粉</string>
+	<string name="stepsMakeMeal7_3_1">用中高火加熱平底鍋。放入雞肉，以鹽和胡椒調味，烹煮至雞肉顏色不再是粉紅色。在一個小碗中準備日式照燒的醬汁。把西蘭花和燈籠椒放入鍋中。煮熟後分成4份，撒上芝麻。請慢慢享用！</string>
+
+
+	<string name="namemeal7_4_1">卡真咖啡蝦</string>
+	<string name="ingredientMeal7_4_1">450克、1磅大蝦 \n\n1湯匙橄欖油 \n\n鹽 \n\n胡椒 \n\n新鮮芫荽 \n\n檸檬 \n\n25克/3.6盎司咖啡豆 \n\n1湯匙煙熏辣椒粉 \n\n1茶匙孜然粉 \n\n1茶匙辣椒</string>
+	<string name="stepsMakeMeal7_4_1">將咖啡的材料放入高速攪拌器攪拌，直到咖啡豆成半混合狀態。以5湯匙的橄欖油調味並搓揉。用手去翻攪蝦以便蝦肉充分調味。平底深鍋熱鍋後，放入蝦子。請慢慢享用！</string>
+
+
+	<string name="namemeal7_5_1">西南烤三文魚</string>
+	<string name="ingredientMeal7_5_1">110克/ &#188;磅野生三文魚 \n\n1湯匙橄欖油 \n\n1湯匙煙熏辣椒粉 \n\n鹽和胡椒</string>
+	<string name="stepsMakeMeal7_5_1">把烤箱設定在350°F。為魚片塗上調味，烤約15分鐘，或是直到想要的熟度。請慢慢享用！</string>
+
+
+	<string name="namemeal7_6_1">培根與雞蛋焗番薯</string>
+	<string name="ingredientMeal7_6_1">1粒甜番薯，生的 \n\n2粒雞蛋 \n\n2片火雞培根 \n\n新鮮迷迭香 \n\n鹽 \n\n胡椒</string>
+	<string name="stepsMakeMeal7_6_1">把烤箱設定在400°F/ 200°C。烘烤甜番薯約45分鐘直到它變軟，但是仍然保留一點硬度。在番薯上挖一個洞，足夠放一個雞蛋。用挖出來的番薯，配上肉桂和椰油做一份好吃的番薯泥。在番薯內包一片火雞培根，先倒入蛋白，再倒入蛋黃。請慢慢享用！</string>
+
+
+	<string name="namemeal1_1_2">藍莓亞麻籽燕麥</string>
+	<string name="ingredientMeal1_1_2">3杯水 \n\n2杯燕麥 \n\n3湯匙的亞麻籽粉 \n\n1/8茶匙的鹽 \n\n&#188;杯全脂牛奶 \n\n1杯藍莓 \n\n1湯匙的藍莓醬 \n\n&#189;茶匙的檸檬皮碎片 \n\n1湯匙的檸檬汁</string>
+	<string name="stepsMakeMeal1_1_2">將3杯水煮沸，拌入燕麥，加上亞麻籽和鹽。把爐火調到中火，把燕麥煮至柔軟，過程中要時常攪拌。拌入牛奶和牛油。與此同時，把藍莓和剩下的4種材料，放進微波爐高火微波1.5分鐘，每30秒攪拌一下。將燕麥分別盛入4個碗中，放上燕麥和核桃。請慢慢享用！</string>
+
+
+	<string name="namemeal1_2_2">左宗棠雞</string>
+	<string name="ingredientMeal1_2_2">4塊雞胸，切丁 \n\n1杯麵粉 \n\n植物油 \n\n鹽 \n\n新鮮黑胡椒粉 \n\n2瓣蒜瓣，切碎 \n\n&#189;罐雞湯 \n\n3湯匙蜜糖 \n\n4湯匙醬油 \n\n4湯匙酸甘汁 \n\n2罐西蘭花，小朵 \n\n2罐白飯</string>
+	<string name="stepsMakeMeal1_2_2">在大碗中，在雞肉上撒上一些玉米粉。把雞肉放到另一個裝了麵粉的大碗，讓雞肉沾上麵粉，然後放在一邊。在一個大的平底深鍋放入&#189;植物油，中高火加熱。為雞肉調味並瀝乾，放在一旁。加入2湯匙的玉米粉並攪拌。醬汁方面，加入西蘭花和蘿蔔，煮5分鐘讓它變軟。請慢慢享用！</string>
+
+
+	<string name="namemeal1_3_2">蒜香蘆筍配帕瑪森乾酪碎</string>
+	<string name="ingredientMeal1_3_2">1磅新鮮蘆筍 \n\n2湯匙橄欖油 \n\n3湯匙帕瑪森乾酪碎 \n\n2瓣蒜瓣，切碎 \n\n鹽和胡椒</string>
+	<string name="stepsMakeMeal1_3_2">蘆筍下半部削細。把蘆筍放到鍋裡，以鹽和胡椒調味，倒入橄欖油。在烤架上排成一列，用中火烤5&#8211;10分鐘，直到蘆筍有點焦，變得嫩。請慢慢享用！</string>
+
+
+	<string name="namemeal1_4_2">黃金水</string>
+	<string name="ingredientMeal1_4_2">2粒蘋果 \n\n4粒中等的橙子，去皮 \n\n1粒檸檬，去皮 \n\n2&#8211;3寸新鮮薑塊，去皮 \n\n2寸新鮮薑黃塊，去皮 \n\n2杯冷水 \n\n1把冰塊</string>
+	<string name="stepsMakeMeal1_4_2">用高速攪拌器，把所有材料攪拌成奶昔，如有需要加入額外的水。如果想要飲料變得更順滑，可以去除水果的纖維。請慢慢享用！</string>
+
+
+	<string name="namemeal1_5_2">辣肉捲</string>
+	<string name="ingredientMeal1_5_2">1磅去皮雞胸 \n\n&#189;粒青、紅和黃燈籠椒，切成薄片 \n\n&#8531;杯水 \n\n2茶匙醬油 \n\n少許鹽 \n\n少許黑胡椒 \n\n2湯匙橄欖油</string>
+	<string name="stepsMakeMeal1_5_2">將雞肉醃製好放在冰箱至少2小時。拿出雞肉後，用中火烤4&#8211;5分鐘。將肉切成厚條。醬料方面，混合2湯匙水、1茶匙醬油、&#188;茶匙酸甘汁、鹽少許、黑胡椒少許和1湯匙橄欖油。請慢慢享用！</string>
+
+
+	<string name="namemeal2_1_2">炒蛋與鱷梨烤麵包</string>
+	<string name="ingredientMeal2_1_2">2粒雞蛋 \n\n2片烤麵包 \n\n1粒鱷梨 \n\n1茶匙酸柑汁 \n\n鹽 \n\n黑胡椒 \n\n香菜</string>
+	<string name="stepsMakeMeal2_1_2">依據個人喜好準備烤麵包和炒蛋。削去鱷梨的皮並搗成泥，配上酸柑汁、鹽和胡椒。在烤麵包每一面均勻塗上鱷梨，然後放上炒蛋，依據個人喜好進行調味。請慢慢享用</string>
+
+
+	<string name="namemeal2_2_2">健康巧克力墨西哥醬雞</string>
+	<string name="ingredientMeal2_2_2">0.2公斤/&#8531;磅雞胸肉 \n\n&#188;紅蔥 \n\n&#8531;湯匙的番茄醬 \n\n&#189;湯匙的蒜泥 \n\n0.4湯匙的雞湯 \n\n&#188;茶匙的墨西哥辣椒 \n\n1茶匙孜然粉</string>
+	<string name="stepsMakeMeal2_2_2">把烤箱設定在375°F/ 190°C。紅蔥切片再切芫荽。中火加熱平底深鍋，噴上椰油，放入蒜泥和紅蔥。加上孜然、芫荽、辣椒粉、辣椒和雞湯。攪拌後關小火，讓湯汁變濃，然後讓它冷卻。雞胸肉放在不粘烤盤，均勻塗上墨西哥醬。放進烤箱烤20分鐘。請慢慢享用！</string>
+
+
+	<string name="namemeal2_3_2">烤墨西哥玉米</string>
+	<string name="ingredientMeal2_3_2">4根玉米 \n\n1.5杯酸奶油 \n\n1杯帕瑪森乾酪碎 \n\n1粒酸甘汁 \n\n辣椒粉 \n\n2粒酸甘，當裝飾</string>
+	<string name="stepsMakeMeal2_3_2">玉米在烤架上烤，稍微烤焦時轉動玉米。在一個小碗中，把蛋黃醬、酸奶油和芫荽混合在一起。在玉米淋上酸甘汁，以帕瑪森乾酪碎調味，再撒上辣椒粉就行了。請慢慢享用！</string>
+
+
+	<string name="namemeal2_4_2">健身前的甜紅奶昔</string>
+	<string name="ingredientMeal2_4_2">1粒紅蘋果 \n\n&#189;根甜菜 \n\n1根芹菜 \n\n3粒草莓 \n\n&#188;條香蕉 \n\n綠茶（選擇性） \n\n41克/1.5盎司山莓 \n\n1茶匙姜（選擇性）</string>
+	<string name="stepsMakeMeal2_4_2">把所有材料加入攪拌器內，攪拌1分鐘，確保去除了大塊的食物，然後再攪拌直到變成奶昔。可以當作點心來飲用。請慢慢享用！</string>
+
+
+	<string name="namemeal2_5_2">健康蝦與蔬菜面</string>
+	<string name="ingredientMeal2_5_2">170克/磅蝦 \n\n1粒西葫蘆 \n\n2根蘿蔔 \n\n&#189;瓣蒜瓣切碎 \n\n&#188;粒紅蔥切碎 \n\n1湯匙低鈉醬油 \n\n&#188;杯橙汁 \n\n&#189;湯匙芝麻油</string>
+	<string name="stepsMakeMeal2_5_2">用刨絲器將西葫蘆和蘿蔔做成蔬菜麵條。接著，加入1湯匙醬油，蘋果醋和&#188;粒橙的橙汁。最後，加入&#189;湯匙的芝麻油。用中火加熱平底深鍋並噴上椰油。加入蒜和紅蔥。放進蝦，用勺子迅速翻炒，確保蝦吸收蒜頭和紅蔥的香氣。請慢慢享用！</string>
+
+
+	<string name="namemeal3_1_2">蘑菇和菠菜煎蛋</string>
+	<string name="ingredientMeal3_1_2">1湯匙的橄欖油 \n\n&#189;杯切碎的青蔥 \n\n3片蒜瓣，剁碎 \n\n1（8盎司）包切片白蘑菇 \n\n1個百里香枝 \n\n6盎司新鮮嫩菠菜 \n\n鹽 \n\n黑胡椒碎 \n\n8粒大雞蛋</string>
+	<string name="stepsMakeMeal3_1_2">中高火加熱煎鍋，加點油。放入青蔥、蒜末、蘑菇和百里香。加入菠菜拌炒直到水份蒸發。在一個小碗中混合一撮鹽、胡椒和4粒蛋，攪拌打蛋。把火降至中火，倒入雞蛋烹煮1分鐘。鏟起雞蛋翻面烹煮。請慢慢享用！</string>
+
+
+	<string name="namemeal3_2_2">檸檬雞</string>
+	<string name="ingredientMeal3_2_2">4塊雞胸 \n\n&#188;杯牛油 \n\n2湯匙橄欖油 \n\n1粒檸檬 \n\n1粒檸檬切片 \n\n&#188;杯白酒 \n\n1茶匙鹽 \n\n1茶匙黑胡椒粉 \n\n&#189;茶匙辣椒 \n\n&#189;茶匙幹芫荽</string>
+	<string name="stepsMakeMeal3_2_2">將麵粉、鹽、胡椒、辣椒和芫荽混合在一起。用中高火加熱油和牛油。每塊雞胸都沾上麵粉，然後放到熱鍋中。加入檸檬汁、白酒、檸檬和迷迭香。把雞肉各邊都煮熟。請慢慢享用！</string>
+
+
+	<string name="namemeal3_3_2">玉米、西葫蘆和鱷梨意大利面沙拉</string>
+	<string name="ingredientMeal3_3_2">1包（16盎司）三色螺旋通心粉 \n\n2杯西葫蘆 \n\n1罐（15盎司）玉米 \n\n1.5杯切片番茄 \n\n1粒切小的鱷梨 \n\n1湯匙檸檬汁 \n\n鹽和胡椒 \n\n帕瑪森乾酪 \n\n新鮮九層塔</string>
+	<string name="stepsMakeMeal3_3_2">按包裝指示烹煮意大利面。將玉米洗乾淨瀝乾，把西葫蘆切小。在平底深鍋裡烹煮玉米和西葫蘆，以鹽和胡椒調味。翻炒前讓食物烹煮幾分鐘。等玉米和西葫蘆冷卻後，和意大利面均勻攪拌。加入番茄和鱷梨，再倒入半瓶意大利沙拉醬，攪拌均勻放入冰箱冷藏1&#8211;2小時。請慢慢享用！</string>
+
+
+	<string name="namemeal3_4_2">綠色肌肉奶昔</string>
+	<string name="ingredientMeal3_4_2">2片羽衣甘藍的葉子 \n\n&#189;粒鱷梨 \n\n&#189;粒青梨 \n\n2片鳳梨 \n\n3粒草莓 \n\n&#188;條黃瓜 \n\n1枝新鮮薄荷（選擇性） \n\n1粒酸甘（汁而已） \n\n冰 \n\n水</string>
+	<string name="stepsMakeMeal3_4_2">所有材料加到攪拌器，攪拌1分鐘，確保移除所有大塊食物，然後攪拌到變成奶昔。請慢慢享用！</string>
+
+
+	<string name="namemeal3_5_2">煙熏三文魚鱷梨醬</string>
+	<string name="ingredientMeal3_5_2">1粒鱷梨 \n\n57克/16盎司煙熏三文魚 \n\n17克/0.6盎司紅蔥，切碎 \n\n2湯匙芫荽，切碎 \n\n2湯匙希臘乳酪 \n\n胡椒</string>
+	<string name="stepsMakeMeal3_5_2">把鱷梨搗成泥狀，混合所有材料。以芥末、孜然、檸檬汁、希臘乳酪和胡椒調味。請慢慢享用！</string>
+
+
+	<string name="namemeal4_1_2">草莓香蕉堅果麵包燕麥</string>
+	<string name="ingredientMeal4_1_2">150克的燕麥，5.3盎司（煮熟的） \n\n&#189;條香蕉泥 \n\n50克/1.8盎司的草莓 \n\n2湯匙的杏仁牛奶 \n\n1湯匙的香草精 \n\n2湯匙的切碎核桃 \n\n\"原味\"包裝甜菊 \n\n檸檬風味裝飾 \n\n1湯匙的希臘乳酪 \n\n&#189;湯匙的切碎核桃 \n\n罌粟籽</string>
+	<string name="stepsMakeMeal4_1_2">按指示烹煮燕麥，然後放在一邊。把所有材料放入碗中，除了草莓，充分攪拌。在燕麥上放上切片草莓。用希臘乳酪、切碎核桃和罌粟籽裝飾。請慢慢享用！</string>
+
+
+	<string name="namemeal4_2_2">芥末烤雞</string>
+	<string name="ingredientMeal4_2_2">110克/&#188;磅的雞胸 \n\n鹽 \n\n胡椒\n\n醬料的材料:\n\n31克/1盎司芥末 \n\n10.5克/0.37盎司蜜糖 \n\n15毫升/0.5液體盎司蘋果醋 \n\n&#188;茶匙的煙熏辣椒粉 \n\n&#188;茶匙的薑黃</string>
+	<string name="stepsMakeMeal4_2_2">烤架加熱到400 F/200°C。用一個碗攪拌醬料的材料。以鹽和胡椒調味雞肉，用木製烤肉串串肉。雞肉放到烤架上烤10到12分鐘。然後刷上醬料再烤8到10分鐘直到雞肉熟透。請慢慢享用</string>
+
+
+	<string name="namemeal4_3_2">西南烤三文魚</string>
+	<string name="ingredientMeal4_3_2">110克/ &#188;磅野生三文魚 \n\n1湯匙橄欖油 \n\n1湯匙煙熏辣椒粉 \n\n鹽和胡椒</string>
+	<string name="stepsMakeMeal4_3_2">把烤箱設定在350°F。為魚片塗上調味，烤約15分鐘，或是直到想要的熟度。請慢慢享用！</string>
+
+
+	<string name="namemeal4_4_2">薑黃涼茶</string>
+	<string name="ingredientMeal4_4_2">2杯水 \n\n&#189;茶匙生薑切碎 \n\n&#189;茶匙肉桂粉 \n\n1湯匙蜜糖 \n\n1片檸檬</string>
+	<string name="stepsMakeMeal4_4_2">在小平底鍋中煮沸水，加入薑黃、薑和肉桂。關小火併浸泡10分鐘。把茶倒入大杯子中，加入蜜糖和檸檬。請慢慢享用！</string>
+
+
+	<string name="namemeal4_5_2">檸檬第戎烤雞配芝麻菜沙拉</string>
+	<string name="ingredientMeal4_5_2">4（2盎司）去皮去骨的雞腿 \n\n&#189;湯匙鹽 \n\n&#188;茶匙黑胡椒粉 \n\n2.5湯匙橄欖油 \n\n2茶匙檸檬汁 \n\n1茶匙蒜末 \n\n烹飪噴劑 \n\n1湯匙意大利香醋 \n\n1茶匙蜜糖 \n\n1杯熟番茄，切半 \n\n1（5盎司）包嫩芝麻菜</string>
+	<string name="stepsMakeMeal4_5_2">雞肉撒上&#188;茶匙鹽和1/8茶匙胡椒粉。雞肉混合1&#8211;1.5茶匙的油、檸檬汁、芥末和蒜末，均勻混合。靜置4分鐘。中火加熱烤盤，噴上烹飪噴劑，把雞肉放入鍋中，烤5分鐘直到雞肉熟透。把雞肉切成&#188;寸厚的肉塊。請慢慢享用！</string>
+
+
+	<string name="namemeal5_1_2">培根與雞蛋焗番薯</string>
+	<string name="ingredientMeal5_1_2">1粒甜番薯，生的 \n\n2粒雞蛋 \n\n2片火雞培根 \n\n新鮮迷迭香 \n\n鹽 \n\n胡椒</string>
+	<string name="stepsMakeMeal5_1_2">把烤箱設定在400°F/ 200°C。烘烤甜番薯約45分鐘直到它變軟，但是仍然保留一點硬度。在番薯上挖一個洞，足夠放一個雞蛋。用挖出來的番薯，配上肉桂和椰油做一份好吃的番薯泥。在番薯內包一片火雞培根，先倒入蛋白，再倒入蛋黃。請慢慢享用！</string>
+
+
+	<string name="namemeal5_2_2">烤雞包蘆筍</string>
+	<string name="ingredientMeal5_2_2">2塊雞胸切塊，每塊3盎司 \n\n12枝蘆筍 \n\n2湯匙燒烤醬 \n\n1撮煙熏辣椒粉 \n\n1撮蒜粉 \n\n1撮胡椒</string>
+	<string name="stepsMakeMeal5_2_2">把烤箱設定在400°F / 200°C。用木錘弄平雞肉，以1湯匙的燒烤醬調味（每一塊）。雞肉開口處朝下放在燒烤架上燒烤，或放在烤爐烤約8到10分鐘。請慢慢享用！</string>
+
+
+	<string name="namemeal5_3_2">低碳雞肉堡</string>
+	<string name="ingredientMeal5_3_2">140克或5盎司絞雞肉 \n\n2棵波托貝羅蘑菇 \n\n1生菜 \n\n2片紅甘藍葉 \n\n3粒番茄 \n\n&#189;片鱷梨，切細 \n\n鹽 \n\n蒜粉 \n\n辣椒 \n\n煙熏辣椒粉</string>
+	<string name="stepsMakeMeal5_3_2">把烤箱設定在375°F/190°C。蘑菇面朝下放在烤盤，噴一點橄欖油。撒上一些鹽和蒜，烘烤8到10分鐘。為雞肉調味，做成漢堡的肉餅狀，在平底深鍋里中火烹煮。把蘑菇拿出烤箱，開始做漢堡。蘑菇面朝上，加上生菜、紅甘藍、番茄、雞肉餅、羊乳乾酪、鱷梨和蘿蔔。請慢慢享用！</string>
+
+
+	<string name="namemeal5_4_2">奇異果、橙子和菠菜奶昔</string>
+	<string name="ingredientMeal5_4_2">一大把菠菜 \n\n2片奇異果 \n\n1粒芒果 \n\n1粒橙的橙汁</string>
+	<string name="stepsMakeMeal5_4_2">洗乾淨菠菜後切除根部。清洗芒果和奇異果，切成小片。用攪拌器把所有材料攪拌成奶昔。請慢慢享用！</string>
+
+
+	<string name="namemeal5_5_2">香辣橘子三文魚串燒</string>
+	<string name="ingredientMeal5_5_2">150克/ &#8531;磅野生三文魚 \n\n27克/1盎司橘子醬 \n\n1/6湯匙煙熏辣椒粉 \n\n1/6湯匙椰糖 \n\n&#8531;茶匙塔巴斯科辣醬 \n\n&#8531;粒柑橘汁</string>
+	<string name="stepsMakeMeal5_5_2">將三文魚切成2到3盎司的小塊，醃製45分鐘，然後放進400°F 200°C的烤箱烤8&#8211;10分鐘。請慢慢享用！</string>
+
+
+	<string name="namemeal6_1_2">健康水果燕麥</string>
+	<string name="ingredientMeal6_1_2">&#189;杯燕麥 \n\n1杯水 \n\n1湯匙的蜜糖 \n\n1湯匙的香草精 \n\n&#189;茶匙的肉桂粉 \n\n&#188;杯藍莓 \n\n4顆切片草莓 \n\n&#189;條香蕉，切成片狀</string>
+	<string name="stepsMakeMeal6_1_2">把水和燕麥放入可微波的碗中，高火微波直到燕麥吸收了水份。拌入蜜糖、香草精和肉桂粉。加上藍莓、香蕉和草莓就行了。請慢慢享用！</string>
+
+
+	<string name="namemeal6_2_2">日式照燒雞和西蘭花</string>
+	<string name="ingredientMeal6_2_2">2杯西蘭花小朵 \n\n1大塊雞胸，切丁 \n\n1湯匙油 \n\n鹽和胡椒 \n\n1個燈籠椒，切片 \n\n2杯糙米 \n\n&#188;杯醬青 \n\n2湯匙米酒醋 \n\n1瓣蒜瓣，切碎 \n\n&#189;茶匙芝麻油 \n\n&#188;茶匙薑粉</string>
+	<string name="stepsMakeMeal6_2_2">用中高火加熱平底鍋。放入雞肉，以鹽和胡椒調味，烹煮至雞肉顏色不再是粉紅色。在一個小碗中準備日式照燒的醬汁。把西蘭花和燈籠椒放入鍋中。煮熟後分成4份，撒上芝麻。請慢慢享用！</string>
+
+
+	<string name="namemeal6_3_2">地中海希臘簡易沙拉捲餅</string>
+	<string name="ingredientMeal6_3_2">1全麥玉米餅，10寸（25厘米） \n\n140克/5盎司煮熟的雞胸肉 \n\n3片生菜葉 \n\n4湯匙的新鮮九層塔 \n\n50克/1.8盎司紅蔥 \n\n50克/1.8盎司黃瓜 \n\n5粒櫻桃番茄，對半切 \n\n&#8531;粒檸檬 \n\n3/4湯匙橄欖油 \n\n&#8531;茶匙蒜 \n\n鹽 \n\n胡椒</string>
+	<string name="stepsMakeMeal6_3_2">在碗中攪拌檸檬油醋汁的材料，以鹽和胡椒調味。在攪拌碗中加入1份檸檬油醋汁，混合沙拉攪拌，然後在全麥玉米餅上放上沙拉。請慢慢享用！</string>
+
+
+	<string name="namemeal6_4_2">鳳梨奇異果</string>
+	<string name="ingredientMeal6_4_2">4湯匙的水 \n\n&#189;杯牛奶 \n\n&#189;杯乳酪 \n\n1.5湯匙的蜜糖 \n\n1粒奇異果，去皮 \n\n1杯鳳梨塊 \n\n&#189;粒芒果 \n\n2塊冰塊</string>
+	<string name="stepsMakeMeal6_4_2">用低速攪拌所有材料直到變成厚厚的奶昔。請慢慢享用！</string>
+
+
+	<string name="namemeal6_5_2">鱷梨三文魚漢堡</string>
+	<string name="ingredientMeal6_5_2">1磅三文魚魚片 \n\n1杯麵包屑 \n\n1粒雞蛋 \n\n1湯匙檸檬汁 \n\n鹽和胡椒 \n\n橄欖油 \n\n1粒大鱷梨，切丁 \n\n&#8531;杯切碎紅蔥 \n\n酸甘汁</string>
+	<string name="stepsMakeMeal6_5_2">把三文魚魚片切小，放到一個碗裡。加入並稍微攪拌其餘的材料，靜置5&#8211;10分鐘。用中火加熱大鍋裡的油。用三文魚魚肉弄成整齊的餅狀，每面各煎4分鐘。請慢慢享用！</string>
+
+
+	<string name="namemeal7_1_2">火雞與蔬菜煎蛋捲</string>
+	<string name="ingredientMeal7_1_2">1粒雞蛋 \n\n4個蛋白 \n\n85克/3盎司火雞絞瘦肉，煮熟 \n\n1把菠菜（生） \n\n58克/2.1盎司燈籠椒 \n\n8克/1盎司羊乳酪</string>
+	<string name="stepsMakeMeal7_1_2">在煎鍋中烹煮並調味火雞絞瘦肉。在另一個鍋煎蛋，加上羊乳酪、菠菜、燈籠椒和火雞絞肉。等它稍冷一些，然後用錫箔包裹。請慢慢享用！</string>
+
+
+	<string name="namemeal7_2_2">雞肉炒蘆筍</string>
+	<string name="ingredientMeal7_2_2">1湯匙醬油 \n\n1湯匙蜜糖 \n\n2塊雞胸，切小 \n\n1湯匙橄欖油 \n\n1把蘆筍，切小 \n\n4瓣蒜瓣，切薄片 \n\n2茶匙芝麻油</string>
+	<string name="stepsMakeMeal7_2_2">在密封袋中混合醬油和蜜糖，加入雞肉攪​​拌以沾上醬汁。之後放入冰箱待用。與此同時，中火加熱一個大平底深鍋。拿出蘆筍放在一旁。拿出雞肉放到鍋中，然後加入蒜、青蔥和醃製材料。煮好後放上一些芝麻油。請慢慢享用！</string>
+
+
+	<string name="namemeal7_3_2">檸檬烤雞胸</string>
+	<string name="ingredientMeal7_3_2">3湯匙的檸檬汁 \n\n2湯匙的橄欖油 \n\n2瓣蒜瓣，切碎 \n\n7塊雞胸半只 \n\n&#189;茶匙的鹽 \n\n&#189;茶匙新鮮黑胡椒粉 \n\n烹飪噴劑</string>
+	<string name="stepsMakeMeal7_3_2">用中高火準備燒烤。在一個大塑料袋內，混合首4樣材料，然後封袋。放在冰箱內醃製30分鐘。從袋子中拿出雞肉，均勻撒上鹽和胡椒。雞肉放上噴了烹飪噴劑的烤架烤，兩邊都烤熟。請慢慢享用！</string>
+
+
+	<string name="namemeal7_4_2">木瓜</string>
+	<string name="ingredientMeal7_4_2">2粒中等木瓜，挖空切丁 \n\n1杯山莓 \n\n&#188;粒小鳳梨 \n\n姜 \n\n1杯牛奶 \n\n2湯匙希臘乳酪 \n\n1.5塊冰塊 \n\n漿果</string>
+	<string name="stepsMakeMeal7_4_2">把所有材料丟入攪拌器，攪拌成奶昔。請慢慢享用！</string>
+
+
+	<string name="namemeal7_5_2">香草蝦</string>
+	<string name="ingredientMeal7_5_2">1磅大蝦 \n\n2顆紅辣椒 \n\n1根韭蔥 \n\n0.5&#8211;1湯匙續隨子，洗乾淨瀝乾 \n\n2瓣蒜瓣，切薄片 \n\n&#189;杯切細的芫荽 \n\n3湯匙檸檬汁 \n\n2湯匙橄欖油</string>
+	<string name="stepsMakeMeal7_5_2">中火加熱炒鍋，放油加熱。放入蝦、辣椒、韭蔥、蒜、鹽和胡椒，烹煮4分鐘直到蝦肉呈粉紅色。關火。加上檸檬汁，用勺子從鍋底挖起食物。最後用新鮮芫荽和九層塔葉裝飾。請慢慢享用！</string>
+
+	<string name="meal">第%1$d餐</string>
+	<string name="ingredients">材料</string>
+	<string name="steps">步骤</string>
+</resources>

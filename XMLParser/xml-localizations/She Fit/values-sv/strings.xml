@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name1">Grillade Citron–Dijon KycklingLår med Ruccola</string>
+    <string name="ingredients1">4 Hudlösa, benfria kycklinglår \n\n½ tsk salt \n\n¼ tsk malt svartpeppar \n\n2,5 ss olivolja \n\n2 tsk citronsaft \n\n1 tsk skivad vitlök \n\nmatlagningsspray \n\n1 msk balsamvinäger \n\n1 tsk honung \n\n1 kopp druvtomater, halverad \n\n1 Paket babyruccola</string>
+    <string name="steps1">Strö kycklingen med ¼ tsk salt och 1/8 peppar. Kombinera kycklingen med 1–1,5 tsk olja, citronsaft, senap och vitlök i en skål, kasta om. Låt stå 4 minuter. Värm en grillpanna över medelvärme. Täck pannan med matlagningsspray. Tillsätt kyckling för att panera, grilla i 5 minuter på varje sida eller tills det är klart. Klipp kycklingen i ¼ tum tjocka skivor. Njut!</string>
+
+
+    <string name="name3">Orange Honung–Sriracha kyckling</string>
+    <string name="ingredients3">0,1 kg kycklingbröst \n\n1/8 msk sesamolja \n\n12,5 g Sriracha sås \n\nsalt \n\npeppar</string>
+    <string name="steps3">Sätt din grill eller ugn till 190 ° C. I en tätbar plastpåse lägger du till innehållet för marinaden och blandar väl ihop. Smaka på marinaden och krydda den efter dina önskemål. Tillsätt kycklingen till marinaden och lägg i kylskåpet i minst 30 minuter. Ta sedan kycklingen ur kylskåpet och lägg den på grillen. Grilla i ca 15 till 20 minuter tills juicerna från kycklingen runnit klart. Njut!</string>
+
+
+    <string name="name6">Chilifajitas</string>
+    <string name="ingredients6">1 kg skinnfritt kycklingbröst \n\n½ grön, röd och gul paprika, snitt skivad \n\n0.5 dl vatten \n\n2 tsk sojasås \n\nSalt \n\nLite svartpeppar \n\n2 msk olivolja \n\n1 stor lök, tunt skivad</string>
+    <string name="steps6">Kombinera alla marinade–ingredienser med kycklingen i en behållare och kyl i minst 2 timmar. Ta av köttet från marinaden och grilla över medelflamma i 4–5 minuter på varje sida. Skär köttet i tunna band. För såsen, kombinera 2 msk vatten, 1 tsk sojasås, ¼ tsk limesaft salt pepper och 1 msk olivolja. Njut!</string>
+
+
+    <string name="name10">BBQ Kyckling–inlindade sparris</string>
+    <string name="ingredients10">2 kycklingbröst tunt skurna \n\n12 sparris \n\n2 msk bbq sås \n\n1 nypa rökt paprika \n\n1 nypa vitlökspulver \n\n1 nypa peppar</string>
+    <string name="steps10">Ställ ugnen på 400 ° F / 200 ° C. Platta till kycklingen med en hammare. Krydda kycklingen med 1 msk grillsås (för varje bit) och ditt urval av kryddor. Placera kycklingen på en grill med öppet vänd nedåt. Baka i ugnen eller rök på en grill i ca 8 till 10 minuter. Njut av!</string>
+
+
+    <string name="name16">Svamp och spenat–omelett</string>
+    <string name="ingredients16">1 msk olivolja \n\n½ kopp hackade shallotenlökar \n\n3 vitlöksklyftor, malet \n\n1 förpackad skivad vit svamp \n\n1 timjanskvist \n\nFärsk spenat \n\nsalt \n\nmalen svartpeppar \n\n8 stora ägg</string>
+    <string name="steps16">Värm en stekpanna över medelhög värme. Tillsätt olja på pannan. Tillsätt shallot, vitlök, svamp och timjan. Tillsätt spenat, sautéra tills vätska nästan avdunstar. Kombinera en nypa salt och peppar och 4 ägg i en liten skål, rör om med en visp. Återgå till medelvärme. Tillsätt äggblandningen och koka i 1 minut. Lyft kanterna av omeletten med en spate och luta pannan för att kläcka ett okokt ägg på botten av pannan. Njut!</string>
+
+
+    <string name="name20">Teriyakikyckling och broccoli</string>
+    <string name="ingredients20">2 koppar broccolifloretter \n\n1 stort kycklingbröst, tärnad i kuber \n\n1 matskedolja \n\nsalt och peppar \n\n1 paprika, skivad \n\n2 koppar kokt brunt ris \n\n0.5 dl ljus sojasås \n\n2 msk vin vinäger \n\n1 vitlöksklyfta, malet \n\n½ tsk sesamolja \n\n¼ tsk grön ingefära</string>
+    <string name="steps20">Värm en stor panna över medelhög värme. Tillsätt kyckling, krydda med salt och peppar och koka tills det inte längre är rosa. Vispa alla ingredienser för teriyakisåsen i en liten skål. Tillsätt broccolifloretterna och paprika i pannan. Dela kyckling och broccoli i 4 måltidsberedningsbehållare. Strö med sesamfrön och lock. Njut!</string>
+
+
+    <string name="name30">Linfrögröt med Blåbär</string>
+    <string name="ingredients30">7 dl vatten \n\n5 dl havregryn \n\n3 msk linfrön \n\n1/8 tsk salt \n\n0.5 mjölk \n\n2 dl blåbär \n\n1 msk blåbärssylt \n\n½ tsk rivet citronskal \n\n1 msk citronsaft</string>
+    <string name="steps30">Koka 3 koppar vatten. Rör i havre, tillsätt linfrö och salt. Minska värmen till medium–låg, koka tills det är en gröt, rör om ofta. Rör i mjölk och smör. Under tiden, kombinera blåbär och nästa 4 ingredienser i en mikrovågssäker skål i mikrovågsugn på hög effekt i 1,5 minuter, rör om var 30:e sekund. Dela havregrynsgröten i 4 skålar. Toppa med blåbär och pekannötter. Njut!</string>
+
+
+    <string name="name37">Kryddig &amp; Lätt Kung Pao Kyckling</string>
+    <string name="ingredients37">150 g kycklingbröst \n\n1/6 vitlöksklyfta \n\n33 g ärter \n\n150 g paprika \n\n2/3 msk vatten \n\n⅓ msk tomatsås \n\n1 msk färsk ingefära \n\n1 msk röd chili pepparsås \n\n1 ml risvinäger \n\nhackad grön lök</string>
+    <string name="steps37">I en skål lägg till ingredienser för såsen och vispa. Ställ en stekpanna över medelvärme och spraya med olivolja. När stekpannan är het, kasta i vitlök och sear i ca 2 minuter. Lägg sedan till hackade kycklingbrösten. Koka kycklingen tills utsidan av den är stekt, ca 6 till 8 minuter. Kasta i hackad paprika och stek i ca 3 minuter. Häll långsamt i såsen och rör om ofta. Njut!</string>
+
+
+    <string name="name40">Hälsosamt fruktig gröt</string>
+    <string name="ingredients40">1.5 dl havre \n\n2 dl vatten \n\n1 msk honung \n\n1 msk vaniljextrakt \n\n½ tsk malen kanel \n\n0.5 dl blåbär \n\n4 skivade jordgubbar \n\n½ banan, skuren i skivor</string>
+    <string name="steps40">Kombinera vatten och havre i en mikrovågssäker skål. Mikra på hög efekt tills havren har absorberat vattnet. Rör om honung, vaniljextraktet och malda kanelen. Tillsätt blåbär och toppa med banan och jordgubbsskivor. Njut!</string>
+
+
+    <string name="name41">Smoothie med kiwi, apelsiner och spenat</string>
+    <string name="ingredients41">En stor handfull spenat \n\n2 kiwibitar \n\nen mango \n\njuicea en apelsin</string>
+    <string name="steps41">Tvätta spenaten, skära av rötterna. Tvätta mango och kiwi, skära sedan i små bitar. Vispa alla ingredienser i en blandare tills det är blandat. Njut!</string>
+
+
+    <string name="name42">Rökt lax Guacamole</string>
+    <string name="ingredients42">1 avokado \n\n60 g  rökt lax \n\n17 g rödlök, hackad \n\n2 msk cilantro, hackad \n\n2 msk grekisk yoghurt \n\npeppar</string>
+    <string name="steps42">Blanda avokadoerna i en skål och kombinera alla ingredienserna. Smaka med senap, kummin, citronsaft, grekisk yoghurt och peppar efter smak. Njut!</string>
+
+
+    <string name="name43">Smal Stekt ägg och Avokado Toast</string>
+    <string name="ingredients43">2 ägg \n\n2 rostat brödskivor \n\nEn liten avokado \n\n1 tsk limesaft \n\nsalt \n\nsvartpeppar \n\nPersilja</string>
+    <string name="steps43">Förbered toasten och stek äggen som du vill. Skala och mosa avokado med limesaft, salt och peppar. Sprid avokado jämnt på varje skiva toast, vardera med ett stekt ägg och extra kryddor efter dina önskemål. Njut!</string>
+
+
+    <string name="name44">Söt, röd träningssmoothie</string>
+    <string name="ingredients44">1 rött äpple \n\n½ rödbetor \n\n1 stav selleri \n\n3 jordgubbar \n\n¼ en banan \n\ngrönt te (tillval) \n\nHallon \n\n1 tsk ingefära (tillval)</string>
+    <string name="steps44">Lägg alla ingredienser i en mixer. Blanda i ca 1 minut för att försäkra dig om att du tar bort alla bitar, blanda sedan tills du är nöjd. Drick som ett mellanmål. Njut!</string>
+
+
+    <string name="name45">Vitlökstekt sparris med parmesan</string>
+    <string name="ingredients45">1 kg färsk sparris \n\n2 msk olivolja \n\n3 msk riven parmesan \n\n2 vitlöksklyftor, malda \n\nsalt och peppar</string>
+    <string name="steps45">Lägg sparrisen i pannan och krydda med salt och peppar och kasta i olivoljan. Lägg sparrisen på grillen i rad. Grilla i 5–10 minuter över mediumvärme tills de har grillmärken och är mjuka. Njut!</string>
+
+
+    <string name="name46">Hemlagad Pesto med Räkor &amp; Zucchini Pasta</string>
+    <string name="ingredients46">• 12 g färsk basilika\n• 7,5 g rå spenat\n• 7,5 g valnötter\n• 20 ml olivolja\n• &#189; msk parmesan\n• 0.2 dl citronsaft\n• &#188; vitlöksklyfta\n• salt\n• peppar\n• 42 g kokta räkor\n• &#188; zucchini\n• 2 körsbärstomater skivade</string>
+    <string name="steps46">Blanda i en matprocessor. I en skål skär du zucchini linguine med hjälp av en spiraliserare. Tillsätt pestosåsen till din zucchini linguine och kasta om. Lägg till ditt val av protein som grillade räkor eller kyckling, och lägg sedan till hackade körsbärstomater. Njut!</string>
+
+
+    <string name="name47">Spicy Berry Cobbler Havremjöl</string>
+    <string name="ingredients47">150 g havregryn \n\n49 g blåbär \n\n50 g björnbär \n\n3 msk hackade valnötter \n\n½ msk kokosnötolja \n\n¼ tsk gurkmeja \n\n¼ tsk allspice \n\n1 paket stevia \n\n1 nypa kanel \n\n1 msk granola</string>
+    <string name="steps47">Koka havren enligt anvisningarna. Ta av. Sätt en panna på medelvärme, tillsätt kokosolja. Låt pannan bli varm. Kasta i bären. Krydda bären med en nypa kanel och rör om. Ta bort bären från värmen och låt såsen tjockna. Blanda noga och tillsätt lite mer kanel om så önskas. Häll den varma bärsirapen på toppen av havregryn. Garnera med färsk granola för att lägga till lite krisp. Njut!</string>
+
+
+    <string name="name48">Persika Banan</string>
+    <string name="ingredients48">• 1 banan\n• 2 persikor\n• 1.5 dl vaniljmandelmjölk\n• 1.5 dl isbitar\n• &#188; tsk kanel\n• honung (valfritt)</string>
+    <string name="steps48">Skala och skiv fräscha persikor och bananer. Häll alla ingredienser i en mixer. Tillsätt honung och blanda för att göra smoothie sötare om så önskas. Njut!</string>
+
+
+    <string name="name49">Kyckling &amp; Ananaswok</string>
+    <string name="ingredients49">110 g kycklingbröst, 4 oz \n\n40 g ananas, 1,4 oz \n\n120 g brunt ris, 4,4 oz \n\n⅓ msk olivolja \n\n½ tsk brun senap \n\n1/6 msk rökt paprika \n\nhavssalt \n\npeppar</string>
+    <string name="steps49">Hacka de rika kycklingbrösten i små bitar. Smaka på kycklingbitarna med rökt paprika och brun senap. Tillsätt olivolja till en stekpanna och kasta sedan i kycklingbröstbitarna. Koka i ca 4 minuter tills kycklingen är ca 80% färdig, tillsätt sedan hackad paprika. Koka i ytterligare 2 eller 3 minuter innan du lägger den tärnade ananasen. Njut!</string>
+
+
+    <string name="name50">Örtte</string>
+    <string name="ingredients50">• 1 kopp vatten\n• 1 tesked riven frisk ingefära\n• 1 tesked riven limezest\n• 1 tesked limesaft\n• 3 lämnar färsk mint</string>
+    <string name="steps50">Koka upp vatten i en gryta, rör i resten av ingredienserna. Koka och rör om tills teet är stöpt. Njut!</string>
+
+
+    <string name="name51">Svamp och tomatomelett</string>
+    <string name="ingredients51">4 äggvitor \n\n1 ägg \n\n1.5 dl mager ost \n\n1.5 dl skivad svamp \n\n½ hackad tomat</string>
+    <string name="steps51">Kombinera ägg och rör dem lätt. Använd en matlagningsspray, koka ägg i en stekpanna. Lägg till keso, svamp och tomater i mitten av omelett. Koka tills äggen är klara och vik över. Njut!</string>
+
+
+    <string name="name52">Spenatsmoothie med päron och ingefära</string>
+    <string name="ingredients52">• 700 g spenat\n• 2 msk citronsaft\n• 2 tsk ingefära\n• 2 päron\n• mynta</string>
+    <string name="steps52">Blanda alla ingredienser i en mixer och blanda tills det når en jämn konsistens. Njut!</string>
+
+
+    <string name="name53">Grillad mexikansk majs</string>
+    <string name="ingredients53">4 öron majs \n\n3.5 dl gräddfil \n\n1 kopp riven parmesan \n\n1 lime, juice \n\nrött chilipulver \n\n2 lime i skivor, för garnering</string>
+    <string name="steps53">Grilla majsen på en varm grill tills den börjar bli lite förkolad. Blanda i en liten skål majonnäs, gräddfil och koriander. Täck med  majs, limejuice och krydda med parmesan. Strö med chili pulver. Njut!</string>
+
+
+    <string name="name54">Ananas Kiwi</string>
+    <string name="ingredients54">4 msk vatten \n\n1.5 dl mjölk \n\n1.5 dl kopp yoghurt \n\n1,5 msk honung \n\n1 kiwifrukter, skalad \n\n1 kopp ananasbitar \n\n½ en mango \n\n2 isbitar</string>
+    <string name="steps54">Blanda alla ingredienser vid låg hastighet tills det är tjockt och mjukt. Njut!</string>
+
+
+    <string name="name55">Citrus och Honugste</string>
+    <string name="ingredients55">• 1 citronskiva\n• 2 tsk grönt tepulver\n• 2 dl varmt vatten\n• 1.5 dl grapefruktjuice\n• 3 msk citronsaft\n• 1 tsk honung</string>
+    <string name="steps55">Rör i grönt tepulver och varmt vatten. Lägg till grapefruktjuice, citronsaft och honung. Blanda väl och servera med en citronskiva. Njut!</string>
+
+
+    <string name="name56">Grillad Räka &amp; Avokado Kabobs</string>
+    <string name="ingredients56">• 450 g jumboräka\n• 1,5 avokado\n• 1 röd paprika\n• 1 orange paprika\n• 1 gul paprika\n• 1 rödlök\n• 1 tsk vitlökspasta\n• &#189; msk extra jungfruolja\n• 1 lime\n• salt peppar</string>
+    <string name="steps56">Ställ in grillen till ca 200 ° C. Haka grönsaker och avokado i stora bitar för kabob. Skala räkorna och krydda. Välj fibrösa grönsaker eftersom de fyller mer och kommer troligen att hålla sig bra på ett spett under intensiv värme. Placera spetten på grillen och grilla i ca 8&#8211;10 minuter och vänd sedan om och koka i ytterligare 8 till 10 minuter. Njut!</string>
+
+
+    <string name="name57">Kryddig Grillad Kyckling &amp; Äggsmörgås</string>
+    <string name="ingredients57">• 140g kycklingbröst, rått\n• 1 ägg\n•  Ruccola\n• &#189; tomat\n• 1 msk getost\n• 1 vetebulle\n• Kokosoljespray\n• 1 tsk rökt paprika\n• &#189; tsk cayennepeppar\n• salt\n• peppar</string>
+    <string name="steps57">Krydda kycklingbröstet med paprika, cayenne, kummin, havsalt och peppar. Rosta vetebrödet i en brödrost till egen krispighet. Spraya en stekpanna med kokosnötolja och sätt på medelhög värme. Lägg kycklingbröstet i stekpannan och laga på båda sidor tills kycklingbröstet är helt kokt. Tillsätt ruccola, tomat, getost, kyckling och sedan ägget. Njut!</string>
+
+
+    <string name="name58">Golden Glow Elixir</string>
+    <string name="ingredients58">2 äpplen \n\n4 medestora apelsiner, skal avlägsnas \n\n1 citron, skalad \n\n2–3 tums färsk ingefära, skalad \n\n2–tums färsk gurkmeja, skalad \n\n2 koppar kallt vatten \n\n1 handfull is</string>
+    <string name="steps58">Blanda alla ingredienser till en jämn blandare med hög hastighet, tillsätt extra vatten om det behövs. En bra mixer gör det till en jämn juice. Om du hellre skulle vilja juica ingredieserna för att göra det ännu mjukare, kör på för att hålla alla fibrer och näringsämnen kvar, men att juica ingredienserna funkar lika bra. Njut av!</string>
+
+
+    <string name="name59">Bisonomelette </string>
+    <string name="ingredients59">• 1 ägg\n• 3 äggvitor\n• 110 g mager strimlad bison\n• 30g råspenat\n• 60g paprika\n• 14g mozzarellaost, riven\n• vitlökspulver\n• malen kummin\n• salt\n• peppar</string>
+    <string name="steps59">Krydda och tilllaga bisonen i en panna.Vispa ägg i en skål med en nypa havssalt och peppar. Sätt en panna över medelhög värme. Häll i äggblandningen och laga det som en pannkaka. Täck pannan för att låta ägget tillagas i sin helhet. Njut!</string>
+
+
+    <string name="name60">Papaya</string>
+    <string name="ingredients60">2 medium papaya, pitted och hackad \n\n2 dl hallon \n\n¼ liten ananas \n\ningefära \n\n2 dl mjölk \n\n2 msk grekisk yoghurt \n\n1,5 kub is \n\nbär till garnering</string>
+    <string name="steps60">Kasta ingredienser i en mixer. Blanda tills mjukt. Njut!</string>
+
+
+    <string name="name61">Lavendel och Mintte</string>
+    <string name="ingredients61">• 0.5 dl färska kronblad\n•  ett knippe färska mintblad\n• 4 koppar vatten</string>
+    <string name="steps61">Placera lavendelkronbladen och myntabladen i en kastrull, häll vatten över och koka. Vrid värmen till låg och smäll te tills önskad styrka, 15 till 20 minuter. Njut!</string>
+
+
+    <string name="name62">Färska Räkor &amp; Grönsakspasta</string>
+    <string name="ingredients62">170 g räkor \n\n1 korg \n\n2 morötter \n\n½ vitlökskivad hackad \n\n¼ rödlök hackad \n\n1 msk lågnatrium sojasås \n\n¼ apelsinjuice \n\n½ msk sesamolja</string>
+    <string name="steps62">Du behöver en Julienne–peeler för att skära zucchini och morötter för att göra grönsakspastan. Lägg sedan till 1 msk sojasås.Tillsätt sedan cidervinäger och pressa saften från ¼ apelsin. Slutligen tillsätta ½ msk sesamola. Ställ en stekpanna på medelhög värme och spraya med kokosnötolja. Kasta i vitlök och rödlök. Tillsätt räkorna i stekpannan och rör omedelbart med en sked för att se till att alla räkor absorberar vitlökens och lökens smak. Njut!</string>
+
+
+</resources>

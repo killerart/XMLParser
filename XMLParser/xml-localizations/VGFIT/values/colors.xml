@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="white">#FFFFFF</color>
+	<color name="black">#000000</color>
+	<color name="transparent">#00000000</color>
+
+	<color name="title_color">#F5F5F5</color>
+	<color name="title_color_pressed">#505050</color>
+	<color name="title_color_with_95_opacity">#F2F5F5F5</color>
+
+	<color name="white_with_50_opacity">#80FFFFFF</color>
+	<color name="white_with_60_opacity">#99FFFFFF</color>
+	<color name="white_with_95_opacity">#F2FFFFFF</color>
+
+	<color name="general_gray">#252323</color>
+	<color name="general_green">#AADB00</color>
+	<color name="general_blue">#007AFF</color>
+
+	<color name="gray_text_color">#413E3E</color>
+	<color name="border_gray_text_color">#BBBBBB</color>
+
+	<color name="bg_color_">#17FFFFFF</color>
+
+	<color name="divider_color">#E4E4E4</color>
+
+	<color name="gray_pressed_color">#BCBCBC</color>
+
+	<color name="full_exercise_gray_color">#939393</color>
+
+	<color name="full_exercise_indicator_gray_color">#D2D2D2</color>
+	<color name="full_exercise_indicator_green_color">#AADB00</color>
+
+	<color name="red_dot_color">#F84C4E</color>
+
+	<color name="light_gray_color">#7e7e7e</color>
+	<color name="workouts_category_gray_color">#979797</color>
+	<color name="gray_description_color">#CCCCCC</color>
+
+	<color name="player_control_gray_color">#F9F9F9</color>
+	<color name="player_control_view_pager_gray_color">#33C7C7C7</color>
+	<color name="player_control_view_pager_line_color">#E4E4E4</color>
+	<color name="player_control_light_second_gray_color">#DDDDDD</color>
+	<color name="custom_search_recycler_background">#534F4F</color>
+
+	<color name="exercise_count_progress_bar_background">#EAEBED</color>
+	<color name="custom_vertical_line_color">#E9E9E9</color>
+	<color name="history_dark_background_color">#1F1D1D</color>
+	<color name="history_dark_background_color_transparent">#001F1D1D</color>
+	<color name="semitransparent_white">#80FFFFFF</color>
+	<color name="monthly_color">#A1A1A1</color>
+	<color name="light_green">#ccf113</color>
+	<color name="dark_green">#c1e40f</color>
+	<color name="light_yellow">#fff500</color>
+	<color name="bonus_gray_text_color">#1b1a1a</color>
+	<color name="plans_price_text_color">#808080</color>
+
+	<color name="red">#e46951</color>
+	<color name="grey">#747474</color>
+
+	<color name="bootstrap_gray_lightest">#f7f7f9</color>
+    <color name="visiniu">#de364a</color>
+	<color name="another_color">#80FFFFFF</color>
+</resources>

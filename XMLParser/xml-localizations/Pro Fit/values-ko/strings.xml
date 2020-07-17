@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PRO Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">운동</string>
+    <string name="title_2">워크아웃</string>
+    <string name="title_3">맞춤</string>
+    <string name="title_4">기록</string>
+    <string name="title_5">좀 더</string>
+    <string name="done">완료</string>
+    <string name="back">뒤로</string>
+    <string name="titles">제목   </string>
+    <string name="downl_vid">동영상 다운로드중</string>
+    <string name="please_wait">잠시만 기다리십시오</string>
+    <string name="cancel">취소</string>
+    <string name="edit">수정</string>
+    <string name="work">내 워크아웃</string>
+    <string name="create_plus">새로운 워크아웃을 만드려면 +를 누르십시오</string>
+    <string name="save">저장</string>
+    <string name="workout_name">워크아웃 이름:</string>
+    <string name="days_title">날수:</string>
+    <string name="delete">삭제</string>
+    <string name="work_title">워크아웃 제목:</string>
+    <string name="options">선택 사항:</string>
+    <string name="camera">카메라/갤러리</string>
+    <string name="ex_phot_title">운동 사진</string>
+    <string name="name_desc">이름, 요약 설명</string>
+    <string name="ex_name">운동 이름:</string>
+    <string name="desc">요약 설명:</string>
+    
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+    
+    <string name="blanck">텍스트란에 입력하기 바랍니다!</string>
+    <string name="okey">오케이</string>
+    <string name="realy_cancel">다운로드를 정말로 취소하겠습니까? 모든 진척 상황은 유실될 것입니다!</string>
+    <string name="download_all">동영상 모두 다운로드하기</string>
+    <string name="unzip">파일 압축해제</string>
+    <string name="files">파일</string>
+    <string name="dow_video">동영상 다운로드중</string>
+    <string name="video_saved">동영상이 모두 성공적으로 저장되었습니다!</string>
+    <string name="conn">와이파이 또는 모바일 인터넷 연결을 확인 바랍니다!</string>
+    
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+    
+    <string name="start">시작</string>
+    <string name="weight">체중(킬로그램)</string>
+    <string name="repetitions">반복</string>
+    <string name="set_s">초 설정하기</string>
+    <string name="wei">체중</string>
+    <string name="rep">반복</string>
+    <string name="wei_rep">성능</string>
+    <string name="no_history">더 연습이 아직 완료되지 않았습니다</string>
+    <string name="last_val">마지막 가치</string>
+    <string name="send_f">피드백 보내기</string>
+    <string name="rep_bug">버그 보고하기</string>
+    <string name="tel_fr">친구에게 추천하기</string>
+    <string name="rate_us">평가하기</string>
+     <string name="ad">추가하다</string>
+     
+     <string name="exit">확실한가요? ?</string>
+    <string name="sdcard">SD 카드가 없어요!</string>
+    <string name="post_to">벽에 게시하기</string>
+    <string name="not_loged">로그인 상태가 아닙니다</string>
+    <string name="log_fail">로그인 실패했습니다</string>
+    <string name="posting">게시 </string>
+    <string name="posting_succes">성공적으로 게시되었습니다</string>
+    <string name="email_sent">이메일 전송 완료</string>
+    <string name="email_notsent">이메일이 전송되지 않았습니다.</string>
+
+    <string name="s1">4세트 그리고 15회 반복</string>
+    <string name="s2">4세트 그리고12/10/8/6회 반복</string>
+    <string name="s3">5세트 그리고3/3/3/2/1회 반복</string>
+
+
+    <string name="dialog_future">미래 날짜에 대한 데이터를 입력할 수 없습니다!</string>
+
+    <string name="ex_guide_1">등과 가슴</string>
+    <string name="ex_guide_2">다리와 팔뚝</string>
+    <string name="ex_guide_3">어깨, 삼두근 및 이두박근</string>
+    <string name="ex_guide_4">등과 삼두근</string>
+    <string name="ex_guide_5">가슴과 이두박근</string>
+    <string name="ex_guide_6">다리와 어깨</string>
+    <string name="ex_guide_7">서클 1</string>
+    <string name="ex_guide_8">서클 2</string>
+    <string name="ex_guide_9">서클 3</string>
+    <string name="ex_guide_10">이두박근과 삼두근</string>
+    <string name="ex_guide_11">다리</string>
+    <string name="ex_guide_12">등</string>
+    <string name="ex_guide_13">이두박근</string>
+    <string name="ex_guide_14">가슴</string>
+    <string name="ex_guide_15">어깨</string>
+    <string name="ex_guide_16">삼두근</string>
+
+    <string name="ex_name_1">에어 바이크</string>
+    <string name="ex_desc_1">1. 허리로 바닥을 누른 상태로 바닥에 눕습니다. 이 운동시 양손을 머리 옆으로 둡니다. 운동을 하면서 목에 무리 되지 않도록 조심합니다. 이제 어깨를 크런치 자세로 들어줍니다.\n\n2. 정강이는 바닥과 평행이 되게 하고 무릎은 바닥과 수직이 되도록 당겨줍니다. 이것이 시작 자세입니다.\n\n3. 이제 동시에 천천히 오른발을 자전거 페달을 앞으로 밟듯이 내밀며 왼발 무릎을 안으로 당겨줍니다. 숨을 내쉬면서, 옆으로 크런치하면서 오른쪽 팔꿈치를 왼쪽 무릎으로 가까이 당겨줍니다.\n\n4. 숨을 들이쉬면서, 처음 자세로 돌아갑니다.\n다리로 자전거 타듯 하며 왼쪽 팔꿈치를 오른쪽 무릎으로 가까이 당겨주며 반대 방향으로 크런치하고 숨을 내쉽니다.\n\n5. 양쪽으로 권장하는 반복 횟수를 완료할 때까지 이 방식으로 교대로 계속합니다.</string>
+
+    <string name="ex_name_2">행잉 레그 레이즈</string>
+    <string name="ex_desc_2">1. 와이드 그립 또는 미디엄 그립으로 팔을 위로 곧게 편 상태로 철봉에 매달립니다. 골반이 약간 뒤로 밀어주며 다리는 아래로 곧게 폅니다. 이것이 시작 자세입니다.\n\n2. 상체가 다리와 90도 각도가 될 때까지 다리를 들어올립니다. 이 동작을 하면서 숨을 내쉬고 1초 정도 수축한 상태로 유지합니다.\n\n3. 숨을 들이쉬면서 천천히 시작 자세로 돌아갑니다.\n\n4. 권장하는 반복 횟수를 반복합니다.</string>
+
+    <string name="ex_name_3">평행봉에서 니:힙 레이즈</string>
+    <string name="ex_desc_3">1. 팔뚝을 상체 옆 패드에 놓고 손잡이를 잡으며, 버티컬 레그 레이즈 벤치에 자세를 잡습니다. 팔은 90도 각도로 구부립니다.\n\n2. 장비의 패드를 누르며 상체가 허리와 같이 곧게 펴며 다리는 바닥 쪽으로 가리키며 쭉 펴줍니다. 이것이 시작 자세입니다.\n\n3. 이제 숨을 내쉬면서, 다리를 곧게 편 상태에서 들어줍니다. 다리가 바닥과 거의 평행이 될 때까지 계속해서 들어주며 1초 정도 수축한 상태로 유지합니다. 팁: 이 운동시 흔들거나 탄력을 이용하지 마세요.\n\n4. 숨을 들이쉬면서 천천히 시작 자세로 돌아갑니다.\n\n5. 권장하는 반복 횟수를 반복합니다.</string>
+
+    <string name="ex_name_4">엑슬 데드리프트</string>
+    <string name="ex_desc_4">1. 발끝을 약간 밖으로 한 상태에서 어깨 너비만큼 벌리고 자세를 취합니다. \n\n2. 대퇴 사두근이 바닥과 평행이 될 때까지 엉덩이를 이제 내립니다. 바는 정강이 앞에 둡니다. 이제 다리 약간 바깥쪽 너비로 양손으로 바벨을 잡습니다. \n\n3. 바를 무릎에서 떼어 엉덩이 부근에 오도록 등의 요추를 아치형으로 하고 다리로 눌러주며 동시에 허리를 들어올립니다. 어깨와 무릎은 완전히 고정하며 전체 동작을 하는 동안 팔은 곧게 합니다.</string>
+
+    <string name="ex_name_5">벤트 오버 바벨 로우</string>
+    <string name="ex_desc_5">1. 무릎을 약간 구부린 상태로 섭니다. 등은 곧게 펴며, 약 45도로 상태를 숙입니다. \n\n2. 양손을 어깨너비보다 더 넓게 한 상태로 오버핸드 그립으로 바를 잡으며 팔은 어깨에서 아래로 곧게 늘어뜨립니다: \n\n3. 숨을 들이쉬며, 복부를 수축하며 가슴에 닿을 때까지 바를 똑바로 위로 올립니다. \n\n4. 숨을 내쉬며 시작 자세로 돌아갑니다.</string>
+
+    <string name="ex_name_6">벤트 오버 투 덤벨 로우</string>
+    <string name="ex_desc_6">1. 덤벨 두개를 잡고 허리 앞에 유지하며 등은 평평하게 유지합니다. 손바닥이 서로 마주보도록 한 상태에서 팔을 아래로 곧게 펴줍니다.\n\n2. 덤벨을 가슴 옆쪽으로 들어 올려주며 등을 계속 안정되게 곧게 한 상태에서 시작 자세로 펴며 돌아갑니다.</string>
+
+    <string name="ex_name_7">친업</string>
+    <string name="ex_desc_7">1. 몸에서 멀리 떨어져 손바닥과 손가락을 앞을 향하게 해서 바를 잡습니다. 이것이 내전 그립입니다. \n\n2. 팔을 곧게 펴며 흔들지 않고 아래로 곧게 하며 매달립니다. 어깨와 몸은 편안하게 합니다. \n\n3. 갑자기 하지 말고 부드럽게 위로 당겨줍니다. 턱은 바 위로 올립니다. 시작 자세로 부드럽게 내려줍니다.</string>
+
+    <string name="ex_name_8">원 암 덤벨 로우</string>
+    <string name="ex_desc_8">1. 오른발을 바닥에 단단히 고정한 상태로 왼쪽 무릎과 왼손을 플랫 벤치에 놓습니다. \n\n2. 등을 평평하게 하며 바닥과 평행이 되도록 앞으로 숙입니다. \n\n3. 손바닥이 몸 쪽으로 향하도록 한 상태에서 오른손으로 덤벨을 잡고 흉곽 바깥으로 덤벨을 위로 올립니다. 시작 자세로 돌아오고 반복합니다.</string>
+
+    <string name="ex_name_9">리버스 그립 벤트 오버 로우</string>
+    <string name="ex_desc_9">1. 무릎을 약간 구부린 상태로 섭니다. 등은 곧게 펴며, 약 45도로 상태를 숙입니다. \n\n2. 양손을 어깨너비보다 더 넓게 한 상태로 언더핸드 그립으로 바를 잡으며 팔은 어깨에서 아래로 곧게 늘어뜨립니다: \n\n3. 숨을 들이쉬며, 복부를 수축하며 가슴에 닿을 때까지 바를 똑바로 위로 올립니다. \n\n4. 숨을 내쉬며 시작 자세로 돌아갑니다.</string>
+
+    <string name="ex_name_10">시티드 케이블 로우</string>
+    <string name="ex_desc_10">1. 시티드 케이블 로우를 시작하기 위해 선호하는 바의 핸들을 잡습니다 (보여지는 것과 같을 수 있음). \n\n2. 다리를 구부리고 다리는 금속 블럭을 맞댄 상태로 등을 곧게 펴고 앉습니다. \n\n3. 광배근이 당기는 느낌으로 팔을 폅니다. 핸들이 복부에 닿을 때까지 무게를 몸 쪽으로 뒤로 당겨줍니다.</string>
+
+    <string name="ex_name_11">언더핸드 케이블 풀다운</string>
+    <string name="ex_desc_11">1. 랫 풀다운 장비에 긴 바를 부착하고, 무릎은 직각이 되고 발은 바닥에 평평하게 하며 앉아서 허벅지 패드를 조정합니다. \n\n2. 와이드 언더핸드 그립으로 바를 잡고 등을 엉덩이에서 약간 기울이며 상체를 꼿꼿하게 유지한 채 앉습니다. \n\n3. 바를 얼굴 앞으로 가슴 상단으로 당겨주며 멈춥니다. 팔을 곧게 펴며 바를 천천히 시작 자세로 돌아가도록 놓아줍니다.</string>
+
+    <string name="ex_name_12">V바 풀다운</string>
+    <string name="ex_desc_12">1. 상단 도르래에 V바를 붙인 풀다운 장비에 앉습니다.\n\n2. 높이에 맞춰 장비의 무릎 패드를 조정합니다. 이 패드는 바에 부착된 무게로 몸이 올라가는 것을 방지합니다.\n\n3. 손바닥을 서로 마주한 상태로 V바를 잡습니다 (자연스러운 그립). 가슴을 앞으로 내밀고 광배근이 잘 모으도록 뒤로 약간 기울입니다 (약 30도). 이것이 시작 자세입니다.\n\n4. 광배근을 이용해서, 어깨뼈를 조여주면서 바를 아래로 당겨줍니다. 가슴이 거의 V바에 닿을 때까지 계속합니다. 이 동작을 하면서 숨을 내쉽니다. 팁: 운동하는 내내 상체를 고정한 채 유지합니다.\n\n5. 수축한 자세로 1초 유지한 후, 숨을 들이쉬면서 천천히 바를 시작 자세로 돌아갑니다.\n\n6. 미리 지정한 반복 횟수를 반복합니다.</string>
+
+    <string name="ex_name_13">와이드 그립 랫 풀다운</string>
+    <string name="ex_desc_13">1. 랫 풀다운 장비에 긴 바를 부착하고, 무릎은 직각이 되고 발은 바닥에 평평하게 하며 앉아서 허벅지 패드를 조정합니다. \n\n2. 와이드 오버핸드 그립으로 바를 잡고 등을 엉덩이에서 약간 기울이며 상체를 꼿꼿하게 유지한 채 앉습니다. \n\n3. 바를 얼굴 앞으로 가슴 상단으로 당겨주며 멈춥니다. 팔을 곧게 펴며 바를 천천히 시작 자세로 돌아가도록 놓아줍니다.</string>
+
+    <string name="ex_name_14">바벨 컬 리버스 그립</string>
+    <string name="ex_desc_14">1. 다리를 약간 벌리고 팔을 곧게 편 상태에서 오버핸드 그립을 해서 섭니다 (엄지는 서로를 향하게 함).\n\n2. 숨을 들이쉬며 바를 감습니다. 동작을 완료하면서 숨을 내쉽니다. \n\n3. 이 운동은 손목과 손가락의 펴짐근에 운동 됩니다. 위팔노근과 이두박근 아래에 운동 됩니다.</string>
+
+    <string name="ex_name_15">바벨 컬 스탠딩</string>
+    <string name="ex_desc_15">1. 다리를 약간 벌리고 팔을 곧게 편 상태에서 언더핸드 그립을 해서 섭니다 (엄지는 서로 반대로 향하게 함).\n\n2. 숨을 들이쉬며 바를 감습니다. 동작을 완료하면서 숨을 내쉽니다. \n\n3. 이 운동은 손목과 손가락의 펴짐근에 운동 됩니다. 위팔노근과 이두박근 아래에 운동 됩니다.</string>
+
+    <string name="ex_name_16">바벨 컬 이지넥 </string>
+    <string name="ex_desc_16">1. 이지 컬 바 안쪽 손잡이 가까이 잡은 상태에서 상체를 위로 곧게 펴며 섭니다. 손바닥은 앞으로 향하도록 하며 바의 형태를 따라 약간 안쪽으로 기울입니다. 팔꿈치는 몸에 가까이 합니다. 이것이 시작 자세입니다.\n\n2. 상박을 단단히 고정한 채, 숨을 내쉬면서 이두박근을 수축하면서 무게를 감아 올립니다. 팁: 팔뚝만 움직입니다.\n\n3. 바를 어깨 정도까지 올리며 이두박근을 완전히 수축할 때까지 동작을 계속합니다. 수축한 자세로 1초 정도 유지하고 이두박근을 강하게 조여줍니다.\n\n4. 숨을 들이쉬면서 바를 시작 자세로 천천히 내려줍니다.\n\n5. 권장하는 반복 횟수를 반복합니다.</string>
+
+    <string name="ex_name_17">바벨 온 벤치 스코트</string>
+    <string name="ex_desc_17">1. 어깨 너비만큼 바를 잡습니다. \n\n2. 팔뚝이 천장 쪽으로 향하기까지 바를 감아 올립니다 (수직보다 약간 더). \n\n3. 1초 정도 정지하고, 바를 시작 자세로 내립니다.</string>
+
+    <string name="ex_name_18">컬 온 로우 블럭</string>
+    <string name="ex_desc_18">1. 케이블 스테이션의 아래 도르래에 직선 바를 부착합니다. \n\n2. 어깨너비로 언더핸드 그립으로 잡고 허벅지 앞에 팔을 펴서 잡습니다. \n\n3. 무릎을 약간 구부립니다. 상박을 움직이지 않고 가능한 가슴 쪽으로 바를 감아 올립니다.</string>
+
+    <string name="ex_name_19">컬 온 시뮬레이터 스코트</string>
+    <string name="ex_desc_19">1. 앉아서 팔꿈치를 보드에 두고 하단의 그립을 시뮬레이터의 손잡이 그립을 잡습니다.\n\n2. 숨을 들이쉬면서 손잡이를 들어올리며 팔을 구부립니다;\n\n3. 마지막 동작에서 숨을 내쉽니다.</string>
+
+    <string name="ex_name_20">컬 덤벨 해머</string>
+    <string name="ex_desc_20">1. 손바닥과 무게가 안쪽으로 향하도록 한 상태에서 양손에 각각 덤벨을 잡습니다. \n\n2. 팔은 90도가 되도록 합니다. \n\n3. 팔꿈치를 몸 쪽으로 가까이하며 고정한 자세로 유지한 채, 어깨 쪽으로 무게를 감아 올립니다. \n\n4. 무게를 시작 자세로 천천히 내립니다.</string>
+
+    <string name="ex_name_21">컬 덤벨 시팅</string>
+    <string name="ex_desc_21">1. 등을 곧게 편 상태로 앉아서, 덤벨을 언더핸드 그립으로 몸 옆에 늘어뜨립니다. 팔을 곧게 펴서 유지합니다.\n\n2. 상박을 제자리에 유지한 채 덤벨을 들어올립니다. 이 동작을 하는 동안 어깨는 움직이지 않도록 합니다. \n\n3. 1초 동안 유지한 후, 시작 자세로 돌아갑니다.</string>
+
+    <string name="ex_name_22">컬 덤벨 시팅 온 인클라인 벤치</string>
+    <string name="ex_desc_22">1. 팔을 길게 펴고 각 손에 덤벨을 잡은 상태로 플랫 벤치에 앉습니다. 팔꿈치는 몸에 가까이 붙입니다.\n\n2. 손바닥이 몸 쪽으로 향하도록 손을 돌립니다. 이것이 시작 자세입니다.\n\n3. 상박을 단단히 고정한 채, 무게를 감으며 동작 마지막에 손바닥이 앞쪽으로 향하도록 손목을 한번 꺾어 덤벨이 허벅지를 지나게 합니다. 숨을 내쉬면서 이두박근이 수축되도록 하며 팔뚝만 움직입니다. 덤벨을 어깨 정도까지 올리며 이두박근을 완전히 수축할 때까지 동작을 계속합니다. 이두박근을 조이면서 1초 동안 수축한 자세로 유지합니다.\n\n4. 숨을 들이쉬며, 손목을 자연스러운 그립으로 돌리며 덤벨을 천천히 시작 자세로 내립니다.\n\n5. 권장하는 반복 횟수를 반복합니다.</string>
+
+    <string name="ex_name_23">컬 덤벨 스탠딩</string>
+    <string name="ex_desc_23">1. 엉덩이 너비만큼 다리를 벌리고 허벅지 앞에 중간 무게의 덤벨을 잡고 복근을 조으며 섭니다. \n\n2. 이두박근을 조으며, 어깨 쪽으로 무게를 감아 올리면서 팔을 구부립니다. 팔꿈치를 고정하며 움직이지 않은 채 가능한 높이 무게만 들어 올립니다. \n\n3. 팔꿈치를 아래로 약간 구부린 상태에서 무게를 천천히 내립니다 (예, 관절을 고정하지 않고 근육의 긴장을 유지합니다)</string>
+
+    <string name="ex_name_24">시티드 카프 레이즈</string>
+    <string name="ex_desc_24">1. 정강이를 쭉 펴고 패드가 무릎 바로 위에 오도록 패드를 조절합니다. \n\n2. 발 볼로 발뒤꿈치를 위로 누르며 무게를 위로 올립니다. \n\n3. 종아리 근육이 펴지는 느낌이 들 때까지 발뒤꿈치를 내립니다. 안쪽과 바깥 종아리 겨냥해, 발가락을 안쪽 바깥쪽으로 각각 겨냥합니다.</string>
+
+    <string name="ex_name_25">시티드 스미스 머신 카프 레이즈</string>
+    <string name="ex_desc_25">1. 약 30cm 플랫 벤치 앞에 블록을 놓습니다.\n\n2. 벤치에 앉아서 발 볼을 블록에 놓습니다.\n\n3. 무릎 위 약 8cm 허벅지 위로 스미스 바벨을 놓고 \n유지합니다. 이것이 시작 자세입니다.\n\n4. 숨을 내쉬며 종아리를 조아서 가능한 높이 발가락을 위로 올려줍니다.\n\n5. 1초 정도 수축 후, 천천히 시작 자세로 돌아갑니다. 팁: 최대한 효과를 얻으려면 종아리를 가능한 뻗어줍니다.\n\n6. 권장하는 반복 횟수를 반복합니다.</string>
+
+    <string name="ex_name_26">스탠딩 덤벨 카프 레이즈</string>
+    <string name="ex_desc_26">1. 두 손으로 몸 옆에서 덤벨을 잡고 상체를 위로 곧게 펴서 섭니다. 발뒤꿈치를 펴 바닥에 닿으며 단단하고 안정적인 보드(약 5-7cm 높이)에 발 볼을 놓습니다. 이것이 시작 자세입니다.\n\n2. 발가락을 앞으로(모든 부분이 동일하게 닿도록) 또는 안쪽으로 (바깥 앞부분을 힘주도록) 또는 바깥으로 (앞부분 안쪽에 힘주도록) 가리킨 상태로 종아리를 수축하며 숨을 내쉬면서 발뒤꿈치를 바닥에서 들어올립니다. 1초 동안 위를 수축하며 유지합니다.\n\n3. 숨을 들이쉬면서, 천천히 발뒤꿈치를 내리면서 시작 자세로 돌아갑니다.\n\n4. 권장하는 횟수를 반복합니다.</string>
+
+    <string name="ex_name_27">스탠딩 스미스 머신 카프 레이즈</string>
+    <string name="ex_desc_27">1. 스미스 머신의 바 아래에 무게 판 또는 블록을 놓습니다. 가장 일치하는 높이에 맞춰서 바를 놓습니다. 정확한 높이를 선택하고 바에 무게를 끼운 후, 발 볼을 판에 디디며 어깨 뒤로 바를 놓습니다.\n\n2. 양손이 앞으로 향하도록 한 상태에서 바를 잡습니다. 바를 언랙하도록 돌립니다. 이것이 시작 자세입니다.\n\n3. 발 볼을 누르면서, 종아리 상단을 수축해서 힘주며 가능한 높이 발뒤꿈치를 들어올립니다. 무릎은 편 채로 유지합니다. 내려 오기 전에 수축 자세를 1초 동안 유지합니다.\n\n4. 발뒤꿈치를 내리면서 숨을 들이쉬고 천천히 시작 자세로 돌아옵니다.\n\n5. 권장하는 반복 횟수를 반복합니다.</string>
+
+    <string name="ex_name_28">바벨 벤치 프레스</string>
+    <string name="ex_desc_28">1. 벤치 프레스 운동을 올바르게 행하려면 벤치에 평평하게 눕고 발은 바닥에 평평하게 놓습니다. 걸려있는 바를 약간 머리 뒤로 합니다. 이 운동시 특별히 프리 바나 덤벨을 사용할 경우 무게가 놓치는 경우가 발생하지 않도록 스포터를 동원하는 것이 중요합니다. \n\n2. 랙에서 무게를 들어올리면, 바를 가슴 중앙 위로 똑바로 합니다. \n\n3. 동작을 하는 내내 머리는 벤치에 유지합니다. 바를 고정한 후, 할 수 있으면 바를 가슴 높이 정도로 천천히 내려줍니다. \n\n4. 바를 내리면서 팔은 바깥쪽으로 향하도록 유지합니다. 동작의 하단에 도달하면, 가슴과 팔로 바를 미는데 집중해서 펼친 자세로 돌아가도록 밀어줍니다.</string>
+
+    <string name="ex_name_29">디클라인 덤벨 벤치 프레스</string>
+    <string name="ex_desc_29">1. 다리를 디클라인 벤치 끝에 고정시키고 허벅지 위에서 양손에 덤벨을 잡고 눕습니다. 손바닥은 서로 향하도록 합니다.\n\n2. 누우면, 덤벨을 어깨 너비로 해서 몸 앞으로 옮깁니다.\n\n3. 어깨 너비로 한 상태에서, 손바닥이 몸에서 멀어지도록 손목을 앞으로 돌립니다. 이것이 시작 자세입니다.\n\n4. 숨을 내쉬면서 무게를 천천히 옆으로 내려줍니다. 계속해서 덤벨을 완전히 제어합니다. 팁: 동작 내내, 팔뚝은 항상 바닥과 수직이 되도록 합니다.\n\n5. 숨을 내쉬면서, 흉근을 사용해서 덤벨을 위로 밀어줍니다. 수축 자세로 팔을 고정하고 가슴을 조여주며 1초 동안 유지한 후 천천히 아래로 내려줍니다. 팁: 올라가는 것보다 내려올 때 최소 2배의 시간이 걸리도록 합니다.\n\n6. 트레이닝 프로그램의 지정된 반복 횟수만큼 동작을 반복합니다.</string>
+
+    <string name="ex_name_30">디클라인 덤벨 플라이</string>
+    <string name="ex_desc_30">1. 다리를 디클라인 벤치 끝에 고정시키고 허벅지 위에서 양손에 덤벨을 잡고 눕습니다. 손바닥은 서로 향하도록 합니다.\n\n2. 누우면, 덤벨을 어깨 너비로 해서 몸 앞으로 옮깁니다.\n\n3. 어깨 너비로 한 상태에서, 손바닥이 몸에서 멀어지도록 손목을 앞으로 돌립니다. 이것이 시작 자세입니다.\n\n4. 숨을 내쉬면서 무게를 천천히 옆으로 내려줍니다. 계속해서 덤벨을 완전히 제어합니다. 팁: 동작 내내, 팔뚝은 항상 바닥과 수직이 되도록 합니다.\n\n5. 숨을 내쉬면서, 흉근을 사용해서 덤벨을 위로 밀어줍니다. 수축 자세로 팔을 고정하고 가슴을 조여주며 1초 동안 유지한 후 천천히 아래로 내려줍니다. 팁: 올라가는 것보다 내려올 때 최소 2배의 시간이 걸리도록 합니다.\n\n6. 트레이닝 프로그램의 지정된 반복 횟수만큼 동작을 반복합니다.</string>
+
+    <string name="ex_name_31">디클라인 프레스</string>
+    <string name="ex_desc_31">1. 디클라인 벤치에 등을 대고 눕습니다. 오버핸드 그립으로 바벨을 잡습니다. \n\n2. 팔꿈치를 몸에 가까이 유지하면서 가슴 아래 쪽으로 바벨을 내립니다. 동작 마지막에 바벨이 약간 가슴에 닿게 합니다.</string>
+
+    <string name="ex_name_32">덤벨 벤치 프레스</string>
+    <string name="ex_desc_32">1. 발은 바닥에 안정되게 놓고, 팔은 위로 쭉 펴며 바벨을 잡고 손은 서로 향하도록 한 상태에서 벤치에 평평하게 눕습니다.\n\n2. 숨을 들이쉬며 팔꿈치를 구부리며 손을 내전으로 가져오며 팔뚝을 돌리며 덤벨을 가슴 높이로 내려줍니다. \n\n3. 덤벨을 위로 밀어주며 흉근의 스트레스가 분리되도록 등척성 수축을 합니다; 동작을 마무리 하면서 숨을 내쉽니다.</string>
+
+    <string name="ex_name_33">덤벨 플라이</string>
+    <string name="ex_desc_33">1. 덤벨 플라이를 하려면, 비교적 가벼운 무게를 양손에 들어 올립니다. 덤벨 플라이를 위해 얼마만큼의 무게가 적당한지 결정하도록 시험합니다. 가벼운 무게로 시작해서 천천히 무게를 올립니다. \n\n2. 웨이트 벤치에 누워서 팔을 곧게 편 상태에서 가슴 위로 덤벨을 위로 올립니다. 이것이 시작 자세입니다. \n\n3. 팔이 옆 밖으로까지 넓은 포물선 모양으로 바깥쪽으로 양팔을 펼칩니다. 팔이 약간 구부러질 수 있습니다. 이것이 덤벨 플라이의 플라이 부분입니다. 나는 것 같이 보여서 이렇게 불리워집니다. \n\n4. 덤벨이 시작 자세로 돌아오기까지 동일한 포물선 모양을 따라 돌아옵니다. 이것이 덤벨 플라이의 1회 반복입니다.</string>
+
+    <string name="ex_name_34">인클라인 덤벨 플라이</string>
+    <string name="ex_desc_34">1. 덤벨 플라이를 하려면, 비교적 가벼운 무게를 양손에 들어 올립니다. 덤벨 플라이를 위해 얼마만큼의 무게가 적당한지 결정하도록 시험합니다. 가벼운 무게로 시작해서 천천히 무게를 올립니다. \n\n2. 웨이트 인클라인 벤치에 누워서 팔을 곧게 편 상태에서 가슴 위로 덤벨을 위로 올립니다. 이것이 시작 자세입니다. \n\n3. 팔이 옆 밖으로까지 넓은 포물선 모양으로 바깥쪽으로 양팔을 펼칩니다. 팔이 약간 구부러질 수 있습니다. 이것이 덤벨 플라이의 플라이 부분입니다. 나는 것 같이 보여서 이렇게 불리워집니다. \n\n4. 덤벨이 시작 자세로 돌아오기까지 동일한 포물선 모양을 따라 돌아옵니다. 이것이 덤벨 플라이의 1회 반복입니다.</string>
+
+    <string name="ex_name_35">인클라인 덤벨 프레스</string>
+    <string name="ex_desc_35">1. 벤치에 앉아서 덤벨을 잡고 허벅지에 놓은 채 자세를 잡습니다. 벤치에 몸을 뒤로 눕히는 동안, 덤벨을 가슴까지 위로 밀어 올리도록 허벅지를 사용합니다. \n\n2. 그리고 손바닥이 앞으로 향하도록 하고 팔을 가슴 위로 쭉 폅니다 (팔꿈치를 약간 구부린 상태 유지). 발은 바닥에 평평하게 등은 자연스럽게 유지합니다 (약간의 아치형으로).\n\n3. 팔꿈치를 밖으로 구부리며 덤벨을 내려줍니다. 팔꿈치가 어깨 아래까지 되도록 계속 내립니다. 덤벨이 위에 서로 가까이 되도록 덤벨을 밀어 올려주고 (닿지 않고), 약간 안쪽으로 기울입니다. \n\n4. 팔꿈치는 살짝 구부린 상태로 유지하고, 고정하지 않습니다. 횟수를 완료할 때까지 반복합니다. 일어나려면, 덤벨을 가슴 옆에서 잡고 다리를 위로 차서 몸의 탄력을 앞으로 주며 앉습니다.</string>
+
+    <string name="ex_name_36">인클라인 프레스</string>
+    <string name="ex_desc_36">1. 이 운동은 인클라인 프리웨이트 벤치 프레스 머신을 사용하는 것과 중간 가슴 대신 운동 근육 그룹이 가슴 상부인 것을 제외하면 일반적인 바벨 벤치 프레스와 거의 비슷합니다. \n\n2. 바벨을 랙에서 들어올리고 천천히 쇄골(후골 아래에) 위로 약 8cm 정도로 내린 후 바를 시작 자세로 밀어줍니다. \n\n3. 바가 가슴 상부에 닿지 않게 합니다 (이는 어깨 관절에 불필요한 스트레스를 주게 되며 운동하고자 하는 가슴근육 상부에 긴장이 줄어듭니다!). \n\n4. 바를 내릴 때 천천히 조절해서 내립니다. 반대로, 바를 위로 밀어 올릴 때, 폭발적인 방식으로 합니다.</string>
+
+    <string name="ex_name_37">푸시업</string>
+    <string name="ex_desc_37">1. 팔을 편 상태로 손바닥은 바닥에 평평하게 놓고 손은 어깨 너비만큼 (또는 더 넓게) 벌리고 앞으로 엎드립니다. \n\n2. 발을 같이 붙이거나 아주 약간 벌려줍니다. \n\n3. 숨을 들이쉬며 척추의 과도한 과신전은 피하며 상체를 바닥에 가까이 내리도록 팔꿈치를 구부립니다. \n\n4. 동작을 마치면서 숨을 내쉬며 팔은 편 자세로 돌아가도록 밀어줍니다.</string>
+
+    <string name="ex_name_38">팜다운 리스트 컬 오버 벤치</string>
+    <string name="ex_desc_38">1. 팔뚝을 허벅지 위 또는 벤치 위에 놓으며 앉습니다. \n\n2. 소극적으로 손목을 확장한 상태에서 오버핸드 그립으로 바를 잡습니다. \n\n3. 숨을 들이쉬면서 손목을 감아 올립니다.\n\n4. 동작을 마무리하면서 숨을 내쉽니다.</string>
+
+    <string name="ex_name_39">팜업 바벨 리스트 컬 오버 벤치</string>
+    <string name="ex_desc_39">1. 팔뚝을 허벅지 위 또는 벤치 위에 놓으며 앉습니다. \n\n2. 소극적으로 손목을 확장한 상태에서 언더핸드 그립으로 바를 잡습니다. \n\n3. 숨을 들이쉬면서 손목을 감아 올립니다.\n\n4. 동작을 마무리하면서 숨을 내쉽니다.</string>
+
+    <string name="ex_name_40">스탠딩 팜업 바벨 비하인드 백 리스트 컬</string>
+    <string name="ex_desc_40">1. 팔을 곧게 편 상태에서 뒤에서 언더핸드 그립으로 바벨을 잡습니다. 펴진 손가락에 바벨이 걸리도록 겁니다.\n\n2. 가능한 높이 바벨을 위로 올리도록 손목에 힘을 줍니다.\n\n3. 바벨을 내리며 동작을 반대로 합니다.</string>
+
+    <string name="ex_name_41">바벨 런지</string>
+    <string name="ex_desc_41">1. 어깨보다 약간 넓게 오버핸드 그립으로 등 위쪽에 바벨을 놓고 시작합니다.\n\n2. 발을 약 20cm 정도 벌리고 발가락은 앞으로 향하도록 한 상태에서 섭니다.\n\n3. 상체는 똑바로 펴고 복근이 그려진 상태에서 앞으로 (2-3발걸음) 발을 옮깁니다.\n\n4. 천천히 한쪽 무릎을 꿇듯이 내리며 다른 무릎은 90도 각도로 구부립니다. 무릎이 바닥에 닿지 않도록 합니다.\n\n5. 바닥 위로 몸을 내리며 다시 시작 자세로 돌아오기 전에 잠시 유지합니다. 다른 다리로 반복합니다.</string>
+
+    <string name="ex_name_42">바벨 스쿼트</string>
+    <string name="ex_desc_42">1. 이 운동은 평범한 스쿼트와 동일하지만, 특별히 안쪽 허벅지가 운동이 되도록 발가락을 밖으로 향한 상태에서 다리를 넓게 벌려줍니다. \n\n2. 관련 근육: - 대퇴사두근 – 모든 내전근 - 둔근 – 햄스트링 군 – 모든 척추기립근</string>
+
+    <string name="ex_name_43">덤벨 런지</string>
+    <string name="ex_desc_43">1. 덤벨을 옆으로 쥐고 섭니다. \n\n2. 첫 발을 앞으로 런지합니다. 그때 앞발의 발꿈치는 땅에 닿습니다. 뒤쪽 다리의 무릎이 바닥에 거의 닿기까지 앞쪽 다리의 엉덩이와 무릎에 힘을 주며 상체를 내려줍니다. \n\n3. 앞쪽 다리의 무릎과 엉덩이를 힘주어 펴면서 원래 선 자세로 돌아옵니다. 반대 발로 교대로 런지하며 반복합니다.</string>
+
+    <string name="ex_name_44">프론트 바벨 스쿼트</string>
+    <string name="ex_desc_44">1. 덤벨을 전방의 삼각근에 놓고, 상박이 바닥과 평행이 되게 하며, 팔꿈치는 구부리고, 두 팔을 교차하여 바를 잡고 앞을 똑바로 쳐다보며 섭니다.\n\n2. 숨을 들이쉬며 웅크리고 앉습니다.\n\n3. 시작 자세로 돌아오며 동작을 마무리하며 숨을 내쉽니다.</string>
+
+    <string name="ex_name_45">굿 모닝</string>
+    <string name="ex_desc_45">1. 바벨이 목이 아닌 등 위쪽에 놓여지도록 오버핸드 그립으로 바벨을 잡습니다. 발을 어깨너비로 벌리고 등은 곧게 편 상태에서 무릎은 약간 구부립니다. \n\n2. 허리가 자연스러운 아치 모양으로 유지하는 동안 가슴을 아래로 내리도록 엉덩이를 이용하여 천천히 앞으로 구부립니다. 머리를 위로 들며 무릎도 동일한 각도로 유지합니다.\n\n3. 상체를 시작 자세로 뒤로 올립니다.</string>
+
+    <string name="ex_name_46">레그 익스텐션</string>
+    <string name="ex_desc_46">1. 곧게 편 자세로 두 다리를 위로 펴며 무게를 천천히 들어올립니다. 무게를 갑자기 올리지 마십시오. \n\n2. 1초 정도 이 자세를 유지합니다. 천천히 무게를 시작 자세로 내립니다. 동작을 반복합니다.</string>
+
+    <string name="ex_name_47">레그 프레스</string>
+    <string name="ex_desc_47">1. 등과 머리를 패드에 맞댄 상태로 머신에 앉습니다. 발뒤꿈치 평평하게 하고, 팔을 엉덩이 너비만큼 벌려서 발판에 올려 놓습니다. \n\n2. 발판에 발꿈치를 평평하게 하며 어느 쪽이든 변동없이 다리는 무릎을 90도 각도로 만듭니다. \n\n3. 발이 안으로나 밖으로 휘어지지 않도록 무릎을 발과 일직선이 되게 합니다. 시트 플랫폼에서 아래가 올라가지 않게 합니다. \n\n4. 만약 그럴 경우, 다리가 너무 높은 각도로 있는 것이며 정확한 자세가 될 때까지 의자를 뒤로 조정할 필요가 있습니다. 무릎이 눈 앞에 보이고 비좁게 느껴질 때 이 자세를 인식할 있을 것입니다. 보조 손잡이를 잡습니다.</string>
+
+    <string name="ex_name_48">라잉 레그 컬</string>
+    <string name="ex_desc_48">1. 높이에 맞춰서 머신 레버를 조정하고 다리 뒤로 레버 패드에 감싸고 레그 컬 머신에 얼굴을 아래로 하고 눕습니다 (종아리 약간 아래에). \n팁: 햄스트링에 더 좋은 기울어진 자세로 평평하게 반대로 기울어진 레그 컬 머신을 사용하는 것이 더 좋습니다.\n\n2. 벤치에서 몸을 평평하게 유지하며 다리는 완전히 펴고 머신의 손잡이를 잡습니다. 발가락은 곧게 폅니다 (아니면 발 포지션 섹션에 표현된 다른 두 모습을 사용할 수 있습니다). 이것이 시작 자세입니다.\n3. 숨을 내쉬면서, 패드에서 다리 상부는 들지 않고 가능한 다리를 감아 올립니다. 완전히 수축된 자세에 다다르면, 1초 정도 유지합니다.\n4.숨을 들이쉬면서, 다리를 처음 자세로 옮깁니다. 권장하는 반복 횟수를 반복합니다.</string>
+
+    <string name="ex_name_49">루마니안 데드리프트</string>
+    <string name="ex_desc_49">1. 몸 앞에 팔 너비로 바를 잡고 서서 시작합니다. 운동 범위를 증가시키려면 높은 플랫폼에 섭니다.\n\n2. 무릎에 약간 힘을 주고, 엉덩이를 가능한 뒤로 빼면서 힘을 주고 상체는 가능한 유연하게 내려준 상태로 시작합니다. 등은 항상 곧게 편 상태로 유지하며, 바는 다리에 붙도록 합니다. 제대로 완료하면, 햄스트링에 무거운 당김이 느껴집니다.\n\n3. 시작 자세로 돌아오도록 자세를 역으로 합니다.</string>
+
+    <string name="ex_name_50">스티프 레그드 덤벨 데드리프트</string>
+    <string name="ex_desc_50">1. 거리를 약간 두고 몸 옆으로 덤벨을 잡습니다.\n\n2. 몸은 곧게 펴며 다리는 어깨 너비 또는 좁게 펴고 섭니다. 무릎은 약간 구부립니다. 이것이 시작 자세입니다.\n\n3. 무릎을 고정한 채, 등을 곧게 유지한 채 허리를 구부리며 발 위쪽으로 덤벨을 내립니다. 햄스트링이 늘어 나는게 느껴질 때까지 바닥에서 무언가를 줍는 것처럼 앞으로 숙입니다. 이 동작을 하면서 숨을 내쉽니다.\n\n4. 시작 자세로 돌아올 때까지 엉덩이와 허리를 펴며 상체를 다시 펴서 올려줍니다. 이 동작을 하면서 숨을 들이쉽니다.\n\n5. 권장하는 반복 횟수를 반복합니다.</string>
+
+    <string name="ex_name_51">아놀드 덤벨 프레스</string>
+    <string name="ex_desc_51">1. 플랫 벤치에 앉아서 어깨 높이에 덤벨을 잡습니다. 손바닥은 안쪽으로 향하도록 하며, 팔꿈치는 바닥으로 향하게 합니다.\n\n2. 손바닥이 몸에서 멀어질 때까지 양 손목을 밖으로 돌립니다. 동시에 머리 위로 팔을 완전히 폅니다. 1초 동안 유지합니다. 시작 자세로 돌아갑니다.</string>
+
+    <string name="ex_name_52">벤트 오버 덤벨 리어</string>
+    <string name="ex_desc_52">1. 몸 앞쪽에 인클라인 벤치를 놓고 양손에 각각 덤벨을 잡고 섭니다.\n\n2. 허리를 곧게 펴고 등은 자연스러운 아치형으로 유지한 채, 이마가 앞쪽 벤치에 닿을 때까지 앞으로 숙입니다. 팔은 바닥과 수직이 되도록 앞으로 늘어뜨립니다. 손바닥은 서로 마주보게 하며 상체는 바닥과 평행이 되게 합니다. 이것이 시작 자세입니다.\n\n3. 상체는 앞으로 숙여 고정하며, 팔꿈치를 약간 구부린 상태에서 팔을 곧게 편 채 유지하면서, 양팔이 바닥과 평행이 될 때까지 덤벨을 옆으로 똑바르게 올립니다. 무게를 올리면서 숨을 내쉽니다. 주의: 몸이 흔들리거나 팔이 측면 반대로 뒤로 가지 않도록 주의합니다.\n\n4. 위에서 1초 동안 수축한 후, 천천히 덤벨을 시작 자세로 내립니다.\n\n5. 권장하는 반복 횟수를 반복합니다.</string>
+
+    <string name="ex_name_53">덤벨 숄더 프레스</string>
+    <string name="ex_desc_53">1. 등을 위로 곧게 편 상태에서 벤치나 의자에 자세를 잡습니다. \n\n2. 엄지 손가락이 서로를 향하도록 한 상태에서 양손에 덤벨을 어깨 밖으로 잡습니다. \n\n3. 단순히 머리 위로 밀어주며 어깨 밖으로 시작 자세로 돌아옵니다.</string>
+
+    <string name="ex_name_54">프런트 덤벨</string>
+    <string name="ex_desc_54">1. 발을 약간 벌리고 섭니다. \n\n2. 손바닥은 아래로 향하게 한 상태에서 덤벨을 잡고 (오버핸드 그립), 덤벨을 허벅지 또는 옆으로 약간 놓이게 합니다.\n\n3. 숨을 들이쉬며 덤벨을 어깨 높이로 앞으로 올립니다.\n\n4. 동작을 마치면서 숨을 내쉽니다.</string>
+
+    <string name="ex_name_55">래터럴 레이즈</string>
+    <string name="ex_desc_55">1. 발을 약간 벌리고 섭니다. \n\n2. 허리는 곧게 펴고 양손에 덤벨을 잡고 몸 옆으로 늘어뜨립니다. \n\n3. 팔꿈치를 약간 구부린 채로 어깨 높이까지 덤벨을 올립니다. \n\n4. 시작 자세로 돌아옵니다.</string>
+
+    <string name="ex_name_56">오버헤드 프레스</string>
+    <string name="ex_desc_56">1. 똑바로 서서, 손을 어깨 너비만큼 벌리고 팔꿈치는 구부리며 손바닥은 앞으로 향하도록 한 상태에서 머리 뒤로 어깨 높이 만큼 바벨을 잡습니다.\n\n2. 팔은 완전히 펴면서 바벨을 머리 위로 밀어줍니다. 동작 내내 등은 곧게 위로 편 상태로 유지합니다.</string>
+
+    <string name="ex_name_57">팩 덱 리버스 머신 플라이</string>
+    <string name="ex_desc_57">1. 팔을 펴 손잡이를 잡은 상태에서 등 지지대 쪽으로 보며 팩 덱 머신에 앉습니다.\n\n2. 숨을 들이쉬며 동작 끝에 어깨뼈를 같이 누르면서 팔꿈치를 뒤로 밀어줍니다. \n\n3. 동작을 마치면서 숨을 내쉽니다.</string>
+
+    <string name="ex_name_58">스탠딩 밀리터리 프레스</string>
+    <string name="ex_desc_58">1. 똑바로 서서, 손을 어깨 너비만큼 벌리고 팔꿈치는 구부리며 손바닥은 앞으로 향하도록 한 상태에서 가슴 상부에 바벨을 잡습니다.\n\n2. 팔을 완전히 펴면서 바벨을 머리 위로 밀어줍니다. 동작 내내 등은 곧게 위로 편 상태로 유지합니다.</string>
+
+    <string name="ex_name_59">업라이트 바벨 로우</string>
+    <string name="ex_desc_59">1. 발을 약간 벌리고 섭니다. 등은 곧게 펴 줍니다. \n\n2. 손바닥 너비 또는 그보다 조금 더 넓게 해서 오버핸드 그립으로 바를 잡습니다. \n\n3. 숨을 들이쉬며 턱에 이를 때까지 바벨을 똑바로 위로 당겨줍니다. \n\n4. 동작 윗부분에서 가능한 높이 팔꿈치를 올려줍니다. \n\n5. 숨을 내쉬며 천천히 시작 자세로 바벨을 내려줍니다.</string>
+
+    <string name="ex_name_60">클로즈 그립 바벨 벤치 프레스</string>
+    <string name="ex_desc_60">1. 일반적인 프리웨이트 플랫 벤치 프레스 머신에 자세를 잡습니다. \n\n2. 등을 대고 평평하게 누우며 내로 그립으로 몸 위로 바벨을 잡습니다. \n\n3. 그립이 약 15-20cm 너비가 되도록 집중합니다. 랙에서 바벨을 들어 천천히 약 7cm 가슴 위로 내린 후, 시작 자세로 바를 밀어 줍니다. \n\n4. 모든 동작 내내 팔꿈치는 몸 쪽으로 향하도록 집중합니다.</string>
+
+    <string name="ex_name_61">다이아몬드 푸시업</string>
+    <string name="ex_desc_61">1. 일반적인 푸시업 자세를 취합니다. 그러나 손은 “다이아몬드” 형태처럼 엄지와 검지를 닿은 상태에서 가슴 바로 앞에 놓습니다.\n\n2. 가슴이 손에 거의 닿을 때까지 몸을 내리면서 등은 평평하게 유지합니다.\n\n3. 멈춘 후, 시작 자세로 다시 밀어줍니다.</string>
+
+    <string name="ex_name_62">딥스</string>
+    <string name="ex_desc_62">1. 시작 자세로, 바 위에 팔을 거의 걸어준 상태로 몸을 팔 길이로 유지합니다.\n\n2. 이제 숨을 들이쉬고, 천천히 몸을 내려줍니다. 몸은 위로 곧게 유지하고 팔꿈치는 몸에 가까이 유지합니다. 삼두근에 초점을 두는데 더 도움이 됩니다. 상박과 팔뚝 사이가 90도 각도가 될 때까지 몸을 내립니다.\n\n3. 그리고 숨을 들이쉬며, 삼두근을 이용하여 시작 자세로 돌아가도록 밀어 올려줍니다.\n\n4. 지정된 반복 횟수 동작을 반복합니다.</string>
+
+    <string name="ex_name_63">덤벨 트라이셉스 익스텐션 스탠딩</string>
+    <string name="ex_desc_63">1. 가만히 서서 양손으로 덤벨을 잡고 팔을 뻗어 머리 위로 유지합니다. 팁: 특별히 만약 무겁다면 다른 사람의 도움을 받는 것도 좋은 방법입니다. 무게는 엄지 주위의 손바닥에 놓이게 합니다. 손바닥은 안으로 향하게 합니다. 이것이 시작 자세입니다.\n\n2. 상박이 머리와 가까이하며 (팔꿈치 안) 바닥과 수직이 되게 하며, 팔뚝이 이두박근에 닿을 때까지 머리 뒤로 반원 모양으로 무게를 내립니다. 팁: 상박은 고정시키며 팔뚝만 움직입니다. 이 동작을 하면서 숨을 들이쉽니다.\n3. 덤벨을 들어올리며 삼두근을 이용해서 시작 자세로 돌아갑니다. 이 동작을 하면서 숨을 내쉽니다.\n\n4. 권장하는 반복 횟수를 반복합니다.</string>
+
+    <string name="ex_name_64">이지바 스컬크러셔</string>
+    <string name="ex_desc_64">1. 팔을 편 상태에서 약간의 긴장상태에서 삼두근을 유지하며 바를 눈 위로 위치시킵니다. \n\n2. 이제 팔꿈치를 굽히고 무게가 이마 쪽으로 내리는 동안 상박은 편 자세로 고정되도록 유지합니다.</string>
+
+    <string name="ex_name_65">이지바 스컬크러셔 시팅</string>
+    <string name="ex_desc_65">1. 벤치에 앉아서 바벨을 잡습니다. 손바닥을 앞으로 향하도록 한 상태에서 머리 위로 팔을 뻗어 바벨을 잡습니다.\n\n2. 팔뚝이 바닥과 평행이 될 때까지 머리 뒤로 바벨을 내리면서 상박은 고정되게 유지합니다.\n\n3. 멈춘 후, 시작 자세로 바벨을 돌아오도록 팔을 쭉 폅니다.</string>
+
+    <string name="ex_name_66">이지바 스컬크러셔 스탠딩</string>
+    <string name="ex_desc_66">1. 발을 어깨 너비만큼 벌려 서고 바벨을 잡습니다. 손바닥을 앞으로 향하도록 한 상태에서 머리 위로 팔을 뻗어 바벨을 잡습니다.\n\n2. 팔뚝이 바닥과 평행이 될 때까지 머리 뒤로 바벨을 내리면서 상박은 고정되게 유지합니다.\n\n3. 멈춘 후, 시작 자세로 바벨을 돌아오도록 팔을 쭉 폅니다.</string>
+
+    <string name="ex_name_67">리버스 그립 트라이셉스 푸시다운</string>
+    <string name="ex_desc_67">1. 팔꿈치는 몸 옆에 맞대고 바를 손으로 잡은 상태에서 머신을 보고 섭니다.\n\n2. 숨을 들이쉬고 팔꿈치는 몸 옆에서 떨어지지 않도록 하면서 팔을 쭉 폅니다. \n\n3. 동작을 마치면서 숨을 내쉽니다.</string>
+
+    <string name="ex_name_68">트라이셉스 오버헤드 익스텐션 로프</string>
+    <string name="ex_desc_68">1. 아래 도르래에 로프를 부착합니다. 적절한 무게를 선택한 후, 케이블에서 멀리 양손으로 로프를 잡습니다.\n\n2. 팔꿈치는 위로 향하도록 한 상태에서 머리 뒤로 손을 놓습니다. 팔꿈치는 고정된 채 시작하며, 자세가 흔들릴 수 있으며 안정감을 위해서 머신에서 떨어져 완만하게 기울입니다. 이것이 시작 자세입니다.\n\n3. 동작을 하려면, 손을 머리위로 올리면서 상박은 유지한 채 팔꿈치를 폅니다.\n\n4. 동작의 상단에서 삼두근을 조여주며 천천히 무게를 시작 자세로 내립니다.</string>
+
+    <string name="ex_name_69">트라이셉스 푸시다운</string>
+    <string name="ex_desc_69">1. 팔꿈치는 몸 옆에 맞대고 바를 손으로 잡은 상태에서 머신을 보고 섭니다. \n\n2. 숨을 들이쉬고 팔꿈치는 몸 옆에서 떨어지지 않도록 하면서 팔을 쭉 폅니다. \n\n3. 동작을 마치면서 숨을 내쉽니다.</string>
+
+
+    <string name="Abs">복근</string>
+    <string name="Back">등</string>
+    <string name="Biceps">이두박근</string>
+    <string name="Calf">종아리</string>
+    <string name="Chest">가슴</string>
+    <string name="Forearms">전박</string>
+    <string name="Legs">다리</string>
+    <string name="Shoulders">어깨</string>
+    <string name="Triceps">삼두박근</string>
+
+
+    <string name="day">하루</string>
+    <string name="round">라운드</string>
+    <string name="day1">일주일에 2일</string>
+    <string name="day2">일주일에 3일</string>
+    <string name="day3">일주일에 4일</string>
+    <string name="restorePurchases">구매 복원</string>
+    <string name="textUpgrade">50가지 새로운 운동 잠금 해제와 광고를 제거하려면 프리미엄 버전으로 업그레이드.</string>
+    <string name="one_day_ADS1">1일 광고없음</string>
+    <string name="one_day_ADS2">스폰서 동영상 보기</string>
+    <string name="upgrade">지금 업그레이드</string>
+    <string name="free">무료</string>
+    <string name="tell_friend">친구에게 추천하기</string>
+    <string name="send_feedback">피드백 보내기</string>
+    <string name="rate_app">평가하기</string>
+    <string name="facebook">Facebook에 앱 공유하기</string>
+    <string name="twitter">트위터에 어플 공유하기</string>
+    <string name="ic_googleplay">저희의 다른 어플들</string>
+    <string name="ic_settings_">설정</string>
+    <string name="social_follow">그대로 연결 VGFIT</string>
+    <string name="reminder">알림</string>
+    <string name="daily_reminder">매일 알림</string>
+    <string name="after_days">비활동 %1$s 일 후</string>
+    <string name="frequency">빈도수</string>
+    <string name="menu_bt">" 메뉴 버튼"</string>
+    <string name="units">단위</string>
+    <string name="purch_restored">인앱 구매가 복원되었습니다</string>
+    <string name="success">성공!</string>
+
+    <string name="work_1">초보자 피트니스</string>
+    <string name="work_2">체형 교정 피트니스</string>
+    <string name="work_3">일반 피트니스</string>
+    <string name="work_4">길항근 근육</string>
+    <string name="work_5">동일한 근육</string>
+    <string name="work_6">트라이세트</string>
+    <string name="work_2header">슈퍼 세트</string>
+    <string name="work_1header">워크아웃</string>
+
+    <string name="doneKey">완료</string>
+    <string name="editKey">편집</string>
+    <string name="intervalsKey">인터벌</string>
+    <string name="myWorkoutsKey">내 운동</string>
+    <string name="pauseKey">일시정지</string>
+    <string name="resetKey">초기화</string>
+    <string name="resumeKey">다시 시작</string>
+    <string name="roundsKey">라운드</string>
+    <string name="startKey">시작</string>
+    <string name="currentsetkey">현재 설정</string>
+    <string name="worktimekey">운동 시간</string>
+    <string name="resttimekey">휴식 시간</string>
+    <string name="minkey">분</string>
+    <string name="seckey">초</string>
+
+    <string name="get_lifetime_access">평생 액세스 받기</string>
+    <string name="get_workouts_courses_with_powerful_support">강력한 지원으로 100% 운동 과정을 준비하세요!.</string>
+    <string name="try_it_now">지금 사용해보기</string>
+    <string name="new_workoutsN">새 \n운동</string>
+    <string name="monthly_slim">월간 간행물</string>
+    <string name="only_now">지금만</string>
+    <string name="start_your_positive_transformation_today">오늘부터 긍정적인\n변화를 시작하세요!</string>
+    <string name="one_time_payment">일회성 지불</string>
+    <string name="_7_day_nfree_trial">7-일 \n무료 평가판</string>
+    <string name="_3_day_nfree_trial">3-일 \n무료 평가판</string>
+    <string name="_3_days_for_free">7일 무료</string>
+    <string name="month">/월</string>
+    <string name="year">/년</string>
+    <string name="after">후</string>
+    <string name="nutritionPlanName2">체중 감량 계획</string>
+    <string name="nutritionPlanName1">근육 만들기 계획</string>
+    <string name="nutrition_plans">영양 계획</string>
+    <string name="title_11">운동</string>
+</resources>

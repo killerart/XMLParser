@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PRO Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="auto">Auto</string>
+    <string name="ad">添加</string>
+    <string name="back">返回</string>
+    <string name="blanck">請填寫文本字段!</string>
+    <string name="camera">照相機/相冊</string>
+    <string name="cancel">取消</string>
+    <string name="conn">請查看您的無線網絡或移動互聯網連接！</string>
+    <string name="create_plus">按著 + 則創建新的鍛煉</string>
+    <string name="days_title">天數:</string>
+    <string name="delete">刪除</string>
+    <string name="desc">說明:</string>
+    <string name="done">完成</string>
+    <string name="dow_video">正下載視頻中</string>
+    <string name="downl_vid">下載視頻</string>
+    <string name="download_all">下載所有視頻</string>
+    <string name="edit">編輯</string>
+    <string name="empty_message">00:00</string>
+    <string name="erorr">Error!</string>
+    <string name="ex_name">鍛煉名稱:</string>
+    <string name="ex_phot_title">鍛煉照片</string>
+    <string name="files">文件</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="last_val">最後值</string>
+    <string name="name_desc">名稱、 說明、 重復</string>
+    <string name="no_history">未完成任何鍛煉</string>
+    <string name="off">Off</string>
+    <string name="okey">確認</string>
+    <string name="on">On</string>
+    <string name="options">選項:</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="please_wait">請稍等...</string>
+    <string name="preview">Preview</string>
+    <string name="rate_us">對我們進行評級</string>
+    <string name="realy_cancel">您是否想要取消下載過程？所有的進展將丟失！</string>
+    <string name="rep">重複次數</string>
+    <string name="rep_bug">報告錯誤</string>
+    <string name="repetitions">重複次數</string>
+    <string name="retake">Retake</string>
+    <string name="s1">4組和重復15次</string>
+    <string name="s2">4組和 重復12/10/8/6次</string>
+    <string name="s3">5組和重復3/3/3/2/1次</string>
+    <string name="save">儲存</string>
+    <string name="send_f">發送反饋意見</string>
+    <string name="set_s">設定秒鐘</string>
+    <string name="start">開始</string>
+    <string name="status">Status</string>
+    <string name="stop">Stop</string>
+    <string name="tel_fr">推薦朋友</string>
+    <string name="title_1">運動</string>
+    <string name="title_2">鍛煉</string>
+    <string name="title_3">自定義</string>
+    <string name="title_4">歷史記錄</string>
+    <string name="title_5">更多</string>
+    <string name="titles">標題</string>
+    <string name="unzip">解壓文件</string>
+    <string name="use">Use</string>
+    <string name="video_saved">已成功儲存所有視頻!</string>
+    <string name="wei">重量</string>
+    <string name="wei_rep">績效</string>
+    <string name="weight">重量(公斤)</string>
+    <string name="work">我的鍛煉</string>
+    <string name="work_title">鍛煉標題:</string>
+    <string name="workout_name">鍛煉名稱:</string>
+    <string name="dialog_future">您无法在未来的日子输入数据。</string>
+
+    <string name="ex_guide_1">背部與胸部</string>
+    <string name="ex_guide_2">腿部與前臂</string>
+    <string name="ex_guide_3">肩膀、三頭肌與二頭肌</string>
+    <string name="ex_guide_4">背部與三頭肌 </string>
+    <string name="ex_guide_5">胸部與二頭肌</string>
+    <string name="ex_guide_6">腿部與肩膀</string>
+    <string name="ex_guide_7">循環 1</string>
+    <string name="ex_guide_8">循環 2</string>
+    <string name="ex_guide_9">循環 3</string>
+    <string name="ex_guide_10">二頭肌與三頭肌</string>
+    <string name="ex_guide_11">腿部</string>
+    <string name="ex_guide_12">背部</string>
+    <string name="ex_guide_13">二頭肌</string>
+    <string name="ex_guide_14">胸部</string>
+    <string name="ex_guide_15">肩膀</string>
+    <string name="ex_guide_16">三頭肌</string>
+
+    <string name="ex_name_1">空蹬自行車 </string>
+    <string name="ex_desc_1">1. 平躺在地，腰部緊貼地面。在這個動作中，你需要把雙手放在頭部兩側。不過，小心不要扭傷脖子。抬起肩膀呈卷腹動作。 \n\n2. 抬起膝蓋與地面垂直，小腿與地面平行。這是起始姿勢。 \n\n3. 與此同時，緩緩進行腳踏車的動作，右腿向前踢的同時左膝向內收。呼氣時，側身卷腹使右手肘貼近左膝蓋。 \n\n4. 吸氣時回到起始姿勢。 \n向相反的方向卷腹，循環蹬腿，左手肘貼近右膝並呼氣。 \n\n5. 持續交替進行該動作至推薦的重複次數。</string>
+
+    <string name="ex_name_2">懸垂舉腿 </string>
+    <string name="ex_desc_2">1. 雙臂向上伸直懸掛在單槓上，使用寬握或中握的方式。雙腿垂直下伸，骨盆輕微向後。這是起始姿勢。 \n\n2. 抬起雙腿直到身體和腿呈90度角。呼氣並堅持該動作一秒左右。 \n\n3. 緩緩回到起始姿勢並吸氣。 \n\n4. 重複該動作至推薦的重複次數。</string>
+
+    <string name="ex_name_3">平行槓支撐抬膝提臀</string>
+    <string name="ex_desc_3">1. 身體靠在機器上，前臂緊貼軀乾放在墊子上，雙手緊握手柄。手臂保持90度彎曲。 \n\n2. 軀幹保持垂直，腰部貼近機器的墊子，兩腳垂直指向地面。這是起始姿勢。 \n\n3. 隨著呼氣，抬高並保持雙腿伸展，直到大腿與地面平行，然後保持一秒。注意：過程中，不要依靠身體的彈力或擺動作為助力。 \n\n4. 吸氣並緩緩地回到起始姿勢。 \n\n5. 重複該動作至推薦的重複次數。</string>
+
+    <string name="ex_name_4">寬軸硬拉</string>
+    <string name="ex_desc_4">1. 雙腳與肩同寬站立，雙腳稍微指向外側。 \n\n2. 降低臀部下蹲，橫桿應該在你的小腿前方。雙手抓握槓鈴，握距稍微比雙腳距離寬。 \n\n3. 弓背，雙腳與後背同時發力，將槓鈴向上抓起。槓鈴經過膝蓋來到大腿的位置。過程中，你的肩膀與膝蓋應完全鎖緊，雙臂也必須保持伸直。</string>
+
+    <string name="ex_name_5">俯身槓鈴划船</string>
+    <string name="ex_desc_5">1. 膝蓋略彎，身體呈45度前傾，保持背部筆直。 \n\n2. 正握槓鈴，握距比肩膀寬，手臂下垂。 \n\n3. 吸氣縮腹，拉起槓鈴直到槓鈴達到胸部的位置。 \n\n4. 呼氣，回到起始姿勢。</string>
+
+    <string name="ex_name_6">俯身槓鈴內划船</string>
+    <string name="ex_desc_6">1. 雙手各持一隻啞鈴，上身前傾，彎腰但保持背部挺直。雙臂下垂，掌心相對。 \n\n2. 將啞鈴舉起到胸部兩側，然後放下回到起始姿勢。背部保持穩定與挺直。</string>
+
+    <string name="ex_name_7">引體向上</string>
+    <string name="ex_desc_7">1. 抓住橫槓，掌心與手指朝前，與身體反方向。這稱為正握。 \n\n2.保持雙臂伸直下垂，不要晃動。肩膀與身體放鬆。 \n\n3. 順暢地向上拉起身體，不要太猛拉。下巴要超過橫槓的位置。順暢地降低身體，回到起始姿勢。</string>
+
+    <string name="ex_name_8">單臂啞鈴划船</string>
+    <string name="ex_desc_8">1. 左膝與左手放在凳子上，右腳固定在地。 \n\n2. 上身前傾，背部挺直並與地面平行。 \n\n3. 右手拿起啞鈴，掌心朝向身體。舉起啞鈴至胸腔外側的位置。回到起始位置並重複動作。 </string>
+
+    <string name="ex_name_9">反握俯身划船</string>
+    <string name="ex_desc_9">1. 雙膝微曲，上身呈45度前傾，保持背部挺直。 \n\n2. 雙手反握槓鈴，握距比肩膀寬。雙臂垂下：\n\n3. 吸氣，收腹並拉起槓鈴，直到槓鈴觸碰到胸部。 \n\n4. 呼氣並回到起始姿勢。</string>
+
+    <string name="ex_name_10">坐姿繩索划船</string>
+    <string name="ex_desc_10">1. 開始坐姿繩索划船前，握住你喜歡的機器把手（可以像圖中那樣）。 \n\n2. 背部挺直坐著，雙腳彎曲，腳踏金屬鐵板。 \n\n3. 伸展手臂，感覺背闊肌得到拉伸。向後拉動直到把手觸碰到腹部。</string>
+
+    <string name="ex_name_11">反握高位下拉</string>
+    <string name="ex_desc_11">1. 下拉訓練器使用長形把手，調整大腿墊以便坐著時，膝蓋在對的角度，腳板踏地。 \n\n2. 寬反握把手並坐直​​身體，背部挺直同時身體稍微往後傾。 \n\n3. 拉動把手直至把手碰到胸部，稍微停頓。伸直雙臂，緩緩地讓把手回到起始位置。</string>
+
+    <string name="ex_name_12">V型把手下拉</string>
+    <string name="ex_desc_12">1. 在下拉訓練機前坐好，使用高滑輪，V型把手。 n\n2. 調整膝墊至合適的高度。膝墊可以避免身體因阻力而上升。 \n\n3. 抓緊V型把手，手掌相對（中立握）。挺胸，向後略傾（大約30度），讓背闊肌更好的運動。這是起始姿勢。 \n\n4. 收縮肩胛，用背闊肌的力量向下拉，拉至V型把手碰到胸部。在進行這個動作時要吐氣。提示：過程中要一直保持身體固定。 \n\n5. 保持姿勢1秒鐘，還原為起始姿勢並吸氣。 \n\n6. 重複該動作至推薦的重複次數。</string>
+
+    <string name="ex_name_13">寬握高位下拉</string>
+    <string name="ex_desc_13">1. 在下拉訓練機前坐好，使用帶高滑輪的寬把手。調整膝墊至合適位置，雙腳著地。 \n\n2. 握住把手，手掌向前正握。上身保持直立，稍微向後傾。 \n\n3. 拉下把手直至碰到上胸，稍微停頓。緩緩地讓把手回到原位，雙臂伸直。</string>
+
+    <string name="ex_name_14">反握槓鈴彎舉</string>
+    <string name="ex_desc_14">1.雙腳稍微分開站立，雙臂伸直，正握槓鈴（兩手拇指相向）。 \n\n2. 吸氣並彎舉槓鈴。完成動作後呼氣。 \n\n3. 這個動作會運用手腕與手指的伸肌，也會運用肱肌以及少許的肱二頭肌。</string>
+
+    <string name="ex_name_15">槓鈴彎舉</string>
+    <string name="ex_desc_15">1. 雙腳稍微分開站立，雙臂伸直，反握槓鈴（拇指朝向不同的方向）。\n\n2. 吸氣並彎舉槓鈴。完成動作後呼氣。\n\n3. 這個動作會運用手腕與手指的伸肌，也會運用肱肌以及少許的肱二頭肌。</string>
+
+    <string name="ex_name_16">E-Z曲槓彎舉</string>
+    <string name="ex_desc_16">1. 身體直立，窄握EZ曲桿。掌心向上，同時順著曲槓的形狀，雙手稍微向內傾斜。手肘緊貼身體。這是起始姿勢。\n\n2.上臂不動，呼氣屈肘抬起槓鈴。提示：只移動前臂。\n\n3. 持續該動作直到肱二頭肌完全收縮並且曲桿已到達肩膀高度。持續收縮一秒鐘並用力收縮肱二頭肌。\n\n4. 緩緩地把曲槓放回起始位置，同時吸氣。\n\n5. 重複該動作至推薦的重複次數。</string>
+
+    <string name="ex_name_17">槓鈴彎舉</string>
+    <string name="ex_desc_17">1. 手握槓鈴，兩手距離與肩同寬。\n\n2. 緩緩地彎舉槓鈴，直到前臂朝天（比垂直稍微傾斜一點）。\n\n3. 維持姿勢一秒，把槓鈴放回起始位置。</string>
+
+    <string name="ex_name_18">低位滑輪彎舉</string>
+    <string name="ex_desc_18">1. 將把手系在地位滑輪上。\n\n2. 兩手距離與肩同寬，反握把手。雙臂自然伸直，把手應該在你大腿的位置。\n\n3.雙膝稍微彎曲。在不移動上臂的情況下，盡力將把手彎舉到胸前。</string>
+
+    <string name="ex_name_19">模擬器彎舉</string>
+    <string name="ex_desc_19">1. 坐下並握住模擬器的低位把手，手肘放在凳子上，\n\n2.吸氣並彎曲手臂，拉起把手；\n\n3. 動作結尾時呼氣。</string>
+
+    <string name="ex_name_20">啞鈴錘式彎舉</string>
+    <string name="ex_desc_20">1. 兩手各拿一個啞鈴，掌心和重量朝內。\n\n2. 雙臂都呈90度角。 \n\n3. 手肘貼近身體，保持穩定的姿勢，並朝肩膀彎舉啞鈴。\n\n4. 緩緩地把啞鈴放回原來的姿勢。</string>
+
+    <string name="ex_name_21">坐式啞鈴彎舉 </string>
+    <string name="ex_desc_21">1. 坐下時背部挺直，反握啞鈴，雙臂伸直。\n\n2. 上臂保持不動並彎舉啞鈴。過程中盡量不要用肩膀出力。\n\n3.堅持一秒，然後回到起始姿勢。</string>
+
+    <string name="ex_name_22">上斜凳坐式啞鈴彎舉</string>
+    <string name="ex_desc_22">1. 坐在上斜凳上，雙手各持一隻啞鈴，手臂自然伸直。手肘貼近身體。\n\n2. 轉動掌心，掌心朝向身體。這是起始姿勢。\ n\n3. 上臂固定，彎舉啞鈴。上舉過程中，啞鈴超過大腿位置時旋轉手腕，使掌心向後。呼氣時肱二頭肌收縮，並確保只有前臂移動。繼續動作直到肱二頭肌完全收縮，並且啞鈴到達肩膀高度。維持收縮肱二頭肌的姿勢一秒。\n\n4. 緩緩地把啞鈴放回起始姿勢，吸氣，旋轉手腕回到中握的姿勢。\ n\n5. 重複該動作至推薦的重複次數。</string>
+
+    <string name="ex_name_23">啞鈴彎舉 </string>
+    <string name="ex_desc_23">1. 雙腳與臀同寬站立，啞鈴放在大腿前面。握著中等重量的啞鈴時，運用腹肌的力量。\n\n2. 收縮肱二頭肌並彎曲手臂，朝肩膀彎舉啞鈴。手肘固定，盡可能地彎舉重量。\n\n3. 緩緩放下重量，手肘底部稍微彎曲（例如，不要鎖死關節，並保持肌肉緊繃）</string>
+
+    <string name="ex_name_24">坐姿提踵</string>
+    <string name="ex_desc_24">1. 調整坐墊，讓脛骨保持直立，膝蓋貼近坐墊。\n\n2. 腳跟向上推，抬起重量。\n\n3. 慢慢放低腳跟，直到小腿得到拉伸。要鍛煉小腿內、外側，腳趾應各別朝向內或外。</string>
+
+    <string name="ex_name_25">坐姿史密斯機提踵</string>
+    <string name="ex_desc_25">1. 將一個12寸的塊狀物放在凳子前方。\n\n2. 坐在凳子上並將腳前掌放到塊狀物上。\n\n3. 請一個人將史密斯槓鈴放到你大腿，膝蓋3寸以上的位置\n 保持姿勢。這是起始姿勢。\n\n4. 盡可能高地抬起腳趾，緊繃小腿，呼氣。\n\n5. 緊繃一秒後，緩緩地回到起始姿勢。提示：盡可能伸展小腿，以得到最好的鍛煉效果。\n\n6. 重複該動作至推薦的重複次數。</string>
+
+    <string name="ex_name_26">站姿啞鈴提踵</string>
+    <string name="ex_desc_26">1. 身體直立，雙手各持一隻啞鈴，手臂在身體兩側自然下垂。雙腳前腳掌踩在一個固定物上（高約2-3寸），腳跟落地。這是動作的起始位置。\n\n2. 雙腳腳尖向前（鍛煉部位相對均勻），腳尖向內（鍛煉重點是小腿外側），或腳尖向外（鍛煉重點是小腿內側），呼氣同時腳跟離開地面，繃緊小腿。在頂部停留1秒。\n\n3. 吸氣時回到起始姿勢，緩緩降低腳跟。\n\n4. 重複該動作至推薦的重複次數。</string>
+
+    <string name="ex_name_27">站姿史密斯機提踵</string>
+    <string name="ex_desc_27">1. 一個塊狀物或槓鈴片置於史密斯機的槓鈴下。按照最適合你身高的高度將桿放到架子上。一旦選擇了正確的高度，桿裝載完畢，雙腳前腳掌站到槓鈴片上，將桿放置在你的後肩位置。\n\n2. 雙手向前抓住槓鈴。旋轉槓鈴將它從架上取下。這是起始姿勢。\n\n3. 盡可能高的抬起腳跟，向下推前腳掌，繃緊小腿肌肉，感受肌肉最緊繃的狀態。膝蓋應始終保持伸展。在放下腳跟前，保持這個緊繃的狀態1秒。\n\n4 . 吸氣的同時慢慢地恢復起始姿勢，降低腳跟。\n\n5. 重複動作至推薦的重複次數。</string>
+
+    <string name="ex_name_28">槓鈴臥推</string>
+    <string name="ex_desc_28">1. 平躺在長椅上，雙腳平放在地面。槓鈴的架子位置應在你的頭部稍後一點的位置。在做這個運動時，最好有一個助手在旁，尤其是你選擇使用自由重量或啞鈴，以避免重量掉下砸傷自己。\n\n2. 槓鈴從架子上拿下後，將槓鈴舉到胸部的上方。\n\n3. 過程中保持頭部躺在長椅的姿勢。拿穩槓鈴後，如果可以的話，緩緩地將它降低到胸部的位置。\n\n4. 槓鈴下降時，手臂保持朝外。在槓鈴輕觸身體之後，將槓鈴推回初始位置。運用胸部和手臂的力量舉起槓鈴。</string>
+
+    <string name="ex_name_29">下斜啞鈴臥推</string>
+    <string name="ex_desc_29">1. 將你的雙腿固定在下斜坡長椅的末端，然後躺下，雙手各持啞鈴，放在大腿的位置。掌心相對。\n\n2. 躺下後將啞鈴舉到面前，兩手距離與肩同寬。\n\n3. 向前旋轉手腕，讓掌心朝天。這是起始姿勢。\n\n4. 呼氣，緩緩放下啞鈴到身體兩側。掌握好手中的啞鈴。提示：過程中，前臂與地面保持垂直。\n\n5. 呼氣時，用胸肌的力量將啞鈴向上舉起。雙臂收縮，繃緊胸部，堅持一秒後緩緩回到起始姿勢。提示：下放啞鈴所用的時間至少應為舉起時間的兩倍。\n\n6. 重複動作至訓練課程推薦的重複次數。</string>
+
+    <string name="ex_name_30">下斜啞鈴飛鳥</string>
+    <string name="ex_desc_30">1. 將腿部固定在下斜凳的頂端，雙手各持一隻啞鈴，放在腿上，掌心彼此相對。\n\n2. 躺下後將啞鈴舉到面前，兩手距離與肩同寬。\n\n3. 向前旋轉手腕，讓掌心朝天。這是起始姿勢。\n\n4. 呼氣，緩緩放下啞鈴到身體兩側。掌握好手中的啞鈴。提示：過程中，前臂與地面保持垂直。\n\n5. 呼氣時，用胸肌的力量將啞鈴向上舉起。雙臂收縮，繃緊胸部，堅持一秒後緩緩回到起始姿勢。提示：下放啞鈴所用的時間至少應為舉起時間的兩倍。\n\n6. 重複動作至訓練課程推薦的重複次數。</string>
+
+    <string name="ex_name_31">下斜臥推</string>
+    <string name="ex_desc_31">1. 躺在下斜凳上。正握槓鈴。\n\n2. 手肘貼近身體，降低杠鈴到胸部下方的位置。槓鈴應該要輕輕觸碰到你的胸部。</string>
+
+    <string name="ex_name_32">啞鈴臥推</string>
+    <string name="ex_desc_32">1. 躺在長凳上，雙腳平放在地面。雙手各持一隻啞鈴，向上伸直手臂，掌心相對。\n\n2. 吸氣並將啞鈴下放到胸部的位置，彎曲手肘，旋轉前臂以便你的手能內轉。\n\n3. 啞鈴向上推舉，等長收縮以避免壓力集中在胸肌；呼氣時完成動作。</string>
+
+    <string name="ex_name_33">啞鈴飛鳥</string>
+    <string name="ex_desc_33">1. 在做啞鈴飛鳥的動作前，雙手各舉一個輕一點的重量。你需要試試看哪一個重量適合你。先從較輕的重量慢慢開始。\n\n2. 躺在長椅上，舉起啞鈴推到胸部上方。這是起始姿勢。\n\n3. 雙臂向身體兩側打開，直到最大的限度。\n\n4. 隨著原來的幅度，將啞鈴放回到起始姿勢。這是啞鈴飛鳥的重複動作。</string>
+
+    <string name="ex_name_34">上斜啞鈴飛鳥</string>
+    <string name="ex_desc_34">1. 在做啞鈴飛鳥的動作前，雙手各舉一個輕一點的重量。你需要試試看哪一個重量適合你。先從較輕的重量慢慢開始。\n\n2. 躺在上斜長椅上，舉起啞鈴推到胸部上方。這是起始姿勢。\n\n3. 雙臂向身體兩側打開，直到最大的限度。雙臂可以稍微彎曲。這是飛鳥動作裡飛的部分，這是因為這個動作看起來像在飛。\n\n4. 隨著原來的幅度，將啞鈴放回到起始姿勢。這是啞鈴飛鳥的重複動作。</string>
+
+    <string name="ex_name_35">上斜啞鈴臥推</string>
+    <string name="ex_desc_35">1. 坐在上斜凳上，雙手各持一隻啞鈴，將其放在大腿上。向後躺到靠背上，同時利用大腿的力量將啞鈴推送到胸前。\n\ n2. 伸直手臂（手肘稍微彎曲），掌心相對。雙腳平放在地面，背部自然挺直（可以輕微弓背）。\n\n3. 彎曲手肘下放啞鈴到身體兩側。持續動作直到你的手肘位於肩膀下方。然後將啞鈴舉起，並在頂端將啞鈴靠在一起（不碰觸），角度稍微向內。\n\n4. 不要鎖死手肘，讓手肘保持稍微彎曲。重複動作直到完成次數。起身時，啞鈴舉在胸部兩側，雙腳高踢並讓身體有動力坐起。</string>
+
+    <string name="ex_name_36">上斜臥推</string>
+    <string name="ex_desc_36">1. 這個動作和常規的槓鈴臥推相似，只是你使用的是上斜凳自由重量機器。這個動作用的是胸部上方的肌肉群，而不是胸部中間的肌肉。\n\ n2. 將槓鈴從架子上舉起，緩緩地將槓鈴下放到鎖骨上方3寸的位置（喉結下方）。然後在將槓鈴推回起始位置。\n\n3. 千萬不要讓槓鈴觸碰到胸部上方（這會造成肩膀關節不必要的壓力，同時移開胸肌肌肉的緊繃，而這正是我們不要的！）。 \n\n4. 記得在下放槓鈴時，你掌握好槓鈴的重量並緩緩地進行動作。相反地，當你向上舉起槓鈴時，要用爆發的力量舉起。</string>
+
+    <string name="ex_name_37">俯臥撑</string>
+    <string name="ex_desc_37">1. 手臂伸直俯臥撑，掌心平放在地，雙手與肩同寬（或更寬）。\n\n2. 雙腳緊靠或稍微分開一些。\n\n3. 吸氣並彎曲手肘，身體靠近地面，不要過度伸展脊椎。\n\n4. 手臂推回伸直的姿勢，呼氣。</string>
+
+    <string name="ex_name_38">正握平板手腕彎舉</string>
+    <string name="ex_desc_38">1. 坐在地上，前臂放在大腿或凳子上。\n\n2. 正握槓鈴，手腕伸展。\n\n3. 吸氣並彎舉手腕。\n\n4. 完成動作後呼氣。</string>
+
+    <string name="ex_name_39">反握平板手腕彎舉</string>
+    <string name="ex_desc_39">1. 坐在地上，前臂放在大腿或凳子上。\n\n2. 反握槓鈴，手腕伸展。\n\n3. 吸氣並彎舉手腕。\n\n4. 完成動作後呼氣。</string>
+
+    <string name="ex_name_40">背面站姿反握槓鈴手腕彎舉</string>
+    <string name="ex_desc_40">1. 身體直立，手握槓鈴放在身體後側，手臂伸直反握槓鈴。槓鈴放在手指處。\n\n2. 彎曲手腕並儘可能地舉高槓鈴。\n\ n3. 用相反的動作降低杠鈴。</string>
+
+    <string name="ex_name_41">槓鈴弓箭步</string>
+    <string name="ex_desc_41">1. 槓鈴架在背部上方，正握握住槓鈴，兩手距離稍微比肩膀寬。\n\n2. 兩腳距離8寸站開，腳趾朝前。\n\n3. 往前邁出一步（2-3尺），收縮腹部，上身保持直立。\n\n4. 緩緩地降低一邊的膝蓋，像是跪下一樣另一邊的膝蓋彎曲成90度，膝蓋不要動地。\ n\n5. 降低身體，維持姿勢一陣子，然後再回到起始姿勢。兩腳替換方向重複動作。</string>
+
+    <string name="ex_name_42">啞鈴深蹲</string>
+    <string name="ex_desc_42">1. 這個動作和原來的深蹲動作是一樣的，不過你的雙腳是打開的。腳趾要朝外，這樣可以鍛煉大腿內側。\n\n2. 運用的肌肉包括：-四頭肌-內轉肌-臀部-繩肌腱群-所有的骶棘肌群</string>
+
+    <string name="ex_name_43">啞鈴弓箭步</string>
+    <string name="ex_desc_43">1. 手持啞鈴在身旁兩側站立\n\n2. 一隻腳向前邁出。腳跟著地然後是前腳掌。降低身體直至後腿膝蓋接近地面。\n\n3. 運用前腳大腿和膝蓋的力量，回到起始姿勢。兩腳替換方向重複動作。</string>
+
+    <string name="ex_name_44">頸前深蹲</string>
+    <string name="ex_desc_44">1. 將槓鈴放在三角肌頂端，上臂和地面平行，手肘彎曲，雙臂交叉，抓住槓鈴，正視前方。\n\n2. 吸氣蹲下。\n\n3.回到起始姿勢，完成動作後呼氣。</string>
+
+    <string name="ex_name_45">早安式</string>
+    <string name="ex_desc_45">1. 正握槓鈴，用你的肩部後方架起槓鈴,而不是在肩上。雙腳與肩同寬，雙膝稍微彎曲而背部挺直。\n\n2. 慢慢地往前彎身，向後推髖，降低胸部，俯身與地面近乎平行。保持背部自然拱起，頭部抬起並保持和膝蓋一樣的角度。\n\n3. 挺起上半身回到起始姿勢。</string>
+
+    <string name="ex_name_46">坐姿腿屈伸</string>
+    <string name="ex_desc_46">1. 緩緩地用雙腳向上舉起重量，直到雙腳伸直。不要太過急促。\n\n2. 維持姿勢一秒。緩緩地放下重量，回到起始姿勢。重複動作。</string>
+
+    <string name="ex_name_47">腿部推舉</string>
+    <string name="ex_desc_47">1. 坐在機器上，頭部和背部靠在墊子支撐上。將雙腿放在身前的踏板上，雙腳與臀同寬，確保腳跟平放。\n\n2.膝蓋應該呈90度角，動作可以有變化，但是要確保腳跟是平放在踏板上的。\n\n3. 膝蓋應該和腳一致，同時不要向內或向外彎曲。你的臀部不應該從坐墊上抬起。\n\n4. 如果抬起的話，表示雙腳的角度太尖，那麼你就需要調整坐墊，直到姿勢正確。當你發現膝蓋太過靠近眼睛，以及位置太狹窄時，就是姿勢不對。抓住輔助把手。</string>
+
+    <string name="ex_name_48">俯臥腿彎舉</string>
+    <string name="ex_desc_48">1. 根據你的身高調整器械槓鈴，面部朝下躺在屈腿練習機上，槓鈴的墊子在你雙腿的後部（小腿下幾公分處）。提示：推薦使用除了水平外還有其他角度的屈腿練習機，因為有角度的位置更有利於繩肌腱的鍛煉。\n\n2. 軀幹在長凳上保持水平，確保雙腿完全伸展，雙手抓住器械兩旁的扶手。腳趾向前（或者你可以採用其他兩個在腳部姿勢部分錶述過的姿勢）。這是起始姿勢。\n3. 呼氣的同時盡可能的屈腿，但不要把上部大腿抬起離開墊子。當達到完全緊繃的狀態時，保持1秒。\n4. 吸氣時將雙腳還原至起始姿勢。重複動作至推薦的重複次數。</string>
+
+    <string name="ex_name_49">羅馬尼亞硬拉</string>
+    <string name="ex_desc_49">1. 站立，手握槓鈴平舉在身前。你可以站在一個凸起的平台上，增加動作的範圍。\n\n2. 開始時，膝蓋彎曲，盡可能向後推髖，身體則盡可能降低位置。背部在過程中應時時保持緊繃。\n\n3. 按相反的動作返回起始姿勢。</string>
+
+    <string name="ex_name_50">啞鈴直腿硬拉</string>
+    <string name="ex_desc_50">1. 雙手各持一隻啞鈴，放在身體兩側。\n\n2. 身體直立，雙腳開立，與肩同寬或比肩膀稍窄，膝蓋微屈。這是起始姿勢。\n\n3. 保持雙膝固定，將啞鈴順著腿前下降，腰部彎曲，背部挺直。繼續往前彎曲，像是在撿起地上的某樣東西一樣，直至感覺繩肌腱得到伸展。運動過程中呼氣。\n\n4. 伸展臀部和腰部，回到起始姿勢。運動過程中吸氣。\n\n5. 重複動作至推薦的重複次數。</string>
+
+    <string name="ex_name_51">阿諾德啞鈴推舉</string>
+    <string name="ex_desc_51">1. 坐在凳子上，兩手各持啞鈴，舉到肩膀的位置。掌心朝內，手肘指向地板。\n\n2. 旋轉手腕，使掌心向前。同時將啞鈴向上推舉。維持一秒。回到起始姿勢。</string>
+
+    <string name="ex_name_52">俯身啞鈴划船</string>
+    <string name="ex_desc_52">1. 雙手各持一隻啞鈴，站在上斜凳後站立。\n\n2. 保持背部挺直以及背部的自然拱起，上身前傾直到額頭碰到前方的凳子。雙臂自然下垂，和地面垂直。掌心相對，身體和地面平行。這是起始姿勢。\n\n3. 保持身軀前傾與固定，手臂伸直，手肘稍微彎曲。啞鈴朝身體兩側提起，直到兩臂與地面平行。呼氣並舉起重量。注意：避免晃動身軀或把雙臂擺向相反的方向。\n\n4. 維持姿勢一秒後，緩緩地放下啞鈴，回到起始姿勢。\n\n5. 重複動作至推薦次數。</string>
+
+    <string name="ex_name_53">啞鈴推肩</string>
+    <string name="ex_desc_53">1. 在一張凳子或椅子上坐下，背部伸直。\n\n2. 雙手各持一隻啞鈴，在肩膀兩側握著啞鈴，兩手拇指相對。\n\n3.啞鈴高舉過頭，然後把啞鈴下放回到肩膀兩側。</string>
+
+    <string name="ex_name_54">啞鈴前舉</string>
+    <string name="ex_desc_54">1. 兩腳稍微分開站立。 \n\n2. 掌心朝下（正握）握住啞鈴。啞鈴放在大腿前或稍微位於身體兩側。\n\n3. 吸氣並向前舉起啞鈴，舉到肩膀的高度。\n\n4. 完成動作時呼氣。</string>
+
+    <string name="ex_name_55">啞鈴側平舉</string>
+    <string name="ex_desc_55">1. 兩腳稍微分開站立。 \n\n2. 背部保持挺直，雙臂自然垂在身體兩側，雙手各持一個啞鈴。\n\n3. 啞鈴舉到肩膀的高度，手肘稍微彎曲。\n\n4. 回到起始姿勢。</string>
+
+    <string name="ex_name_56">啞鈴肩推</string>
+    <string name="ex_desc_56">1. 直立站著，手握槓鈴放在頭後，肩膀的高度。兩手與肩同寬，手肘彎曲，掌心朝前。\n\n2. 手臂伸直，將槓鈴高舉過頭。背部伸直，並在過程中保持挺直。</string>
+
+    <string name="ex_name_57">夾胸機飛鳥</string>
+    <string name="ex_desc_57">1. 面對夾胸機的背墊坐下，雙臂伸展抓住把手。\n\n2. 吸氣，手肘用力往後伸展，肩胛骨擠壓在一起。\n\n3 . 完成動作後呼氣。</string>
+
+    <string name="ex_name_58">站立肩部推舉</string>
+    <string name="ex_desc_58">1. 挺直站立，槓鈴舉在胸部上方，肩膀的高度，兩手與肩同寬，手肘彎曲，同時掌心朝前。\n\n2. 將槓鈴高舉過頭，雙臂伸直。過程中背部保持挺直。</string>
+
+    <string name="ex_name_59">槓鈴提拉</string>
+    <string name="ex_desc_59">1. 雙腳稍微分開站立。背部保持挺直。\n\n2. 正握槓鈴，兩手手掌與肩同寬。\n\n3. 吸氣，將槓鈴提拉到快要觸碰到你的下巴的位置。\n\n4. 手肘舉起到盡可能高的位置。\n\n5. 呼氣，緩緩放下槓鈴，回到起始姿勢。</string>
+
+    <string name="ex_name_60">窄手槓鈴臥推</string>
+    <string name="ex_desc_60">1. 找一個自由重量的臥推機器。\n\n2. 平躺在凳子上，窄握位於上方的槓鈴。\n\n3. 兩手的距離大約在6-8寸。將槓鈴從架子上舉起，然後下降到離你胸部3寸以上的位置，再將槓鈴推回原來的位置。\n\n4. 確保你的手肘在運動過程中朝向身體彎曲。</string>
+
+    <string name="ex_name_61">鑽石俯臥撑</string>
+    <string name="ex_desc_61">1. 處於標準的俯臥撑姿勢中，但是雙手直接放在胸部下方，雙手食指和大拇指組成一個鑽石般的菱形。\n\n2. 身體下降保持背部平直，直到你的胸部差不多要觸碰到雙手。\n\n3. 暫停，然後把身體推回到起始姿勢。</string>
+
+    <string name="ex_name_62">臂屈伸</string>
+    <string name="ex_desc_62">1. 要進入起始姿勢，首先你要在雙桿裡，用雙臂支撐身體懸在空中。\n\n2. 吸氣，緩緩地向下降低身體。你的身體要保持直立，手肘貼近身體。這將能夠更好地訓練三頭肌。\n\n3. 接著，呼氣並把身體舉起，用三頭肌的力量讓身體回到起始姿勢。\n \n4. 重複動作至推薦的次數。</string>
+
+    <string name="ex_name_63">站姿啞鈴肱三頭肌屈伸</string>
+    <string name="ex_desc_63">1. 身體直立，雙手握住一個啞鈴，高舉過頭，手臂向上伸直。提示：最好是有人把啞鈴遞給你，尤其是當啞鈴很重時。啞鈴應該位於掌心內，兩手拇指圍繞。掌心朝內。這是起始姿勢。\n\n2. 上臂貼近頭部（手肘在內），與地面垂直。以弧形軌跡在頭後降低啞鈴，直至前臂碰到二頭肌。提示：上臂保持不動，只有前臂運動。在做這個步驟時，吸氣。\n3. 利用三頭肌的力量舉起啞鈴，回到起始姿勢。在做這個步驟時，呼氣。 \n\n4. 重複動作至推薦的次數。</string>
+
+    <string name="ex_name_64">曲桿臂伸屈</string>
+    <string name="ex_desc_64">1. 曲杆位於眼睛上方的位置，三頭肌保持緊繃，伸展手臂。\n\n2. 現在，上臂固定在伸展的位置，彎曲手肘讓重量下降到額頭的位置。</string>
+
+    <string name="ex_name_65">坐姿曲桿臂伸屈</string>
+    <string name="ex_desc_65">1. 坐在凳子上抓住曲桿。曲桿高舉過頭，掌心朝內。\n\n2. 上臂固定，同時降低杠鈴到頭後，直到前臂剛好與地面平行。\n\n3 . 暫停一下，然後伸直手臂，讓槓鈴回到起始位置。</string>
+
+    <string name="ex_name_66">站姿曲桿臂伸屈</string>
+    <string name="ex_desc_66">1. 雙腳與肩同寬站立，抓住槓鈴。槓鈴高舉過頭，掌心朝內。\n\n2. 上臂固定，同時降低杠鈴到頭後，直到前臂剛好與地面平行。\n \n3. 暫停一下，然後伸直手臂，讓槓鈴回到起始位置。</string>
+
+    <string name="ex_name_67">反握肱三頭肌下壓 </string>
+    <string name="ex_desc_67">1. 面對機器站立，雙手握著阻力槓，手肘在身體兩側。\n\n2. 吸氣並伸直手臂，但是手肘不應離開身體兩側。\n\ n3. 完成動作時呼氣。</string>
+
+    <string name="ex_name_68">肱三頭肌過頂繩索屈伸</string>
+    <string name="ex_desc_68">1. 把繩子連接到低位滑輪。選擇適當的重量後，雙手握住繩索背對滑輪。\n\n2. 雙手放在頭後方，手肘朝天。手肘保持彎曲，雙腳前後站立，身體稍微前傾以達到更好的穩定性。這是動作的起始姿勢。\n\n3. 伸展手肘，同時上臂保持原來的位置，雙手高舉過頭。\n\n4. 擠壓肱三頭肌，然後緩緩地把重量放回起始位置。</string>
+
+    <string name="ex_name_69">肱三頭肌下壓</string>
+    <string name="ex_desc_69">1. 面對機器站立，雙手握著阻力槓，手肘在身體兩側。\n\n2. 吸氣並伸直手臂，但是手肘不應離開身體兩側。\n\ n3. 完成動作時呼氣。</string>
+
+
+
+    <string name="Abs">腹肌</string>
+    <string name="Back">背部</string>
+    <string name="Biceps">二頭肌</string>
+    <string name="Calf">小腿</string>
+    <string name="Chest">胸部</string>
+    <string name="Forearms">前臂</string>
+    <string name="Legs">腿部</string>
+    <string name="Shoulders">肩部</string>
+    <string name="Triceps">三頭肌</string>
+
+
+    <string name="day">天</string>
+    <string name="round">輪次</string>
+    <string name="day1">每周兩天</string>
+    <string name="day2">每周三天</string>
+    <string name="day3">每周四天</string>
+    <string name="restorePurchases">恢復購買</string>
+    <string name="one_day_ADS1">1天無廣告</string>
+    <string name="one_day_ADS2">瀏覽贊助視頻</string>
+    <string name="upgrade">現在升級</string>
+    <string name="textUpgrade">升級到進階版本 解鎖50種新的鍛煉運動 並移除廣告。</string>
+    <string name="free">自由</string>
+    <string name="tell_friend">推薦朋友</string>
+    <string name="send_feedback">發送反饋意見</string>
+    <string name="rate_app">對我們進行評級</string>
+    <string name="facebook">在Facebook上分享應用程式</string>
+    <string name="twitter">在Twitter共享應用程式</string>
+    <string name="ic_googleplay">我們的其它應用程式</string>
+    <string name="ic_settings_">設置</string>
+    <string name="social_follow">留在接 VGFIT</string>
+    <string name="after_days">在 %1$s 天的不活躍後</string>
+    <string name="reminder">提醒</string>
+    <string name="daily_reminder">每日提醒</string>
+    <string name="frequency">頻率</string>
+    <string name="menu_bt">菜單按鈕</string>
+    <string name="units">單位</string>
+    <string name="purch_restored">App 內購買已修復</string>
+    <string name="success">成功！</string>
+
+    <string name="work_1">健身初學者</string>
+    <string name="work_2">轉變健身</string>
+    <string name="work_3">一般健身</string>
+    <string name="work_4">拮抗肌</string>
+    <string name="work_5">同樣的肌肉</string>
+    <string name="work_6">三組合</string>
+    <string name="work_2header">超級集合</string>
+    <string name="work_1header">鍛煉</string>
+
+    <string name="doneKey">完成</string>
+    <string name="editKey">編輯</string>
+    <string name="intervalsKey">間隔</string>
+    <string name="myWorkoutsKey">我的鍛煉計劃</string>
+    <string name="pauseKey">暫停</string>
+    <string name="resetKey">重設</string>
+    <string name="resumeKey">恢復</string>
+    <string name="roundsKey">週期</string>
+    <string name="startKey">開始</string>
+    <string name="currentsetkey">當前設置</string>
+    <string name="resttimekey">休息時間</string>
+    <string name="worktimekey">鍛煉時間</string>
+    <string name="minkey">分鐘</string>
+    <string name="seckey">秒</string>
+
+    <string name="one_time_payment">一次性付款</string>
+    <string name="get_lifetime_access">獲取終身使用權</string>
+    <string name="try_it_now">立即試用</string>
+    <string name="get_workouts_courses_with_powerful_support">獲取 100% 準備好的鍛煉課程以及強力支援!</string>
+    <string name="new_workoutsN">新\n锻炼</string>
+    <string name="monthly_slim">每月一次</string>
+    <string name="only_now">只限現在</string>
+    <string name="start_your_positive_transformation_today">今天就開啟您的\n積極轉型!</string>
+    <string name="_7_day_nfree_trial">7-天 \n免費試用</string>
+    <string name="_3_day_nfree_trial">3-天 \n免費試用</string>
+    <string name="_3_days_for_free">7天免費</string>
+    <string name="month">/月</string>
+    <string name="year">/年</string>
+    <string name="after">之後</string>
+    <string name="nutritionPlanName2">减重计划</string>
+    <string name="nutritionPlanName1">健身计划</string>
+    <string name="nutrition_plans">營養 計劃</string>
+    <string name="title_11">運動</string>
+</resources>

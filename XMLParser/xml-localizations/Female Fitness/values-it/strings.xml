@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fitness Femminile</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">Esercizi</string>
+    <string name="title_2">Allenamento</string>
+    <string name="title_3">Personalizzato</string>
+    <string name="title_4">Cronologia</string>
+    <string name="title_5">Altro</string>
+    <string name="done">Fatto</string>
+    <string name="back">Indietro</string>
+    <string name="titles">Titolo:  </string>
+    <string name="downl_vid">Download del video</string>
+    <string name="please_wait">Attendi, per favore...</string>
+    <string name="cancel">Annulla</string>
+    <string name="edit">Modifica</string>
+    <string name="work">Il mio allenamento</string>
+    <string name="create_plus">Per creare un nuovo allenamento, premi +</string>
+    <string name="save">Salva</string>
+    <string name="workout_name">Nome allenamento:</string>
+    <string name="days_title">Numero giorno:</string>
+    <string name="delete">Cancella</string>
+    <string name="work_title">Titolo allenamento:</string>
+    <string name="options">Opzioni:</string>
+    <string name="camera">Fotocamera/Galleria</string>
+    <string name="ex_phot_title">Foto dell’esercizio</string>
+    <string name="name_desc">Nome, descrizione</string>
+    <string name="ex_name">Nome dell’esercizio:</string>
+    <string name="desc">Descrizione:</string>
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+    <string name="blanck">Riempi il campo di testo!</string>
+    <string name="okey">Ok</string>
+    <string name="realy_cancel">Vuoi cancellare il processo di download? Tutti i progressi verranno persi!</string>
+    <string name="download_all">Scarica tutti i video</string>
+    <string name="unzip">Decompressione file</string>
+    <string name="files">File</string>
+    <string name="dow_video">Download dei video</string>
+    <string name="video_saved">Tutti i video sono stati salvati con successo!</string>
+    <string name="conn">Controlla la tua connessione Wi-Fi o quella del tuo telefono!</string>
+
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+
+    <string name="start">Avvia</string>
+    <string name="weight">Peso (kg)</string>
+    <string name="repetitions">Ripetizioni</string>
+    <string name="set_s">Imposta i secondi</string>
+    <string name="wei">Peso</string>
+    <string name="rep">Ripetizioni</string>
+    <string name="wei_rep">Prestazioni</string>
+    <string name="no_history">Non è stato fatto ancora nessun esercizio</string>
+    <string name="last_val">Ultimi valori</string>
+    <string name="send_f">Invia feedback</string>
+    <string name="rep_bug">Segnala un Bug</string>
+    <string name="tel_fr">Dillo a un amico</string>
+    <string name="rate_us">Valutaci</string>
+    <string name="ad">Aggiungi</string>
+
+    <string name="exit">Sei sicuro?</string>
+    <string name="sdcard">Nessuna scheda SD!</string>
+    <string name="post_to">Pubblica sulla bacheca</string>
+    <string name="not_loged">Non connesso</string>
+    <string name="log_fail">Accesso non riuscito</string>
+    <string name="posting">Pubblicazione </string>
+    <string name="posting_succes">Pubblicazione avvenuta con successo</string>
+    <string name="email_sent">E-mail inviata</string>
+    <string name="email_notsent">E-mail non inviata</string>
+
+
+    <string name="reps1">3 serie e 12/12/12 ripetizioni</string>
+    <string name="reps2">3 serie e 15/15/15 ripetizioni</string>
+    <string name="reps3">3 serie e 20/20/20 ripetizioni</string>
+    <string name="reps4">3 serie e 30/30/30 ripetizioni</string>
+
+    <string name="app_name_fast">Fitness &amp; Bodybuilding</string>
+    <string name="wk1">Tendi a mantenere il grasso corporeo in eccesso nei tuoi fianchi, braccia e seni con pochissimo grasso corporeo immagazzinato nella parte inferiore del tuo corpo. Mettiti in forma rapidamente con intensi esercizi combinati per la parte superiore del corpo.</string>
+    <string name="wk2">Sei come un bastone dritto con poche curve. Aggiungi più forma alla tua vita e scolpisci i glutei con questo piano di allenamento per i tipi di corpo a banana.</string>
+    <string name="wk3">Il tuo busto e le anche sono più larghe rispetto alla tua vita. Aggiungi tono muscolare a tutto il corpo e modella quelle braccia e gambe con questo allenamento scolpente.</string>
+    <string name="wk4">Hai le spalle larghe e i fianchi stretti. Stringi la tua parte centrale e aggiungi un po\' di forma al tuo fondoschiena e cosce con questo esercizio per un tipo di corpo a triangolo invertito.</string>
+    <string name="wk5">Sei un po\' più largo sul fondoschiena di quello che sei nella parte superiore. Tonifica le braccia e le spalle e diventa più stretto con il nostro allenamento pera-friendly.</string>
+    <string name="dialog_future">Non puoi inserire dati per le date future!</string>
+    <string name="info">Scegli la forma del tuo corpo.</string>
+
+    <string name="ex_guide_1">Mela</string>
+    <string name="ex_guide_2">Banana</string>
+    <string name="ex_guide_3">Clessidra</string>
+    <string name="ex_guide_4">Triangolo invertito</string>
+    <string name="ex_guide_5">Pera</string>
+
+    <string name="ex_name_1">Crunch con Fitball in avvitamento</string>
+    <string name="ex_desc_1">Preparazione: siediti sulla palla per esercizi. Cammina in avanti sulla palla e sdraiarsi sulla palla con le spalle e la testa appesa fuori e le ginocchia e le anche piegate. Iperestendi dolcemente indietro seguendo il profilo della palla. Tieni la piastra dietro al collo o sul petto con entrambe le mani o non utilizzare alcun peso. Fletti la vita per sollevare la parte superiore del tronco. Ritorna alla posizione di partenza. Ripeti.</string>
+    <string name="ex_name_2">Stability Ball Plank Pike-Up</string>
+    <string name="ex_desc_2">Metti una palla per esercizi vicino e sdraiati sul pavimento di fronte ad essa con le mani larghe quanto le spalle in una posizione push-up. Ora metti i tuoi stinchi bassi sulla palla per esercizi. Suggerimento: a questo punto le gambe devono essere completamente aperte con gli stinchi in cima alla palla e la parte superiore del corpo dovrebbe essere in un tipo di posizione push-up sostenuta dalle due braccia tese davanti a te. Questo sarà il tuo punto di partenza: mantenendo la schiena completamente dritta e la parte superiore del corpo fermo, solleva i glutei verso il soffitto, stringendo gli addominali in modo stretto per chiudere la distanza tra la cassa toracica e le anche. Il risultato finale sarà che ti ritroverai in una posizione di ponte alto. - Espira mentre esegui questa parte del movimento. - Porta la schiena verso il basso lentamente alla posizione di partenza, man mano che inspiri. Suggerimento: non lasciare che la schiena si fletta verso il basso. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_3">Toe Touch</string>
+    <string name="ex_desc_3">Per cominciare, sdraiati sul pavimento o su un tappetino per esercizi con la schiena premuta contro il pavimento. Le braccia devono essere distese tra i fianchi con i palmi rivolti verso il basso. Le gambe si devono toccare. Lentamente sollevare le gambe in aria fino a quando sono quasi perpendicolari al pavimento con una curva alle ginocchia a 90°. Pur mantenendo premuta contro il pavimento la parte inferiore della schiena, sollevare lentamente il busto e usare le mani per cercare di toccare le dita dei piedi. Ricordati di espirare mentre eseguire questa parte dell\'esercizio. Lentamente iniziare ad abbassare il busto e le braccia indietro alla posizione di partenza durante l\'inspirazione. Ricordati di tenere le braccia dritte che puntano verso le dita dei piedi. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_4">Pull-in stesi</string>
+    <string name="ex_desc_4">Sdraiati su un tappetino per esercizi con le gambe distese e il palmo della mano rivolto verso il basso accanto a te. Questo sarà il tuo punto di partenza: sollevare lentamente il busto con la schiena premuta contro il pavimento. Ricordati di espirare mentre eseguire questa parte dell\'esercizio. Piegare le ginocchia e tirare le cosce nella parte centrale mentre espiri. Continuare il movimento fino a quando le ginocchia sono a circa il livello del torace. Contrarre gli addominali mentre si esegue questo movimento e mantieni la posizione per un secondo quando arrivi in alto. Suggerimento: quando si esegue il movimento, gli arti inferiori (polpacci) dovrebbero sempre rimanere in parallelo al pavimento. Tornare alla posizione di partenza durante l\'inspirazione. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_5">Plank &amp; Push-Up (Up-Down Plank)</string>
+    <string name="ex_desc_5">Iniziare l\'esercizio in alta plancia nella parte superiore di una posizione push up. Assicurarsi che le mani siano proprio sotto le spalle, le gambe dritte e la tua parte centrale sia impegnata (posizione 1). Mantenere questa posizione per 15 secondi . Abbassarsi fino agli avambracci, senza cadere in ginocchio. Portare un avambraccio alla volta al tappeto, in bassa plancia. Con gli avambracci paralleli, tenere questa posizione per 15 secondi (posizione 2) e poi tornare indietro alla posizione alta della plancia con entrambe le braccia diritte.</string>
+    <string name="ex_name_6">Alpinista</string>
+    <string name="ex_desc_6">Assumere una posizione push-up con le braccia completamente dritte. Il tuo corpo deve formare una linea retta dalla testa alle caviglie [A]. Senza consentire alla postura della schiena bassa di cambiare, sollevare il piede destro dal pavimento e spostare lentamente il ginocchio destro verso il petto [B]. Tornare alla posizione di partenza e ripetere con la gamba sinistra. Alternare avanti e indietro per la durata della serie.</string>
+    <string name="ex_name_7">Crunch sdraiati di lato</string>
+    <string name="ex_desc_7">Sdraiati sul lato destro con la mano sinistra sul lato della testa e le gambe in alto, da sinistra a destra. Procedere a sollevare il busto verso l\'alto e di nuovo in basso, usando il gomito destro per mantenere la stabilità. Fare una pausa, poi tornare alla posizione di partenza.</string>
+    <string name="ex_name_8">V-Up</string>
+    <string name="ex_desc_8">Sdraiarsi sulla schiena ed estendere le braccia sopra la testa. Non c\'è bisogno di stringere le mani insieme per questo esercizio. Con un movimento a rallentatore controllato, sollevare contemporaneamente le braccia e le gambe, in modo che si incontrino a metà del tronco. Estendere indietro fino alla posizione di partenza in un movimento lento controllato. Mantenete lo sguardo verso il soffitto.</string>
+    <string name="ex_name_9">Salti dalla panca</string>
+    <string name="ex_desc_9">Inizia con una scatola o una panca 30-60 cm davanti a te. Stare in piedi con la larghezza delle spalle pari ai piedi. Questo sarà il tuo punto di partenza: effettuare un breve squat in preparazione per il salto; oscillare le braccia dietro di te. Rimbalzare in questa posizione, estendendosi oltre le anche, ginocchia e caviglie per saltare più in alto possibile. Sollevare le braccia in avanti e in su. Saltate oltre la panca, atterrando con le ginocchia piegate, assorbendo l\'impatto attraverso le gambe. Girarsi in direzione opposta e saltare e indietro sopra la panca.</string>
+    <string name="ex_name_10">Rematore seduto ai cavi</string>
+    <string name="ex_desc_10">Per questo esercizio è necessario accedere a una low pulley row machine con V-bar. Nota: la V-bar ti permetterà di avere una presa neutra dove i palmi delle mani siano uno di fronte all\'altro. Per essere nella posizione di partenza, sedere prima sulla macchina e mettere i piedi sulla piattaforma anteriore o traversa fornita facendo in modo che le ginocchia siano leggermente piegate e non bloccate. Sporgersi come se si mantenesse l\'allineamento naturale della schiena e afferrare le maniglie della V-bar. Con le braccia estese tirare indietro fino a quando il busto è ad angolo di 90 gradi dalle gambe. La schiena deve essere leggermente arcuata e il petto dovrebbe essere all’infuori. Si dovrebbe sentire un bel tratto sui dorsali mentre si tiene la barra di fronte a te. Questa è la posizione di partenza dell\'esercizio: mantenere il busto fermo, tirare le maniglie di nuovo verso il busto, mantenere le braccia vicino ad esso fino a quando tocca gli addominali. Espirare mentre si esegue questo movimento. A quel punto si dovrebbe sentire tirare duramente i muscoli della schiena. Tenere questa contrazione per un secondo e lentamente tornare alla posizione originale, mentre si inspira. Eseguire il movimento per la quantità raccomandata di ripetizioni. Attenzione: evitare di oscillare il busto avanti e indietro perché può causare lesioni alla schiena in questo modo.</string>
+    <string name="ex_name_11">Wide-Grip Lat Pulldown</string>
+    <string name="ex_desc_11">Sedersi su una pull-down machine con un’ampia barra attaccata alla puleggia superiore. Assicurarsi di regolare il pad del ginocchio della macchina a misura della tua altezza. Questi pad impediscono al corpo di essere sollevato dalla resistenza collegata alla barra. Afferrare la barra con i palmi rivolti in avanti usando la presa prescritta. Nota sulla presa: per una presa larga, le mani devono essere distanziate ad una distanza più ampia della larghezza delle spalle. Per una presa media, le mani devono essere distanziate ad una distanza pari alla larghezza delle spalle e per una presa stretta ad una distanza inferiore la larghezza delle spalle. Quando hai entrambe le braccia tese davanti a te tenendo la barra alla larghezza della presa scelta, riportare indietro il busto di circa 30 gradi durante la creazione di una curvatura sulla parte bassa della schiena e portare il petto in fuori. Questa è la tua posizione di partenza: quando espiri, portare la barra verso il basso fino a toccare il petto superiore disegnando le spalle e le braccia verso il basso e viceversa. Suggerimento: concentrarsi sulla contrazione dei muscoli della schiena, una volta raggiunta la posizione di massima contrazione. La parte superiore del busto deve rimanere ferma e solo le braccia devono muoversi. Gli avambracci non dovrebbero fare nessun altro lavoro se non tenere la barra, quindi non cercare di tirare verso il basso la barra con gli avambracci. Dopo un secondo in posizione contratta stringendo le scapole, sollevare lentamente la barra di nuovo alla posizione di partenza quando le braccia sono completamente distese e i dorsali sono completamente distesi. Inspirare durante questa parte del movimento. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_12">Iperestenzioni (Estensioni indietro)</string>
+    <string name="ex_desc_12">Sdraiarsi a faccia in giù su una panca per iperestensioni, infilando le caviglie in modo sicuro sotto i cuscinetti plantari. Regolare il cuscinetto superiore, se possibile, in modo che le cosce entrino in tutto il pad, lasciando spazio sufficiente per piegarsi in vita senza alcuna restrizione. Con il corpo dritto, incrociare le braccia davanti a te o dietro la testa. Questo sarà il tuo punto di partenza. Suggerimento: puoi anche tenere un peso per avere resistenza in più di fronte a te sotto le braccia incrociate. Iniziare la flessione in avanti lentamente verso la vita, per quanto è possibile, mantenendo la schiena piatta. Inspirare quando si esegue questo movimento. Continuare a muoversi in avanti fino a sentire i muscoli posteriori della coscia tirare e non è più possibile andare avanti senza inarcare la schiena. Suggerimento: non arrotondare mai indietro la schiena, quando si esegue questo esercizio. Inoltre, alcune persone possono andare più a fondo di altre. La cosa fondamentale è che tu vada, per quanto il tuo corpo te lo permette, senza arrotondare la schiena. Sollevare lentamente il busto indietro alla posizione iniziale durante l\'inspirazione. Suggerimento: evitare la tentazione di inarcare la schiena passata una linea retta. Inoltre, non oscillare il busto in qualsiasi momento al fine di proteggere la schiena da un infortunio. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_13">Pull-Up assistito</string>
+    <string name="ex_desc_13">Sollevarsi e afferrare la barra con presa overhand ampia. Andare verso il basso sulla leva di assistenza o piattaforma. Alcune macchine assistite richiedono di inginocchiarsi sulla piattaforma. Se non viene utilizzata alcuna macchina assistita, assistere, se necessario, consentendo al compagno di allenamento di tirare i piedi dietro le gambe o spingere con le gambe in elevazione. Il campo di movimento diminuirà se la presa è troppo ampia.</string>
+    <string name="ex_name_14">Bent Over Two-Dumbbell Row</string>
+    <string name="ex_desc_14">Con un manubrio in ogni mano (palmi rivolti verso il busto), piegare leggermente le ginocchia e portare il busto in avanti piegandosi in vita; quando ti pieghi, fare in modo di mantenere la schiena dritta fino a quando è quasi parallela al pavimento. Suggerimento: assicurarsi di tenere la testa alta. I pesi dovrebbero appendersi direttamente di fronte a te, quando le braccia devono scendere perpendicolare al pavimento e al busto. Questa è la tua posizione di partenza: pur mantenendo il busto fermo, sollevare i manubri al tuo fianco (quando espiri), mantenendo i gomiti vicino al corpo (non esercitare alcuna forza con l\'altro avambraccio che tiene i pesi). Sulla posizione contratta superiore, stringere i muscoli della schiena e tenere premuto per un secondo. Abbassare lentamente il peso di nuovo alla posizione di partenza durante l\'inspirazione. Eseguire il movimento per la quantità raccomandata di ripetizioni. Attenzione: questo esercizio non è raccomandato per le persone con problemi alla schiena. Una puleggia Low Row è una scelta migliore per le persone con problemi alla schiena. Garantire una forma perfetta e mai dietro la schiena dato che questo può comportare problemi dorso-lombari . Sii cauto con il peso utilizzato, in caso di dubbio, utilizzare meno peso meno piuttosto che di più.</string>
+    <string name="ex_name_15">Stacchi a gambe tese con bilanciere</string>
+    <string name="ex_desc_15">Questo esercizio è meglio eseguito all\'interno di uno squat rack per motivi di sicurezza. Per cominciare, impostare prima la barra su un rack che meglio soddisfa la tua altezza. Una volta che hai scelto la giusta altezza e hai caricato la barra, passare sotto la barra e porla sul retro delle spalle (poco sotto il collo) attraverso essa. Aggrappa la barra con entrambe le braccia ai lati e sollevala dal rack prima spingere con le gambe e, allo stesso tempo, raddrizzando il busto. Allontanati dal rack e posizionare le gambe con presa quanto la larghezza delle spalle di posizione media. Mantenere la testa alta in ogni momento perché guardare in basso porterà fuori equilibrio e mantenere anche la schiena dritta. Questo sarà il tuo punto di partenza: mantenere le gambe ferme, spostare il busto in avanti piegando le anche durante l\'inspirazione. Abbassare il busto fino a quando non è parallelo al pavimento. Iniziare ad alzare la barra mentre espiri, elevando il busto indietro alla posizione di partenza. Eseguire il movimento per la quantità raccomandata di ripetizioni. Attenzione: questo non è un esercizio da prendere alla leggera. Sii cauto con il peso utilizzato; in caso di dubbio, utilizzare meno peso meno che di più. Il stiff-legged barbell good morning è un esercizio molto sicuro, ma solo se eseguito correttamente.</string>
+    <string name="ex_name_16">Croci inverse</string>
+    <string name="ex_desc_16">Per cominciare, sdraiati su una panca inclinata con il petto e lo stomaco premendo contro l’inclinazione. Mettere i manubri in ogni mano con i palmi uno di fronte all\'altro (presa neutra). Estendere le braccia di fronte a te in modo che siano perpendicolari all’angolo della panca. Le gambe devono essere ferme durante l\'applicazione della pressione con la sfera delle dita dei piedi. Questa è la posizione di partenza: mantenere la leggera curvatura dei gomiti, spostare i pesi fuori e distanti (a lato) con un movimento ad arco mentre espiri. Suggerimento: provare a premere le scapole insieme per ottenere migliori risultati da questo esercizio. Le braccia devono essere sollevate fino a quando sono parallele al pavimento. Senti la contrazione e lentamente abbassa il peso indietro alla posizione di partenza durante l\'inspirazione. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_17">Rematore con manubrio</string>
+    <string name="ex_desc_17">Scegliere una panca piana e mettere un manubrio su ciascun lato di essa. Posizionare la gamba destra in cima alla fine della panchina, piegare il busto in avanti alla vita fino a quando la parte superiore del corpo è parallela al pavimento, e porre la mano destra su l\'altra estremità della panca per avere un supporto. Usare la mano sinistra per prendere il manubrio per terra e tenere il peso, mantenendo la zona lombare dritta. Il palmo della mano deve essere rivolto verso il busto. Questo sarà il tuo punto di partenza: tirare la resistenza dritto fino al lato del petto, mantenendo la parte superiore del braccio vicino al tuo fianco e il busto fermo. Espirare mentre si esegue questa operazione. Suggerimento: fai attenzione alla contrazione dei muscoli della schiena, una volta raggiunta la posizione di massima contrazione. Inoltre, assicurarsi che la forza venga eseguita con i muscoli della schiena e non con le braccia. Infine, il torso superiore dovrebbe rimanere fermo e solo le braccia devono muoversi. Gli avambracci non dovrebbero fare nessun altro lavoro se non tenere il manubrio, quindi non cercare di tirare il manubrio in alto con gli avambracci. Abbassare la resistenza verso il basso alla posizione di partenza. Inspirare quando si esegue quest’operazione. Eseguire il movimento per la quantità raccomandata di ripetizioni.\cf0 \cf2 Invertire lato e ripetere con l\'altro braccio. Variazioni: One-arm rows può essere eseguito anche utilizzando una puleggia alta o una puleggia bassa, invece di un manubrio.</string>
+    <string name="ex_name_18">Curl con bilanciere per bicipiti</string>
+    <string name="ex_desc_18">Stare in piedi con un manubrio in ogni mano a braccio teso. Tenere i gomiti vicino al busto e ruotare i palmi delle mani fino a quando non sono rivolti in avanti. Questo sarà il tuo punto di partenza: ora, tenendo le braccia ferme, espirare e tirare i pesi contraendo i bicipiti. Continuare a sollevare i pesi fino a quando i bicipiti sono completamente contratti e i manubri sono a livello delle spalle. Tenere la posizione contratta per una breve pausa mentre si premono i bicipiti. Allora inspirare e lentamente cominciare ad abbassare i manubri alla posizione di partenza. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_19">Curl con bilanciere</string>
+    <string name="ex_desc_19">Stare in piedi con il busto in posizione verticale mentre si tiene un bilanciere in presa quanto la larghezza delle spalle. Il palmo della mano deve essere rivolto in avanti e i gomiti devono essere vicino al busto. Questo sarà il tuo punto di partenza: tenere le braccia ferme, tirare i pesi in avanti contraendo il bicipite mentre espiri. Suggerimento: solo gli avambracci devono muoversi. Continuare il movimento fino a quando i bicipiti sono completamente contratti e la barra è a livello delle spalle. Tenere la posizione contratta per un secondo e premere duramente il bicipite. Iniziare lentamente a portare la barra in posizione di partenza mentre inspiri. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_20">Curl con bilanciere da seduto</string>
+    <string name="ex_desc_20">Afferrare un bilanciere a circa la larghezza delle spalle con una presa underhand (palmi rivolti in avanti) e sedersi alla termine di una panca piana con il bilanciere sulle cosce. La schiena deve essere dritta, la testa che guarda in avanti e i piedi fermi sul pavimento. Questo sarà la tua posizione di partenza del Seated Barbell Curl: mentre tieni la parte superiore delle braccia ferma e vicina al corpo, inspira e inizia ad tirare i pesi in su e in avanti fino a raggiungere una posizione completamente contratta. Tieni premuto per un secondo, tira i bicipiti e abbassa il peso in un movimento controllato di nuovo alla posizione di partenza.</string>
+    <string name="ex_name_21">Curl con bilanciere su un piano inclinato</string>
+    <string name="ex_desc_21">Sdraiarsi su una panca inclinata, con le braccia che tengono un bilanciere e pendono in una linea orizzontale. Questo sarà il tuo punto di partenza: mantenendo le braccia ferme, tirare il peso il più in alto possibile, mentre si comprimono i bicipiti. Espirare mentre si esegue questa parte del movimento. Suggerimento: solo gli avambracci devono muoversi. Non far oscillare le braccia. Dopo una seconda contrazione, lentamente tornare alla posizione di partenza durante l\'inspirazione. Suggerimento: assicurarsi di andare tutto in fondo. Eseguire il movimento per la quantità raccomandata di ripetizioni. Variazioni: è possibile eseguire questo esercizio con una barra EZ.</string>
+    <string name="ex_name_22">Curl con cavi in piedi per bicipiti</string>
+    <string name="ex_desc_22">Stare in piedi con il busto in posizione verticale mentre si tiene una barra a cavo collegata a una puleggia bassa. Afferrare la barra a cavo alla larghezza delle spalle e tenere i gomiti vicino al busto. Il palmo della mano deve essere rivolto verso l\'alto (presa supina). Questo sarà il tuo punto di partenza: tenendo le braccia fisse, tirare i pesi contraendo il bicipite quando espiri. Solo gli avambracci devono muoversi. Continuare il movimento fino a quando i bicipiti sono completamente contratti e la barra è a livello delle spalle. Tenere la posizione contratta per un secondo, mentre si stringe il muscolo. Iniziare lentamente a portare la barra indietro alla posizione di partenza mentre inspiri. Eseguire il movimento per la quantità raccomandata di ripetizioni. Variante: è inoltre possibile eseguire questo movimento utilizzando un attacco a bilanciere EZ o singole maniglie.</string>
+    <string name="ex_name_23">Calciata indietro</string>
+    <string name="ex_desc_23">Inginocchiarsi sul pavimento o su un tappetino per esercizi e piegare in vita con le braccia distese davanti a te (perpendicolare al busto), per entrare in una posizione di push-up in ginocchio, ma con le braccia distanziate alla larghezza delle spalle. La testa deve guardare in avanti e la piega delle ginocchia dovrebbe creare un angolo di 90 gradi tra i tendini del ginocchio e i polpacci. Questo sarà il tuo punto di partenza: durante l\'espirazione, sollevare la gamba destra fino a quando i muscoli posteriori della coscia sono in linea con la schiena, mantenendo l\'angolo di curva di 90 gradi. Contrarre i glutei durante tutto questo movimento e tenere la contrazione nella parte superiore per un secondo. Suggerimento: alla fine del movimento, la gamba in alto dovrebbe essere parallela al pavimento mentre il polpaccio deve essere perpendicolare ad esso. Tornare alla posizione iniziale, mentre inspiri, ed ora ripetere con la gamba sinistra. Continuare ad alternare le gambe fino a quando tutte le ripetizioni consigliate sono stati effettuati. Variazioni: per questo esercizio si possono anche eseguire tutte le ripetizioni con una gamba e poi l\'altra. Inoltre, è possibile anche aggiungere pesi alle caviglie.</string>
+    <string name="ex_name_24">Ponte con spalle e piedi a terra ad una gamba</string>
+    <string name="ex_desc_24">Sdraiarsi sul pavimento con i piedi sulla panca e le ginocchia piegate. Sollevare una gamba, tirando il ginocchio verso il petto. Questo sarà il tuo punto di partenza: eseguire il movimento guidando il tallone, estendendo l\'anca verso l\'alto e sollevare i glutei fuori dal pavimento. Estendere il più possibile, fare una pausa e poi tornare alla posizione di partenza.</string>
+    <string name="ex_name_25">Stacchi da terra con bilanciere a gambe tese</string>
+    <string name="ex_desc_25">Stare in piedi con i piedi uniti e le mani proprio di fronte alle cosce. Sollevare la gamba leggermente in modo che il piede sia appena fuori piano. Abbassare la parte inferiore del tronco in avanti e verso il basso, e nel contempo sollevando la gamba indietro. Tenere la schiena dritta e il ginocchio della gamba di sostegno leggermente piegati. Tenere l’anca e il ginocchio della gamba sollevata estesi per tutto il movimento. Una volta che si sente tirare o le mani toccano il piano, tornare alla posizione originale alzando il torso abbassando la gamba sollevata. Raddrizzare il ginocchio della gamba di sostegno quando il torso diventa verticale. Ripetere.</string>
+    <string name="ex_name_26">Calciata indietro con cavo una gamba</string>
+    <string name="ex_desc_26">Agganciare una cavigliera in pelle ad una puleggia al cavo basso e quindi fissare la cavigliera alla caviglia. Posizionarsi ad una distanza di circa due metri dal pacco pesi, afferrare il telaio in acciaio per supporto. Mantenendo le ginocchia e le anche leggermente piegate e gli addominali stretti, contrarre i glutei lentamente per calciare lentamente la gamba indietro in un arco semicircolare tanto alto quanto ti sarà comodo andare quando espiri. Suggerimento: a piena estensione, stringere i glutei per un secondo al fine di ottenere una contrazione massima. Ora, portare lentamente la gamba che lavora in avanti, resistendo alla trazione del cavo fino a raggiungere la posizione di partenza. Eseguire il movimento per la quantità raccomandata di ripetizioni. Alternare le gambe e ripetere il movimento nell\'altro lato. Variazioni: è possibile eseguire questo esercizio con bande per esercizi.</string>
+    <string name="ex_name_27">Panca inclinata alla Smith machine</string>
+    <string name="ex_desc_27">Mettere una panca inclinata sotto la smith machine. Posizionare il bilanciere ad una altezza che puoi raggiunge quando stai sdraiato e le braccia sono quasi completamente estese. Una volta che hai selezionato il peso necessario, sdraiarsi sulla panca inclinata e assicurarsi che il torace superiore sia allineato con il bilanciere. Usando una presa prona (palmi rivolti in avanti), più ampia rispetto alla larghezza delle spalle, sbloccare la barra dal rack e tenerla dritto su di te con le braccia bloccate. Questo sarà il tuo punto di partenza: quando respiri, scendere lentamente fino a sentire la barra sulla parte superiore del torace. Dopo un secondo di pausa, portare la barra di nuovo alla posizione di partenza, mentre espiri, e spingere la barra utilizzando i muscoli del petto. Bloccare le braccia in posizione contratta, tenere premuto per un secondo e poi iniziare a scendere lentamente di nuovo. Suggerimento: ci dovrebbe volere almeno il doppio del tempo per scendere che per salire. Eseguire il movimento per la quantità raccomandata di ripetizioni. Quando hai finito, posizionare la barra di nuovo sul rack. Attenzione: se sei nuovo a questo esercizio, si consiglia di utilizzare uno spotter dato che questo esercizio può essere un po\' impegnativo. Se non è disponibile nessun spotter, sii allora prudente con il totale di pesi usato.</string>
+    <string name="ex_name_28">Posizione push-ups – tricipi vicini</string>
+    <string name="ex_desc_28">Sdraiarsi sul pavimento faccia in giù e le mani a più della larghezza delle spalle per una posizione a mani vicine. Assicurarsi che si sta mantenendo il busto in alto a distanza delle braccia. Abbassarsi fino a quando il petto quasi tocca il pavimento durante l\'inspirazione. Utilizzando i tricipiti e alcuni dei tuoi muscoli pettorali, premere la parte superiore del corpo indietro fino alla posizione di partenza e premere il petto. Espirare quando si esegue questa operazione. Dopo un secondo di pausa in posizione contratta, eseguire il movimento per la quantità raccomandata di ripetizioni. Varianti: se sei nuovo a questo esercizio e non hai la forza di compierlo, è possibile piegare le gambe all\'altezza delle ginocchia per ridurre la resistenza o eseguire l\'esercizio contro il muro al posto del pavimento. Per gli atleti più esperti, è possibile posizionare i piedi su una superficie alta come una panca per aumentare la resistenza.</string>
+    <string name="ex_name_29">Panca inclinata con manubri</string>
+    <string name="ex_desc_29">Sdraiarsi su una panca inclinata con un manubrio in ogni mano in cima alle cosce. I palmi delle mani saranno di fronte uno all\'altro. Poi, usando le cosce per contribuire a spingere i manubri in su, sollevare i manubri uno alla volta in modo da poterli tenere alla larghezza delle spalle. Una volta che hai i manubri alzati alla larghezza delle spalle, ruotare i polsi in avanti in modo che i palmi delle mani siano rivolti verso di te. Questo sarà il tuo punto di partenza: assicurarsi di mantenere il pieno controllo dei manubri in ogni momento. Espirare poi e spingere i manubri con il petto. Bloccare le braccia in alto, tenere premuto per un secondo e poi iniziare ad abbassare lentamente il peso. Suggerimento: idealmente , abbassando i pesi dovrebbe volerci circa il doppio del tempo del sollevarli. Eseguire il movimento per la quantità raccomandata di ripetizioni. Quando hai finito, posizionare i manubri di nuovo sulle cosce e poi sul pavimento. Questo è il modo più sicuro per rilasciare i manubri.</string>
+    <string name="ex_name_30">Croci su panca inclinata con manubri</string>
+    <string name="ex_desc_30">Tenere un manubrio in ogni mano e sdraiarsi su una panca inclinata impostata su un angolo di inclinazione non superiore a 30 gradi. Estendere le braccia sopra di te con una leggera curva all\'altezza dei gomiti. Ora ruotare i polsi in modo che i palmi delle mani si trovino di fronte. Suggerimento: i mignoli devono essere uno accanto all\'altro. Questo sarà il tuo punto di partenza: quando respiri, iniziare ad abbassare lentamente le braccia di lato, mantenendo le braccia tese e ruotando i polsi fino a quando i palmi della mano sono uno di fronte all\'altro. Suggerimento: alla fine del movimento le braccia saranno sui tuoi fianchi con i palmi rivolti verso il soffitto. Durante l\'espirazione, inizia a portare i manubri indietro fino alla posizione di partenza invertendo il moto di rotazione e le mani in modo che i mignoli siano uno accanto all\'altro ancora. Suggerimento: tieni presente che il movimento avverrà solo con la spalla e il polso. Non vi è alcun movimento che avviene a livello dell\'articolazione del gomito. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_31">Chest press inclinata con manubri su Swiss-Ball</string>
+    <string name="ex_desc_31">Posizionarsi con la schiena su una palla svizzera in modo che il busto sia ad un angolo di 45 gradi sul pavimento. Tenere i manubri dritti sopra il mento, con le braccia diritte. Mantenere la parte centrale rinforzata e i piedi appoggiati sul pavimento.</string>
+    <string name="ex_name_32">Panca piana con bilanciere</string>
+    <string name="ex_desc_32">Sdraiarsi su una panca piana. Usando una presa a larghezza media (una presa che crea un angolo di 90 gradi al centro del movimento tra le braccia e la parte superiore delle braccia), sollevare la barra dal rack e tenerla dritta su di te con le braccia bloccate. Questo sarà il tuo punto di partenza: dalla posizione di partenza, inspirare ed iniziare scendendo lentamente fino a quando la barra tocca il petto in mezzo. Dopo una breve pausa, spingere la barra di nuovo alla posizione di partenza quando espiri. Concentrarsi sul premere la barra utilizzando i muscoli del petto. Bloccare le braccia e stringere il petto nella posizione di contrazione nella parte superiore del movimento, tenere premuto per un secondo e poi iniziare a scendere lentamente di nuovo. Suggerimento: idealmente, abbassare il peso dovrebbe volerci circa il doppio del tempo che sollevarlo. Eseguire il movimento per la quantità raccomandata di ripetizioni. Quando hai finito, posizionare la barra di nuovo sul rack. Attenzione: se sei nuovo a questo esercizio, si consiglia di utilizzare uno spotter. Se nessuno spotter è disponibile, allora fai attenzione con il totale di pesi usato.</string>
+    <string name="ex_name_33">Pullover a braccia tese</string>
+    <string name="ex_desc_33">Mettere un manubrio in piedi su una panca piana. Garantendo che il manubrio rimanga saldamente posizionato nella parte superiore della panca, posizionarsi perpendicolare alla panca (torso come a formare una croce) soltanto con le spalle sulla superficie. I fianchi dovrebbero essere sotto la panca e le gambe piegate con i piedi saldamente per terra. Anche la testa sarà fuori dalla panca. Afferrare il manubrio con entrambe le mani e tenerlo dritto sul petto in tal modo. Entrambi i palmi devono premere contro la parte inferiore di uno dei lati del manubrio. Questo sarà il tuo punto di partenza. Attenzione: assicurarsi sempre che il manubrio utilizzato per questo esercizio sia sicuro. Utilizzare un manubrio con piastre tese può far cadere il manubrio sul tuo viso. Mantenendo le braccia tese, abbassare il peso lentamente in un arco dietro la testa inspirando fino a sentire tirare il petto. A quel punto, riportare il manubrio in posizione di partenza utilizzando l\'arco attraverso il peso cui è stato abbassato ed espirare quando si esegue questo movimento. Tenere il peso in posizione iniziale per un secondo e ripetere il movimento per il numero prescritto di ripetizioni. Attenzione: se sei nuovo a questo movimento, usa uno spotter invece. In caso contrario, si prega di assicurarsi che il manubrio non cada su di te mentre posizioni il tuo busto per eseguire l\'esercizio sulla panca. Inoltre, come già detto, assicurarsi che il manubrio utilizzato sia in perfetto stato di funzionamento. I vecchi manubri che hanno bisogno di saldature non dovrebbero mai essere utilizzati per eseguire questo esercizio.</string>
+    <string name="ex_name_34">Squat con Smith Machine</string>
+    <string name="ex_desc_34">Per cominciare, impostare prima la barra alla posizione che meglio soddisfa la tua altezza. Una volta scelta la giusta altezza e caricata la barra, passare sotto la barra e porla sul retro delle spalle (poco sotto il collo) attraverso di essa. Aggrappati alla barra con entrambe le braccia ai lati (palmi rivolti in avanti), sbloccarla e sollevarla dal rack prima spingendo con le gambe e, allo stesso tempo raddrizzando il busto. Posizionare le gambe con una larghezza della spalla a presa media con le dita del piede un po\' impuntate. Tenere alta la testa in ogni momento e mantenere la schiena dritta. Questo sarà il tuo punto di partenza. Nota: ai fini di questa discussione useremo la posizione media che si rivolge allo sviluppo complessivo, ma è possibile scegliere una qualsiasi delle tre posizioni discusse nella sezione posizioni del piede. Iniziare ad abbassare lentamente la barra piegando le ginocchia quando mantieni una postura eretta con la testa alta. Proseguire fino a quando l\'angolo tra la coscia e i polpacci diventa leggermente inferiore a 90 gradi (che è il punto in cui le gambe superiori sono sotto il parallelo al pavimento). Inspirare quando si esegue questa parte del movimento. Suggerimento: se l\'esercizio è stato eseguito correttamente, la parte anteriore del ginocchio dovrebbe fare una linea retta immaginaria con le dita dei piedi che è perpendicolare alla fronte. Se le ginocchia hanno passato quella linea immaginaria (se hanno passato le dita dei piedi), allora si sta dando eccessivo stress sul ginocchio e l\'esercizio è stato eseguito in modo non corretto. Iniziare ad alzare la barra mentre espiri spingendo il pavimento con il tallone del piede come raddrizzare di nuovo le gambe e tornare alla posizione di partenza. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_35">Squat ampio con Smith Machine</string>
+    <string name="ex_desc_35">Impostarsi per wide smith machine squat mettendo la barra a circa all\'altezza delle spalle e caricando il peso che si desidera utilizzare sulla machine squat. Stare sotto la barra con le gambe in una posizione larga e le dita dei piedi rivolte leggermente verso l\'esterno. Afferrare la barra con una presa larga e la posizione al centro della barra sulla parte superiore dei muscoli sulla schiena. La barra non deve sedersi sul collo! Tenere la schiena dritta e gli occhi rivolti in avanti e scaricare il peso del rack: fare un lieve passo in avanti. Tenere gli occhi rivolti in avanti con la schiena dritta, accovacciarsi lentamente fino a quando le cosce sono parallele al pavimento. Spingere verso l\'alto tramite i talloni, alzare la barra di nuovo alla posizione di partenza. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_36">Affondi posteriori con Smith Machine</string>
+    <string name="ex_desc_36">Con la barra in altezza superiore al torace, posizionare la barra sul retro delle spalle e afferrare la barra ai lati. Posizionare i piedi sotto la barra. Raddrizzare le gambe così che il peso viene sollevato. Sganciare la barra ruotando la barra indietro. Un passo indietro con una gamba mentre si piega la gamba di supporto. Piantare l’avampiede lontano dal pavimento. Abbassare il corpo flettendo il ginocchio e l\'anca della gamba di sostegno fino a che il ginocchio della gamba posteriore è quasi a contatto con il pavimento. Ritornare alla posizione eretta originale, estendendo l\'anca e il ginocchio della gamba di sostegno in avanti e tornare la gamba indietro accanto alla gamba di sostegno. Ripetere il movimento con le gambe opposte alternate tra i lati.</string>
+    <string name="ex_name_37">Leg Press</string>
+    <string name="ex_desc_37">Utilizzando una leg press machine, sedersi sulla macchina e posizionare le gambe sulla pedana direttamente di fronte a te in una presa media (larghezza delle spalle) in posizione del piede. Nota: ai fini di questa discussione useremo la posizione media di cui sopra che si rivolge allo sviluppo complessivo, ma è possibile scegliere una qualsiasi delle tre posizioni descritte nella sezione di posizionamento del piede. Abbassare le barre di sicurezza che tengono la piattaforma di pesata in posizione e premere tutta la piattaforma fino a quando le gambe sono completamente distese davanti a te. Suggerimento: assicurarsi di non bloccare le ginocchia. Il busto e le gambe devono fare un angolo perfetto di 90 gradi. Questo sarà il tuo punto di partenza: quando inspiri, abbassa lentamente la piattaforma fino a quando la parte superiore e la parte inferiore delle gambe fanno un angolo di 90 gradi. Spingendo principalmente con i talloni dei piedi e utilizzando i quadricipiti, tornare alla posizione di partenza durante l\'espirazione. Eseguire il movimento per la quantità raccomandata di ripetizioni e assicurarsi di bloccare i perni di sicurezza correttamente una volta fatto. Non desideri che la piattaforma ricada su di te a pieno carico. Attenzione: verificare sempre di fare in modo che quando si riattacca il peso, la piattaforma sia bloccata."</string>
+    <string name="ex_name_38">Hack Squat</string>
+    <string name="ex_desc_38">Posizionare la parte posteriore del busto contro lo schienale della macchina e collegare le spalle sotto le spalline fornite. Posizionare le gambe nella piattaforma utilizzando una larghezza delle spalle in presa di media con le dita un po\' impuntate. Suggerimento: tenere la testa alta in ogni momento e mantenere la schiena sul tappetino in ogni momento. Posizionare le braccia sul lato maniglie della macchina e disinnestare le barre di sicurezza (che avviene spostando le maniglie laterali da una posizione anteriore rivolta ad una posizione diagonale). Raddrizzare ora le gambe senza bloccare le ginocchia. Questa sarà la tua posizione di partenza. Nota: ai fini di questa discussione useremo la posizione media di cui sopra, che si rivolge allo sviluppo complessivo, ma è possibile scegliere una qualsiasi delle tre posizioni descritte nella sezione di posizionamento del piede. Iniziare ad abbassare lentamente l\'unità piegando le ginocchia quando si mantiene una postura eretta con la testa in alto (indietro sul pad in ogni momento). Proseguire fino a quando l\'angolo tra la coscia e i polpacci diventa leggermente inferiore a 90 gradi (che è il punto in cui le cosce sono sotto la parallela al pavimento). Inspirare mentre si esegue questa parte del movimento. Suggerimento: se l\'esercizio è stato eseguito correttamente, la parte anteriore del ginocchio dovrebbe fare una linea retta immaginaria con le dita dei piedi che è perpendicolare. Se le ginocchia hanno passato quella linea immaginaria (se hanno passato le dita dei piedi), allora si sta dando eccessivo stress al ginocchio e l\'esercizio è stato eseguito in modo non corretto. Inizia a sollevare l\'unità mentre espiri, spingendo sul pavimento principalmente con il tallone del piede come per raddrizzare di nuovo le gambe e tornare alla posizione di partenza . Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_39">Leg curl seduti</string>
+    <string name="ex_desc_39">Regolare la leva della macchina alla misura la tua altezza e sedersi sulla macchina con la schiena contro il pad di supporto posteriore. Posizionare la parte posteriore della gamba sopra la leva imbottita (a pochi centimetri sotto i polpacci) e fissare il pad contro le cosce, appena sopra le ginocchia. Afferrare poi le maniglie laterali sulla macchina quando punti le dita dei piedi dritto (o puoi anche utilizzare una qualsiasi delle altre due posizioni) e assicurarsi che le gambe siano completamente dritte proprio davanti a te. Questo sarà il tuo punto di partenza: mentre espiri, tirate la leva della macchina il più possibile alla parte posteriore delle cosce, flettendo le ginocchia. Mantenere il busto fermo in ogni momento. Tenere la posizione contratta per un secondo. Ritornare lentamente alla posizione di partenza quando inspiri. Eseguire il movimento per la quantità raccomandata di ripetizioni. Attenzione: non utilizzare mai tanto peso sull\'esercizio che inizi ad utilizzare oscillando e strappando, dato che si può rischiare di infortunarsi alla schiena inferiore e avere anche uno strappo al bicipite femorale.</string>
+    <string name="ex_name_40">Leg Extensions</string>
+    <string name="ex_desc_40">Per questo esercizio è necessario utilizzare una leg extension machine. Scegliere prima il tuo peso e sedersi sulla macchina con le gambe sotto il pad (piedi rivolti in avanti) e le mani che tengono le barre laterali. Questo sarà il tuo punto di partenza. Suggerimento: è necessario regolare il pad in modo che cada sulla parte superiore della gamba inferiore (appena sopra i piedi). Inoltre, assicurarsi che le gambe formino un angolo di 90 gradi tra la gamba inferiore e superiore. Se l\'angolo è minore di 90 gradi, allora ciò significa che il ginocchio è sulle dita dei piedi, che a sua volta crea un eccessivo stress all\'articolazione del ginocchio. Se la macchina è stata progettata in questo modo, o cerchi un\'altra macchina o semplicemente fai in modo che quando inizi l\'esecuzione dell\'esercizio smetti di scendere una volta arrivato all\'angolo di 90 gradi. Usando i quadricipiti, estendere le gambe al massimo durante l\'espirazione. Assicurarsi che il resto del corpo rimanga fermo sul sedile. Fare una pausa un secondo sulla posizione contratta. Abbassare lentamente il peso indietro alla posizione originale, mentre inspiri, assicurandoti di non andare oltre il limite di 90 gradi. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_41">Squat plie</string>
+    <string name="ex_desc_41">Tenere alcuni pesi alla base con entrambe le mani e stare dritti. Muovere le gambe in modo che siano più ampie rispetto alla larghezza delle spalle gli uni dagli altri con le ginocchia leggermente piegate. Le dita dei piedi devono essere rivolti verso fuori. Questa è la tua posizione di partenza. Nota: le braccia devono essere ferme durante l\'esecuzione dell\'esercizio. Piegare lentamente le ginocchia e abbassare le gambe fino a quando le cosce sono parallele al pavimento. Assicurati di inspirare dato che questa è la parte principale dell\'esercizio. Premere principalmente con il tallone del piede per portare il corpo alla posizione di partenza espirando. Eseguire il movimento per la quantità raccomandata di ripetizioni. Attenzione: non tenere la schiena dritta può causare lesioni ad essa.</string>
+    <string name="ex_name_42">Squat sumo con crunch laterale</string>
+    <string name="ex_desc_42">Puntare in alto con i piedi leggermente più ampi rispetto alla larghezza delle anche, le dita dei piedi e le ginocchia risultano circa a 45 gradi, le mani dietro la testa. Piegare le ginocchia e abbassarsi in un sumo squat (lasciando cadere le anche più in basso possibile senza lasciare che le ginocchia vadano in avanti o indietro). Mentre si spinge indietro alla posizione in piedi, sollevare il ginocchio destro in alto, verso il gomito destro . Passare il piede destro verso il basso e ripetere immediatamente il sumo squat e piegarsi a sinistra . Ripetere, alternando i lati ogni volta.</string>
+    <string name="ex_name_43">Squat laterale</string>
+    <string name="ex_desc_43">Iniziare in piedi con i piedi uniti. Fare uno squat a metà strada e fare un passo laterale a destra, per quanto è possibile sopportare. Portare la gamba da destra verso sinistra, tornando alla posizione di partenza. Fare un passo al lato diverso ogni volta.</string>
+    <string name="ex_name_44">Affondi con pesi</string>
+    <string name="ex_desc_44">Iniziare in piedi con la larghezza delle spalle a gambe divaricate e le mani sopra la testa raddrizzata sorreggendo il peso. Fare un passo in avanti con una gamba, flettendo le ginocchia per far abbassare i fianchi. Scendere fino a quando il ginocchio posteriore quasi tocca il suolo. La postura deve rimanere in posizione verticale e il ginocchio anteriore dovrebbe rimanere al di sopra del piede anteriore. Guidare il tallone del tuo piede principale ed estendere entrambe le ginocchia per sollevarti indietro. Avanzare con il piede posteriore, ripetendo l\'affondo sulla gamba opposta.</string>
+    <string name="ex_name_45">Affondi indietro con bilanciere con Knee-Up</string>
+    <string name="ex_desc_45">Stare in piedi con il busto in posizione verticale tenendo due manubri nelle tue mani lungo i fianchi. Questo sarà il tuo punto di partenza: fare un passo indietro con la gamba destra circa a 60 cm dal piede sinistro e abbassare la parte superiore del corpo verso il basso, mantenendo il busto in posizione verticale e mantenere l\'equilibrio. Inspirare quando scendi. Suggerimento: come negli altri esercizi, non permettere al ginocchio di andare avanti oltre le dita dei piedi quando arrivi giù, in modo da non mettere eccessivo stress sul ginocchio. Assicurarsi di mantenere il tuo stinco perpendicolare al terreno. Mantenere il busto eretto durante l\'affondo; i flessori dell\'anca sono importanti. Un lungo affondo sforza il grande gluteo, un breve affondo sforza il quadricipite. Spingere verso l\'alto e tornare alla posizione di partenza e mentre espiri sollevare il ginocchio destro mantenendo la schiena diritta. Suggerimento: utilizzare i piedi per spingere al fine di accentuare il quadricipite. Per concentrarsi sui glutei, premere con i talloni. Ora ripeti con la gamba opposta.</string>
+    <string name="ex_name_46">Affondo indietro con manubrio incrociato</string>
+    <string name="ex_desc_46">Per cominciare, impostare prima la barra su una griglia appena sotto il livello della spalla. Una volta scelta la giusta altezza e caricata la barra, passare sotto la barra e porla sul retro delle spalle (poco sotto il collo) attraverso di essa. Aggrappati alla barra con entrambe le braccia ai lati e sollevala dal rack prima spingendo con le gambe e, allo stesso tempo raddrizzando il busto. Allontanarsi dal rack e fare un passo con il piede destro indietro e verso sinistra e abbassarsi in un affondo così che il ginocchio sinistro è piegato a circa 90 gradi pur mantenendo il busto eretto e l\'equilibrio. Inspirare quando si scende. Nota: non lasciare che il ginocchio vada avanti oltre le dita dei piedi mentre arriva giù, in modo da non mettere eccessivo stress sul ginocchio. Utilizzando principalmente il tallone del piede, spingere verso l\'alto e tornare alla posizione di partenza durante l\'espirazione. Eseguire il movimento per la quantità raccomandata di ripetizioni e poi farlo con la gamba sinistra.</string>
+    <string name="ex_name_47">Sollevamento gamba da posizione laterale</string>
+    <string name="ex_desc_47">Sdraiarsi su un fianco con le gambe incrociate e la testa appoggiata sul braccio. Stringere il muscolo nella parte anteriore della parte superiore della coscia e sollevare quella gamba in aria. Mantenere la posizione per un conteggio, abbassare per toccare la gamba che sta sotto e sollevare di nuovo . È inoltre possibile utilizzare pesi alle caviglie o una striscia di resistenza.</string>
+    <string name="ex_name_48">Step-Up con sollevamento del ginocchio</string>
+    <string name="ex_desc_48">Stare in piedi di fronte a una panca di una altezza adeguata con i piedi uniti. Questo sarà il tuo punto di partenza: iniziare il movimento facendo un passo in alto, mettendo il piede sinistro sulla parte superiore della panca. Estendere attraverso l\'anca e il ginocchio della gamba anteriore a stare in piedi sulla scatola. Quando ti trovi sulla scatola con la gamba sinistra, flettere il ginocchio destro e l\'anca, portando il ginocchio il più in alto possibile. Invertire questo movimento per scendere dalla scatola e poi ripetere la sequenza con la gamba opposta.</string>
+    <string name="ex_name_49">Squat con manubrio</string>
+    <string name="ex_desc_49">Stare in piedi mantenendo un manubrio in ogni mano (palmi rivolti verso il lato delle gambe). Posizionare le gambe a larghezza della spalla con presa in posizione media con le dita un po\' impuntate. Tenere la testa alta in ogni momento, perché guardare in basso mette fuori equilibrio, e mantenere la schiena dritta. Questo sarà il tuo punto di partenza: iniziare ad abbassare lentamente il busto, piegando le ginocchia, per mantenere una postura eretta con la testa alta. Continuare verso il basso fino a raggiungere 90 gradi. Inspirare mentre si esegue questa parte del movimento. Suggerimento: se l\'esercizio è stato eseguito correttamente, la parte anteriore del ginocchio dovrebbe fare una linea retta immaginaria con le dita dei piedi che è perpendicolare. Se le ginocchia hanno passato quella linea immaginaria (se hanno passato le dita dei piedi), allora si sta dando eccessivo stress al ginocchio e l\'esercizio è stato eseguito in modo non corretto. Iniziare ad alzare la barra mentre espiri, spingendo sul pavimento con il tallone del piede soprattutto, quando raddrizzi di nuovo le gambe per tornare alla posizione di partenza. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_50">Stacchi a gambe tese con manubri</string>
+    <string name="ex_desc_50">Afferrare una barra con una presa alla marinara (palmi rivolti verso il basso). Potrebbero essere necessari un po\' di pad da polso se si utilizza una quantità significativa di peso. Stare in piedi con il busto dritto e le gambe distanziate utilizzando una presa a larghezza delle spalle o in posizione più stretta. Le ginocchia devono essere leggermente piegate. Questa è la tua posizione di partenza: mantenere le ginocchia ferme, abbassare il bilanciere fino a sopra la parte superiore dei piedi piegando le anche, mantenendo la schiena dritta. Continuare ad andare avanti come se si stesse andando a prendere qualcosa dal pavimento fino a sentire i muscoli posteriori della coscia tirare. Inspirare mentre si esegue questo movimento. Iniziare portando il busto in posizione eretta di nuovo, estendendo le anche fino a tornare alla posizione di partenza. Espirare mentre si esegue questo movimento. Eseguire il movimento per la quantità raccomandata di ripetizioni. Attenzione: questo non è un esercizio che è raccomandato per le persone con problemi alla schiena. Inoltre, ha bisogno di essere trattato con il massimo rispetto prestando particolare attenzione a non arrotondare la schiena in avanti, mentre sposti il busto verso il basso, la schiena deve essere sempre dritta. Infine, movimenti a strappi o troppo peso possono infortunare la schiena.</string>
+    <string name="ex_name_51">Stacchi sumo a gambe tese</string>
+    <string name="ex_desc_51">Inizia con una base in mano. I piedi devono essere molto ampi, vicino ai collari. Fare un bel respiro e quindi abbassare i fianchi, guardando in avanti con la testa e con il petto in su. Mantenere le ginocchia ferme, abbassare il bilanciere a sopra la parte superiore dei piedi piegando le anche, mantenendo la schiena dritta. Continuare a muoversi in avanti, come se si stesse andando a prendere qualcosa dal pavimento fino a sentire i muscoli posteriori della coscia tirare. Inspirare mentre si esegue questo movimento. Iniziare a portare il busto in posizione eretta di nuovo, estendendo le anche fino a tornare alla posizione di partenza. Espirare mentre si esegue questo movimento. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_52">Estensioni laterali con cavi ad una gamba</string>
+    <string name="ex_desc_52">Agganciare una cavigliera in pelle ad una puleggia a cavo basso e quindi fissare la cavigliera alla caviglia. Stare di fianco al pacco pesi ad una distanza di circa mezzo metro, afferrare il telaio in acciaio per il supporto. Mantenendo le ginocchia e le anche leggermente piegate e gli addominali stretti, contrarre i glutei per estendere lentamente la gamba di lato in alto e quando starai comodo, espira. Suggerimento: a piena estensione, stringere i glutei per un secondo al fine di ottenere una contrazione massima. Ora, portare lentamente la gamba che lavora in avanti, resistendo alla trazione del cavo fino a raggiungere la posizione di partenza. Eseguire il movimento per la quantità raccomandata di ripetizioni. Alternare le gambe e ripetere il movimento verso l\'altro lato. Variazioni: è possibile eseguire questo esercizio con le bande per esercizi.</string>
+    <string name="ex_name_53">Distensioni con manubri Arnold</string>
+    <string name="ex_desc_53">Sedersi su una panca per esercizi con supporto per la schiena e tenere due manubri di fronte a te a circa il livello superiore del petto con i palmi rivolti verso il corpo e i gomiti piegati. Suggerimento: le braccia devono essere accanto al tuo busto. La posizione di partenza dovrebbe apparire come la parte contratta di un manubri o: ora, per eseguire il movimento, sollevare i manubri mentre si ruota il palmo delle mani fino a quando non è rivolto in avanti. Continuare a sollevare i manubri fino a quando le braccia sono estese sopra di te nella posizione di braccio dritto. Espirare mentre si esegue questa parte del movimento. Dopo un secondo di pausa in alto, iniziare ad abbassare i manubri alla posizione originale ruotando i palmi delle mani verso di te. Suggerimento: il braccio sinistro ruoterà in modo antiorario mentre quello di destra in senso orario. Inspirare mentre si esegue questa parte del movimento. Eseguire il movimento per la quantità raccomandata di ripetizioni. Variazioni: è possibile eseguire l\'esercizio in piedi, ma non è raccomandato per le persone con problemi alla schiena.</string>
+    <string name="ex_name_54">Distensioni alternate</string>
+    <string name="ex_desc_54">Posizionare due manubri sulle spalle. Unire i manubri sulle spalle, estendendo le gambe e fianchi, quando tiri i manubri verso le spalle. Spingere uno direttamente in alto, estendendolo attraverso il gomito, girandolo con il palmo rivolto in avanti, mentre si tiene l\'altro manubrio fermo. Abbassare il manubrio spinto nella posizione di partenza e premere immediatamente con l\'altro braccio.</string>
+    <string name="ex_name_55">Alzate frontali in piedi con manubri</string>
+    <string name="ex_desc_55">Scegliere un paio di manubri e stare con il busto dritto e i manubri sulla parte anteriore della coscia a braccio lungo con il palmo della mano rivolto verso le cosce. Questo sarà il tuo punto di partenza: mantenendo il busto fermo (nessuna oscillazione), sollevare i manubri verso la parte anteriore con una leggera curva a gomito e i palmi delle mani sempre rivolti verso il basso. Continuare a salire fino a che le braccia sono leggermente al di sopra di voi paralleli al pavimento. Espirare mentre si esegue questa parte del movimento e fare una pausa per un secondo in alto. Quando inspiri, abbassa i manubri e torna lentamente alla posizione di partenza. Eseguire il movimento per la quantità raccomandata di ripetizioni. Variazioni: questo esercizio può essere eseguito anche alternando le mani, il che significa fare una ripetizione con il braccio destro, e poi una con il sinistro, poi di nuovo con il destro, ecc. Inoltre , è anche possibile utilizzare un bilanciere.</string>
+    <string name="ex_name_56">Alzate laterali ad un braccio con cavi</string>
+    <string name="ex_desc_56">Iniziare stando in piedi sul lato destro di una low pulley row. Usare la mano sinistra per incontrare il corpo e afferrare un solo manico attaccato alla low pulley con una presa prona (palmi rivolti verso il basso). Appoggiare il braccio di fronte a te. La mano destra deve prendere la macchina per un miglior supporto e equilibrio. Assicurarsi che la schiena sia eretta e i piedi alla larghezza delle spalle gli uni dagli altri. Questa è la posizione di partenza: iniziare a usare la mano sinistra e venire verso il corpo fino a quando non è all\'altezza della spalla mentre espirai. Sentire la contrazione nella parte superiore per un secondo e cominciare ad abbassare lentamente la maniglia fino alla posizione di partenza durante l\'inspirazione. Eseguire il movimento per la quantità raccomandata di ripetizioni. Alternare le braccia e ripetere l\'esercizio.</string>
+    <string name="ex_name_57">Alzate frontali ad un braccio in piedi ai cavi</string>
+    <string name="ex_desc_57">Il cable front raise è un ottimo esercizio per isolare i deltoidi anteriori. Prepararsi per l\'esercizio legando una corda ad low pulley machine e selezionando il peso che si desidera utilizzare. Stare in piedi di fronte alla macchina e afferrare la corda. Stare in piedi con gli occhi rivolti in avanti, tenendo la corda appena fuori dalle cosce. Questa è la posizione di partenza: per eseguirlo, sollevare lentamente la corda fino a circa all\'altezza delle spalle mantenendo le braccia diritte e il tuo corpo fisso. Fare una pausa, quindi abbassare lentamente la barra nella posizione di partenza. Non lasciare che il carico cada o la barra tocchi il tuo corpo.</string>
+    <string name="ex_name_58">Push-up tricipiti ad un braccio</string>
+    <string name="ex_desc_58">Sdraiarsi sul fianco destro, con le ginocchia piegate e le anche verticali. Avvolgere il braccio destro intorno alla spalla e posizionare la mano sinistra sul pavimento di fronte a te. Contrarre i tricipiti per spingere il corpo verso l\'alto e fuori dal pavimento, raddrizzando il braccio sinistro il più possibile. Abbassarsi di qualche centimetro e continuare a spingere su e giù prima di cambiare lato.</string>
+    <string name="ex_name_59">Estensioni tricipiti con manubrio in piedi a due braccia</string>
+    <string name="ex_desc_59">Per cominciare, stare in piedi con un manubrio tenuto con entrambe le mani. I piedi dovrebbero essere circa la larghezza delle spalle lontani gli uni dagli altri. Lentamente utilizzare entrambe le mani per afferrare il manubrio e sollevarlo sopra alla testa fino a quando le braccia sono completamente distese. La resistenza deve essere posta nel palmo delle tue mani con i pollici intorno. Il palmo delle mani deve essere rivolto verso il soffitto. Questo sarà il tuo punto di partenza: mantenere le braccia vicine alla testa con i gomiti perpendicolari al pavimento, abbassare la resistenza con un movimento semicircolare dietro la testa fino a quando gli avambracci toccano i bicipiti. Suggerimento: le braccia devono rimanere ferme e solo gli avambracci devono muoversi. Inspirare mentre si esegue questa operazione . Tornare alla posizione di partenza utilizzando i tricipiti per sollevare il manubrio. Espirare mentre si esegue questa operazione. Eseguire il movimento per la quantità raccomandata di ripetizioni.</string>
+    <string name="ex_name_60">Piegamenti tra panche con una gamba alzata</string>
+    <string name="ex_desc_60">Iniziare con i palmi delle mani verso il basso su una panca. Una gamba estesa in fuori e una gamba piantata sul pavimento. Più il piede è vicino alla panca, più facile sarà l’esercizio. Risalire l\'intensità posizionando il piede fuori fino a fine corsa o mantenerlo facilmente mettendo il piede così vicino alla panca. Piegare i gomiti e vai verso il basso, per quanto è possibile, senza che i glutei tocchino il pavimento. Raddrizzare le braccia. Cambiare gamba e ripetere.</string>
+    <string name="ex_name_61">Estensioni tricipiti all\'indietro con manubrio in piedi e busto a 45 gradi ad un braccio</string>
+    <string name="ex_desc_61">Con un manubrio in una mano e il palmo rivolto verso il busto, piegare leggermente le ginocchia e portare il busto in avanti, piegando in vita, mantenendo la schiena dritta fino a quando è quasi parallela al pavimento. Assicurarsi di mantenere la testa alta. La parte superiore del braccio deve essere vicina al busto e parallela al pavimento, mentre l\'avambraccio è rivolto verso il pavimento, quando la mano tiene il peso. Suggerimento: ci dovrebbe essere un angolo di 90 gradi tra l\'avambraccio e la parte superiore del braccio. Questa è la tua posizione di partenza: mantenere le braccia ferme, utilizzare i tricipiti per sollevare i pesi durante l\'espirazione fino a che gli avambracci sono paralleli al pavimento e tutto il braccio è esteso. Come molti altri esercizi per il braccio, solo l\'avambraccio si sposta. Dopo una seconda contrazione in alto, abbassare lentamente il manubrio indietro alla posizione di partenza durante l\'inspirazione. Eseguire il movimento per la quantità raccomandata di ripetizioni. Cambiare braccio e ripetere l\'esercizio.</string>
+    <string name="ex_name_62">Estensioni tricipiti in piedi ai cavi con un braccio</string>
+    <string name="ex_desc_62">Con la mano destra , afferrare un solo manico attaccato alla puleggia a cavo alto usando una presa supina (underhand, con i palmi rivolti verso l\'alto). Dovresti essere in piedi di fronte al pacco pesi. Tirare ora la maniglia verso il basso in modo che la parte superiore del braccio e del gomito sia bloccata sul lato del corpo. Il braccio e l\'avambraccio devono formare un angolo acuto (meno di 90 gradi). Puoi mantenere l\'altro braccio lungo la vita e avere una gamba di fronte a te e l\'altra in posizione posteriore per un migliore equilibrio. Questo sarà il tuo punto di partenza: quando contrai il tricipite, spostare la singola maniglia verso il basso lungo il fianco fino a quando il braccio è dritto. Espirare mentre si esegue questo movimento . Suggerimento: solo gli avambracci devono muoversi. La parte superiore delle braccia deve rimanere ferma in ogni momento. Spingi con il tricipite e tieni premuto per un secondo in questa posizione contratta. Riportare lentamente la maniglia alla posizione di partenza. Eseguire il movimento per la quantità raccomandata di ripetizioni e quindi eseguire lo stesso movimento con l\'altro braccio. Variazioni: è possibile utilizzare le bande per esercizi per eseguire questo esercizio.</string>
+    <string name="ex_name_63">Spinte tricipiti ai cavi in piedi presa prona</string>
+    <string name="ex_desc_63">Fissare una barra diritta o angolata ad una puleggia alta e afferrare con una presa alla marinara (palmi rivolti verso il basso) alla larghezza delle spalle. Stare in piedi con il busto dritto e una piccola inclinazione in avanti, portare le braccia vicine al corpo e perpendicolari al pavimento. Gli avambracci devono essere rivolti verso la puleggia mentre tengono la barra. Questa è la tua posizione di partenza: utilizzando il tricipite, portare la barra verso il basso fino a toccare la parte anteriore della coscia e fino a che le braccia sono completamente distese perpendicolarmente al pavimento. Le braccia devono sempre rimanere ferme accanto al tuo busto e solo gli avambracci devono muoversi. Espirare mentre si esegue questo movimento. Dopo un secondo in posizione contratta, portare la barra lentamente fino al punto di partenza. Inspirare mentre si esegue questa operazione. Eseguire il movimento per la quantità raccomandata di ripetizioni. Varianti: ci sono molte varianti di questo movimento. Per esempio, puoi utilizzare un attacco a barra EZ così come una barra angolata a V che permette al pollice di stare in posizione superiore al mignolo. Inoltre, è possibile collegare una corda alla puleggia, così come usare una presa inversa sulla barra dell’esercizio.</string>
+
+    <string name="ex_name_5063">Squat A Gambe Divaricate</string>
+    <string name="ex_desc_5063">Gruppo di muscoli. Quadricipiti \n\nFase 1. Scendi in uno squat basso, come se fossi un ricevitore di baseball. \n\nFase 2. Salta su e giù portando i gomiti verso il soffitto. \n\nFase 3. Salta in alto e unisci di nuovo le gambe, portando le braccia contemporaneamente verso il basso.</string>
+
+    <string name="ex_name_5064">Plank</string>
+    <string name="ex_desc_5064">Muscolo. Retto dell\'addome \n\nFase 1. Stendi le gambe in posizione diritta e sollevati sulle dita dei piedi. Tenendo la schiena dritta, posiziona gli avambracci sul pavimento. \n\nFase 2. I tuoi avambracci devono essere perpendicolari alla parte superiore delle braccia. Tieni la posizione più che puoi.</string>
+
+    <string name="ex_name_5065">Estensione Del Dorso</string>
+    <string name="ex_desc_5065">Muscolo. Zona lombare \n\nFase 1. Stenditi con la faccia rivolta verso il pavimento. Stendi le braccia davanti a te. \n\nFase 2. Solleva le gambe e il busto verso il soffitto e allungati quanto più possibile. Tieni la posizione per un secondo. Ritorna in posizione iniziale.</string>
+
+    <string name="ex_name_5066">Estensione Del Dorso 2</string>
+    <string name="ex_desc_5066">Gruppo di muscoli. Zona lombare \n\nFase 1. Stenditi sul pavimento con le braccia accanto ai fianchi e i palmi rivolti verso il basso. Attiva i muscoli centrali portando i tuoi addominali verso la colonna vertebrale e comprimendo i glutei. \n\nFase 2. Espira lentamente e solleva il petto dal pavimento tenendo le braccia verso l\'alto e muovendole indietro verso i fianchi. Ruota i pollici verso il soffitto durante il movimento. \n\nFase 3. Fermati in alto durante il movimento per due secondi, quindi ritorna alla posizione iniziale.</string>
+
+    <string name="ex_name_5067">Tocco Delle Gambe</string>
+    <string name="ex_desc_5067">Muscolo. Retto dell\'addome \n\nFase 1. Sdraiati sul pavimento, alza le gambe fino a quando una gamba non sarà perpendicolare al pavimento. Stendi completamente le braccia davanti a te. \n\nFase 2. Tocca le dita dei piedi con le mani. Tieni la posizione per un secondo e poi ritorna alla posizione iniziale.</string>
+
+    <string name="ex_name_5068">Crunch Delle Gambe</string>
+    <string name="ex_desc_5068">Muscolo. Retto dell\'addome \n\nFase 1. Posizionati con i piedi ad un’ampiezza pari a quella delle spalle. \n\nFase 2. Solleva la gamba sinistra il più in alto possibile e tocca il piede sinistro con entrambe le mani. \n\nFase 3. Ritorna alla posizione iniziale e ripeti sul lato opposto. \n\nFase 4. Continua alternando le gambe, ad un ritmo veloce, fino a che la serie non sarà completata.</string>
+
+    <string name="ex_name_5069">Corsa Inferiore</string>
+    <string name="ex_desc_5069">Muscolo. Retto dell\'addome \n\nFase 1. Mettiti in una posizione di pushup con le mani sotto le spalle e il tuo corpo che forma una linea retta che parte dalla testa e arriva ai talloni. \n\nFase 2. Solleva il piede destro dal pavimento, portando il ginocchio destro verso il petto. Tocca il pavimento con il piede destro e torna alla posizione di partenza. \n\nFase 3. Alterna le gambe ad ogni ripetizione.</string>
+
+    <string name="ex_name_5070">Crunch</string>
+    <string name="ex_desc_5070">MUSCOLO. Retto dell\'addome \n\nFase 1. Sdraiati con le ginocchia piegate e la pianta dei piedi attaccata al pavimento. Incrocia le braccia sul petto o tieni le mani dietro le orecchie. \n\nFase 2. Usa gli addominali per sollevare la testa e il tronco superiore, mantenendo saldamente la schiena premuta contro il pavimento. \n\nFase 3. Fermati con le scapole ad un paio di centimetri dal pavimento, poi ritorna lentamente in posizione di partenza usando un movimento controllato.</string>
+
+    <string name="ex_name_5071">Tirare In Dentro - In Fuori</string>
+    <string name="ex_desc_5071">Muscolo. Retto dell\'addome \n\nFase 1. Sdraiati sul pavimento, posiziona entrambe le mani sotto i fianchi, stendi le gambe e alzale leggermente. \n\nFase 2. Piega le gambe verso il torace e trattieni per un secondo. Ritorna alla posizione di partenza.</string>
+
+    <string name="ex_name_5072">Sollevamento Dei Glutei</string>
+    <string name="ex_desc_5072">Muscolo. Retto dell\'addome \n\nFase 1. Sdraiati sulla schiena con le mani ai lati e le gambe puntate in l\'alto verso il soffitto, perpendicolari al tronco. \n\nFase 2. Tira dentro l\'ombelico e contrai i glutei mentre sollevi i fianchi a pochi centimetri dal pavimento. Poi abbassa i fianchi.</string>
+
+    <string name="ex_name_5073">Crunch Con Torsione</string>
+    <string name="ex_desc_5073">Muscolo. Retto dell\'addome \n\nFase 1. Stenditi sul pavimento, piega le ginocchia e mantieni i piedi ad una distanza tra i 45 e i 60 cm. Le braccia devono stare distese al tuo fianco. \n\nFase 2. Porta il busto in avanti e in su di circa 7-10 cm sul lato destro e tocca il tallone destro mentre mantieni la contrazione per un secondo. Espira durante l\'esecuzione di questo movimento \n\nFase 3. Ora, mentre inspiri, torna lentamente alla posizione di partenza. \n\nFase 4. Ora porta il tronco in avanti e in su di circa 7-10 cm sul lato sinistro e tocca il tallone sinistro mentre mantieni la contrazione per un secondo. Espira durante l\'esecuzione di questo movimento e poi, mentre inspiri, torna alla posizione di partenza. Ora che hai toccato entrambi i talloni, hai completato una ripetizione. Continua alternando i lati.</string>
+
+    <string name="ex_name_5074">Russian Twist</string>
+    <string name="ex_desc_5074">Muscoli. Obliqui \n\nFase 1. Siediti sul pavimento con a fianco un kettlebell o una palla medica. Unisci le gambe e piega le ginocchia, di circa 90 gradi. Tieni il petto sollevato e la schiena dritta. \n\nFase 2. Prendi la palla medica o il kettlebell tenendolo a testa in giù dalla maniglia per un migliore controllo. Dovrebbe trovarsi all\'altezza del torace. \n\nFase 3. Ruota leggermente il busto, facendo attenzione a non ruotare la schiena. Solleva i piedi dal pavimento ma tieni le ginocchia e le gambe piegate.</string>
+
+    <string name="ex_name_5075">Crunch A Bicicletta</string>
+    <string name="ex_desc_5075">Muscoli. Obliqui \n\nFase 1. Sdraiati sulla schiena, solleva le spalle dalla tappetino e alza le gambe. \n\nFase 2. Avvicina un ginocchio e un gomito opposto eseguendo il crunch su un lato e distendi completamente l\'altra gamba. \n\nFase 3. Ritorna alla posizione di partenza e poi esegui il crunch sul lato opposto. \n\nFase 4. Ripeti fino al completamento della serie.</string>
+
+    <string name="ex_name_5076">Granchio Ballerino</string>
+    <string name="ex_desc_5076">Muscolo. Retto dell\'addome \n\nFase 1. Sdraiati sul pavimento. Posiziona le mani e le gambe sul pavimento. \n\nFase 2. Solleva il busto verso l\'alto. Tocca rapidamente la gamba sinistra con la mano destra, cambia lato. Aumenta la velocità, fallo il più velocemente possibile.</string>
+
+    <string name="ex_name_5081">Kickback Per Glutei 2</string>
+    <string name="ex_desc_5081">Muscolo. Glutei \n\nFase 1. Metti le mani e le ginocchia su un materassino o sul pavimento. La schiena dovrebbe essere parallela al pavimento e sollevata, come mostrato in figura. \n\nFase 2. In un movimento controllato, solleva la gamba fino a quando i polpacci non saranno in linea con la schiena mantenendo un angolo di 90 gradi. Assicurati di contrarre il gluteo quando la gamba è completamente distesa dietro di te. Alla fine del movimento la gamba in su deve essere parallela al pavimento mentre il polpaccio deve essere perpendicolare ad esso. Ritorna alla posizione di partenza e ripeti con la gamba opposta.</string>
+
+    <string name="ex_name_5082">GLUTEI CALCI LATERALI</string>
+    <string name="ex_desc_5082">Gruppo di muscoli. Glutei \n\nFase 1. Comincia posizionando le mani e le ginocchia, come mostrato. Le ginocchia devono essere sotto i fianchi e i polsi direttamente sotto le spalle. \n\nFase 2. Mantieni la schiena dritta mentre sollevi un ginocchio dal pavimento. Mantieni il ginocchio piegato mentre lo sollevi verso l\'esterno. \n\nFase 3. Mantieni brevemente questa posizione, quindi abbassa lentamente il ginocchio verso il pavimento. Fermati e ripeti.</string>
+
+    <string name="ex_name_5083">Squat Con Calcio Laterale</string>
+    <string name="ex_desc_5083">Gruppo di muscoli. Glutei \n\nFase 1. Inizia in posizione di squat con i fianchi indietro e le gambe della stessa ampiezza delle spalle. \n\nFase 2. Quando ti alzi, passa il peso alla gamba destra e solleva la gamba sinistra verso il lato. \n\nFase 3. Ritorna alla posizione di squat e ripeti con la gamba destra.</string>
+
+    <string name="ex_name_5084">Affondo Inverso</string>
+    <string name="ex_desc_5084">Muscolo. Glutei \n\nFase 1. Con i piedi sono alla stessa ampiezza delle spalle, le punte sono rivolte in avanti. \n\nFase 2. Torna indietro per quanto possibile con la tua gamba dominante e scendi fino a quando quel ginocchio non avrà toccato il pavimento, mantenendo il busto il più dritto possibile. \n\nFase 3. Spingi dal tallone per tornare alla posizione di partenza, quindi torna immediatamente indietro con quella gamba. Questa è una ripetizione.</string>
+
+    <string name="ex_name_5085">Affondo All\'indietro</string>
+    <string name="ex_desc_5085">Muscolo. Quadricipiti \n\nFase 1. Stai dritto con i piedi alla stessa ampiezza delle spalle, con le dita dei piedi che puntano in avanti. \n\nFase 2. Fai un affondo all’indietro, lasciando che i fianchi e le ginocchia si flettano, abbassando il corpo. Tenendo a contatto la gamba posteriore solo attraverso l\'avampiede, scendi finché il ginocchio quasi non avrà toccato il pavimento. \n\nFase 3. Spingi con il piede piegato nella posizione di partenza e ripeti l\'esercizio alternando le gambe.</string>
+
+    <string name="ex_name_5086">Plank Toccando Le Gambe</string>
+    <string name="ex_desc_5086">Muscolo. Zona lombare \n\nFase 1. Inizia in posizione di plank basso con il corpo che forma una linea retta, i gomiti piegati e sotto le tue spalle e i piedi della ampiezza dei fianchi. \n\nFase 2. Solleva la gamba sinistra fino a formare un angolo di 45 gradi, quindi abbassa il piede sull\'altra caviglia. \n\nFase 3. Torna alla posizione di partenza e ripeti con l\'altra gamba.</string>
+
+    <string name="ex_name_5087">Estensione Dei Fianchi Da Sdraiato</string>
+    <string name="ex_desc_5087">Muscolo. Glutei \n\nFase 1. Stenditi sul pavimento e posiziona i talloni sul pavimento, tieni le ginocchia leggermente piegate e le braccia ai lati. \n\nFase 2. Spingendo con i glutei e i polpacci, punta i talloni e solleva il bacino fino a quando il tuo corpo non avrà formato una rampa. Fai una pausa e ritorna lentamente alla posizione iniziale.</string>
+
+    <string name="ex_name_5088">Estensione Dei Fianchi Da Sdraiato In Posizione Della Sedia</string>
+    <string name="ex_desc_5088">Muscolo. Glutei \n\nFase 1. Sdraiati sulla sedia con la schiena e posiziona i talloni sul pavimento, tieni le ginocchia leggermente piegate e le braccia ai lati. \n\nFase 2. Spingendo con i glutei e le ginocchia, scava con i talloni e solleva il bacino fino a quando il tuo corpo forma una rampa. Fai una pausa e ritorna lentamente alla posizione iniziale.</string>
+
+    <string name="ex_name_5089">Split Squat Bulgaro</string>
+    <string name="ex_desc_5089">MUSCOLO. Quadricipiti \n\nFase 1. Metti un piede sul pavimento, a circa un metro di fronte a una sedia e bilancia l\'altro piede su una sedia dietro di te. Posiziona le mani davanti al petto. \n\nFase 2. Usa il piede anteriore per tenere l\'equilibrio mentre pieghi entrambe le ginocchia per abbassare il corpo fino a quando il ginocchio posteriore è a pochi centimetri dal pavimento e la gamba anteriore è piegata a 90 gradi. Il resto del tuo corpo deve formare una linea retta. Ritorna in posizione di partenza e cambia gamba.</string>
+
+    <string name="ex_name_5090">Step Up</string>
+    <string name="ex_desc_5090">Muscolo. Glutei \n\nFase 1. Mettiti vicino alla panca per gli esercizi. Sali con il piede destro sulla panchina mantenendo il piede sinistro sul pavimento. \n\nFase 2. Alza il ginocchio sinistro davanti a te. \n\nFase 3. Scendi con la gamba sinistra. Ripeti l\'esercizio con l\'altra gamba. Continua alternando i lati.</string>
+
+    <string name="ex_name_5091">Kickback Su Panca</string>
+    <string name="ex_desc_5091">Muscolo. Glutei \n\nFase 1. Posiziona le mani e le ginocchia su una panchina. La schiena deve essere parallela al suolo e sollevata, come mostrato. \n\nFase 2. Con un movimento controllato, spingi uno dei piedi all\'indietro e verso l\'alto come se stessi calciando il soffitto dietro di te. Assicurati di contrarre il gluteo, quando la gamba è completamente estesa dietro di te. Ritorna alla posizione di partenza e ripeti con la gamba opposta.</string>
+
+    <string name="ex_name_5092">Kick Per Glutei</string>
+    <string name="ex_desc_5092">Muscolo. Quadricipiti \n\nFase 1. Posizionati in piedi e porta un tallone dal pavimento verso i glutei, mettendo le braccia davanti al petto. \n\nFase 2. Successivamente, passa all\'altro lato.</string>
+
+    <string name="ex_name_5093">Squat Con Kickback</string>
+    <string name="ex_desc_5093">Gruppo di muscoli. Glutei \n\nFase 1. Comincia con i piedi posizionati ad una ampiezza leggermente superiore a quella delle spalle e vai in posizione di squat. \n\nFase 2. Alzandoti, trasferisci il tuo peso su una gamba e calcia indietro con la gamba opposta. \n\nFase 3. Ritorna alla posizione iniziale e ripeti dall\'altro lato.</string>
+
+    <string name="ex_name_5095">Push Up Con Tocco</string>
+    <string name="ex_desc_5095">Muscolo. Pettorali \n\nFase 1. Sdraiati con le mani sul pavimento. Posiziona le mani sotto le spalle; la distanza tra le mani dovrebbe essere inferiore rispetto all’ampiezza delle spalle. Sollevati con le braccia in modo che solo le mani e le dita dei piedi siano sul pavimento. Mantieni la schiena dritta, con le mani che puntano leggermente verso l\'esterno. \n\nFase 2. Abbassati finché il petto non si trova a qualche centimetro dal pavimento piegando i gomiti. I gomiti dovrebbero piegarsi verso i piedi.</string>
+
+    <string name="ex_name_5096">Distensione A T</string>
+    <string name="ex_desc_5096">Muscolo. Pettorale \n\nFase 1. Inizia nella posizione classica di spinta, ma mentre ti stai spingendo verso l\'alto, ruota il corpo in modo tale che il braccio destro si alzi e si distenda verso l\'alto, come illustrato. Le braccia e il tronco dovrebbero formare una T. \n\nFase 2. Ritorna alla posizione di partenza, abbassati, sollevati e ruota fino a quando la mano sinistra non punterà verso il soffitto.</string>
+
+    <string name="ex_name_5115">Push Up</string>
+    <string name="ex_desc_5115">Muscolo. Pettorali \n\nFase 1. Con le gambe distese, posiziona le mani sotto le spalle, ad una ampiezza leggermente maggiore di quella delle spalle. \n\nFase 2. Inizia a piegare i gomiti e abbassa il torace fino a quando non sarà appena sopra il pavimento. \n\nFase 3. Ritorna alla posizione di partenza. Una spinta di 1 secondo, una pausa di 1 secondo: un totale di 2 secondi è un tempo perfetto. \n\nFase 4. Ripeti.</string>
+
+    <string name="ex_name_5116">Piegamenti Con I Tricipiti</string>
+    <string name="ex_desc_5116">Muscolo. Tricipiti \n\nFase 1. Posiziona le mani dietro di te su una sedia, in modo che le dita siano puntate in avanti. \n\nFase 2. Stendi le gambe e inizia a piegare i gomiti. \n\nFase 3. Abbassati finché le braccia non si trovano ad un angolo di 90 gradi. \n\nFase 4. Sollevati di nuovo in modo che le braccia siano distese e ripeti l\'esercizio.</string>
+
+    <string name="ex_name_5117">Inchworm</string>
+    <string name="ex_desc_5117">Gruppo di muscoli. Quadricipiti \n\nFase 1. Posizionati con i piedi ad una ampiezza pari a quella delle spalle, piegati fino a quando la punta delle dita non toccano il pavimento. \n\nFase 2. Fai camminare le mani, per quanto possibile, mantenendo le gambe dritte e fermati. Cammina indietro fino alla posizione iniziale e ripeti finché la serie non sarà completata.</string>
+
+    <string name="ex_name_5097">Posizione Della Sedia</string>
+    <string name="ex_desc_5097">Muscoli. Quadricipiti \n\nFase 1. Inizia con la posizione della montagna e, inspirando, porta su le braccia, con i palmi rivolti l\'una verso l\'altro. \n\nFase 2. Espirando, piega le ginocchia e siediti. \n\nFase 3. Rimani in questa posizione dai 30 secondi ad 1 minuto.</string>
+
+    <string name="ex_name_5098">Squats</string>
+    <string name="ex_desc_5098">Muscolo. Glutei \n\nFase 1. Stai con i piedi alla stessa ampiezza delle anche. \n\nFase 2. Abbassa i fianchi fino a che le cosce non saranno parallele al pavimento. Spingi indietro fino in fondo, fermati, quindi torna in parallelo. \n\nFase 3. Fermati nuovamente, quindi ritorna alla posizione iniziale.</string>
+
+    <string name="ex_name_5099">Squat Con Salto Di 180</string>
+    <string name="ex_desc_5099">Gruppo di muscoli. Quadricipiti \n\nFase 1. Posizionati con i piedi ad una ampiezza leggermente maggiore di quella delle spalle, con le dita dei piedi rivolti leggermente all’esterno e siediti. \n\nFase 2. Spingi con i talloni per saltare, ruotando a sinistra di 180 gradi. \n\nFase 3. Atterra sulle dita dei piedi con le ginocchia leggermente piegate e vai in squat. \n\nFase 4. Salta rapidamente in alto, ruota a destra e torna nella posizione di squat. Ripeti finché la serie non sarà completata.</string>
+
+    <string name="ex_name_5100">Sumo Squat</string>
+    <string name="ex_desc_5100">Muscolo. Quadricipiti \n\nFase 1. Posizionati con i piedi ampiamente lontani tra loro e con le punte puntate verso i lati. \n\nFase 2. Abbassati piegando le ginocchia e spingendo indietro i fianchi. \n\nFase 3. Una volta che le cosce sono parallele al pavimento, torna indietro e ripeti.</string>
+
+    <string name="ex_name_5101">Affondo Con Salto</string>
+    <string name="ex_desc_5101">Gruppo di muscoli. Glutei \n\nFase 1. Fai un grande passo indietro e abbassa i fianchi, in modo che il ginocchio posteriore sia appena sopra il pavimento e la coscia anteriore sia parallela al pavimento. \n\nFase 2. Salta in alto e inverti la posizione delle gambe. \n\nFase 3. Salta ancora e ritorna alla posizione di partenza. \n\nFase 4. Ripeti l\'esercizio finché la serie non sarà completata.</string>
+
+    <string name="ex_name_5102">Flessioni Con Squat</string>
+    <string name="ex_desc_5102">Gruppo di muscoli. Deltoidi \n\nFase 1. Con i manubri all\'altezza delle spalle, siediti sui talloni e abbassati in uno squat. \n\nFase 2. Premi i talloni sul pavimento e spingi i fianchi in avanti, spingendo i manubri sulle spalle mentre sali.</string>
+
+    <string name="ex_name_5103">Burpee</string>
+    <string name="ex_desc_5103">Gruppo di muscoli. Quadricipiti \n\nFase 1. Stai dritto con i piedi alla stessa ampiezza delle spalle. \n\nFase 2. Vai in squat e metti le mani davanti ai piedi. \n\nFase 3. Torna indietro fino a quando le gambe sono completamente distese e il tuo corpo è in posizione di plank. \n\nFase 4. Fai un pushup, salta in avanti e poi spingi i talloni per tornare alla posizione di partenza. \n\nFase 5. Ripeti finché la serie non è completa.</string>
+
+    <string name="ex_name_5104">Sumo Squat Con Manubri</string>
+    <string name="ex_desc_5104">Gruppo di muscoli. Glutei \n\nFase 1. Con i piedi a circa due volte l’ampiezza delle spalle, punta le dita verso l\'esterno e tieni un manubrio con entrambe le mani. \n\nFase 2. Vai in squat e porta il manubrio tra le gambe. \n\nFase 3. Rimani in piedi mantenendo il manubrio con le mani nella stessa posizione. \n\nFase 4. Ritorna alla posizione di squat e ripeti per tutta la durata della serie.</string>
+
+    <string name="ex_name_5105">Plank Di Lato Con Sollevamento Laterale Del Manubrio</string>
+    <string name="ex_desc_5105">Gruppo di muscoli. Obliqui \n\nFase 1. Mettiti in posizione di plank laterale modificata, con la parte superiore della gamba distesa e la parte inferiore piegata indietro con il ginocchio sul tappetino. \n\nFase 2. Solleva la gamba superiore il più in alto possibile, premendo contemporaneamente il braccio e poi abbassali. \n\nFase 3. Ripeti e poi cambia lato.</string>
+
+    <string name="ex_name_5106">Saltelli</string>
+    <string name="ex_desc_5106">Gruppo di muscoli. Quadricipiti \n\nFase. 1 Stai dritto con i piedi uniti e le mani ai lati. \n\nFase 2. Salta, divarica i piedi e porta entrambe le mani sulla testa. \n\nFase 3. Salta ancora e ritorna alla posizione di partenza. \n\nFase 4. Ripeti finché la serie non è completa.</string>
+
+    <string name="ex_name_5107">Corsa Con Ginocchia Alte</string>
+    <string name="ex_desc_5107">Gruppo di muscoli. Quadricipiti \n\nFase 1. Posizionati con i piedi alla stessa ampiezza di quella delle spalle. Guarda avanti e apri il petto. \n\nFase 2.  Porta le ginocchia fino al livello della vita e poi atterra lentamente sulla punta dei piedi. \n\nFase 3.  Ripeti finché la serie non è completa.</string>
+
+    <string name="ex_name_5108">Corsa Sul Posto Con Le Braccia Sollevate</string>
+    <string name="ex_desc_5108">Muscolo. Quadricipiti \n\nFase 1. Posizionati in piedi con le gambe largamente divise l\'una dall\'altra, con il tallone di dietro sollevato e le braccia stese della larghezza dell\'anca. \n\nFase 2. Salta alternando le gambe in avanti e indietro, alzando le mani in su. \n\nFase 3. Continua a correre sul posto.</string>
+
+    <string name="ex_name_5109">Uomo Che Corre</string>
+    <string name="ex_desc_5109">Muscolo. Quadricipiti \n\nFase 1. Posizionati con i piedi alla stessa ampiezza delle spalle e guarda in avanti, aprendo il petto. \n\nFase 2. Inizia a sollevare le ginocchia, e lentamente atterra sulle punte dei piedi. \n\nFase 3. Ripeti finché la serie non è completa.</string>
+
+    <string name="ex_name_5110">Salto Da Una Parte All\'altra</string>
+    <string name="ex_desc_5110">Muscolo. Polpacci \n\nFase 1. Posizionati in piedi con le mani ai fianchi e le gambe della larghezza dell\'anca. \n\nFase 2. Salta con entrambi i piedi a destra e poi a sinistra, in una mossa rapida e ripetuta. \n\nFase 3. Ripeti finché la serie non è completa.</string>
+
+    <string name="ex_name_5111">Corda Veloce</string>
+    <string name="ex_desc_5111">Muscolo. Polpacci \n\nFase 1. Metti le mani a circa l\'altezza del salto e con gomiti leggermente piegati, mantieni le braccia vicino ai fianchi. \n\nFase 2. Ruota i polsi per simulare la corda che gira e salta. \n\nFase 3. Salta con entrambi i piedi contemporaneamente e atterra sulla pianta dei piedi.</string>
+
+    <string name="ex_name_5112">Salto Incrociato</string>
+    <string name="ex_desc_5112">Muscolo. Polpacci \n\nFase 1. Posizionati con i piedi alla stessa larghezza delle spalle e le braccia verso l\'alto e distendile verso i lati. \n\nFase 2. Salta e incrocia la gamba sinistra davanti alla destra e il braccio sinistro sul destro. \n\nFase 3. Salta di nuovo e torna alla posizione di partenza. \n\nFase 4. Ripeti e inverti la posizione delle braccia e delle gambe.</string>
+
+    <string name="ex_name_5113">Affondo Spalle</string>
+    <string name="ex_desc_5113">Muscolo. Quadricipiti \n\nFase 1. Posizionati con i piedi alla stessa larghezza dei fianchi e tieni un manubrio in ogni mano. Posiziona i manubri all\'altezza della spalla. \n\nFase 2. Fai un passo in avanti con la gamba sinistra e fletti le ginocchia fino a quando il ginocchio posteriore non sarà appena sopra il pavimento, spingi i manubri in alto. \n\nFase 3. Ripeti questo movimento per tutta la durata della serie e poi cambia gamba.</string>
+
+    <string name="ex_name_5114">Presa Del Manubrio Con Un Solo Braccio</string>
+    <string name="ex_desc_5114">Muscolo. Deltoidi \n\nFase 1. Afferra un manubrio con la mano destra, piega le ginocchia, spingi i fianchi indietro e prendi il manubrio tra i piedi. \n\nFase 2. Solleva il manubrio distendendo i fianchi e le ginocchia e, non appena il manubrio raggiunge la spalla, ruota la mano verso la parte anteriore e colpisci verso l\'alto. \n\nFase 3. Abbassa il manubrio e torna alla posizione iniziale. \n\nFase 4. Ripeti e poi cambia lato.</string>
+
+    <string name="ex_name_5077">Kickback In Linea Con Manubrio</string>
+    <string name="ex_desc_5077">Muscolo. Tricipiti braccio \n\nFase 1. Prendi un set di manubri, porta il busto in avanti e piega leggermente le ginocchia. \n\nFase 2. Porta i gomiti verso l\'alto, in modo gli avambracci siano paralleli al pavimento e calcia indietro finché le braccia non si distendono completamente. \n\nFase 3. Abbassa lentamente i pesi nella posizione di partenza. \n\nFase 4. Ripeti.</string>
+
+    <string name="ex_name_5078">Good Morning</string>
+    <string name="ex_desc_5078">Muscolo. Zona lombare \n\nFase 1. Posizionati con i piedi alla stessa ampiezza delle spalle. Posiziona il bilanciere dietro le spalle. Tieni il bilanciere sopra la testa con l\'impugnatura. La distanza fra le mani deve essere più ampia della larghezza delle spalle. Adatta la posizione dei piedi affinché puntino leggermente verso l\'esterno. \n\nFase 2. Tieni la schiena dritta e piega il busto fino a quando non è parallelo al suolo. Trattieni per un secondo. Ritorna alla posizione iniziale.</string>
+
+    <string name="ex_name_5079">Rematore Ad Un Braccio Con Manubrio 2</string>
+    <string name="ex_desc_5079">Muscolo. Tricipiti del braccio \n\nFase 1. Usa la tua mano non dominante per tenere un manubrio, mettendo la mano e il ginocchio dominanti su una panca, come illustrato. \n\nFase 2. Mantieni la schiena diritta mentre lasci il manubrio sul tuo fianco in modo che il tuo braccio si allinei proprio davanti alla tua spalla. \n\nFase 3. Spingi il manubrio verso l\'alto e indietro verso il fianco mantenendo il tuo gomito vicino al corpo. Concentrati sull\'utilizzo dei muscoli della schiena in questo movimento. Fermati e ritorna lentamente alla posizione iniziale.</string>
+
+    <string name="ex_name_5080">Sollevamento Pesi</string>
+    <string name="ex_desc_5080">Muscolo. Glutei \n\nFase 1. Posizionati con i piedi della stessa ampiezza delle spalle e tieni un manubrio in ogni mano. \n\nFase 2. Spingi i fianchi indietro e abbassa i manubri, mantenendo le gambe dritte o solo leggermente piegate. \n\nFase 3. Ritorna alla posizione iniziale e ripeti.</string>
+
+    <string name="ex_name_5094">Jump Star</string>
+    <string name="ex_desc_5094">Fascio di muscoli. Quadricipiti \n\nFase 1. Inizia in posizione rilassata con i piedi aperti in corrispondenza delle spalle e le braccia attaccate al corpo. \n\nFase 2. Per iniziare il movimento, accovacciatevi per metà ed eseguite un salto esplosivo, cercando di andare il più in alto possibile. Estendete completamente il vostro corpo, allontanando le braccia e le gambe tese dal corpo, come a formare una stella.</string>
+
+    <string name="extra_main_name">Schede d\'allenamento</string>
+
+    <string name="day">Giorno</string>
+    <string name="round">Turno</string>
+    <string name="day1">2 giorni alla settimana</string>
+    <string name="day2">3 giorni alla settimana</string>
+    <string name="day3">4 giorni alla settimana</string>
+    <string name="restorePurchases">Ripristina l\'acquisto</string>
+    <string name="textUpgrade">Fai l’upgrade alla versione Premium per sbloccare 50 nuovi esercizi e rimuovere gli annunci.</string>
+    <string name="one_day_ADS1">1 giorno SENZA ANNUNCI</string>
+    <string name="one_day_ADS2">GUARDA VIDEO SPONSORIZZATO</string>
+    <string name="upgrade">FAI L’UPGRADE ORA</string>
+    <string name="free">Gratuito</string>
+    <string name="tell_friend">Dillo a un amico</string>
+    <string name="send_feedback">Invia feedback</string>
+    <string name="rate_app">Valutaci</string>
+    <string name="facebook">Condividi l\'applicazione su Facebook</string>
+    <string name="twitter">Condividi app su Twitter</string>
+    <string name="ic_googleplay">Le nostre altre app</string>
+    <string name="ic_settings_">Impostazioni</string>
+    <string name="social_follow">Rimani connesso con VGFIT</string>
+    <string name="reminder">Promemoria</string>
+    <string name="daily_reminder">Promemoria giornaliero</string>
+    <string name="frequency">Frequenza</string>
+    <string name="after_days">Dopo %1$s giorni di inattività</string>
+    <string name="menu_bt">Pulsante Menu</string>
+    <string name="units">unità</string>
+    <string name="purch_restored">Gli acquisti in-app sono stati ripristinati</string>
+    <string name="success">Successo!</string>
+
+    <string name="ex_cat_1">Addome</string>
+    <string name="ex_cat_2">Indietro</string>
+    <string name="ex_cat_3">Bicipiti</string>
+    <string name="ex_cat_4">Glutei</string>
+    <string name="ex_cat_5">Petto</string>
+    <string name="ex_cat_6">Gambe</string>
+    <string name="ex_cat_7">Spalle</string>
+    <string name="ex_cat_8">Tricipiti</string>
+    <string name="time_worout">È il momento di allenarsi!</string>
+
+    <string name="cat_name6">ABS</string>
+    <string name="cat_name7">Esercizi glutei</string>
+    <string name="cat_name8">Corpo da spiaggia</string>
+    <string name="cat_name9">Brucia grassi</string>
+    <string name="cat_name10">Braccia, petto e schiena</string>
+    <string name="cat_name11">Gambe snelle</string>
+    <string name="cat_name12">Cardio e Total Body</string>
+
+    <string name="extraDescription6">Dimagrisci e lavora sugli addominali con il nostro ispiratissimo circuito brucia grassi.</string>
+
+    <string name="extraDescription7">Allenamento mirato per definire i muscoli dei glutei.</string>
+    <string name="extraDescription8">La perfetta combinazione di esercizi per un corpo più tonico e forte.</string>
+    <string name="extraDescription9">Dimagrisci e suda con questo circuito brucia grassi.</string>
+    <string name="extraDescription10">Ottimo allenamento concentrato sui muscoli delle braccia del petto e della schiena.</string>
+    <string name="extraDescription11">Fantastico allenamento per definire i muscoli delle gambe.</string>
+    <string name="extraDescription12">Allenamento ideato per bruciare i grassi e per la definizione di tutto il corpo.</string>
+
+    <string name="Focus">Focus</string>
+    <string name="Goal">Obiettivo</string>
+    <string name="Skill_level">Livello di abilità</string>
+    <string name="Target_Group">Gruppo di destinazione</string>
+    <string name="Place">Luogo</string>
+    <string name="Equipment">Equipaggiamento</string>
+
+    <string name="focus_1">Zona principale.</string>
+    <string name="focus_2">Muscoli dei glutei.</string>
+    <string name="focus_3">Muscoli di tutto il corpo.</string>
+    <string name="focus_4">Definizione del muscolo e brucia grassi.</string>
+    <string name="focus_5">Bicipiti, tricipiti, pettorali, lombari.</string>
+    <string name="focus_6">Muscoli dei glutei, flessori della coscia e quadricipiti. </string>
+
+    <string name="goal_1">Definizione addominale e brucia grassi.</string>
+    <string name="goal_2">Ottieni definizione e volume.</string>
+    <string name="goal_3">Allenamento body conditioning.</string>
+    <string name="goal_4">Routine cardio per tutto il corpo.</string>
+    <string name="goal_5">Ottieni forza e definizione.</string>
+
+    <string name="skill_level">Principiante Intermedio Avanzato..</string>
+
+    <string name="target_group">Uomo e Donna.</string>
+
+    <string name="equipment_1">Tappetino.</string>
+    <string name="equipment_2">Panca e tappetino.</string>
+    <string name="equipment_3">Pesi e manubrio.</string>
+    <string name="equipment_4">Panca, pesi, tappetino.</string>
+    <string name="place">Palestra, Casa, Ufficio.</string>
+
+    <string name="doneKey">Fatto</string>
+    <string name="editKey">Modifica</string>
+    <string name="intervalsKey">Intervalli</string>
+    <string name="myWorkoutsKey">I miei workout</string>
+    <string name="pauseKey">Pausa</string>
+    <string name="resetKey">Reset</string>
+    <string name="resumeKey">Riprendi</string>
+    <string name="roundsKey">Round</string>
+    <string name="startKey">Avvia</string>
+    <string name="currentsetkey">Impostazioni attuali</string>
+    <string name="resttimekey">Tempo di riposo</string>
+    <string name="worktimekey">Tempo di allenamento</string>
+    <string name="minkey">Min</string>
+    <string name="seckey">Sec</string>
+    <string name="sets_extra1">30 secondi senza riposo</string>
+    <string name="sets_extra2">3 serie e 12/11/10 ripetizioni</string>
+    <string name="sets_extra3">35 secondi di lavoro 15 secondi di riposo</string>
+    <string name="sets_extra4">30 secondi di lavoro 15 secondi di riposo</string>
+    <string name="sets_extra5">2 turni 15 ripetizioni</string>
+
+    <string name="rep_extra1">30 secondi di lavoro 15 secondi di riposo</string>
+    <string name="rep_extra2">30 sec. allenamento, 15 s. riposo, 30 s. riposo tra ripetizioni</string>
+    <string name="rep_extra3">3 serie e 12/11/10 ripetizioni</string>
+
+    <string name="rep_extra1_how">Tempo di allenamento 30 sec., riposo tra gli esercizi 15 sec.</string>
+    <string name="rep_extra2_how">Tempo di allenamento 30 sec., riposo tra gli esercizi 15 sec., tempo di riposo tra una ripetizione e l’altra 30 sec.</string>
+    <string name="rep_extra3_how">Tempo di riposo tra gli esercizi 30 sec. Tempo di riposo tra i set 45 sec.</string>
+
+    <string name="enter_text">Inserisci messaggio di testo</string>
+    <string name="main_work">Allenamenti progettati per alzare pesi e costruire il muscolo e la forza.</string>
+
+    <string name="namemeal1_1">Fragole e Crema di Farina D\'avena</string>
+    <string name="ingredientMeal1_1">70 g fiocchi d\'avena \n\n80 ml latte scremato \n\n75 g yogurt greco alla vaniglia \n\n125 g di fragole pulite e tagliate \n\n2 cucchiai di yogurt greco magro alla vaniglia \n\n1 cucchiaino di mandorle tostate</string>
+    <string name="stepsMakeMeal1_1">Durante il pomeriggio, mischiare l\'avena, il latte e lo yogurt in un barattolo o una ciotola finché non saranno ben mischiati. Coprire e raffreddare la notte in frigorifero. E ora buon appetito!</string>
+
+
+    <string name="namemeal1_2">Elisir oro brillante</string>
+    <string name="ingredientMeal1_2">2 mele \n\n4 arance medie, sbucciate \n\n1 limone, sbucciato \n\n2 o 3 pezzi di zenzero sbucciato \n\n2 o 3 pezzi di curcuma fresca sbucciata \n\n450 ml di acqua fredda \n\n1 manciata di ghiaccio</string>
+    <string name="stepsMakeMeal1_2">Frullare ad alta velocità tutti gli ingredienti fino a che non saranno cremosi, aggiungere acqua se necessario. Un buon frullatore potente vi permetterà di preparare un buon frullato. Se invece preferite fare un succo, fate pure, gli ingredienti avranno meno fibre ma non saranno meno buoni. Buon appetito!</string>
+
+
+    <string name="namemeal1_3">Pollo saltato di Tso</string>
+    <string name="ingredientMeal1_3">4 petti di pollo a cubetti \n\n225 gr di farina \n\nOlio di semi \n\nSale \n\nPepe macinato fresco \n\n2 spicchi di aglio, tagliato fino \n\n½ barattolo di brodo di pollo \n\n3 cucchiai di miele \n\n4 cucchiai di salsa di soia \n\n2 cucchiai di succo di lime \n\n400 gr di broccoli, solo i fiori \n\n250 gr di riso bianco cotto, per servire</string>
+    <string name="stepsMakeMeal1_3">In una ciotola grande, passare leggermente il pollo in amido di mais. Trasferire i pezzi in una grande ciotola con la farina e scuotere con delicatezza, poi mettere da parte. Riempire una grande e profonda padella con metà dell’olio e mettere sul fuoco a fuoco medio alto. Condire il pollo con gli ingredienti liquidi, scolare l’eccesso e mettere da parte. Aggiungere 2 cucchiai di amido di mais e girare per incorporare. Per la salsa, aggiungere i broccoli e carote e cucinare finché non saranno morbidi, per circa 5 minuti. Buon appetito!</string>
+
+
+    <string name="namemeal1_4">Tè alle erbe</string>
+    <string name="ingredientMeal1_4">1 tazza di acqua \n\n1 cucchiaino di zenzero macinato fresco \n\n1 cucchiaino di scorza di lime \n\n1 cucchiaino di succo di lime \n\n3 foglie di menta fresca</string>
+    <string name="stepsMakeMeal1_4">Far bollire l’acqua e aggiungere il resto degli ingredienti. Lasciar bollire e girare finché il tè non sarà infuso.</string>
+
+
+    <string name="namemeal1_5">Cosce di pollo grigliate al limone e salsa dijon con insalata di rucola</string>
+    <string name="ingredientMeal1_5">4 cosce di pollo senza pelle e disossate \n\n½ cucchiaino di sale \n\n¼ di cucchiaino di pepe nero macinato \n\n2 cucchiai e mezzo di olio d\'oliva \n\n2 cucchiaini di succo di limone \n\n1 cucchiaino di aglio tagliato fine \n\nOlio per ungere la padella \n\n1 cucchiaio di aceto balsamico \n\n1 cucchiaio di miele \n\n200 gr di pomodorini tagliati a metà \n\n1 pacco (150 gr) di rucola</string>
+    <string name="stepsMakeMeal1_5">Condire il pollo con ¼ di cucchiaino di sale e ⅛ di pepe. Unire al pollo 1 o 1,5 cucchiai di olio, succo di limone, mostarda e aglio, mischiare in una ciotola per amalgamare e rivestire bene. Lasciare riposare per 4 minuti. Riscaldare una piastra a fuoco medio e ungerla con olio. Mettere il pollo in padella, grigliare per 5 minuti su ogni lato o finché cotto. Tagliare il pollo in fettine da mezzo centimetro.</string>
+
+
+    <string name="namemeal2_1">Crunch ai frutti di bosco</string>
+    <string name="ingredientMeal2_1">125 gr di fiocchi di latte magri \n\n2 cucchiai di muesli  \n\n100 gr di banane tagliate \n\n100 gr di frutti di bosco</string>
+    <string name="stepsMakeMeal2_1">Mettere i fiocchi di latte dentro una piccola ciotola. Mischiare con gli altri ingredienti. Buon appetito!</string>
+
+
+    <string name="namemeal2_2">Ananas e kiwi</string>
+    <string name="ingredientMeal2_2">4 cucchiai di acqua \n\n125 ml di latte \n\n125 ml di yogurt \n\n½ cucchiaio di miele \n\n1 kiwi sbucciato \n\n200 gr di pezzi di ananas \n\n½ mango \n\n2 cubetti di ghiaccio</string>
+    <string name="stepsMakeMeal2_2">Mischiare tutto a bassa velocità nel frullatore finché non sarà denso e cremoso. Buon appetito!</string>
+
+
+    <string name="namemeal2_3">Pollo al limone in padella</string>
+    <string name="ingredientMeal2_3">4 petti di pollo \n\n115 gr di burro \n\n2 cucchiai di olio di oliva \n\n1 limone \n\n1 limone a fettine \n\n60 ml vino bianco \n\n1 cucchiaino di sale \n\n1 cucchiaino di pepe nero macinato \n\n½ cucchiaino di paprika \n\n½ cucchiaino di prezzemolo essiccato \n\nFarina quanto basta</string>
+    <string name="stepsMakeMeal2_3">Unire farina, sale, pepe, paprika e prezzemolo in una ciotola fonda. Riscaldate l\'olio e il burro a fuoco medio&#8211;alto. Ricoprite ogni petto di pollo nella mistura di farina e collocare nella padella calda. Aggiungere succo di limone, vino bianco, buccia grattugiata del limone e rosmarino alla padella. Cucinare il pollo su ogni lato finché non sarà cotto. Buon appetito!</string>
+
+
+    <string name="namemeal2_4">Biscotti di zucchini e quinoa</string>
+    <string name="ingredientMeal2_4">115 gr di burro di noccioline cremoso \n\n60 gr di miele \n\n1 banana \n\n1 uovo \n\n1 cucchiaino di estratto di vaniglia \n\n113 gr di fiocchi d’avena \n\n113 gr di fiocchi di quinoa \n\n1 cucchiaino di cannella \n\nUn pizzico di sale \n\n225 gr di zucchine grattugiate e pressate</string>
+    <string name="stepsMakeMeal2_4">Riscaldare il forno a 180°. Versare il burro di noccioline, il miele, la banana, l’uomo e la vaniglia in una grande ciotola e girare. Aggiungere i fiocchi d’avena e quinoia, il lievito, spezie e sale alla ciotola e mischiare il tutto. Infine aggiungere le zucchine e dei semi di chia. Collocare delle cucchiaiate di impasto su una teglia rivestita di carta forno. Infornare al centro del forno per 15 o 18 minuti, finché i bordi non saranno dorati. Buon appetito!</string>
+
+
+    <string name="namemeal2_5">Gamberi saporiti con erbe fresche</string>
+    <string name="ingredientMeal2_5">450 gr di gamberi grandi \n\n2 peperoncini piccanti \n\n1 porro finemente tagliato \n\n1 cucchiaio di capperi, lavati e scolati \n\n2 spicchi di aglio, tagliato finemente \n\n30 gr di prezzemolo tagliato \n\n3 cucchiai di succo di limone \n\n3 cucchiai di olio d’oliva</string>
+    <string name="stepsMakeMeal2_5">Collocare una padella su fuoco medio e aggiungere olio. Aggiungere i gamberi, i peperoncini, il porro, i capperi, l’aglio, il sale e il pepe. Cucinare per 4 minuti finché i gamberi non saranno rosa. Togliere dal fuoco. Aggiungere succo di limone, grattare il fondo della padella con un cucchiaio. Servire i gamberi con del basilico e del prezzemolo fresco. Buon appetito!</string>
+
+
+    <string name="namemeal3_1">Avena con semi di Lino e Mirtilli</string>
+    <string name="ingredientMeal3_1">700 ml di acqua \n\n500 gr di avena  \n\n3 cucchiai di semi di lino macinati \n\nun pizzico di sale \n\n¼ tazza di latte intero \n\n200 grdi mirtilli \n\n1 cucchiaio di marmellata di mirtilli \n\n&#189; tsp grated lemon rind \n\n1 cucchiaio di succo di limone</string>
+    <string name="stepsMakeMeal3_1">Portare l’acqua ad ebollizione. Aggiungere l’avena, i semi di lino e il sale. Ridurre a fuoco medio&#8211;basso, cucinare finché non saranno morbidi, girare con frequenza. Versare nella pentola il latte e il burro. Intanto, unire i mirtilli e gli altri 4 ingredienti in una ciotola e cuocere al microonde alla massima potenza per 30 secondi. Dividere l’avena in 4 ciotole. Decorare con mirtilli e noci pecan. Buon appetito!</string>
+
+
+    <string name="namemeal3_2">Smoothie di latte di cocco con mirtilli</string>
+    <string name="ingredientMeal3_2">1 busta di mirtilli congelati (280 gr) \n\n3 banane mature \n\n230 gr di yogurt bianco \n\n230 ml di latte di cocco senza zucchero \n\n2 cucchiai di miele</string>
+    <string name="stepsMakeMeal3_2">Frullare i mirtilli, le banane, lo yogurt, il latte e il miele. Buon appetito!</string>
+
+
+    <string name="namemeal3_3">Pollo e asparagi saltati</string>
+    <string name="ingredientMeal3_3">1 cucchiaio salsa di soia \n\n1 cucchiaio miele \n\n2 petti di pollo, tagliati a fettine \n\n1 cucchiaio olio d\'oliva \n\n1 mazzetto di asparagi tagliati a tocchetti \n\n4 spicchi d\'aglio, finemente affettati \n\n2 cucchiaini di olio di sesamo tostato</string>
+    <string name="stepsMakeMeal3_3">In una busta per il congelato, mischiare la salsa di soia e il miele. Aggiungere il pollo e mischiare finché non sarà per imbevuto. Mettere in frigo finché non è pronto. Nel frattempo, riscaldare l\'olio in una grande padella a fuoco medio. Rimuovere gli asparagi e mettere da parte. Rimuovere il pollo dalla marinatura, e aggiungere alla padella. Poi aggiungere in padella l\'aglio, gli asparagi e la marinatura che avrete conservato. Togliere dal fuoco e aggiungere l\'olio di semi di sesamo. Buon appetito! </string>
+
+
+    <string name="namemeal3_4">Tè lavanda e menta</string>
+    <string name="ingredientMeal3_4">40 gr di petali di lavanda freschi \n\n1 tazza di foglie di menta \n\n1 litro d’acqua</string>
+    <string name="stepsMakeMeal3_4">Collocare i petali di lavanda e le foglie di menta nella pentola, versare l’acqua e portare a bollore. Abbassare la fiamma e lasciare sobbollire finché raggiungerà il sapore da voi desiderato, per circa 15 o 20 minuti. Buon appetito!</string>
+
+
+    <string name="namemeal3_5">Fajitas con chili</string>
+    <string name="ingredientMeal3_5">500 gr di petto di pollo senza pelle \n\n½ di un peperone verde, uno rosso e uno giallo, finemente tagliati \n\n80 ml di acqua \n\n2 cucchiai di salsa di soia \n\n1 pizzico di sale \n\n1 pizzico di pepe nero \n\n2 cucchiai di olio d\'oliva \n\n1 cipolla grande, tagliata finemente</string>
+    <string name="stepsMakeMeal3_5">Combinare tutti gli ingredienti della marinata con il pollo in un contenitore e mettere in frigo per almeno 2 ore. Rimuovere la carne dalla marinata e grigliare su fuoco medio per 4 o 5 minuti per lato. Tagliare la carne in strisce fini. Per la salsa, unire i 2 cucchiai di acqua, 1 cucchiaino di salsa di soia, ¼ di cucchiaino di succo di lime, un pizzico di sale, il pepe nero e 1 cucchiaio di olio d\'oliva. Buon appetito!</string>
+
+
+    <string name="namemeal4_1">Avena con Frutta</string>
+    <string name="ingredientMeal4_1">125 gr di avena \n\n250 ml di acqua \n\n1 cucchiaio di miele \n\n1 cucchiaio di estratto di vaniglia \n\n½ cucchiaino di cannella macinata \n\n50 gr di mirtilli \n\n4 fragole tagliate \n\n½ banana, tagliata a fette</string>
+    <string name="stepsMakeMeal4_1">Combinare l’acqua e l’avena in una ciotola e cuocere in microonde alla temperatura massima finché l’avena non avrà assorbito l’acqua. Aggiungere il miele, l’estratto di vaniglia e la cannella macinata. Aggiungere i mirtilli, la banana e le fette di fragola. Buon appetito!</string>
+
+
+    <string name="namemeal4_2">Smoothie di caffè</string>
+    <string name="ingredientMeal4_2">1 cucchiaino di polvere istantanea di caffè \n\n1 cucchiaio di acqua calda \n\n1 banana piccola, tagliata e congelata \n\n60 ml di latte scremato \n\n1 cucchiaio di miele \n\n120 gr di cubetti di ghiaccio \n\nCannella in polvere</string>
+    <string name="stepsMakeMeal4_2">Unire in un frullatore il caffè istantaneo e l’acqua calda, lasciar riposare un minuto. Aggiungere la banana, il latte e il miele. Coprire e frullare finché non sarà ben cremoso. Aggiungere gradualmente i cubetti di ghiaccio fino alla densità desiderata. Spargere un po’ di cannella dopo averlo versato nel bicchiere. Buon appetito!</string>
+
+
+    <string name="namemeal4_3">Pollo saltato con ananas</string>
+    <string name="ingredientMeal4_3">110 gr di petto di pollo \n\n40 gr di ananas \n\n120 gr di riso integrale \n\n&#8531; cucchiaio di olio d\'oliva \n\n½ cucchiaino di mostarda \n\n1/6 cucchiaio di paprika affumicata \n\nsale \n\npepe</string>
+    <string name="stepsMakeMeal4_3">Tagliare il petto di pollo crudo in piccoli pezzi. Condire i pezzi di pollo con la paprika e la mostarda. Aggiungere l\'olio d\'oliva in una padella e cuocere i pezzetti di pollo. Lasciare cuocere per almeno 4 minuti, finché non sarà quasi pronto, poi aggiungere un peperone tagliato a pezzi. Cucinare per altri 2 o 3 minuti prima di aggiungere l\'ananas tagliata a cubetti. Buon appetito!</string>
+
+
+    <string name="namemeal4_4">Tartufi al cioccolato vegano</string>
+    <string name="ingredientMeal4_4">125 gr di noci, nocciole e mandorle lasciate in acqua durante la notte \n\n3 o 4 cucchiai di latte di mandorla \n\n40 gr di semi di girasole \n\n40 gr di semi di zucca \n\n2 cucchiai di polvere di carrube \n\n3 cucchiai di scaglie di cocco</string>
+    <string name="stepsMakeMeal4_4">Mettere tutto nel frullatore tranne le scaglie di cocco e frullare. Iniziate a fare delle piccole sfere con l\'impasto usando un cucchiaio per il gelato. Rotolare ogni dolcetto nelle scaglie di cocco. Servite e buon appetito!</string>
+
+
+    <string name="namemeal4_5">Salmone al forno con verdure</string>
+    <string name="ingredientMeal4_5">2 filetti di salmone \n\n200 gr di zucchine affettate \n\n200 gr di broccoli \n\n125 gr di pomodorini \n\nSale \n\nPepe  \n\nOlio d’oliva</string>
+    <string name="stepsMakeMeal4_5">Scaldare il forno a 190°. Unire le verdure in una teglia grande. Condirle con sale, pepe e olio d’oliva. Mettere i filetti vicino alle verdure e infornare per 18 – 20 minuti o finché il salmone non sarà cotto e le verdure morbide. Buon appetito!</string>
+
+
+    <string name="namemeal5_1">Avena con banana e nocciole</string>
+    <string name="ingredientMeal5_1">125 gr di avena \n\n250 ml di acqua \n\n1 banana a fette \n\n1 cucchiaio di noci tagliate \n\n1 cucchiaino di cannella macinata</string>
+    <string name="stepsMakeMeal5_1">Unire l’avena e l’acqua in una ciotola e mettere in microonde, cuocere alla massima potenza per 3 minuti. Infine, guarnire con la banana, le nocciole e la cannella. Buon appetito!</string>
+
+
+    <string name="namemeal5_2">Potere rosa</string>
+    <string name="ingredientMeal5_2">200 gr di fiori di cavolfiore \n\n400 gr di cubetti di cocomero, senza semi \n\n200 gr di fragole intere \n\n1 barattolo di yogurt alla fragola \n\n2 cucchiai di marmellata di fragole (facoltativo)</string>
+    <string name="stepsMakeMeal5_2">In una padella piccola cuocere il cavolfiore, coprirlo con acqua bollente, finché diventerà molto morbido. In un frullatore unire il cavolfiore cotto, il cocomero, le fragole, lo yogurt e, a scelta, anche la marmellata. Frullare e servire. Buon appetito!</string>
+
+
+    <string name="namemeal5_3">Pollo BBQ con asparagi</string>
+    <string name="ingredientMeal5_3">2 petti di pollo tagliati finemente. \n\n12 asparagi \n\n2 cucchiaini di salsa barbecue \n\n1 pizzico di paprika \n\n1 pizzico di polvere d\'aglio \n\n1 pizzico di pepe</string>
+    <string name="stepsMakeMeal5_3">Accendere il forno a 200°C. Battere il pollo con un batti carne, condirlo con 1 cucchiaio di salsa barbecue (per ogni fetta) e condimenti a scelta. Mettere il pollo sul grill. Cuocere in forno o sul grill per circa 8 o 10 min. Buon appetito!</string>
+
+
+    <string name="namemeal5_4">Tè alle erbe di zenzero e curcuma</string>
+    <string name="ingredientMeal5_4">500 ml di acqua \n\n½ cucchiaino di zenzero fresco tagliato \n\n½ cucchiaino di cannella in polvere e di curcuma \n\n1 cucchiaino di miele \n\n1 fetta di limone</string>
+    <string name="stepsMakeMeal5_4">Far bollire l’acqua in una piccola pentola e aggiungere la curcuma, lo zenzero e la cannella. Abbassare la fiamma al minimo e lasciar sobbollire per 10 minuti. Versare il tè in un grande bicchiere, aggiungere miele e limone. Buon appetito!</string>
+
+
+    <string name="namemeal5_5">Spiedini di gamberi grigliati e avocado</string>
+    <string name="ingredientMeal5_5">450 gr di gamberi grandi \n\nMezzo avocado \n\n1 peperone rosso \n\n1 peperone arancione \n\n1 peperone giallo \n\n1 cipolla rossa \n\n1 cucchiaio di pasta d’aglio \n\n½ cucchiaio di olio extra vergine \n\n1 lime \n\nSale e pepe</string>
+    <string name="stepsMakeMeal5_5">Mettere il grill a circa 200°&#8211; Tagliare le verdure e l’avocado a pezzi grandi per gli spiedini. Pelare i gamberi e condire. Scegliere dei vegetali fibrosi poiché riempiono di più e saranno più adatti allo spiedino. Mettere gli spiedini sul grill e cucinare per circa 8 o 10 minuti poi girarli e cucinare per altri 8 o 10 minuti. Buon appetito!</string>
+
+
+    <string name="namemeal6_1">Parfait del Mattina</string>
+    <string name="ingredientMeal6_1">55 gr di uvetta e 1 cucchiaino di arancia finemente grattata \n\n1 cucchiaino di vaniglia \n\n250 gr di brie \n\nMolliche di pane \n\n250 gr di lamponi freschi, mirtilli, fragole tagliate e/o pesche \n\n125 gr di muesli con pochi grassi \n\nmiele \n\nBuccia d’arancia grattata</string>
+    <string name="stepsMakeMeal6_1">Mischiare le molliche di pane e il formaggio, spargere su una teglia da forno con un po’ di olio. Cuocere per 20&#8211;25 minuti. Dividere il composto in 4 bicchieri, collocarvi sopra uno strato di frutta e uno di muesli. Ripetere gli strati fino ad arrivare in cima al bicchiere. Guarnire con miele e altra buccia d’arancia. Ingredienti per 4 porzioni. Buon appetito!</string>
+
+
+    <string name="namemeal6_2">Tè verde, kiwi e mango</string>
+    <string name="ingredientMeal6_2">500 gr di mango a cubetti \n\n177 gr di yogurt alla vaniglia \n\n2 cucchiai di miele \n\n2 cucchiai di acqua \n\n3 kiwi maturi \n\n400 gr di ghiaccio \n\n125 gr di spinacini \n\n2 cucchiai di tè verde in bottiglia</string>
+    <string name="stepsMakeMeal6_2">Mettere il mango, 125 gr lo yogurt, i 2 cucchiai di miele e l’acqua, più il succo di un lime, in un frullatore finché non saranno cremosi. Mettere il restante yogurt, 2 cucchiaini di miele, il kiwi e agli altri ingredienti in un frullatore e frullare fino a che non saranno cremosi. Buon appetito.</string>
+
+
+    <string name="namemeal6_3">Pollo saltato agli agrumi</string>
+    <string name="ingredientMeal6_3">140 gr di petto di pollo, tagliato a cubetti \n\n34 gr di broccoletti \n\n25 gr di funghi champignon \n\n¼ di peperone rosso \n\n20 gr di cipolla rossa \n\nOlio di cocco \n\nSemi di sesamo \n\n¼ cucchiaino di fecola di patate \n\n1/8 di cucchiaio di pasta d\'aglio \n\n¼ cucchiaino pasta di zenzero</string>
+    <string name="stepsMakeMeal6_3">In una ciotola mischiare tutti gli ingredienti per la salsa dove salterete il pollo. Ungere poi la padella con olio di cocco e mettere a fuoco medio. Collocare i petti di pollo e lasciare cuocere finché non saranno quasi pronti, poi aggiungere le verdure, la salsa e girate. Buon appetito!</string>
+
+
+    <string name="namemeal6_4">Mais Grigliato Messicano</string>
+    <string name="ingredientMeal6_4">4 pannocchie \n\n1.5 tazze di panna \n\n200 gr di parmigiano grattugiato \n\nSucco di 1 lime \n\nPolvere di peperoncino rosso \n\n2 lime tagliati a spicchi, per guarnire</string>
+    <string name="stepsMakeMeal6_4">Grigliare il mais girandolo sulla griglia calda finché non si brucia leggermente. In una piccola ciotola mischiare la maionese, la panna acida e il coriandolo. Spremere il lime sul mais e condire con parmigiano. Spolverare con polvere di peperoncino. Buon appetito!</string>
+
+
+    <string name="namemeal6_5">Hamburger di salmone con avocado</string>
+    <string name="ingredientMeal6_5">450 gr di filetti di salmone \n\n200 gr di pan grattato \n\n1 uovo \n\n1 cucchiaio di succo di limone \n\nSale e pepe \n\nOlio d’oliva \n\n1 avocado grande, tagliato \n\n90 gr di cipolla rossa tagliata \n\nIl succo di un lime</string>
+    <string name="stepsMakeMeal6_5">Tagliare il filetto di salmone in piccoli pezzi e collocare in una ciotola. Versare delicatamente gli altri ingredienti. Lasciare riposare per 5&#8211;10 minuti. Riscaldare l’olio in una padella grande a fuoco medio. Formare degli hamburger con l’impasto. Cuocerli finché non saranno dorati su entrambi i lati, circa 4 minuti per lato. Buon appetito!</string>
+
+
+    <string name="namemeal7_1">Pane d’avena con fragole, banana e noci</string>
+    <string name="ingredientMeal7_1">150 gr di avena \n\n½ banana schiacciata \n\n50 gr di fragole \n\n2 cucchiai di latte di mandorle \n\n1 cucchiaio di estratto di vaniglia \n\n2 cucchiai di noci tritate \n\n1 bustina di stevia \n\nScorza di limone per guarnire \n\n1 cucchiaio di yogurt greco (2% di grassi) \n\n½ cucchiaio di noci tritate \n\nSemi di papavero </string>
+    <string name="stepsMakeMeal7_1">Cucinare l’avena come da istruzioni della confezione, poi mettere da parte. Aggiungere tutti gli ingredienti in una ciotola, tranne le fragole, e mischiare bene. Sull’avena collocare le fragole. Guarnire con yogurt greco, noci tritate e semi di papavero. Buon appetito!</string>
+
+
+    <string name="namemeal7_2">Banana e fragola</string>
+    <string name="ingredientMeal7_2">450 gr di fragole \n\n1 banana sbucciata \n\n250 ml di latte \n\n1 cubetto di ghiaccio \n\n1 cucchiaio di miele</string>
+    <string name="stepsMakeMeal7_2">Aggiungere tutti gli ingredienti nel frullatore e farlo andare finché non saranno cremosi. Se lo smoothie è troppo denso, aggiungere più latte. Se è troppo liquido, più frutta o ghiaccio. Buon appetito!</string>
+
+
+    <string name="namemeal7_3">Pollo Kung Pao piccante e leggero</string>
+    <string name="ingredientMeal7_3">150 gr di petto di pollo \n\n1/6 di spicchio d’aglio \n\n33 gr di piselli \n\n150 gr di peperoni \n\n⅔ di cucchiaio di acqua \n\n⅓ di cucchiaio di pasta di pomodori \n\n1/6 di cucchiaio di zenzero fresco \n\n1/6 di cucchiaio di pasta di peperoncino rosso \n\n1/6 cucchiaio di aceto di riso \n\nCipollotto tagliato</string>
+    <string name="stepsMakeMeal7_3">In una ciotola aggiungere gli ingredienti per la salsa e mischiare. Mettere la pentola su fuoco medio e ungere con olio d’oliva. Quando la pentola sarà calda, unire l’aglio e lasciar insaporire per circa 2 minuti. Poi aggiungere il pollo tagliato. Cucinare il pollo finché non sarà cotto all’esterno, per 6 o 8 minuti. Aggiungere i peperoni tagliati e lasciare cuocere per 3 minuti. Aggiungere lentamente la salsa che avete preparato precedentemente e mischiare con frequenza. Buon appetito!</string>
+
+
+    <string name="namemeal7_4">Tè lavanda e menta</string>
+    <string name="ingredientMeal7_4">40 gr di petali di lavanda freschi \n\n1 tazza di foglie di menta \n\n1 litro d’acqua</string>
+    <string name="stepsMakeMeal7_4">Collocare i petali di lavanda e le foglie di menta nella pentola, versare l’acqua e portare a bollore. Abbassare la fiamma e lasciare sobbollire finché raggiungerà il sapore da voi desiderato, per circa 15 o 20 minuti. Buon appetito!</string>
+
+
+    <string name="namemeal7_5">Cartocci di pesce con asparagi e pomodori</string>
+    <string name="ingredientMeal7_5">1 mazzetto di asparagi \n\n2 pomodori a fette \n\n2 filetti di salmone (o tilapia) \n\nOlio d’oliva \n\n½ cucchiaio di pasta d’aglio \n\nSale \n\n1 limone tagliato</string>
+    <string name="stepsMakeMeal7_5">Riscaldare il forno a 190°. In una piccola ciotola mischiare l’olio, l’aglio e il sale. Mettere gli asparagi al centro di un foglio di alluminio e ricoprire uniformemente con pomodori, poi condire. Mettere il filetto di pesce sui pomodori, uno per cartoccio, e ungere il pesce con olio d’oliva. Disporre le fette di limone sul pesce. Cuocere in forno per 25&#8211;30 minuti. Buon appetito.</string>
+    <string name="cat_name13">Piano nutrizionale per il peso</string>
+    <string name="focus_13">Piano settimanale di alimentazione sana</string>
+    <string name="goal_13">Perdi peso e accelera il metabolismo.</string>
+    <string name="extraDescription13">Torna nella tua miglior forma di sempre! Impara cosa mangiare, scopri i cibi che ti faranno bruciare i grassi, prova pasti gustosi che accelerano il metabolismo.</string>
+    <string name="meal">Pasto %1$d</string>
+    <string name="ingredients">Ingredienti</string>
+    <string name="steps">Passi</string>
+    <string name="titleDay1">Ricette salutari fantastiche da preparare e da provare</string>
+    <string name="descriptionDay1">Per tenere il tuo metabolismo allenato devi mangiare il primo pasto entro 1 ora dal risveglio.</string>
+    <string name="titleDay2">Una buona alimentazione è fondamentale per un corpo in buona salute</string>
+    <string name="descriptionDay2">La soluzione è mangiare entro 1 ora dal risveglio, in modo da stimolare il metabolismo.</string>
+    <string name="titleDay3">Organizzati in anticipo per fare colazione</string>
+    <string name="descriptionDay3">Una colazione che ti farà bruciare velocemente i grassi è molto importante per perdere peso con successo.</string>
+    <string name="titleDay4">I carboidrati forniscono energia al corpo</string>
+    <string name="descriptionDay4">Studi scientifici dimostrano che è importante fare 5 pasti al giorno per mantenere un peso corporeo sano.</string>
+    <string name="titleDay5">Le proteine sono indispensabili per la crescita e lo sviluppo</string>
+    <string name="descriptionDay5">La nutrizione gioca un ruolo importante nel mantenere uno stile di vita sano.</string>
+    <string name="titleDay6">Sei quelli che mangi</string>
+    <string name="descriptionDay6">È proprio vero, se vuoi che il tuo corpo sia al massimo della forma.</string>
+    <string name="titleDay7">"Controlla la dimensione delle porzioni, usa piatti più piccoli "</string>
+    <string name="descriptionDay7">Non mangiare più spinto dall’emotività prendendoti cura del tuo cuore affamato.</string>
+    <string name="days_plan">Piano da %1$d giorni</string>
+    <string name="extra">Extra</string>
+    <string name="exercise">ESERCIZIO</string>
+
+    <string name="timer">Timer</string>
+    <string name="ex_cat_88">Тutti</string>
+    <string name="muscle">Muscolo</string>
+
+    <string name="congrulation">Congratulazioni !</string>
+    <string name="thnak_you">Grazie!</string>
+    <string name="after_update">Hai 50 nuovi esercizi, 7 nuovi piani di allenamento, 1 piani nutrizionali e nessun annuncio.</string>
+    <string name="first_restore">Hai la versione Premium. Sono stati aggiunti 7 piani di allenamento e 1 piani nutrizionali.</string>
+    <string name="upgrade_new">AGGIORNAMENTO</string>
+    <string name="description_upgrade">Sblocca tutte le nuove tabelle progettate da grandi allenatori. Raggiungi i tuoi obiettivi con maggiore facilità.</string>
+    <string name="no_ads">NESSUNA PUBBLICITÀ</string>
+    <string name="no_ads_description">RIMUOVERE GLI ANNUNCI. GODITI DELLE SESSIONI DI ALLENAMENTO SENZA PUBBLICITÀ</string>
+    <string name="noty_sound">Notifiche sonore</string>
+    <string name="noty_sound_description">Scegli il tuo tono speciale per la notifica per non perdere nulla</string>
+    <string name="new_workouts">NUOVI ALLENAMENTI</string>
+    <string name="new_workouts_desription">7 NUOVI PIANI DI ALLENAMENTO PERSONALIZZATI PER OGNI GRUPPO MUSCOLARE E OBIETTIVO DEL FITNESS PER FOCALIZZARE I RISULTATI MASSIMI.</string>
+    <string name="upgrade_header">Esegui l\'upgrade per sbloccare nuovi 50 esercizi, 10 piani di allenamento, 2 piani nutrizionali e rimuovere gli annunci.</string>
+    <string name="sound">Suono</string>
+    <string name="buy">Acquista</string>
+
+    <string name="one_time_payment">pagamento unico</string>
+    <string name="get_lifetime_access">OTTIENI ACCESSO ILLIMITATO</string>
+    <string name="_3_days_for_free">7 giorni GRATUITI</string>
+    <string name="get_workouts_courses_with_powerful_support">Ottieni allenamenti pronti al 100% con una solida assistenza!</string>
+    <string name="only_now">Solo ora</string>
+    <string name="start_your_positive_transformation_today">Inizia oggi \nla tua trasformazione!</string>
+    <string name="try_it_now">Provalo ora</string>
+    <string name="_3_day_nfree_trial">3-giorni \nProva gratuita</string>
+    <string name="_7_day_nfree_trial">7-giorni \nProva gratuita</string>
+    <string name="new_workoutsN">Nuovi \nallenamenti</string>
+    <string name="month">/mese</string>
+    <string name="year">/anno</string>
+    <string name="monthly_slim">Мensile</string>
+    <string name="after">dopo</string>
+    <string name="nutritionPlanName2">PERDITA PESO</string>
+    <string name="nutritionPlanName1">AUMENTO MUSCOLATURA</string>
+    <string name="nutrition_plans">Programmi nutrizionali</string>
+    <string name="title_11">Esercizi</string>
+</resources>

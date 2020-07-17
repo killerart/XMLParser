@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name1">아루굴라 샐러드를 곁들인 그릴 레몬 디종 닭 넓적다리</string>
+    <string name="ingredients1">껍질, 뼈를 제거한 닭 넓적다리 4개 (114g)  \n\n소금 ½ tsp  \n\n통후추 간 것 ¼ tsp  \n\n올리브유 2.5 tbsp  \n\n레몬 주스 2 tsp  \n\n간마늘 1 tsp  \n\n요리용 스프레이  \n\n발사믹 식초 1 tbsp  \n\n꿀 1 tsp  \n\n그래이프 토마토 반으로 자른 것 1컵 \n\n어린 아루굴라 1팩 (140g)</string>
+    <string name="steps1">소금 ¼ tsp, 후추 1/8 tsp 를 닭에 뿌립니다. 그릇에 기름 1–1.5 tsp, 레몬주스, 머스타드, 마늘을 닭과 버무려 입힙니다. 4분정도 둡니다. 그릴팬을 중불로 가열합니다. 요리용 스프레이를 팬에 뿌립니다. 닭을 팬에 넣고 완전히 익을때까지 양면을 약 5분정도 굽습니다. 0.6cm 두께로 닭을 자릅니다. 맛있게 드세요!</string>
+
+
+    <string name="name3">오렌지 허니 스리라차 치킨</string>
+    <string name="ingredients3">닭가슴살 0.1 kg  \n\n참기름 1/8 tbsp  \n\n스리라차 소스 12.5 g  \n\n소금 \n\n후추</string>
+    <string name="steps3">그릴 또는 190°C로 오븐을 예열합니다. 지퍼백에 양념재료를 넣고 잘 섞어줍니다. 입맞에 맞게 간을 조절합니다. 양념에 닭을 넣고 30분 정도 냉장고에 재워둡니다. 그리고 냉장고에서 꺼내 그릴에 굽습니다. 닭에서 나오는 육즙이 깨끗하게 흘러내릴 때까지 15–20분 정도 그릴에서 굽습니다. 맛있게 드세요!</string>
+
+
+    <string name="name6">칠리 파히타</string>
+    <string name="ingredients6">껍질없는 닭가슴살 454g  \n\n초록색, 노락색, 빨간색 피망 ½ 씩, 작게 자른 것  \n\n물 ⅓ 컵 \n\n간장 2 tsp  \n\n소금 약간 \n\n후추 약간 \n\n올리브유 2 tbsp  \n\n양파 큰 것 1개, 작게 자른 것</string>
+    <string name="steps6">통에 닭을 넣고 모든 양념 재료를 잘 섞어서 냉장고에 최소 2시간 정도 재워둡니다. 고기를 양념에서 꺼내서 중불에서 양면을 4–5분 정도 구워줍니다. 고기를 얇게 썰어줍니다. 소스용으로 물 2tbsp, 간장 1tsp, 라임주스 ¼ tsp, 소금 약간, 후추 약간, 올리브유 1 tbsp 를 섞어줍니다. 맛있게 드세요!</string>
+
+
+    <string name="name10">아스파라거스로 감싼 BBQ 치킨</string>
+    <string name="ingredients10">닭가슴살 2개 작게 자른 것, 약 85g 크기  \n\n아스파라거스 12줄기  \n\nBBQ 소스 2 tbsp \n\n스모크 파프리카 1꼬집  \n\n마늘 가루 1꼬집  \n\n후추 1꼬집</string>
+    <string name="steps10">오븐 온도를 200°C로 설정합니다. 닭을 평평하게 밀어줍니다. 바베큐 소스 1tbsp (각 조각마다), 원하는 양념으로 닭에 양념을 합니다. 닭을 열린 부분이 아래로 향한 그릴에 놓습니다. 오븐에 굽거나 8–10분 정도 그릴로 굽습니다. 맛있게 드세요!</string>
+
+
+    <string name="name16">버섯과 시금치 오믈렛</string>
+    <string name="ingredients16">올리브유 1 tbsp  \n\n다진 샬롯 ½ 컵 \n\n마늘 3쪽 다진 것 \n\n자른 버섯 1팩 (약 28 g) \n\n타임 가지 1개 \n\n신선한 어린 시금치 170 g  \n\n소금 \n\n후추 \n\n큰 달걀 8개</string>
+    <string name="steps16">팬을 중강불에 가열합니다. 팬에 오일을 넣고 샬롯, 마늘, 버슷, 타임을 넣습니다. 시금치를 넣고 물기가 거의 다 증발할 때까지 지집니다. 소금과 후추 약간과 달걀 4개를 작은 그릇에 넣고 거품기로 젓습니다. 팬을 중불로 하고, 달걀 혼합물을 넣고 1분동안 조리합니다. 주걱으로 오믈렛 끝부분을 들어올려서 뒤집어 줍니다. 맛있게 드세요!</string>
+
+
+    <string name="name20">데리야끼 치킨 브로콜리</string>
+    <string name="ingredients20">브로콜리 꽃부분 2 컵 \n\n닭가슴살 큰 것 1개, 깍둑썰기  \n\n기름 1 tbsp \n\n소금, 후추 \n\n피망 1개, 자른 것 \n\n조리한 현미 2컵 \n\n묽은 간장 ¼ 컵 \n\n청주 식초 2 tbsp  \n\n마늘 1조각 다진 것 \n\n참기름 ½ tsp \n\n다진 생각 ¼ tsp</string>
+    <string name="steps20">중강불에 큰 팬를 가열합니다. 닭에 소금, 후추로 간하고 분홍빛이 사라질 때까지 조리합니다. 작은 그릇에 데리야끼 소스를 만들 재료를 넣고 저어줍니다. 브로콜리 꽃부분과 피망을 팬에 넣습니다. 닭과 브로콜리를 4개의 접시에 나눠 담습니다. 깨소금을 뿌립니다. 맛있게 드세요!</string>
+
+
+    <string name="name30">블루베리 아마씨 오트밀</string>
+    <string name="ingredients30">물 3 컵  \n\n오트 2 컵  \n\n간 아마씨 3 tbsp  \n\n소금 1/8 tsp  \n\n우유 ¼ 컵  \n\n블루베리 1 컵  \n\n블루베리잼 1 tbsp  \n\n레몬껍질 갈은 것 ½ tsp  \n\n레몬 주스 1 tbsp</string>
+    <string name="steps30">물 3컵을 끓입니다. 오트, 아마씨, 소금을 넣고 저어줍니다. 중불로 낮추고, 자주 저어주면서 부드럽게 될 때까지 조리합니다. 우유와 버터를 넣고 저어줍니다. 조리하는 동안, 블루베리와 4가지 재료를 전자렌지용 그릇에 담아, 30초마다 저어주면서 고전력에서 1.5분동안 돌립니다. 오트밀을 4개의 그릇에 나눠 담습니다. 블루베리와 피칸을 올립니다. 맛있게 드세요!</string>
+
+
+    <string name="name37">매콤한 쿵파오 치킨</string>
+    <string name="ingredients37">닭가슴살 150 g  \n\n마늘 1/6 조각  \n\n깍지완두 33 g  \n\n피망 150 g  \n\n물 2/3 tbsp  \n\n토마토 소스 ⅓ tbsp  \n\n생강 1/6 tbsp  \n\n빨간 고추 소스 1/6 tbsp  \n\n쌀 식초 1/6 tbsp  \n\n다진 파</string>
+    <string name="steps37">그릇에 소스용 재료를 담고 젓습니다. 중불에 올리브유를 뿌리고 예열합니다. 팬이 뜨거워지면, 마늘을 넣고 2분 정도 볶습니다. 자른 닭가슴살을 넣고 닭 표면이 갈색빛이 될 때까지 6–8분 정도 조리합니다. 자른 피망을 넣고 3분정도 볶습니다. 소스를 천천히 붓고 자주 저어줍니다. 맛있게 드세요!</string>
+
+
+    <string name="name40">건강에 좋은 과일향 오트밀</string>
+    <string name="ingredients40">오트 ½ 컵 \n\n물 1 컵 \n\n꿀 1 tbsp  \n\n바닐라 추출물 1 tbsp  \n\n계피가루 ½ tsp  \n\n블루베리 ¼ 컵  \n\n딸기 4개 썬 것 \n\n½ 바나나, 조각으로 자른 것</string>
+    <string name="steps40">전자렌지용 그릇에 물과 오트를 담습니다. 오트가 물을 흡수할 때까지 고전력으로 전자렌지를 돌립니다. 꿀, 바닐라 추출물, 계피가루를 넣고 저어줍니다. 블루베리와 썰어둔 바나나와 딸기를 올립니다. 맛있게 드세요!</string>
+
+
+    <string name="name41">키위, 오렌지, 시금치 스무디</string>
+    <string name="ingredients41">시금치 한 주먹 \n\n키위 2개 조각으로 \n\n망고 1개 \n\n오렌지 1개 주스</string>
+    <string name="steps41">시금치를 씻고, 뿌리는 잘라냅니다. 망고와 키위를 씻고, 작은 조각으로 자릅니다. 믹서기에 모든 재료를 넣고 스무디가 될 때까지 갈아줍니다. 맛있게 드세요!</string>
+
+
+    <string name="name42">훈제 연어 과카몰리</string>
+    <string name="ingredients42">아보카도 1개 \n\n훈제 연어 57 g  \n\n다진 빨강 양파 17 g  \n\n다진 고수 2 tbsp  \n\n그릭요거트 2 tbsp  \n\n후추</string>
+    <string name="steps42">그릇에 아보카도를 으깨고 모든 재료를 섞어줍니다. 머스타드, 커민, 레몬주스, 그릭요거트, 후추로 양념을 합니다. 맛있게 드세요!</string>
+
+
+    <string name="name43">계란 후라이와 아보카도 토스트</string>
+    <string name="ingredients43">달걀 2개 \n\n토스트한 빵 2조각  \n\n작은 아보카드 1개  \n\n라임 주스 1 tsp  \n\n소금 \n\n후추  \n\n파슬리</string>
+    <string name="steps43">토스트를 준비하고 기호에 따라 계란 후라이를 합니다. 아보카도 껍집을 벗기고 라임 주스, 소금, 후추를 넣고 으깨줍니다. 아보카도를 토스트 빵에 고르게 발라주고 계란 후라이를 올리며 추가로 선호하는 향신료를 추가합니다. 맛있게 드세요!</string>
+
+
+    <string name="name44">달콤한 빨간 준비운동 스무디</string>
+    <string name="ingredients44">빨간 사과 1개  \n\n비트 ½  \n\n셀러리 1대  \n\n딸기 3개  \n\n바나나 ¼  \n\n녹차 (옵션)  \n\n산딸기 41g    \n\n생강 1 tsp (옵션)</string>
+    <string name="steps44">믹서기에 모든 재료를 넣고 덩어리가 생가지 않도록 1분 정도 가볍게 갈아주고 나서 스무디가 되도록 완전히 갈아줍니다. 간식처럼 가볍게 마십니다. 맛있게 드세요!</string>
+
+
+    <string name="name45">파르메산을 곁들인 갈릭 아스파라거스</string>
+    <string name="ingredients45">아스파라거스 454g \n\n올리브유 2 tbsp  \n\n간 파르메산 3 tbsp  \n\n마늘 2조각 간 것  \n\n소금, 후추</string>
+    <string name="steps45">아스파라거스 밑부분을 자릅니다. 팬에 아스파라거스를 놓고 소금과 후추로 간하며 올리브유를 넣습니다. 그릴에 일렬로 아스파라거스를 놓습니다. 중불로 그릴 자국이 생기고 부드러워질 때까지 5–10분 정도 굽습니다. 맛있게 드세요!</string>
+
+
+    <string name="name46">홈메이드 새우 페스토 &amp; 주키니 파스타</string>
+    <string name="ingredients46">\n싱싱한 바질 12 g\n생시금치 7.5 g\n호두 7.5 g\n올리브유 20 ml\n파르메산 &#189; tbsp\n레몬 주스 &#188;\n마늘 &#188; 조각\n소금\n후추\n조리한 새우 42 g\n주키니 &#188;\n체리 토마토 2개 자른 것</string>
+    <string name="steps46">페스토 재료를 부드럽게 되도록 갈아줍니다. 그릇에 회전채칼로 주키니를 링귀네 형태로 썰어줍니다. 페스토 소스를 주키니 링귀네에 넣고 젓가락을 이용해 가볍게 섞어줍니다. 그릴 새우 또는 닭과 같은 원하는 단백질을 넣고 자른 체리토마토를 넣습니다. 맛있게 드세요!</string>
+
+
+    <string name="name47">스파이스 베리 코블러 오트밀</string>
+    <string name="ingredients47">조리한 오트 150 g \n\n블루베리 49 g \n\n블랙베리 50 g \n\n다진 호두 3 tbsp \n\n코코넛 오일 ½ tbsp \n\n강황 ¼ tsp  \n\n올스파이스 ¼ tsp  \n\n인더로우(In The Raw) 브랜드 스테비아 1팩 \n\n계피가루 한꼬집 \n\n그래놀라 1 tbsp</string>
+    <string name="steps47">조리법대로 오트를 조리하고 한쪽에 둡니다. 코팅된 팬을 중불에 가열하고, 코코넛 오일을 넣습니다. 팬을 뜨겁게 달굽니다. 베리를 넣습니다. 베리에 계피가루 한꼬집을 넣고 저어줍니다. 베리를 열에서 옮기고 소스가 걸쭉해지게 합니다. 잘 섞고 필요한 경우 계피를 조금 더 넣습니다. 오트밀 위에 따뜻한 베리 시럽을 붓습니다. 신선한 그래놀라를 곁들여서 바삭함을 더합니다. 맛있게 드세요!</string>
+
+
+    <string name="name48">복숭아 바나나</string>
+    <string name="ingredients48">\n바나나 1개\n복숭아 2개\n바닐라 아몬드 우유 &#189; 컵\n얼음 &#189; 컵\n계피 &#188; tsp\n꿀 (옵션) </string>
+    <string name="steps48">복숭아와 바나나 껍질을 벗겨 자릅니다. 모든 재료를 믹서기에 넣습니다. 달달한 맛을 원할 경우 꿀을 넣고 갈아줍니다. 맛있게 드세요!</string>
+
+
+    <string name="name49">닭 &amp; 파인애플 볶음</string>
+    <string name="ingredients49">닭가슴살 110 g  \n\n파인애플 40 g  \n\n현미 120 g  \n\n올리브유 ⅓ tbsp  \n\n브라운 머스타드 ½ tsp  \n\n스모크 파프리카 1/6 tbsp  \n\n천일염 \n\n후추</string>
+    <string name="steps49">생 닭가슴살을 작은 조각으로 자릅니다. 스모크 파프리카와 브라운 머스타드로 닭에 양념을 합니다. 팬에 올리브유를 넣고 닭을 넣습니다. 닭이 약 80% 조리될 때까지 4분 정도 조리하고, 자른 피망을 넣습니다. 파인애플을 넣기 전 2–3분 정도 더 조리합니다. 맛있게 드세요!</string>
+
+
+    <string name="name50">허브차</string>
+    <string name="ingredients50">\n물 1컵\n간 생강 1 tsp\n간 라임 껍질 1 tsp\n라임 주스 1 tsp\n민트 잎 3장 </string>
+    <string name="steps50">주전자에 물을 끓이고 남은 재료는 저어줍니다. 차가 우러나올 때까지 저어주며 조리합니다. 맛있게 드세요!</string>
+
+
+    <string name="name51">버섯과 토마토 오믈렛</string>
+    <string name="ingredients51">달걀 흰자 4개  \n\n달걀 1개  \n\n저지방 코티지 치즈 ½ 컵  \n\n자른 버섯 ½ 컵  \n\n다진 토마토 ½</string>
+    <string name="steps51">달걀을 넣고 약간 젓습니다. 요리용 스프레이를 이용해서 코팅된 팬에 달걀을 조리합니다. 코티지 치즈, 버슷, 토마토를 오믈렛 중앙에 넣습니다. 달걀이 익고 접어서 조리합니다. 맛있게 드세요!</string>
+
+
+    <string name="name52">배와 생강을 넣은 시금치 스무디</string>
+    <string name="ingredients52">\n시금치 3컵\n레몬 주스 2 tbsp\n생강 2 tsp\n배 2개\n민트</string>
+    <string name="steps52">믹서기에 모든 재료를 넣고 원하는 농도가 될 때까지 갈아줍니다. 맛있게 드세요!</string>
+
+
+    <string name="name53">구운 멕시코 옥수수</string>
+    <string name="ingredients53">옥수수 4자루  \n\n사워크림 1.5 컵  \n\n간 파르메산 1컵  \n\n라임 1개, 주스 \n\n빨간고추가루 \n\n장식용 자른 라임 2조각</string>
+    <string name="steps53">옥수수가 약간 타기 전에 뜨거운 그릴에서 돌리면서 구워줍니다. 작은 그릇에 마요네즈, 사워크림, 고수를 섞어줍니다. 옥수수에 라임을 짜서 뿌리고 파르메산을 곁들입니다. 고추 가루를 뿌려줍니다. 맛있게 드세요!</string>
+
+
+    <string name="name54">파인애플 키위</string>
+    <string name="ingredients54">물 4 tbsp  \n\n우유 ½ 컵  \n\n요거트 ½ 컵 \n\n꿀 1.5 tbsp \n\n키위 1개, 껍질 벗긴 것 \n\n파인애플 덩어리 1컵  \n\n망고 ½  \n\n얼음 2</string>
+    <string name="steps54">모든 재료를 믹서기에 넣고 저속으로 걸쭉해지고 스무디가 될 때까지 갈아줍니다. 맛있게 드세요!</string>
+
+
+    <string name="name55">감귤류 꿀 녹차</string>
+    <string name="ingredients55">\n레마 1조각\n녹차 가루 2 tsp\n뜨거운 물 3/4 컵\n자몽 주스 &#189; 컵\n레몬 주스 3 tbsp\n꿀 1 tsp </string>
+    <string name="steps55">녹차 가루를 뜨거운 물어 넣고 저어줍니다. 자몽주스, 레몬주스와 꿀을 첨가합니다. 잘 섞어서 레몬 조각을 띄워 냅니다. 맛있게 드세요!</string>
+
+
+    <string name="name56">구운 새운 &amp; 아보카도 꼬치</string>
+    <string name="ingredients56">\n대하 450 g\n아보카도 1.5개\n빨강 피망 1개\n주황 피망 1개\n노랑 피망 1개\n빨강 양파 1개\n마늘 페이스트 1 tsp\n엑스트라 버진 올리브유 &#189; tbsp\n라임 1개\n소금, 후추 </string>
+    <string name="steps56">200°C로 그릴 온도를 설정합니다. 야채와 아보카도를 꼬치용으로 크게 썰어줍니다. 새우 껍질을 벗기고 양념을 합니다. 강한 열에서 꼬치 막대기에 잘 고정되도록 섬유질 채소를 선택하세요. 꼬치를 그릴에 놓고 8&#8211;10분 정도 조리하고 뒤집어서 8&#8211;10분 정도 더 굽습니다. 맛있게 드세요!</string>
+
+
+    <string name="name57">매운 구운 닭 &amp; 달걀 샌드위치</string>
+    <string name="ingredients57">\n닭가슴살 140 g\n달걀 1개\n아루굴라 (로켓) 30 g\n로마토마토 &#189; 개\n염소치즈 1 tbsp\n통밀빵 1개\n코코넛 오일 스프레이\n스모크 파프리카 1 tsp\n카옌 후추 &#189; tsp\n소금\n후추</string>
+    <string name="steps57">닭가슴살에 파프리카, 카옌, 커민, 천일염, 후추로 양념합니다. 통밀빵을 토스트에 놓고 원하는 정도로 굽습니다. 팬에 코코넛 오일을 뿌리고 중불로 가열합니다. 닭가슴살을 팬에 넣고 완전히 조리될 때까지 양쪽으로 굽습니다. 아루굴라, 토마토, 염소치즈, 닭을 넣고 달걀을 넣습니다. 맛있게 드세요!</string>
+
+
+    <string name="name58">금빛 묘약</string>
+    <string name="ingredients58">사과 2개 \n\n중간 사이즈 오렌지 4개, 껍질 제거  \n\n레몬 1개, 껍질 벗긴 것 \n\n생강 5–7cm크기, 껍질 벗긴 것 \n\n강황 5cm크기, 껍질 벗긴 것  \n\n찬물 2 컵  \n\n얼음 1웅큼</string>
+    <string name="steps58">고속 믹서기에 스무디가 되도록 모든 재료를 갈아주며 필요한 경우 추가로 물을 넣어줍니다. 좋은 고출력 믹서기로 스무디 주스를 만드세요. 주스를 원할 경우 재료를 더 부드럽게 만들어주며, 모든 섬유질과 영양소를 유지하면서 재료를 주스로 만들어도 좋습니다. 맛있게 드세요!</string>
+
+
+    <string name="name59">들소 오믈렛 </string>
+    <string name="ingredients59">\n달걀 1개\n달걀 흰자 3개\n간 순살 들소 110 g\n생시금치 30 g\n피망 58 g\n간 모짜렐라 치즈 14 g\n마늘가루\n간 커민\n소금\n후추</string>
+    <string name="steps59">코팅된 팬에 순살 들소를 넣고 조리합니다. 그릇에 달걀에 소금과 후추를 약간 넣고 젓습니다. 다른 코팅된 팬을 중강불에 가열합니다. 댤갈 혼합물을 붓고 팬케이크처럼 조리합니다. 달걀이 완전히 다 조리되도록 뚜껑을 덮습니다. 맛있게 드세요!</string>
+
+
+    <string name="name60">파파야</string>
+    <string name="ingredients60">중간크기 파파야 2개, 잘게 썬 것 \n\n산딸기 1컵 \n\n작은크기 파인애플 ¼  \n\n생강  \n\n우유 1컵  \n\n 그릭요거트 2 tbsp \n\n얼음 1.5 \n\n 장식용 베리</string>
+    <string name="steps60">믹서기에 재료를 넣고 갈아줍니다. 맛있게 드세요!</string>
+
+
+    <string name="name61">라벤더 민트 차</string>
+    <string name="ingredients61">\n라벤더 꽃잎 &#188; 컵\n민트 잎 1 컵\n물 4컵 </string>
+    <string name="steps61">라벤더 꽃잎과 민트 잎을 냄비에 넣고 물을 부어 끓입니다. 불을 약하게 줄이고 향이 원하는 농도로 날 때까지 약 15&#8211;20분 정도 차를 우립니다. 맛있게 드세요!</string>
+
+
+    <string name="name62">건강에 좋은 새우 &amp; 채소 파스타</string>
+    <string name="ingredients62">새우 170 g  \n\n주키니 1개 \n\n당근 2개 \n\n마늘 ½ 조각 다진 것  \n\n빨강 양파 다진 것 ¼  \n\n저염 간장 1 tbsp  \n\n오렌지 주스 ¼  \n\n참기름 ½ tbsp</string>
+    <string name="steps62">주키니와 당근을 채소 파스타처럼 만들 수 있는 채칼이 필요합니다. 다음으로 간장 1tbsp을 넣습니다. 식초를 추가하고 오렌지 ¼에서 주스를 짜서 넣습니다. 마지막으로 참기름 ½ tbsp을 넣습니다. 팬을 중불에 놓고 코코넛 오일을 뿌립니다. 마늘과 빨강 양파를 넣습니다. 새우를 팬에 넣고 숟가락을 이용해서 새우가 마늘과 양파 향이 배도록 빠르게 볶아줍니다. 맛있게 드세요!</string>
+
+
+</resources>

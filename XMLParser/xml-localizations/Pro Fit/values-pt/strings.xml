@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PRO Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">Exercícios</string>
+    <string name="title_2">Treinos</string>
+    <string name="title_3">Personalizado</string>
+    <string name="title_4">Histórico</string>
+    <string name="title_5">Mais</string>
+    <string name="done">Concluído</string>
+    <string name="back">Voltar</string>
+    <string name="titles">Voltar:  </string>
+    <string name="downl_vid">Transferindo vídeo</string>
+    <string name="please_wait">Por favor aguarde...</string>
+    <string name="cancel">Cancelar</string>
+    <string name="edit">Editar</string>
+    <string name="work">Meu Treino</string>
+    <string name="create_plus">Para criar novo treino prima +</string>
+    <string name="save">Guardar</string>
+    <string name="workout_name">Nome do Treino:</string>
+    <string name="days_title">Número de Dias:</string>
+    <string name="delete">Apagar</string>
+    <string name="work_title">Título do Treino:</string>
+    <string name="options">Opções:</string>
+    <string name="camera">Câmara/Galleria</string>
+    <string name="ex_phot_title">Fotos do Exercício</string>
+    <string name="name_desc">Nome, Descrição</string>
+    <string name="ex_name">Nome do Exercício:</string>
+    <string name="desc">Descrição:</string>
+
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+
+    <string name="blanck">Por favor, preencha o campo de texto!</string>
+    <string name="okey">Ok</string>
+    <string name="realy_cancel">Deseja cancelar realmente o processo de transferência? Todo o progresso será eliminado!</string>
+    <string name="download_all">Transfira todos os vídeos</string>
+    <string name="unzip">Descompactar Ficheiros</string>
+    <string name="files">Ficheiros</string>
+    <string name="dow_video">Transferindo Vídeos</string>
+    <string name="video_saved">Todos os vídeos foram guardados com sucesso!</string>
+    <string name="conn">Por favor verifique a sua conexão sem fios!</string>
+
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+
+    <string name="start">Iniciar</string>
+    <string name="weight">Peso(kg)</string>
+    <string name="repetitions">Repetições</string>
+    <string name="set_s">Definir sgundos</string>
+    <string name="wei">Peso</string>
+    <string name="rep">Repetições</string>
+    <string name="wei_rep">Performance</string>
+    <string name="no_history">Nenhum exercício feito até agora</string>
+    <string name="last_val">Últimos valores</string>
+    <string name="send_f">Enviar Feedback</string>
+    <string name="rep_bug">Reportar Falha</string>
+    <string name="tel_fr">Dizer a Amigo</string>
+    <string name="rate_us">Avalie-nos</string>
+    <string name="ad">Adicionar</string>
+
+    <string name="exit">Tem a certeza ?</string>
+    <string name="sdcard">Sem Cartão SD!</string>
+    <string name="post_to">Publique no mural</string>
+    <string name="not_loged">Sem sessão iniciada</string>
+    <string name="log_fail">Falha no Login</string>
+    <string name="posting">Postando </string>
+    <string name="posting_succes">Postado com Sucesso</string>
+    <string name="email_sent">Email Enviado</string>
+    <string name="email_notsent">Email Não Enviado</string>
+
+
+    <string name="s1">4 séries e 15 repetições</string>
+    <string name="s2">4 séries e 12/10/8/6 repetições</string>
+    <string name="s3">5 séries e 3/3/3/2/1 repetições</string>
+
+
+    <string name="dialog_future">Não pode introduzir dados em datas futuras!</string>
+
+    <string name="ex_guide_1">Costas e Peito</string>
+    <string name="ex_guide_2">Pernas e Antebraços</string>
+    <string name="ex_guide_3">Ombros, Tríceps e Bíceps</string>
+    <string name="ex_guide_4">Costas e Tríceps</string>
+    <string name="ex_guide_5">Peito e Bíceps</string>
+    <string name="ex_guide_6">Pernas e Ombros</string>
+    <string name="ex_guide_7">Ciclo 1</string>
+    <string name="ex_guide_8">Ciclo 2</string>
+    <string name="ex_guide_9">Ciclo 3</string>
+    <string name="ex_guide_10">Bíceps e Tríceps</string>
+    <string name="ex_guide_11">Pernas</string>
+    <string name="ex_guide_12">Costas</string>
+    <string name="ex_guide_13">Bíceps</string>
+    <string name="ex_guide_14">Peito</string>
+    <string name="ex_guide_15">Ombros</string>
+    <string name="ex_guide_16">Tríceps</string>
+
+    <string name="ex_name_1">Bicicleta Aérea</string>
+    <string name="ex_desc_1">1. Deite-se de costas e esticado com o fundo das costas pressionado contra o chão. Para este exercício, vai precisar de colocar as mãos ao lado da cabeça. Tenha cuidado no entanto para não fazer tensão no pescoço ao realizar os exercícios. Agora levante os seus ombros até à posição de abdominais.\n\n2. Levante os joelhos até ficar com as coxas perpendiculares ao chão, com as canelas paralelas ao chão. Esta será a sua posição inicial.\n\n3. Agora inicie lentamente um movimento cíclico de pedalar com a perna direita para a frente e puxando o joelho da perna esquerda. Traga o cotovelo direito para perto do joelho esquerdo curvando-se para o lado, enquanto expira.\n\n4. Volte à posição inicial enquanto inspira.\nCurve-se para o lado oposto enquanto faz o movimento cíclico com as pernas e aproxima o seu cotovelo esquerdo do joelho direito e expira.\n\n5. Continue alternando desta forma até completar todas as repetições recomendadas para cada lado.</string>
+
+    <string name="ex_name_2">Elevação de Pernas Pendurado</string>
+    <string name="ex_desc_2">1. Pendure-se numa barra de elevações com ambos os braços esticados junto à cabeça com punhos largos ou médios. As pernas devem estar esticadas com a pélvis ligeiramente inclinada para trás. Esta será a sua posição inicial.\n\n2. Levante as pernas até que fiquem num ângulo de 90 graus com o tronco. Expire enquanto realiza este movimento e mantenha a contração durante um segundo ou mais.\n\n3. Regresse lentamente à posição inicial enquanto inspira.\n\n4. Repita durante o número recomendado de repetições.</string>
+
+    <string name="ex_name_3">Elevação de Joelho-Anca em Barras Paralelas</string>
+    <string name="ex_desc_3">1. Posicione o seu corpo no banco de elevação vertical de pernas de forma a que os seus antebraços fiquem a repousar nas almofadas junto ao tronco e a agarrar nas pegas. Os braços ficarão dobrados a um ângulo de 90 graus.\n\n2. O tronco deve ficar direito com o fundo das costas pressionado contra a almofada da máquina e as pernas esticadas a apontar para o chão. Esta será a sua posição inicial.\n\n3. Agora ao expirar, eleve as pernas mantendo-as esticadas. Continue este movimento até que as suas pernas fiquem praticamente paralelas ao chão e depois mantenha a contração durante um segundo. Dica: não use impulso ou balanço ao realizar este exercício.\n\n4. Volte lentamente à posição inicial enquanto inspira.\n\n5. Faça o número recomendado de repetições.</string>
+
+    <string name="ex_name_4">Levantamento terra com eixo</string>
+    <string name="ex_desc_4">1. A sua postura deve ser de pé com ombros direitos e pés apontados ligeiramente para fora. \n\n2. Deve agora baixar o rabo até que os quadríceps fiquem praticamente paralelos ao chão. A barra deve estar mesmo em frente às suas canelas. Agora agarre na barra com ambas as mãos de forma a que cada uma fique ligeiramente do lado de fora das pernas. \n\n3. Com uma curvatura lombar nas costas, faça força com as pernas e eleve-se com as costas simultaneamente para que a barra passe pelos joelhos e venha repousar junto às suas ancas. Os seus ombros e joelhos devem estar totalmente bloqueados e os braços devem estar esticados durante todo o exercício.</string>
+
+    <string name="ex_name_5">Puxada Horizontal Dobrada com Barra</string>
+    <string name="ex_desc_5">1. Posicione-se de pé com joelhos ligeiramente fletidos. Dobre o tronco a um ângulo de cerca de 45 graus, mantendo as costas direitas. \n\n2. Agarre na barra com as costas das mãos para cima a uma distância entre si superior à largura dos ombros e os braços esticados a partir dos ombros. \n\n3. Inspire, contraia os abdominais de forma isométrica e puxe a barra para cima até tocar no seu peito. \n\n4. Volte à posição inicial enquanto expira.</string>
+
+    <string name="ex_name_6">Puxada Horizontal Dobrada com Dois Pesos</string>
+    <string name="ex_desc_6">1. Agarre num par de pesos e dobre-se para a frente pela cintura, mas mantenha as costas direitas. Mantenha os braços esticados para baixo com as palmas viradas para dentro.\n\n2. Levante os pesos ao lado do peito e devolva-os à posição inicial ao mesmo tempo que mantém as suas costas estáveis e direitas ao longo de todo o exercício.</string>
+
+    <string name="ex_name_7">Queixo acima</string>
+    <string name="ex_desc_7">1. Agarre na barra com as palmas e os dedos virados para a frente, mãos afastadas do corpo. Esta é a chamada posição pronada. \n\n2. Mantenha os braços esticados e fique pendurado para baixo sem balançar. Relaxe os ombros e o resto do corpo. \n\n3. Eleve-se num movimento suave, evite sacudidelas. O queixo deve chegar acima da barra. Desça suavemente até à posição inicial.</string>
+
+    <string name="ex_name_8">Puxada Horizontal com Um Peso num Braço</string>
+    <string name="ex_desc_8">1. Apoie o joelho esquerdo e a mão esquerda num banco plano com a perna direita apoiada firmemente no chão. \n\n2. Incline-se para a frente de forma a que as suas costas fiquem direitas e paralelas ao chão. \n\n3. Agarre num haltere com a mão direita com a palma virada para dentro para o seu corpo e eleve o haltere até junto das suas costelas. Volte à posição inicial e repita.</string>
+
+    <string name="ex_name_9">Puxada Horizontal Invertida</string>
+    <string name="ex_desc_9">1. Posicione-se de pé com joelhos ligeiramente fletidos. Incline o tronco até um ângulo de cerca de 45 graus, mantendo as costas direitas. \n\n2. Agarre na barra por baixo com as mãos a uma distância superior à largura dos ombros e os braços esticados para baixo a partir dos ombros: \n\n3. Inspire, contraia os abdominais de forma isométrica e puxe a barra para cima até tocar no seu peito. \n\n4. Expirando, regresse à posição inicial.</string>
+
+    <string name="ex_name_10">Remos de Cabos Sentado</string>
+    <string name="ex_desc_10">1. Para iniciar o exercício de remos de cabos sentado, segure nas pegas da sua máquina preferida (pode ser como a da imagem). \n\n2. Sente-se com as costas direitas mantendo as pernas fletidas e os pés contra o bloco metálico. \n\n3. Estique os braços sentindo os grandes dorsais alongar. Puxe o peso na direção do seu corpo até que as pegas toquem no seu abdómen.</string>
+
+    <string name="ex_name_11">Puxada de Cabo Supinada</string>
+    <string name="ex_desc_11">1. Prenda uma barra longa à máquina de puxada alta e ajuste as almofadas das coxas para que quando se sentar os seus joelhos fiquem nos ângulos certos e os pés fiquem totalmente apoiados no chão. \n\n2. Agarre na barra com as mãos por baixo e sente-se mantendo a parte superior do corpo numa posição bem direita, inclinando-se ligeiramente para trás a partir das ancas. \n\n3. Puxe a barra em frente à sua cara até ao cimo do seu peito e pare. Lentamente devolva a barra à posição inicial esticando os braços.</string>
+
+    <string name="ex_name_12">Puxada de Barra em V</string>
+    <string name="ex_desc_12">1. Sente-se numa máquina de puxada alta com uma barra em V fixa ao puxador.\n\n2. Ajuste as almofadas dos joelhos para se adaptarem à sua altura. Estas almofadas vão evitar que o seu corpo seja elevado pela resistência presa à barra.\n\n3. Agarre a barra em V com as palmas das mãos viradas uma para a outra (posição neutra). Espete o peito para fora e incline-se ligeiramente para trás (cerca de 30 graus) para melhor ativar os grandes dorsais. Esta será a sua posição inicial.\n\n4. Usando os grandes dorsais, puxe a barra para baixo enquanto comprime as omoplatas. Continue até que o seu peito fique quase a tocar na barra em V. Expire ao executar este movimento. Dica: Mantenha o tronco imóvel durante o movimento.\n\n5. Após manter a posição contraída durante um segundo, leve lentamente a barra até à posição inicial à medida que inspira.\n\n6. Faça o número recomendado de repetições.</string>
+
+    <string name="ex_name_13">Puxada de Pega Larga</string>
+    <string name="ex_desc_13">1. Coloque uma barra longa na máquina de puxada alta e ajuste as almofadas de coxas para que quando se sentar os joelhos fiquem nos ângulos corretos e os pés fiquem bem apoiados no chão. \n\n2. Agarre na barra usando uma pega larga e sente-se mantendo a parte superior do corpo bem direita, inclinando-se ligeiramente para trás a partir das ancas. \n\n3. Puxe a barra em frente à sua cara até ao cimo do peito e pare. Liberte lentamente a barra de volta à posição inicial esticando os braços.</string>
+
+    <string name="ex_name_14">Flexão de Antebraços Invertida com Barra</string>
+    <string name="ex_desc_14">1. Posicione-se de pé com os pés ligeiramente afastados e braços esticados, pegando na barra em posição pronada (polegares virados um para o outro).\n\n2. Inspire e enrole a barra. Expire à medida que completa o movimento. \n\n3. Este exercício trabalha os extensores dos pulsos e dedos. Trabalha os braquiorradiais e, em menor grau, os bíceps.</string>
+
+    <string name="ex_name_15">Flexão de Antebraços de Pé</string>
+    <string name="ex_desc_15">1. Posicione-se de pé com os pés ligeiramente afastados e braços esticados, pegando na barra em posição de supinação (polegares para fora).\n\n2. Inspire e enrole a barra. Expire à medida que completa o movimento. \n\n3. Este exercício trabalha os extensores dos pulsos e dedos. Trabalha os braquiorradiais e, em menor grau, os bíceps.</string>
+
+    <string name="ex_name_16">Flexão de Antebraços com Barra Ez</string>
+    <string name="ex_desc_16">1. Posicione-se de pé com o tronco bem direito enquanto segura numa barra ondulada E-Z pela zona mais próxima virada para dentro. As palmas das suas mãos devem ficar viradas para a frente e devem ficar ligeiramente inclinadas para dentro devido ao formato da barra. Os cotovelos devem ficar junto ao tronco. Esta será a sua posição inicial.\n\n2. Enquanto mantém imóvel a parte de cima dos braços, enrole os pesos para a frente e para cima ao mesmo tempo que contrai os bíceps e expira. Dica: apenas os antebraços se devem mover.\n\n3. Continue o movimento até que os seus bíceps estejam totalmente contraídos e a barra esteja ao nível dos ombros. Mantenha a posição contraída durante um segundo e comprima bem os bíceps.\n\n4. Comece a trazer lentamente a barra para a posição inicial ao mesmo tempo que inspira.\n\n5. Faça o número recomendado de repetições.</string>
+
+    <string name="ex_name_17">Flexão de Antebraços em Banco Scott</string>
+    <string name="ex_desc_17">1. Agarre na barra com as mãos à mesma distância dos ombros. \n\n2. Enrole lentamente a barra para cima até que os seus antebraços fiquem a apontar para o teto (ligeiramente mais que verticais). \n\n3. Pause durante um segundo, depois baixe a barra até à posição inicial.</string>
+
+    <string name="ex_name_18">Rosca em Bloco Inferior</string>
+    <string name="ex_desc_18">1. Coloque uma barra reta na polia de baixo de uma máquina de cabos. \n\n2. Depois, com as mãos à distância dos ombros, agarre a barra por baixo à distância dos seus braços em frente às suas coxas. \n\n3. Os joelhos devem estar ligeiramente fletidos. Puxe a barra em direção ao seu peito até onde puder sem permitir que a parte superior dos braços se mova.</string>
+
+    <string name="ex_name_19">Rosca em Simulador Scott</string>
+    <string name="ex_desc_19">1. Sente-se, agarre nos punhos da alavanca do simulador por baixo, colocando os cotovelos no painel.\n\n2. Inspire e dobre os braços, levantando os punhas da alavanca.\n\n3. Expire no final do movimento.</string>
+
+    <string name="ex_name_20">Rosca Martelo com Halteres</string>
+    <string name="ex_desc_20">1. Segure num haltere em cada mão com as palmas e os pesos virados para dentro. \n\n2. Os seus braços devem formar um ângulo de 90 graus. \n\n3. Mantendo os cotovelos próximos do corpo e numa posição estável, puxe os pesos para cima em direção aos ombros. \n\n4. Desça lentamente os pesos de volta à posição inicial.</string>
+
+    <string name="ex_name_21">Rosca com Halteres Sentado</string>
+    <string name="ex_desc_21">1. Sentado com as costas direitas, deixe os halteres penderem ao seu lado pegando neles em posição de supinação. Mantenha os braços esticados.\n\n2. Levante os halteres mantendo a parte superior dos braços imóvel. Evite usar os ombros durante o movimento. \n\n3. Mantenha a posição durante um segundo, depois volte à posição inicial.</string>
+
+    <string name="ex_name_22">Rosca com Halteres Sentado em Banco Inclinado</string>
+    <string name="ex_desc_22">1. Sente-se num banco inclinado com um haltere em cada mão e braços esticados. Os cotovelos devem estar junto ao tronco.\n\n2. Rode as palmas das mãos de forma a que fiquem viradas para o tronco. Esta será a sua posição inicial.\n\n3. Mantendo a parte superior dos braços imóvel, suba os halteres e comece a girar os pulsos assim que os halteres passarem as coxas para que as palmas das mãos fiquem viradas para trás no final do movimento. Certifique-se de contrair os bíceps enquanto expira e garanta que apenas os antebraços se movem. Continue o movimento até que os seus bíceps estejam totalmente contraídos e os halteres estejam ao nível dos ombros. Mantenha a posição contraída durante um segundo enquanto comprime os bíceps.\n\n4. Comece lentamente a trazer os halteres de volta à posição inicial ao mesmo tempo que inspira e gira os pulsos de volta a uma posição neutra.\n\n5. Faça o número recomendado de repetições.</string>
+
+    <string name="ex_name_23">Rosca com Halteres de Pé</string>
+    <string name="ex_desc_23">1. Posicione-se de pé com os pés à distância das ancas, os abdominais contraídos, enquanto segura num par de halteres de peso médio-pesado ao lado das coxas. \n\n2. Comprima os bíceps e dobre os braços, puxando os pesos na direção dos ombros. Mantenha os cotovelos imóveis e eleve o peso apenas até à altura que conseguir sem mover os cotovelos. \n\n3. Baixe lentamente os pesos, mantendo uma ligeira flexão dos cotovelos ao chegar ao fundo (isto é, não bloqueie as articulações e tente manter a tensão no músculo).</string>
+
+    <string name="ex_name_24">Elevação de Gémeos Sentado</string>
+    <string name="ex_desc_24">1. Ajuste a almofada de forma a que as suas canelas estejam verticais e a almofada assente mesmo acima dos joelhos. \n\n2. Levante o peso elevando os calcanhares com pressão na parte dianteira dos pés. \n\n3. Baixe lentamente os calcanhares até sentir o alongamento dos músculos gémeos. Para ativar os gémeos interiores e exteriores, vire os dedos dos pés para dentro e para fora respetivamente.</string>
+
+    <string name="ex_name_25">Elevação de Gémeos Sentado em Máquina Smith</string>
+    <string name="ex_desc_25">1. Coloque um bloco cerca de 30 cm à frente de um banco plano.\n\n2. Sente-se no banco e coloque a parte dianteira dos pés no bloco.\n\n3. Peça a alguém que coloque a barra sobre a parte superior das suas coxas cerca de 7 cm acima dos seus joelhos e \nmantenha-a aí. Esta será a sua posição inicial.\n\n4. Eleve as pernas o mais alto possível sobre os dedos dos pés ao mesmo tempo que comprime os gémeos e expira.\n\n5. Após uma contração de um segundo, regresse lentamente à posição inicial. Dica: para obter o máximo benefício, alongue os gémeos o máximo que puder.\n\n6. Faça o número recomendado de repetições.</string>
+
+    <string name="ex_name_26">Elevação de Gémeos com Halteres de Pé</string>
+    <string name="ex_desc_26">1. De pé, mantenha o tronco bem direito e segure em dois halteres nas mãos ao lado do corpo. Apoie a parte dianteira dos pés numa plataforma de madeira forte e estável (que tenha 5-7 cm de altura) enquanto os seus calcanhares ficam esticados para fora e a tocar no chão. Esta será a sua posição inicial.\n\n2. Com os dedos dos pés apontados para a frente (para trabalhar todas as zonas por igual), para dentro (para trabalhar mais a zona superior externa) ou para fora (para trabalhar mais a zona superior interna), levante os calcanhares do chão enquanto expira contraindo os gémeos. Mantenha a contração durante um segundo.\n\n3. Ao inspirar, volte à posição inicial baixando lentamente os calcanhares.\n\n4. Repita o número de vezes recomendado.</string>
+
+    <string name="ex_name_27">Elevação de Gémeos em Pé em Máquina Smith</string>
+    <string name="ex_desc_27">1. Coloque um bloco ou disco de um peso no chão por baixo da barra da máquina Smith. Coloque a barra numa posição que se adapte melhor à sua altura. Uma vez escolhida a altura adequada e com a barra já carregada, assente a parte dianteira dos pés no bloco e coloque a barra na parte de trás dos seus ombros.\n\n2. Pegue na barra com as duas mãos viradas para a frente. Rode a barra para a levantar dos suportes. Esta será a sua posição inicial.\n\n3. Eleve os calcanhares o mais alto possível fazendo pressão sobre a parte da frente dos pés, fazendo flexão dos gémeos no pico da contração. Os joelhos devem permanecer esticados. Mantenha a posição contraída durante um segundo antes de começar a descer.\n\n4. Volte lentamente à posição inicial à medida que inspira e baixa os calcanhares.\n\n5. Faça o número recomendado de repetições.</string>
+
+    <string name="ex_name_28">Supino com Barra</string>
+    <string name="ex_desc_28">1. Para realizar de forma adequada um exercício de supino, deve deitar-se de costas num banco e ter os pés bem firmados no chão. A barra, quando ainda no suporte, deve ficar ligeiramente atrás da sua cabeça. É importante ter um spotter para este exercício, sobretudo se estiver a usar uma barra livre ou halteres, para eliminar o risco de deixar cair o peso sobre si mesmo. \n\n2. Assim que tiver levantado o peso do suporte, a barra ficará diretamente acima do centro do seu peito. \n\n3. Mantenha sempre a cabeça pousada no banco durante o movimento. Quando tiver estabilizado a barra, baixe-a lentamente até ao nível do peito, se conseguir fazê-lo. \n\n4. Mantenha os braços apontados para fora à medida que a barra desce. Após chegar à zona mais baixa do exercício, empurre novamente a barra para cima para uma posição esticada, focando-se em direcionar a barra para cima com o peito e os braços.</string>
+
+    <string name="ex_name_29">Supino Declinado com Halteres</string>
+    <string name="ex_desc_29">1. Fixe as pernas na ponta do banco declinado e deite-se com um haltere em cada mão no topo das suas coxas. As palmas das mãos devem ficar viradas uma para a outra.\n\n2. Quando estiver deitado, mova os halteres para a sua frente à largura dos ombros.\n\n3. A essa distância, rode os pulsos para a frente de forma a que as palmas das mãos fiquem viradas para a sua frente. Esta será a sua posição inicial.\n\n4. Traga os halteres lentamente para cada lado. Mantenha o controlo total dos halteres em todos os momentos. Dica: durante os movimentos, os antebraços devem estar sempre perpendiculares ao chão.\n\n5. Ao expirar, empurre os halteres para cima usando os seus músculos peitorais. Bloqueie os braços na posição contraída, comprima o peito, mantenha durante um segundo e depois comece a descer lentamente. Dica: deve demorar pelo menos o dobro do tempo a descer do que a subir.\n\n6. Faça o movimento o número de repetições prescrito para o seu programa de treino.</string>
+
+    <string name="ex_name_30">Crucifixo Declinado com Halteres</string>
+    <string name="ex_desc_30">1. Fixe as pernas na ponta do banco declinado e deite-se com um haltere em cada mão no topo das suas coxas. As palmas das mãos devem ficar viradas uma para a outra.\n\n2. Quando estiver deitado, mova os halteres para a sua frente à largura dos ombros.\n\n3. A essa distância, rode os pulsos para a frente de forma a que as palmas das mãos fiquem viradas para a sua frente. Esta será a sua posição inicial.\n\n4. Traga os halteres lentamente para cada lado ao mesmo tempo que expira. Mantenha o controlo total dos halteres em todos os momentos. Dica: durante os movimentos, os antebraços devem estar sempre perpendiculares ao chão.\n\n5. Ao expirar, empurre os halteres para cima usando os seus músculos peitorais. Bloqueie os braços na posição contraída, comprima o peito, mantenha durante um segundo e depois comece a descer lentamente. Dica: deve demorar pelo menos o dobro do tempo a descer do que a subir.\n\n6. Faça o movimento o número de repetições prescrito para o seu programa de treino.</string>
+
+    <string name="ex_name_31">Supino Declinado</string>
+    <string name="ex_desc_31">1. Deite-se de costas no banco declinado. Pegue na barra em posição pronada. \n\n2. Desça a barra em direção à parte inferior do seu peito mantendo os cotovelos junto ao corpo. A barra deve tocar ligeiramente no seu peito no final do movimento.</string>
+
+    <string name="ex_name_32">Supino com Halteres</string>
+    <string name="ex_desc_32">1. Deite-se no banco com os pés bem assentes no chão para ter estabilidade, com os braços esticados para cima e as mãos viradas uma para a outra segurando nos halteres.\n\n2. Inspire e baixe os halteres até ao nível do peito, dobrando os cotovelos e rodando os antebraços para colocar as mãos em pronação. \n\n3. Empurre os halteres novamente para cima e faça uma contração isométrica para isolar o stress nos peitorais; expire enquanto conclui o movimento.</string>
+
+    <string name="ex_name_33">Crucifixo com Halteres</string>
+    <string name="ex_desc_33">1. Para realizar o crucifixo com halteres, escolha um peso relativamente leve para cada mão. Vai ter que experimentar para determinar quando peso será adequado para fazer o crucifixo com halteres. Comece com um peso mais leve e depois lentamente vá aumentando. \n\n2. Deite-se num banco de pesos e eleve ambos os halteres diretamente para cima acima do peito com os braços esticados. Esta é a sua posição inicial. \n\n3. Abra os dois braços para fora num arco amplo até que os seus braços fiquem para cada lado e para fora. Podem estar ligeiramente dobrados. Esta é a parte do crucifixo. Chama-se assim porque a sua posição forma uma cruz. \n\n4. Siga o mesmo arco para cima até que os halteres voltem à posição inicial. Esta é uma repetição do crucifixo com halteres.</string>
+
+    <string name="ex_name_34">Crucifixo Inclinado com Halteres</string>
+    <string name="ex_desc_34">1. Para realizar o crucifixo com halteres, escolha um peso relativamente leve para cada mão. Vai ter que experimentar para determinar quando peso será adequado para fazer o crucifixo com halteres. Comece com um peso mais leve e depois lentamente vá aumentando. \n\n2. Deite-se num banco de pesos inclinado e eleve ambos os halteres diretamente para cima acima do peito com os braços esticados. Esta é a sua posição inicial. \n\n3. Abra os dois braços para fora num arco amplo até que os seus braços fiquem para cada lado e para fora. Podem estar ligeiramente dobrados. Esta é a parte do crucifixo. Chama-se assim porque a sua posição forma uma cruz. \n\n4. Siga o mesmo arco para cima até que os halteres voltem à posição inicial. Esta é uma repetição do crucifixo com halteres.</string>
+
+    <string name="ex_name_35">Supino Inclinado com Halteres</string>
+    <string name="ex_desc_35">1. Posicione-se sentando-se no banco, agarre nos halteres e deixe-os pousados nas coxas. Ao curvar o corpo para trás para se deitar no banco, use as coxas para ajudar a empurrar os halteres até ao seu peito. \n\n2. Depois estique os braços para cima acima do peito (mantendo os cotovelos ligeiramente dobrados), com as palmas viradas para a frente. Mantenha os pés fixos no chão e as costas em posição neutra (não mais do que um arco ligeiro).\n\n3. Desça os halteres dobrando os cotovelos para os lados e para fora. Continue até que os cotovelos fiquem mesmo abaixo dos seus ombros. Depois empurre os halteres de novo para cima, unindo-os no topo (sem se tocarem) e ligeiramente inclinados para dentro. \n\n4. Mantenha os cotovelos ligeiramente dobrados, não os deixe bloquear. Conclua as suas repetições. Para se levantar, segure nos halteres junto ao peito, lance as pernas para cima e depois para a frente para dar ao corpo impulso para se sentar.</string>
+
+    <string name="ex_name_36">Supino Inclinado</string>
+    <string name="ex_desc_36">1. Este exercício é muito semelhante ao supino normal com barra feito no banco, exceto o facto de aqui se usar uma máquina de supinos de peso livre e de os músculos superiores do peito serem o grupo muscular trabalhado em vez da zona centro do peito. \n\n2. Levante a barra do suporte e baixe-a lentamente até cerca de 8 cm acima da sua clavícula (mesmo abaixo da maçã de Adão) e depois empurre a barra para a posição inicial. \n\n3. NÃO TOQUE NA BARRA COM A PARTE SUPERIOR DO PEITO (isto causa um stress desnecessário nas suas articulações dos ombros e retira a tensão dos seus músculos peitorais superiores, que são aqueles que queremos trabalhar!). \n\n4. Certifique-se de baixar a barra de forma lenta e controlada. Pelo contrário, quando empurra a barra para cima, deve fazê-lo de forma explosiva.</string>
+
+    <string name="ex_name_37">Flexões de Braços</string>
+    <string name="ex_desc_37">1. Deite-se em posição pronada com os braços esticados, as mãos assentes no chão e a uma distância equivalente (ou superior) à dos ombros. \n\n2. Mantenha os pés juntos ou ligeiramente separados. \n\n3. Inspire e dobre os cotovelos para trazer o tronco para perto do chão, evitando hiperextensão extrema da sua coluna. \n\n4. Pressione para se apoiar nos braços, em posição esticada, expirando ao completar o movimento.</string>
+
+    <string name="ex_name_38">Rosca de Pulso com Palmas para Baixo Sobre um Banco</string>
+    <string name="ex_desc_38">1. Sente-se com os antebraços pousados nas suas coxas ou num banco. \n\n2. Pegue na barra em posição pronada com os pulsos esticados de forma passiva. \n\n3. Inspire e enrole o pulso para cima.\n\n4. Expire enquanto completa o movimento.</string>
+
+    <string name="ex_name_39">Rosca de Pulso com Palmas para Cima Sobre um Banco </string>
+    <string name="ex_desc_39">1. Sente-se com os antebraços pousados nas suas coxas ou num banco. \n\n2. Pegue na barra em posição supinada com os pulsos esticados de forma passiva. \n\n3. Inspire e enrole o pulso para cima.\n\n4. Expire enquanto completa o movimento.</string>
+
+    <string name="ex_name_40"> Rosca de Pulso com Palmas para Cima Atrás das Costas e em Pé</string>
+    <string name="ex_desc_40">1. Agarre numa barra por trás das costas usando uma posição supinada e mantendo os braços esticados. Deixe a barra repousar apenas nos seus dedos esticados.\n\n2. Flexione os pulsos para levantar a barra o mais alto possível.\n\n3. Inverta o movimento para baixar a barra.</string>
+
+    <string name="ex_name_41">Lunge com Barra</string>
+    <string name="ex_desc_41">1. Comece por colocar uma barra a passar pelo cimo das suas costas, use uma posição pronada para pegar na barra com as mãos a uma distância ligeiramente superior à dos ombros.\n\n2. Mantenha os pés afastados cerca de 20 cm, dedos virados para a frente.\n\n3. Dê um passo em frente (60-90 cm) mantendo os abdominais encolhidos e o tronco direito.\n\n4. Baixe lentamente um joelho como se fosse ajoelhar, mantendo o outro joelho dobrado a um ângulo de 90 graus e não deixando o joelho tocar no chão.\n\n5. Baixe todo o corpo e mantenha a contração durante um momento antes de regressar à posição inicial. Repita com a outra perna.</string>
+
+    <string name="ex_name_42">Agachamento com Barra</string>
+    <string name="ex_desc_42">1. Este movimento é o mesmo dos agachamentos convencionais, mas as suas pernas devem estar bem separadas com os dedos dos pés a apontar para fora, trabalhando especificamente a zona interior das coxas. \n\n2. Os músculos envolvidos são: - os quadríceps – todos os abdutores – os glúteos – o grupo de isquiotibiais – todos os músculos sacrospinais</string>
+
+    <string name="ex_name_43">Lunge com Halteres</string>
+    <string name="ex_desc_43">1. Posicione-se de pé segurando os halteres ao seu lado. \n\n2. Avance a primeira perna. Pouse primeiro o calcanhar e depois a frente do pé. Baixe o corpo flexionando o joelho e a anca da perna avançada até que o joelho ou a perna de trás fiquem quase em contacto com o chão. \n\n3. Regresse à posição original de pé forçando a anca e o joelho da frente a esticar. Repita alternando com a perna oposta.</string>
+
+    <string name="ex_name_44">Agachamento com Barra à Frente</string>
+    <string name="ex_desc_44">1. Posicione a barra atravessada nos seus deltóides anteriores, mantenha a parte superior dos braços paralela ao chão, dobre os cotovelos, cruze os braços, agarre na barra e olhe em frente.\n\n2. Inspire e agache-se.\n\n3. Volte à posição inicial, expirando enquanto conclui o movimento.</string>
+
+    <string name="ex_name_45">Bom dia</string>
+    <string name="ex_desc_45">1. Pegue numa barra em posição pronada de forma a que fique pousada na parte superior das suas costas e não no pescoço. Afaste os pés à largura dos ombros e flita ligeiramente os joelhos ao mesmo tempo que mantém as costas direitas. \n\n2. Gradualmente dobre-se para a frente pelas ancas para baixar o seu peito ao mesmo tempo que mantém a curvatura natural no fundo das suas costas. Mantenha a cabeça erguida e o mesmo ângulo nos joelhos.\n\n3. Eleve a parte superior do corpo de volta à posição inicial.</string>
+
+    <string name="ex_name_46">Extensões de Pernas</string>
+    <string name="ex_desc_46">1. Eleve lentamente o peso com extensão de ambas as pernas para a frente em posição esticada. Não lance o peso para cima. \n\n2. Mantenha esta posição durante um segundo. Baixe lentamente o peso de volta à posição inicial. Repita o movimento.</string>
+
+    <string name="ex_name_47">Prensa de Pernas</string>
+    <string name="ex_desc_47">1. Sente-se na máquina com as costas e a cabeça no suporte almofadado. Coloque os pés na plataforma à mesma distância das ancas, apoiando bem os calcanhares. \n\n2. As pernas devem formar um ângulo de cerca de 90 graus nos joelhos podendo ter uma pequena variação, desde que os calcanhares fiquem bem assentes na plataforma. \n\n3. Os joelhos devem estar alinhados com os pés e não devem estar inclinados para dentro nem para fora. O rabo não deve ser levantado do suporte almofadado. \n\n4. Se estiver e as pernas formarem um ângulo demasiado pequeno, deverá então ajustar o assento até atingir a posição certa. Reconhecerá a posição incorreta, pois terá a sensação que os joelhos estão quase à frente dos olhos e sentir-se-á apertado. Agarre nas pegas de apoio.</string>
+
+    <string name="ex_name_48">Flexão de Pernas Deitado</string>
+    <string name="ex_desc_48">1. Ajuste a alavanca da máquina para se ajustar à sua altura e deite-se de barriga para baixo na máquina com as almofadas na alavanca na parte de trás das suas pernas (apenas alguns centímetros abaixo dos gémeos). \nDica: De preferência, use uma máquina de flexão de pernas com ângulo em vez de uma reta, pois uma posição angular é mais favorável para recrutamento dos isquiotibiais.\n\n2. Mantendo o tronco direito no banco, garanta que as suas pernas estão bem esticadas e agarre as pegas laterais da máquina. Posicione os dedos dos pés esticados (ou pode usar qualquer uma das outras duas posições descritas na secção de posicionamento de pés). Esta será a sua posição inicial.\n3. Ao expirar, curve as pernas para cima o máximo que puder sem elevar a parte superior das pernas da almofada. Quando atingir a posição totalmente contraída, mantenha-a durante um segundo.\n4. Ao inspirar, traga as pernas de volta à posição inicial. Faça o número recomendado de repetições.</string>
+
+    <string name="ex_name_49">Levantamento Terra Romeno</string>
+    <string name="ex_desc_49">1. Comece de pé segurando numa barra à sua frente à distância dos braços. Pode subir para uma plataforma elevada para aumentar a amplitude de movimento.\n\n2. Comece por fletir ligeiramente os joelhos e depois dobre-se pela anca, deslocando o rabo para trás o máximo possível e baixando o tronco até ao máximo que a sua flexibilidade permitir. As costas devem permanecer em extensão absoluta em todos os momentos e a barra deve permanecer em contacto com as pernas. Se o exercício for feito de forma correta, deve sentir bastante tensão nos isquiotibiais.\n\n3. Faça o movimento inverso para regressar à posição inicial.</string>
+
+    <string name="ex_name_50">Levantamento Terra de Pernas Rígidas com Halteres</string>
+    <string name="ex_desc_50">1. Agarre num par de halteres e mantenha-os ao seu lado em baixo à distância dos braços.\n\n2. Mantenha o tronco direito e erguido e as pernas afastadas, no máximo à mesma distância dos ombros. Os joelhos devem estar ligeiramente fletidos. Esta é a sua posição inicial.\n\n3. Mantendo os joelhos imóveis, baixe os halteres até acima dos seus pés dobrando-se pela cintura e mantendo as costas direitas. Continue a avançar para a frente como se fosse apanhar algo do chão até sentir o alongamento nos isquiotibiais. Expire enquanto realiza este movimento.\n\n4. Comece a subir e a endireitar o tronco novamente esticando as ancas e a cintura até voltar à posição inicial. Inspire enquanto realiza este movimento.\n\n5. Faça o número recomendado de repetições.</string>
+
+    <string name="ex_name_51">Supino Arnold com Halteres</string>
+    <string name="ex_desc_51">1.  Sente-se num banco plano e agarre num par de halteres ao nível dos ombros. As palmas das mãos devem ficar viradas para dentro e os cotovelos devem apontar para o chão.\n\n2. Vire ambos os pulsos para fora até que as palmas fiquem de costas para si. Ao mesmo tempo, estique totalmente os braços acima da cabeça. Mantenha durante um segundo. Volte à posição inicial.</string>
+
+    <string name="ex_name_52">Elevação Traseira Dobrada com Halteres</string>
+    <string name="ex_desc_52">1. De pé, mantenha-se direito enquanto segura num haltere em cada mão em frente a um banco inclinado.\n\n2. Mantendo as costas direitas e a curvatura natural das costas, incline-se para a frente até que a sua testa toque no banco à sua frente. Deixe os braços pender à sua frente e perpendiculares ao chão. As palmas das mãos devem ficar viradas uma para a outra e o tronco deve ficar paralelo ao chão. Esta será a sua posição inicial.\n\n3. Mantendo o tronco inclinado para a frente e imóvel e os braços esticados com uma ligeira dobra nos cotovelos, levante os halteres em linha reta para os lados até que ambos os braços fiquem paralelos ao chão. Expire enquanto levanta os pesos. Cuidado: evite balançar o tronco ou puxar os braços atrás em vez de apenas para os lados.\n\n4. Depois de manter a contração no topo durante um segundo, baixe lentamente os halteres até à posição inicial.\n\n5. Faça o número recomendado de repetições.</string>
+
+    <string name="ex_name_53">Prensa de Ombros com Halteres</string>
+    <string name="ex_desc_53">1. Posicione-se num banco ou cadeira com as costas bem direitas e erguidas. \n\n2. Agarre num haltere em cada mão e segure-os do lado de fora de cada ombro com os polegares a apontar para dentro na direção um do outro. \n\n3. Simplesmente erga os halteres acima da sua cabeça e volte à posição inicial do lado de fora dos ombros.</string>
+
+    <string name="ex_name_54">Elevação Frontal de Halteres</string>
+    <string name="ex_desc_54">1. Posicione-se de pé com os pés ligeiramente afastados. \n\n2. Segure nos halteres com as palmas das mãos para baixo (posição pronada), pousando os halteres nas suas coxas ou ligeiramente do lado de fora.\n\n3. Inspire e levante os halteres para a frente até à altura dos ombros.\n\n4. Expire enquanto completa o movimento.</string>
+
+    <string name="ex_name_55">Elevação Lateral</string>
+    <string name="ex_desc_55">1. Posicione-se de pé com os pés ligeiramente afastados. \n\n2. Mantenha as costas direitas, com os braços pendurados ao lado, segurando num haltere em cada mão. \n\n3. Levante os halteres até ao nível dos ombros, mantendo os cotovelos ligeiramente fletidos. \n\n4. Volte à posição inicial.</string>
+
+    <string name="ex_name_56">Desenvolvimento</string>
+    <string name="ex_desc_56">1. De pé direito e erguido, segure em halteres atrás da cabeça à altura dos ombros com as mãos à mesma distância que os ombros, cotovelos dobrados e as palmas das mãos viradas para a frente.\n\n2. Empurre os halteres até acima da cabeça, esticando completamente os braços. Mantenha as costas direitas e permaneça erguido ao longo do movimento.</string>
+
+    <string name="ex_name_57">Crucifixo em Máquina Peck Deck Invertida</string>
+    <string name="ex_desc_57">1. Sente-se numa máquina peck deck virado para o seu suporte de trás com os braços esticados e a agarras nos punhos.\n\n2. Inspire e force os seus cotovelos para trás, comprimindo as omoplatas na direção uma da outra no final do movimento. \n\n3. Expire enquanto completa o movimento.</string>
+
+    <string name="ex_name_58">Prensa Militar de Pé</string>
+    <string name="ex_desc_58">1. De pé bem erguido, agarre numa barra contra a parte superior do peito à altura dos ombros, com as mãos à mesma largura dos ombros, cotovelos dobrados e palmas das mãos viradas para a frente.\n\n2. Empurre a barra acima da cabeça, esticando totalmente os braços. Mantenha as costas direitas e permaneça bem erguido ao longo do movimento.</string>
+
+    <string name="ex_name_59">Remada Alta com Barra</string>
+    <string name="ex_desc_59">1. De pé, afaste ligeiramente os pés. Mantenha as costas direitas. \n\n2. Pegue na barra em posição de pega pronada com as palmas a uma distância equivalente a duas palmas ou mais. \n\n3. Inspire e puxe a barra diretamente para cima até tocar no seu queixo. \n\n4. Levante os cotovelos o mais alto possível no pico do movimento. \n\n5. Expire e baixe lentamente a barra de volta à posição inicial.</string>
+
+    <string name="ex_name_60">Prensa em Banco com Pega Estreita</string>
+    <string name="ex_desc_60">1. Posicione-se num banco plano de peso livre. \n\n2. Deite-se de costas e agarre na barra acima de si com uma pega muito estreita. \n\n3. Foque-se na manutenção de uma largura de 15-20 cm na sua pega. Levante a barra do suporte e baixe-a lentamente até ficar a cerca de 8 cm acima do seu peito e depois empurre-a novamente para a posição inicial. \n\n4. Certifique-se de que mantém os cotovelos encolhidos junto ao corpo ao longo de toda a amplitude do movimento.</string>
+
+    <string name="ex_name_61">Flexões Diamante</string>
+    <string name="ex_desc_61">1. Coloque-se na posição normal de flexão de braços, mas coloque as mãos diretamente debaixo do seu peito com os dedos polegares e indicadores afastados e a tocarem-se entre si de modo a formarem um “diamante”.\n\n2. Mantenha as costas retas enquanto baixa o corpo até que o seu peito fique quase a tocar nas mãos.\n\n3. Pause e depois levante-se de novo até à posição inicial.</string>
+
+    <string name="ex_name_62">Mergulho</string>
+    <string name="ex_desc_62">1. Para entrar na posição inicial, suspenda o corpo com os braços praticamente bloqueados sobre as barras paralelas.\n\n2. Agora, inspire e baixe-se lentamente. O tronco deve manter-se erguido e os cotovelos devem ficar perto do corpo. Isto ajuda a focar melhor o exercício no envolvimento dos tríceps. Baixe-se até que os braços e antebraços formem um ângulo de 90 graus.\n\n3. Depois, expire e empurre o tronco novamente para cima usando os seus tríceps para trazer o corpo de volta à posição inicial.\n\n4. Realize o movimento pelo número de repetições prescritas.</string>
+
+    <string name="ex_name_63">Extensão de Tríceps em Pé</string>
+    <string name="ex_desc_63">1. Posicione-se de pé imóvel e agarre num haltere com ambas as mãos e segure-o acima da cabeça à distância do braço. Dica: uma maneira melhor será alguém passar-lho, sobretudo se for muito pesado. A resistência deve residir nas palmas das suas mãos com os polegares à sua volta. As palmas das mãos devem ficar viradas para dentro. Esta será a sua posição inicial.\n\n2. Mantendo a parte superior dos braços junto à cabeça (cotovelos encolhidos) e perpendicular ao chão, baixe a resistência num movimento semi-circular atrás da sua cabeça até que os seus antebraços toquem nos bíceps. Dica: A parte superior dos braços deve permanecer imóvel e apenas os antebraços de devem mover. Inspire enquanto realiza este passo.\n3. Volte à posição inicial usando os tríceps para subir o haltere. Expire ao realizar este passo.\n\n4. Faça o número recomendado de repetições.</string>
+
+    <string name="ex_name_64">Extensões de Tríceps Deitado com Barra EZ</string>
+    <string name="ex_desc_64">1. Posicionando a barra acima dos seus olhos, mantenha os tríceps sob alguma tensão enquanto os seus braços estão esticados. \n\n2. Agora, mantenha a parte superior dos braços fixa na posição esticada enquanto dobra os cotovelos e permite ao peso descer de forma controlada na direção da sua testa.</string>
+
+    <string name="ex_name_65">Extensões de Tríceps Sentado com Barra EZ</string>
+    <string name="ex_desc_65">1. Sente-se num banco e agarre numa barra. Mantenha-a à distância dos braços acima da sua cabeça com as palmas juntas viradas para dentro.\n\n2. Mantenha a parte superior dos braços estável à medida que baixa a barra atrás da sua cabeça até que os seus antebraços fiquem paralelos ao chão e depois um pouco mais.\n\n3. Pause, depois comece a esticar os braços para devolver a barra à posição inicial.</string>
+
+    <string name="ex_name_66">Extensões de Tríceps de Pé com Barra EZ</string>
+    <string name="ex_desc_66">1. De pé, afaste os pés a uma distância equivalente à dos ombros e agarre numa barra. Segure-a à distância dos braços sobre a sua cabeça com as palmas juntas viradas para dentro.\n\n2. Mantenha a parte superior dos braços estável à medida que baixa a barra atrás da sua cabeça até que os seus antebraços fiquem paralelos ao chão e depois um pouco mais.\n\n3. Pause, depois comece a esticar os braços para devolver a barra à posição inicial.</string>
+
+    <string name="ex_name_67">Puxada Alta Invertida para Triceps</string>
+    <string name="ex_desc_67">1. Posicione-se de pé virado para a máquina com as mãos na barra e os cotovelos encostados às costelas.\n\n2. Inspire e estique os braços para baixo, mas sem separar os cotovelos do tronco. \n\n3. Expire ao completar o movimento.</string>
+
+    <string name="ex_name_68">Extensão de Triceps Acima da Cabeça com Corda</string>
+    <string name="ex_desc_68">1. Prenda uma corda a uma polia baixa. Depois de selecionar um peso adequado, agarre na corda com ambas as mãos e vire-se de costas para o cabo.\n\n2. Posicione as mãos atrás da cabeça com os cotovelos apontados para cima. Os cotovelos devem começar por estar fletidos e pode ajustar a sua posição e inclinar-se suavemente para o lado oposto ao da máquina para criar maior estabilidade. Esta será a sua posição inicial.\n\n3. Para realizar o movimento, estique os braços pelos cotovelos ao mesmo tempo que mantém a posição da parte superior dos braços, elevando as mãos acima da cabeça.\n\n4. Comprima os tríceps no pico do movimento e baixe lentamente o peso de volta à posição inicial.</string>
+
+    <string name="ex_name_69">Puxada Alta para Tríceps</string>
+    <string name="ex_desc_69">1. Posicione-se de pé de frente para a máquina com as mãos na barra e os cotovelos junto às costelas. \n\n2. Inspire e estique os braços para baixo, mas não separe os cotovelos do tronco. \n\n3. Expire ao mesmo tempo que completa o movimento.</string>
+
+
+    <string name="Abs">Abdominais</string>
+    <string name="Back">Costas</string>
+    <string name="Biceps">Biceps</string>
+    <string name="Calf">Panturrilha</string>
+    <string name="Chest">Peito</string>
+    <string name="Forearms">Antebraços</string>
+    <string name="Legs">Pernas</string>
+    <string name="Shoulders">Ombros</string>
+    <string name="Triceps">Tríceps</string>
+
+    <string name="day">Dia</string>
+    <string name="round">Série</string>
+    <string name="day1">2 dias por semana</string>
+    <string name="day2">3 dias por semana</string>
+    <string name="day3">4 dias por semana</string>
+    <string name="restorePurchases">Restaurar Compras</string>
+    <string name="textUpgrade">Faça upgrade para a versão Premium para desbloquear 50 Novos Exercícios e remover Anúncios</string>
+    <string name="one_day_ADS1">1 Dia SEM ANÚNCIOS</string>
+    <string name="one_day_ADS2">VER VÍDEO PATROCINADO</string>
+    <string name="upgrade">FAÇA UPGRADE AGORA</string>
+    <string name="free">Grátis</string>
+    <string name="tell_friend">Dizer a Amigo</string>
+    <string name="send_feedback">Enviar Feedback</string>
+    <string name="rate_app">Avalie-nos</string>
+    <string name="facebook">Compartilhar aplicativo no Facebook</string>
+    <string name="twitter">Partilhar app no Twitter</string>
+    <string name="ic_googleplay">As nossas outras apps</string>
+    <string name="ic_settings_">Definições</string>
+    <string name="social_follow">Fique conectado com VGFIT</string>
+    <string name="reminder">Lembrete</string>
+    <string name="daily_reminder">Lembrete diário</string>
+    <string name="frequency">Frequência</string>
+    <string name="after_days">Após %1$s dias de inatividade</string>
+    <string name="menu_bt">Botão de menu</string>
+    <string name="units">Unidades</string>
+    <string name="purch_restored">Compras do aplicativo restauradas</string>
+    <string name="success">Sucesso!</string>
+
+    <string name="work_1">Fitness para Principiantes</string>
+    <string name="work_2">Fitness para Transformação do Corpo</string>
+    <string name="work_3">Fitness Geral</string>
+    <string name="work_4">Músculos Opostos</string>
+    <string name="work_5">Mesmo Músculo</string>
+    <string name="work_6">Trisets</string>
+    <string name="work_2header">Superséries</string>
+    <string name="work_1header">Treino</string>
+
+    <string name="doneKey">Concluído</string>
+    <string name="editKey">Editar</string>
+    <string name="intervalsKey">Intervalos</string>
+    <string name="myWorkoutsKey">Os meus exercícios</string>
+    <string name="pauseKey">Pausa</string>
+    <string name="resetKey">Reiniciar</string>
+    <string name="resumeKey">Retomar</string>
+    <string name="roundsKey">Rondas</string>
+    <string name="startKey">Iniciar</string>
+    <string name="currentsetkey">Configurações atuais</string>
+    <string name="resttimekey">Tempo de descanso</string>
+    <string name="worktimekey">Tempo de exercício</string>
+    <string name="minkey">Min</string>
+    <string name="seckey">Seg</string>
+
+    <string name="get_lifetime_access">OBTENHA ACESSO VITALÍCIO</string>
+    <string name="get_workouts_courses_with_powerful_support">Receba treinos 100% prontos com um suporte eficaz!</string>
+    <string name="try_it_now">Experimente Já</string>
+    <string name="new_workoutsN">Novos \nexercícios</string>
+    <string name="monthly_slim">Por mês</string>
+    <string name="only_now">Só agora</string>
+    <string name="start_your_positive_transformation_today">Comece hoje mesmo\na sua transformação positiva!</string>
+    <string name="one_time_payment">pagamento único</string>
+    <string name="_7_day_nfree_trial">"7dias \n de Avaliação Gratuita "</string>
+    <string name="_3_day_nfree_trial">3 dias \ nde Avaliação Gratuita</string>
+    <string name="_3_days_for_free">7 dias GRATUITAMENTE</string>
+    <string name="month">/mês</string>
+    <string name="year">/ano</string>
+    <string name="after">após</string>
+    <string name="nutritionPlanName2">PERDA DE PESO</string>
+    <string name="nutritionPlanName1">PARA GANHAR MÚSCULO</string>
+    <string name="nutrition_plans">Planos nutricionais</string>
+    <string name="title_11">Exercícios</string>
+</resources>

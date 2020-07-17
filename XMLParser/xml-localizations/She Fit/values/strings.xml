@@ -1,0 +1,173 @@
+<resources>
+    <string name="facebook_app_id" translatable="false">1186861024816141</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="app_name">SheFit</string>
+
+    <string name="subscription">We currently offer auto-renewing subscription option: <b>7 days of free trial followed by $4.99 per week</b>. By subscribing, you get unlimited access to 54 at Home Workouts and 7 days Nutritionally balanced recipes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence.\n\nYour subscription will automatically renew at the end of each term and your creditcard will be charged through your Google Play account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That\'s how it works!\n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at  <a href="https://vgfit.com/terms"> https://vgfit.com/terms </a> and our privacy policy at <a href="https://vgfit.com/privacy">https://vgfit.com/privacy</a>\n\nTo manage your subscriptions see this link for a step by step guide: <a href="https://support.google.com/googleplay/answer/7018481">Subscription on Google Play</a></string>
+
+    <string name="subscription_info">Your subscription renew within 24-hours before the subscription period ends, you will be charged through your Google Play account. Manage your subscription in Menu. By continuing you accept our <a href="https://vgfit.com/privacy">Privacy Policy</a> and <a href="https://vgfit.com/terms"> Terms of Service. </a> <a href="http://play.google.com/store/account/subscriptions">Manage subscriptions.</a> </string>
+
+    <string name="name1">Grilled Lemon Dijon Chicken Thighs with Arugula Salad</string>
+    <string name="ingredients1">4 (4 oz.) skinless, boneless chicken thighs \n\n½ tsp salt \n\n¼ tsp ground black pepper \n\n2.5 tbsp olive oil \n\n2 tsp lemon juice \n\n1 tsp minced garlic \n\ncooking spray \n\n1 tbsp balsamic vinegar \n\n1 tsp honey \n\n1 cup grape tomatoes, halved \n\n1 (5 oz.) package baby arugula</string>
+    <string name="steps1">Sprinkle chicken with ¼ teaspoon salt and 1/8 teaspoon pepper. Combine chicken with 1–1.5 teaspoons oil, lemon juice, mustard, and garlic in a bowl, toss to coat. Let stand 4 minutes. Heat a grill pan over medium heat. Coat pan with cooking spray. Add chicken to pan, grill for 5 minutes on each side or until done. Cut chicken into ¼–inch–thick slices. Enjoy!</string>
+
+
+    <string name="name3">Orange Honey Sriracha Chicken</string>
+    <string name="ingredients3">0.1 kg / 0.25 lb. chicken breast \n\n1/8 tbsp sesame oil \n\n12.5 g / 0.4 oz Sriracha sauce \n\nsalt \n\npepper</string>
+    <string name="steps3">Set your grill or oven to 375°F 190°C. In a sealable plastic bag, add the contents for the marinade and mix together well. Taste the marinade and season it to your liking.  Add the chicken to the marinade and place in the refrigerator, for at least 30 minutes. Then, take the chicken from the refrigerator and place it on the grill. Grill for about 15 to 20 minutes until the juices from the chicken run clear. Enjoy!</string>
+
+
+    <string name="name6">Chili Fajitas</string>
+    <string name="ingredients6">1 lb. skinless chicken breast \n\n½ green, red, and yellow bell pepper, thinly sliced \n\n⅓ cup water \n\n2 tsp soy sauce \n\n1 dash salt \n\n1 dash black pepper \n\n2 tbsp olive oil \n\n1 large onion, thinly sliced</string>
+    <string name="steps6">Combine all marinade ingredients with the chicken in a container and refrigerate at least 2 hours. Remove the meat from the marinade and grill over medium flame for 4–5 minutes on each side. Cut meat into thin strips. For the sauce, combine 2 tbsp water, 1 tsp soy sauce, ¼ tsp lime juice, dash salt, dash black pepper, and 1 tbsp olive oil.  Enjoy!</string>
+
+
+    <string name="name10">BBQ Chicken–Wrapped Asparagus</string>
+    <string name="ingredients10">2 chicken breasts thinly cut, 3 oz each piece \n\n12 spears asparagus \n\n2 tbsp bbq sauce 1 pinch smoked paprika \n\n1 pinch garlic powder \n\n1 pinch pepper</string>
+    <string name="steps10">Set oven to 400°F / 200°C. Flatten the chicken with a mallet. Season chicken cutlets with 1 tbsp barbecue sauce (for each piece) and your choice of seasonings. Place the chicken on a grill with the open facing down. Bake in the oven or smoke on a grill for about 8 to 10 minutes. Enjoy!</string>
+
+
+    <string name="name16">Mushroom and Spinach Omelet</string>
+    <string name="ingredients16">1 tbsp olive oil \n\n½ cup chopped shallots \n\n3 garlic cloves, minced \n\n1 (8 oz) package sliced white mushrooms \n\n1 thyme sprig \n\n6 oz fresh baby spinach \n\nsalt \n\nground black pepper \n\n8 large eggs</string>
+    <string name="steps16">Heat a skillet over medium–high heat. Add oil to the pan. Add shallots, garlic, mushrooms, and thyme. Add spinach, sauté until liquid almost evaporates. Combine a pinch of salt and pepper, and 4 eggs in a small bowl, stirring with a whisk. Return pan to medium heat.  Add egg mixture and cook for 1 minute. Lift edges of omelet with a spatula, tilting pan to roll uncooked egg onto the bottom of the pan. Enjoy!</string>
+
+
+    <string name="name20">Teriyaki Chicken and Broccoli</string>
+    <string name="ingredients20">2 cups broccoli florets \n\n1 large chicken breast, diced into cubes \n\n1 tablespoon oil \n\nsalt and pepper \n\n1 bell pepper, sliced \n\n2 cups cooked brown rice \n\n¼ cup light soy sauce \n\n2  tbsp rice wine vinegar \n\n1 garlic clove, minced \n\n½ tsp sesame oil \n\n¼ teaspoon ground ginger</string>
+    <string name="steps20">Heat a large pan over medium–high heat. Add chicken, season with salt and pepper and cook until no longer pink. Whisk all the ingredients for the teriyaki sauce in a small bowl. Add the broccoli florets and bell pepper in the pan. Divide the chicken and broccoli into 4 meal prep containers. Sprinkle with sesame seeds and cover. Enjoy!</string>
+
+
+    <string name="name30">Flaxseed Oatmeal with Blueberries</string>
+    <string name="ingredients30">3 cups water \n\n2 cups rolled oats \n\n3 tbsp ground flaxseed \n\n1/8 tsp salt \n\n¼ cup whole milk \n\n1 cup blueberries \n\n1 tbsp blueberry preserves \n\n½ tsp grated lemon rind \n\n1 tbsp lemon juice</string>
+    <string name="steps30">Bring 3 cups of water to a boil. Stir in oats, add the flaxseed, and salt. Reduce heat to medium–low, cook until tender, stirring frequently. Stir in milk and butter. Meanwhile, combine blueberries and next 4 ingredients in a microwave bowl, microwave at high for 1.5 minutes, stirring every 30 seconds. Divide oatmeal among 4 bowls. Top with blueberries and pecans. Enjoy!</string>
+
+
+    <string name="name37">Spicy &amp; Light Kung Pao Chicken Meal Prep</string>
+    <string name="ingredients37">150 g / 0.3 lb. chicken breast \n\n1/6 clove garlic  \n\n33 g / 1.17 oz snow peas \n\n150 g / 5.17 oz bell pepper \n\n2/3 tbsp water \n\n⅓ tbsp tomato sauce \n\n1/6 tbsp fresh ginger \n\n1/6 tbsp red chili pepper sauce \n\n1/6 tbsp rice vinegar \n\nchopped green onion</string>
+    <string name="steps37">In a bowl, add ingredients for the sauce and whisk. Set a skillet over medium heat and spray with olive oil. When the skillet is hot, toss in garlic and sear for about 2 minutes. Then add chopped chicken breasts. Cook the chicken until the outside of it is seared, about 6 to 8 minutes. Toss in chopped bell peppers and sear for about 3 minutes. Slowly pour in the sauce and stir frequently. Enjoy!</string>
+
+
+    <string name="name40">Healthy Fruity Oatmeal</string>
+    <string name="ingredients40">½ cup oats \n\n1 cup water \n\n1 tbsp honey \n\n1 tbsp vanilla extract \n\n½ tsp ground cinnamon \n\n¼ cup blueberries \n\n4 sliced strawberries \n\n½ banana, cut into slices</string>
+    <string name="steps40">Combine water and oats in a microwave bowl. Microwave on high until oats have absorbed the water. Stir in honey, vanilla extract, and ground cinnamon. Add the blueberries and top with banana and strawberry slices. Enjoy!</string>
+
+
+    <string name="name41">Smoothie with Kiwi, Oranges, and Spinach</string>
+    <string name="ingredients41">a large handful spinach \n\n2 kiwi pieces \n\none mango \n\njuice one orange</string>
+    <string name="steps41">Wash the spinach, cut off the roots. Wash the mango and the kiwis, then cut into small pieces. Whisk all ingredients in a blender until smooth. Enjoy!</string>
+
+
+    <string name="name42">Smoked Salmon Guacamole</string>
+    <string name="ingredients42">1 avocado \n\n57 g / 16 oz smoked salmon \n\n17 g / 0.6 oz red onion, chopped \n\n2 tbsp cilantro, chopped \n\n2 tbsp greek yogurt \n\npepper</string>
+    <string name="steps42">Mash up the avocados in a bowl and combine all the ingredients. Season with mustard, cumin, lemon juice, Greek yogurt and pepper to taste. Enjoy!</string>
+
+
+    <string name="name43">Skinny Fried Egg and Avocado Toast</string>
+    <string name="ingredients43">2 eggs \n\n2 toasted bread slices \n\n1 small avocado \n\n1 tsp lime juice \n\nsalt \n\nblack pepper \n\nparsley</string>
+    <string name="steps43">Prepare toast and fried eggs to personal preference. Peel and mash avocado with the lime juice, salt, and pepper. Spread avocado evenly on each slice of toast then top each with a fried egg and additional seasonings at your preference. Enjoy!</string>
+
+
+    <string name="name44">Sweet Red Pre–Workout Smoothie</string>
+    <string name="ingredients44">1 red apple \n\n½ beet \n\n1 stick celery \n\n3 strawberries \n\n¼ a banana \n\ngreen tea (optional) \n\n41g / 1.5 oz  raspberries \n\n1 tsp ginger (optional)</string>
+    <string name="steps44">Add all ingredients into a blender. Simply blend for about 1 minute to ensure you remove any chunks, then blend until smooth. Simply drink as a snack. Enjoy!</string>
+
+
+    <string name="name45">Garlic Roasted Asparagus With Parmesan</string>
+    <string name="ingredients45">1 lb. fresh asparagus \n\n2 tbsp olive oil \n\n3 tbsp grated parmesan \n\n2 garlic cloves, minced \n\nsalt and pepper</string>
+    <string name="steps45">Trim the asparagus bottoms. Lay the asparagus in the pan and season with salt and pepper and toss in the olive oil. Lay the asparagus on the grill in a row. Grill for 5–10 minutes over medium heat until they have char marks and are tender. Enjoy!</string>
+
+
+    <string name="name46">Homemade Pesto with Shrimp &amp; Zucchini Pasta</string>
+    <string name="ingredients46">12 g / 3/8 oz fresh basil \n7.5 g / &#188; oz raw spinach \n7.5 g / 0.3 oz walnuts \n20 ml / 2.8 fl oz olive oil \n&#189; tbsp parmesan \n&#188; lemon juice \n&#188; clove garlic \nsalt \npepper\n42 g /1.5 oz cooked shrimp \n&#188; zucchini \n2 cherry tomatoes sliced</string>
+    <string name="steps46">Blend in a food processor Pesto ingredients until smooth. In a bowl, julienne raw zucchini linguine with a spiralizer. Add pesto sauce to zucchini linguine and lightly toss using tongs.  Add your choice of protein such as grilled shrimp or chicken, and then add chopped cherry tomatoes. Enjoy!</string>
+
+
+    <string name="name47">Spiced Berry Cobbler Oatmeal</string>
+    <string name="ingredients47">150 g rolled oats, 5.3 oz (cooked)  \n\n49 g blueberries, 1.8 oz  \n\n50 g 1.8 oz blackberries \n\n3 tbsp chopped walnuts \n\n½ tbsp coconut oil \n\n¼ tsp turmeric \n\n¼ tsp allspice \n\n1 packet stevia \"In The Raw\" brand \n\n1 pinch cinnamon \n\n1 tbsp granola</string>
+    <string name="steps47">Cook rolled oats as directed. Set aside. Set a nonstick skillet over medium heat, add coconut oil. Allow the pan to get hot. Toss in the berries. Season the berries with a pinch of cinnamon, and stir. Remove the berries from the heat and allow the sauce to thicken. Mix very well and add a bit more cinnamon if desired. Pour the warm berry syrup on top of the oatmeal. Garnish with fresh granola to add some crunchiness. Enjoy!</string>
+
+
+    <string name="name48">Peach Banana</string>
+    <string name="ingredients48">1 banana \n2 peaches\n&#189; cup vanilla almond milk\n&#189; cup ice cubes \n&#188; tsp cinnamon \nhoney (optional)</string>
+    <string name="steps48">Peel and slice fresh peaches and banana. Pour all ingredients into a blender. Add honey and blend to make the smoothie sweeter if desired. Enjoy!</string>
+
+
+    <string name="name49">Chicken &amp; Pineapple Stir–Fry</string>
+    <string name="ingredients49">110 g chicken breasts, 4 oz \n\n40 g pineapple, 1.4 oz \n\n120 g brown rice, 4.4 oz \n\n⅓ tbsp olive oil \n\n½ tsp brown mustard \n\n1/6 tbsp smoked paprika \n\nsea salt \n\npepper</string>
+    <string name="steps49">Chop the raw chicken breasts into small pieces. Season the chicken pieces with smoked paprika and brown mustard. Add olive oil to a skillet then toss in the chicken breast pieces. Cook for about 4 minutes until the chicken is about 80% finished, then add chopped bell pepper. Cook for another 2 or 3 minutes before adding the diced pineapple. Enjoy!</string>
+
+
+    <string name="name50">Herbal Tea</string>
+    <string name="ingredients50">1 cup water \n1 teaspoon grated fresh ginger \n1 teaspoon grated lime zest \n1 teaspoon lime juice \n3 leaves fresh mint</string>
+    <string name="steps50">Bring water to a boil in a pot stir in rest of the ingredients. Cook and stir until tea is infused. Enjoy!</string>
+
+
+    <string name="name51">Mushroom and Tomato Omelet</string>
+    <string name="ingredients51">4 eggs whites \n\n1 egg \n\n½ cup low–fat cottage cheese \n\n½ cup sliced mushrooms \n\n½ chopped tomato</string>
+    <string name="steps51">Combine eggs and beat lightly. Using a cooking spray, cook eggs in a non–stick pan. Add cottage cheese, mushrooms and tomatoes in the center of omelet. Cook until eggs are set and fold over. Enjoy!</string>
+
+
+    <string name="name52">Spinach Smoothie with Pear and Ginger</string>
+    <string name="ingredients52">3 cups spinach\n2 tbsp lemon juice\n2 tsp ginger \n2 pears\nmint</string>
+    <string name="steps52">Mix all ingredients in a blender and blend until it reaches a smooth consistency. Enjoy!</string>
+
+
+    <string name="name53">Grilled Mexican Corn</string>
+    <string name="ingredients53">4 ears corn \n\n1.5 cups sour cream \n\n1 cup grated parmesan \n\n1 lime, juice \n\nred chili powder \n\n2 limes cut into wedges, for garnish</string>
+    <string name="steps53">Grill the corn turning once on a hot grill until it starts to get slightly charred. In a small bowl mix the mayonnaise, sour cream and cilantro. Squeeze over corn, lime juice and season with parmesan. Sprinkle with chili powder. Enjoy!</string>
+
+
+    <string name="name54">Pineapple Kiwi</string>
+    <string name="ingredients54">4 tbsp water \n\n½ cup milk \n\n½ cup yogurt \n\n1.5 tbsp honey \n\n1 kiwi fruit, peeled \n\n1 cup pineapple chunks \n\n½ a mango \n\n2 ice cubes</string>
+    <string name="steps54">Blend all ingredients at low speed until thick and smooth. Enjoy!</string>
+
+
+    <string name="name55">Citrus Honey Green Tea</string>
+    <string name="ingredients55">1 lemon slice\n2 teaspoons green tea powder \n3/4 cup hot water \n&#189; cup grapefruit juice \n3 tbsp lemon juice \n1 tsp honey</string>
+    <string name="steps55">Stir in the green tea powder and hot water. Add the grapefruit juice, lemon juice, and honey. Mix well and serve with a lemon slice. Enjoy!</string>
+
+
+    <string name="name56">Grilled Shrimp &amp; Avocado Kabobs</string>
+    <string name="ingredients56">450 g / 1 lb jumbo shrimp\n1.5 avocados\n1 red bell pepper\n1 orange bell pepper\n1 yellow bell pepper\n1 red onion\n1 tsp garlic paste \n&#189; tbsp extra virgin olive oil \n1 lime \nsalt, pepper</string>
+    <string name="steps56">Set your grill to about 400°F/200°C. Chop veggies and avocado into large pieces for the kabob. Peel shrimp and season.  Choose fibrous vegetables as they are more filling and will likely hold well on a kabob stick under intense heat. Place the kabobs on the grill and cook for about 8&#8211;10 minutes then flip over and cook for another 8 to 10 minutes. Enjoy!</string>
+
+
+    <string name="name57">Spicy Grilled Chicken &amp; Egg Sandwich</string>
+    <string name="ingredients57">140 g chicken breasts (5 oz), raw\n1 egg \n30 g / 1 oz arugula (rocket) \n&#189; roma tomato \n1 tbsp goat cheese \n1 whole wheat bun \ncoconut oil spray \n1 tsp smoked paprika\n&#189; tsp cayenne pepper\nsalt \npepper</string>
+    <string name="steps57">Season the chicken breast with paprika, cayenne, cumin, sea salt, and pepper. Place whole wheat grain bun in a toaster and cook to desired readiness. Spray a skillet with coconut oil and set over medium&#8211;high heat. Add the chicken breast to the skillet and cook on both sides until the chicken breast is completely cooked. Add arugula, tomato, goat cheese, chicken and then the egg. Enjoy!</string>
+
+
+    <string name="name58">Golden Glow Elixir</string>
+    <string name="ingredients58">2 apples \n\n4 medium oranges, peel removed \n\n1 lemon, peeled \n\n2–3 inch knob fresh ginger, peeled \n\n2–inch knob fresh turmeric, peeled \n\n2 cups cold water \n\n1 handful ice</string>
+    <string name="steps58">In a high–speed blender, blend all ingredients until smooth, adding extra water if needed. A high powered decent blender will turn this into a smooth juice. If you would rather juice the ingredients to make it even smoother, go right ahead to keep all the fiber and nutrients in but juicing the ingredients is just as good. Enjoy!</string>
+
+
+    <string name="name59">Bison Omelette Rollup </string>
+    <string name="ingredients59">1 egg \n3 egg whites \n110 g / 4 oz  lean ground bison\n30 g raw spinach, 1 oz \n58 g / 2.1 oz bell pepper \n14 g / 0.5 oz mozzarella cheese, grated\ngarlic powder \nground cumin \nsalt \npepper</string>
+    <string name="steps59">Season and cook lean bison in a nonstick skillet. In a bowl, whip eggs together with a pinch of sea salt and pepper. Set a separate nonstick skillet over medium&#8211;high heat. Pour in egg mixture and cook like a pancake. Cover the skillet to allow the egg to be cooked in its entirety. Enjoy!</string>
+
+
+    <string name="name60">Papaya</string>
+    <string name="ingredients60">2 medium papayas, pitted &amp; chopped \n\n1 cup raspberries \n\n¼ small pineapple \n\nginger \n\n1 cup milk \n\n 2 tbsp greek yogurt \n\n1.5 cubes ice \n\n berries to top</string>
+    <string name="steps60">Throw ingredients into a blender. Blend until smooth. Enjoy!</string>
+
+
+    <string name="name61">Lavender Mint Tea</string>
+    <string name="ingredients61">&#188; cup fresh lavender petals \n1 cup fresh mint leaves\n4 cups water</string>
+    <string name="steps61">Place lavender petals and mint leaves into a saucepan, pour water over and bring to a boil. Turn heat to low and simmer tea until flavor is your desired strength, 15 to 20 minutes. Enjoy!</string>
+
+
+    <string name="name62">Healthy Shrimp &amp; Veggie Pasta</string>
+    <string name="ingredients62">170 g/ lb. shrimp \n\n1 zucchini \n\n2 carrots \n\n½ clove garlic chopped \n\n¼ red onion chopped \n\n1 tbsp low–sodium soy sauce \n\n¼ orange juice \n\n½ tbsp sesame oil</string>
+    <string name="steps62">You’ll need a Julienne peeler to slice the zucchini and carrots to make the veggie pasta. Next, add 1 tablespoons of soy sauce. Then, add cider vinegar and squeeze the juice from ¼ an orange. Lastly, add ½ tbsp of sesame oil. Set a skillet a medium heat and spray with coconut oil. Toss in garlic and red onion.  Add the shrimp to the skillet and stir quickly with a spoon to make sure that all of the shrimp absorbs the flavor of the garlic and onions. Enjoy!</string>
+    <string name="weather_location">Please allow ‘she fit’ get access to your location, you will receive weather information when you using the app.</string>
+
+
+    <string name="simple_activity_transition">simple_activity_transition</string>
+    <string name="simple_fragment_transition">simple_fragment_transition</string>
+
+    <string name="conn">Please check your wi-fi or cellular internet connection!</string>
+
+</resources>

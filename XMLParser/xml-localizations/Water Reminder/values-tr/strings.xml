@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Water Reminder</string>
+	<string name="welcome">hoş geldiniz</string>
+	<string name="info_input_text">başlamadan önce lütfen bilgilerinizi girin</string>
+	<string name="units_of_measure">ölçüm birimleri</string>
+	<string name="gender">cinsiyet</string>
+	<string name="weight">ağırlık</string>
+	<string name="training">antrenman</string>
+	<string name="wake_up">uyanma</string>
+	<string name="sleep">uyuma</string>
+	<string name="metric">metrik</string>
+	<string name="imperial">ingiliz ölçüsü</string>
+	<string name="kg">kg</string>
+	<string name="lbs">lbs</string>
+	<string name="ml">ml</string>
+	<string name="l">l</string>
+	<string name="oz">oz</string>
+	<string name="male">erkek</string>
+	<string name="female">kadın</string>
+	<string name="receive_notifications_from">bildirim başlangıç saati</string>
+	<string name="receive_notifications_until">bildirim sonlanma saati</string>
+	<string name="done">bitti</string>
+	<string name="reset_to_recommended">tavsiye edilen ayara geri dön</string>
+	<!-- mainviewcontroller -->
+	<string name="today">bugün</string>
+	<string name="add_drink">içecek ekle</string>
+	<string name="select_drink">içecek seç</string>
+	<string name="of">/</string>
+	<string name="are_you_sure_you_want_to_delete_selected_drink">seçili içeceği silmek istediğinizden emin misiniz?</string>
+	<string name="cancel">iptal</string>
+	<string name="ok">tamam</string>
+	<string name="delete_drink">içeceği sil</string>
+	<string name="edit_drink">içeceği düzenle</string>
+	<!-- tabbarcontroller -->
+	<string name="home">ana sayfa</string>
+	<string name="remind">hatırlat</string>
+	<string name="history">geçmiş</string>
+	<string name="settings">ayarlar</string>
+	<!-- reminderviewcontroller -->
+	<string name="reminder_type">hatırlatıcı tipi</string>
+	<string name="every">her</string>
+	<string name="minutes">dakika</string>
+	<string name="hour">saat</string>
+	<string name="hours">saat</string>
+	<string name="save">kaydet</string>
+	<string name="sound">ses</string>
+	<!-- historyviewcontrolelr -->
+	<string name="week">hafta</string>
+	<string name="month">ay</string>
+	<string name="week_of">haftası</string>
+	<!-- settingsviewcontroller -->
+	<string name="default_drink_size">varsayılan içecek boyutu</string>
+	<string name="rate_the_app">uygulamaya puan ver</string>
+	<string name="contact_us">bizimle iletişime geçin</string>
+	<string name="share_app">uygulamayı paylaş</string>
+	<string name="other_apps">diğer uygulamalar</string>
+	<string name="achievements">başarılar</string>
+	<!-- contact us -->
+	<string name="enter_text_message">metin mesajı girin</string>
+	<!-- getfullversionviewcontroller -->
+	<string name="buy">satın alın</string>
+	<string name="no_ads">reklam yok</string>
+	<string name="restore_purchases">satın alınanları yenile</string>
+	<string name="notifications_sound">bildirim sesleri</string>
+	<string name="more_drinks">daha fazla içecek</string>
+	<string name="water_plays_a_very_important_role_in_your_body_use_the_app_effectively_and_lead_an_active_lifestyle">su, vücudunuzda çok önemli bir role sahiptir. bu uygulamayı etkin bir şekilde kullanın ve yaşam biçiminizi aktif hale sokun.</string>
+	<string name="remind_drinking_water_on_time_more_effectively_without_the_distraction_of_ads">reklamlarla uğraşmadan su içme hatırlatmasını zamanında ve etkin şekilde kullanın.</string>
+	<string name="choose_your_special_tone_for_notification_not_to_miss_anything">unutmamak için bildiriminizi özel bir tonda ayarlayın</string>
+	<string name="add_multiple_types_of_drinks_to_get_precise_result">en iyi sonuçları elde etmek için birden fazla türde içecek ekleyin</string>
+	<!-- otherappsviewcontroller -->
+	<!-- achievements -->
+	<string name="first_glass">ilk bardak</string>
+	<string name="first_day">ilk gün</string>
+	<string name="one_week">bir hafta</string>
+	<string name="_30_days">30 gün</string>
+	<string name="_100_days">100 gün</string>
+	<string name="_365_days">365 gün</string>
+	<string name="congratulations">tebrikler!</string>
+	<string name="you_got_an_award">bir ödül kazandınız!</string>
+	<string name="see_all_awards">bütün ödülleri görün</string>
+	<string name="share_with_friends">arkadaşlarınızla paylaşın</string>
+	<string name="you_earned_this_award_for_your_first_glass">ilk bardağınızı içtiğiniz için bu ödülü kazandınız</string>
+	<string name="you_earned_this_award_for_your_first_day">ilk gününüzü tamamladığınız için bu ödülü kazandınız</string>
+	<string name="you_earned_this_award_for_completing_your_first_week">ilk haftayı tamamladığınız için bu ödülü kazandınız</string>
+	<string name="you_earned_this_award_for_completing_your_first_30_days">ilk 30 günü tamamladığınız için bu ödülü kazandınız</string>
+	<string name="you_earned_this_award_for_completing_your_first_100_days">ilk 100 günü tamamladığınız için bu ödülü kazandınız</string>
+	<string name="you_earned_this_award_for_completing_your_first_365_days">ilk 365 günü tamamladığınız için bu ödülü kazandınız</string>
+	<!-- drinks -->
+	<string name="water">Su</string>
+	<string name="coffee">Kahve</string>
+	<string name="tea">Çay</string>
+	<string name="milk">Süt</string>
+	<string name="orange_juice">Portakal Suyu</string>
+	<string name="soda">Soda</string>
+	<string name="wine">Şarap</string>
+	<string name="other">Diğer</string>
+	<string name="beer">Bira</string>
+	<string name="coconut_water">Hindistan Cevizi Suyu</string>
+	<string name="energy_drink">Enerji İçeceği</string>
+	<string name="yogurt">Yoğurt</string>
+	<string name="smoothie">Smoothie</string>
+	<string name="hot_chocolate">Sıcak Çikolata</string>
+	<string name="kefir">Kefir</string>
+	<string name="cacao">Kakao</string>
+	<string name="chicory">Chicory</string>
+	<string name="milkshake">Milkshake</string>
+	<string name="bouillon">Bouillon</string>
+	<string name="ayran">Ayran</string>
+	<string name="cranberry">Yaban Mersini</string>
+	<string name="compote">Compote</string>
+	<string name="sport_drink">Sporcu İçeceği</string>
+	<string name="protein">Protein Takviyesi</string>
+	<string name="kvass">Kvass</string>
+	<string name="lemonade">Limonata</string>
+	<string name="kombucha">Kombucha</string>
+	<string name="kissel">Kissel</string>
+	<string name="mate">Mate</string>
+	<string name="latte">Latte</string>
+	<string name="whisky">Sert içecek</string>
+	<string name="soya_milk">Soya sütü</string>
+	<string name="cider">Elma şarabı</string>
+	<string name="barley_drink">Arpa İçecek</string>
+	<string name="spritz">Spritz</string>
+	<string name="bubble_tea">Kabarcık çay</string>
+	<string name="decaf_coffee">Kafeinsiz kahve</string>
+	<string name="oolong_tea">Oolong çayı</string>
+	<string name="non_alc_beer">Alkolsüz Bira</string>
+	<string name="intake_time">Emme süresi</string>
+	<string name="cappuccino">Cappuccino</string>
+	<string name="herbal_tea">Bitki çayı</string>
+	<string name="sparkling_water">Maden suyu</string>
+	<string name="cola">Kola</string>
+	<string name="slurpee">Slurpee</string>
+	<string name="flat_white">Flat White</string>
+	<string name="oatmeal_drink">Yulaf içeceği</string>
+	<string name="sake">Sake</string>
+	<string name="matcha">Matcha</string>
+	<string name="sangria">Sangria</string>
+	<string name="mojito">Mojito</string>
+	<string name="cucumber_water">Salatalık Suyu</string>
+	<string name="lemon_water">Limon Suyu</string>
+	<string name="ice_tea">Soğuk çay</string>
+	<string name="kool_aid">Kool-Aid</string>
+	<string name="almond_milk">Badem sütü</string>
+	<string name="aloe_juice">Aloe Suyu</string>
+	<string name="tonic_water">Tonik</string>
+	<string name="chai_tea">Chai çayı</string>
+	<string name="rice_drink">Pirinç içeceği</string>
+	<string name="diet_coke">Diyet kola</string>
+	<string name="zero_coke">Sıfır kola</string>
+	<string name="lowfat_milk">Az yağlı süt</string>
+	<string name="mors">Mors</string>
+	<string name="golden_milk">Altın Süt</string>
+	<string name="buttermilk">Yağlı süt</string>
+	<string name="cordial_juice">Meyve Suyu</string>
+	<string name="apple_juice">Elma suyu</string>
+
+	<!-- new -->
+	<string name="upgrade">yükselt</string>
+	<string name="everyday">her gün</string>
+	<string name="reminder_alert_title">alarm, saat %1$s ve %2$s arasında etkinleştirildi</string>
+	<string name="first_notification_text">su uyarısı: daha fazla su için</string>
+	<string name="second_notification_text">su içme zamanı</string>
+	<string name="third_notification_text">vücudunuzun suya ihtiyacı var, su için.</string>
+	<string name="required_water_consumption_text">her gün %s su içmeniz önemlidir \nancak isterseniz bu rakamı değiştirebilirsiniz</string>
+	<string name="drink_enough_water_txt">bu harika uygulamayı kullanarak yeteri kadar su iç ve sağlıklı ol %s</string>
+
+	<string name="enable_noty_query">Bildirimlere erişim devre dışı bırakıldı</string>
+	<string name="enable_noty">Etkinleştirme</string>
+	<string name="get_lifetime_access">YAŞAM BOYU ERİŞİM ELDE EDİN</string>
+</resources>

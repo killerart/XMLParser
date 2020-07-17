@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Female Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="buffering" translatable="false">buffering</string>
+
+    <string name="facebook_key_banner" translatable="false">1516131065070347_1516132408403546</string>
+    <string name="facebook_key_interstial" translatable="false">1516131065070347_1516132548403532</string>
+    <string name="admob_key_banner" translatable="false">ca-app-pub-1033168981021068/5932159834</string>
+    <string name="admob_key_interstitial" translatable="false">ca-app-pub-1033168981021068/6289609835</string>
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-1033168981021068~4455426630</string>
+    <string name="ad_unit_id" translatable="false">ca-app-pub-1033168981021068/5548168943</string>
+
+    <string name="soma_ID_APP" translatable="false">1100030699</string>
+
+    <string name="soma_key_banner_phone" translatable="false">130238748</string>
+    <string name="soma_key_banner_tab" translatable="false">130238751</string>
+
+    <string name="soma_key_interst_phone" translatable="false">130238749</string>
+    <string name="soma_key_interst_tab" translatable="false">130238750</string>
+    <string name="admob_key_reward" translatable="false">ca-app-pub-1033168981021068/6995123432</string>
+
+    <string name="app_id" translatable="false">1457812561100616</string>
+    <string name="facebook_app_id" translatable="false">663904200412901</string>
+    <string name="title_1">Exercises</string>
+    <string name="title_2">Workouts</string>
+    <string name="title_3">Custom</string>
+    <string name="title_4">History</string>
+    <string name="title_5">More</string>
+    <string name="title_6" translatable="false">Reminder</string>
+    <string name="title_7" translatable="false">Units: kg</string>
+    <string name="title_8" translatable="false">Units: lbs</string>
+    <string name="done">Done</string>
+    <string name="back">Back</string>
+    <string name="titles">Title:  </string>
+    <string name="downl_vid">Downloading video</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit" translatable="false">Edit</string>
+    <string name="work">My Workout</string>
+    <string name="create_plus">To create new workout press +</string>
+    <string name="save">Save</string>
+    <string name="workout_name">Workout Name:</string>
+    <string name="days_title">Days Number:</string>
+    <string name="delete">Delete</string>
+    <string name="work_title">Workout Title:</string>
+    <string name="options">Options:</string>
+    <string name="camera">Camera/Gallery</string>
+    <string name="ex_phot_title">Exercise’s Photos</string>
+    <string name="name_desc">Name, Description</string>
+    <string name="ex_name">Exercise Name:</string>
+    <string name="desc">Description:</string>
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>fsadfasd
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+    <string name="blanck">Please fill up the text field!</string>
+    <string name="okey">OK</string>
+    <string name="realy_cancel">Do you really want to cancel the download process? All downloaded videos will be lost!</string>
+    <string name="download_all">Download All Videos</string>
+    <string name="unzip">Unziping Files</string>
+    <string name="files">Files</string>
+    <string name="dow_video">Downloading Videos</string>
+    <string name="video_saved">All videos were saved succesfully!</string>
+    <string name="conn">Please check your wi-fi or cellular internet connection!</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+    <string name="start">Start</string>
+    <string name="weight">Weight(kg)</string>
+    <string name="repetitions">Repetitions</string>
+    <string name="set_s">Set seconds</string>
+    <string name="wei">Weight</string>
+    <string name="rep">Repetitions</string>
+    <string name="wei_rep">Performance</string>
+    <string name="no_history">No exercises have been done yet</string>
+    <string name="last_val">Last values</string>
+    <string name="send_f">Send Feedback</string>
+    <string name="rep_bug">Report a Bug</string>
+    <string name="tel_fr">Tell a Friend</string>
+    <string name="rate_us">Rate us</string>
+    <string name="ad" translatable="false">Add</string>
+
+    <string name="exit">Are you sure?</string>
+    <string name="info">Choose your actual body shape.</string>
+    <string name="sdcard" translatable="false">No SDCard!</string>
+    <string name="post_to" translatable="false">Post to wall</string>
+    <string name="not_loged" translatable="false">Not Logged</string>
+    <string name="log_fail" translatable="false">Login Failed</string>
+    <string name="posting" translatable="false">Posting </string>
+    <string name="posting_succes" translatable="false">Posted Successfully</string>
+    <string name="email_sent" translatable="false">Email Sent</string>
+    <string name="email_notsent" translatable="false">Email Not Sent</string>
+    <string name="change_db" translatable="false">Wait...Changing DB</string>
+
+    <string name="reps1">3 sets and 12/12/12 reps</string>
+    <string name="reps2">3 sets and 15/15/15 reps</string>
+    <string name="reps3">3 sets and 20/20/20 reps</string>
+    <string name="reps4">3 sets and 30/30/30 reps</string>
+
+    <string name="rek1" translatable="false">Women Fitness Miss Bikini</string>
+    <string name="rek2" translatable="false">6 Pack Abs</string>
+    <string name="rek3" translatable="false">Go Fitness</string>
+    <string name="rek4" translatable="false">Yoga</string>
+    <string name="app_name_fast">Fitness &amp; Bodybuilding</string>
+    <string name="wk1">You tend to hold excess body fat in your waists, arms and breasts with very little body fat stored in your lower body. Get in shape quickly with intense combined exercises for upper body.</string>
+    <string name="wk2">You are stick straight with very few curves. Add more shape to your waist and sculpt your glutes with this workout plan for banana body types.</string>
+    <string name="wk3">Your bust and hips are larger compared to your waist. Add full-body muscle tone and shape up those arms and legs with this curves-a-licious workout</string>
+    <string name="wk4">You have broad shoulders and narrow hips. Tighten your core, and add some shape to your butt and thighs with this inverted triangle-body-type workout.</string>
+    <string name="wk5">You are a bit wider on the bottim than you are on top. Tone your arms and shoulders, and get tighter all over with our pear-friendly workout.</string>
+    <string name="dialog_future">You can\'t input data for future dates.</string>
+
+    <string name="ex_guide_1">Apple</string>
+    <string name="ex_guide_2">Banana</string>
+    <string name="ex_guide_3">Hourglass</string>
+    <string name="ex_guide_4">Inverted Triangle</string>
+    <string name="ex_guide_5">Pear</string>
+    <string name="ex_name_1">Fitball Twisting Crunch</string>
+    <string name="ex_desc_1">Preparation: Sit on exercise ball. Walk forward on ball and lie back on ball with shoulders and head hanging off and knees and hips bent. Gently hyperextend back to contour of ball. Hold plate behind neck or on chest with both hands or use no weight. Flex waist to raise upper torso. Return to original position. Repeat.</string>
+    <string name="ex_name_2">Stability Ball Plank Pike-Up</string>
+    <string name="ex_desc_2">Place an exercise ball nearby and lay on the floor in front of it with your hands on the floor shoulder width apart in a push-up position. Now place your lower shins on top of an exercise ball. Tip: At this point your legs should be fully extended with the shins on top of the ball and the upper body should be in a push-up type of position being supported by your two extended arms in front of you. This will be your starting position: - While keeping your back completely straight and the upper body stationary, raise your glutes toward the ceiling, squeezing your abs tightly to close the distance between your ribcage and hips. The end result will be that you\'ll end up in a high bridge position. - Exhale as you perform this portion of the movement. - Lower back down slowly to your starting position as you breathe in. Tip: Don\'t let your back sag downwards. Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_3">Toe Touchers</string>
+    <string name="ex_desc_3">To begin, lie down on the floor or on an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down. Your legs should be touching each other. Slowly elevate your legs up in the air until they are almost perpendicular to the floor with a bend at the knees 90. While keeping your lower back pressed against the floor, slowly lift your torso and use your hands to try and touch your toes. Remember to exhale while perform this part of the exercise. Slowly begin to lower your torso and arms back down to the starting position while inhaling. Remember to keep your arms straight out pointing towards your toes. Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_4">Leg Pull-In</string>
+    <string name="ex_desc_4">Lie on an exercise mat with your legs extended and your  palms facing down next to you. This will be your starting position: - Slowly lift your torso with your back pressed against  the floor. Remember to exhale while perform this part of the exercise. - Bend your knees and pull your upper thighs into your midsection as you breathe out. Continue the motion until your knees are around chest level. - Contract your abs as you execute this movement and hold for a second at the top. Tip: As you perform the motion, the lower legs (calves) should always remain parallel to the floor. - Return to the starting position as you inhale. Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_5">Plank &amp; Push-Up (Up-Down PLANK)</string>
+    <string name="ex_desc_5">Start this exercise in high plank at the top of a push up position. Make sure your hands are right under your shoulders, your legs are straight &amp; your core is engaged (position 1). Hold this position for 15 seconds. Lower to your forearms without dropping to your knees. Bring one forearm down to the mat at a time, into low plank. With your forearms parallel, hold this position for 15 seconds (position 2). Then return back to the high plank position with both arms straight.</string>
+    <string name="ex_name_6">Mountain Climber</string>
+    <string name="ex_desc_6">Assume a pushup position with your arms completely straight. Your body should form a straight line from your head to your ankles [A]. Without allowing your lower-back posture to change, lift your right foot off the floor and slowly move your right knee toward your chest [B]. Return to the starting position, and repeat with your left leg. Alternate back and forth for the duration of the set.</string>
+    <string name="ex_name_7">Lying Side Crunch</string>
+    <string name="ex_desc_7">Lie on your right side with the left hand on the side of the head and legs slightly raised, left over right. Proceed to lift your torso upward and back down, using your right elbow to maintain stability. Pause, then return to starting position.</string>
+    <string name="ex_name_8">V-Up</string>
+    <string name="ex_desc_8">Lay flat on your back and extend your arms over your head. You do not need to clasp your hands together for this exercise. In a slow, controlled motion, simultaneously lift your arms and legs, so that they meet at the midpoint of your torso.  Extend back to the starting position in a slow, controlled motion. Keep your gaze towards the ceiling.</string>
+    <string name="ex_name_9">Bench Jump</string>
+    <string name="ex_desc_9">Begin with a box or bench 1-2 feet in front of you. Stand with your feet shoulder width apart. This will be your starting position: - Perform a short squat in preparation for the jump; swing your arms behind you. - Rebound out of this position, extending through the hips, knees, and ankles to jump as high as possible. - Swing your arms forward and up.- Jump over the bench, landing with the knees bent, absorbing the impact through the legs. - Turn around and face the opposite direction, then jump back over the bench.</string>
+    <string name="ex_name_10">Seated Cable Rows</string>
+    <string name="ex_desc_10">For this exercise you will need access to a low pulley row machine with a V-bar. Note: The V-bar will enable you to have a neutral grip where the palms of your hands face each other. To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked. Lean over as you keep the natural alignment of your back and grab the V-bar handles. With your arms extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched and your chest should be sticking out. You should be feeling a nice stretch on your lats as you hold the bar in front of you. This is the starting position of the exercise: - Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it until you touch the abdominals. - Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard. - Hold that contraction for a second and slowly go back to the original position while breathing in. Repeat for the recommended amount of repetitions. Caution: Avoid swinging your torso back and forth as you can cause lower back injury by doing so.</string>
+    <string name="ex_name_11">Wide-Grip Lat Pulldown</string>
+    <string name="ex_desc_11">Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar. Grab the bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width. As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position: - As you breathe out, bring the bar down until it touches your upper chest by drawing the shoulders and the upper arms down and back. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. - The upper torso should remain stationary and only the arms should move. - The forearms should do no other work except for holding the bar; therefore do not try to pull down the bar using the forearms. After a second at the contracted position squeezing your shoulder blades together, slowly raise the bar back to the starting position when your arms are fully extended and the lats are fully stretched. - Inhale during this portion of the movement. Repeat this motion for the prescribed amount of repetitions.</string>
+    <string name="ex_name_12">Hyperextensions (Back Extensions)</string>
+    <string name="ex_desc_12">Lie face down on a hyperextension bench, tucking your ankles securely under the footpads. Adjust the upper pad if possible so your upper thighs lie flat across the wide pad, leaving enough room for you to bend at the waist without any restriction. With your body straight, cross your arms in front of you or behind your head. This will be your starting position: Tip: You can also hold a weight plate for extra resistance in front of you under your crossed arms. - Start bending forward slowly at the waist as far as you can while keeping your back flat. - Inhale as you perform this movement. - Keep moving forward until you feel a nice stretch on the hamstrings and you can no longer keep going without a rounding of the back. Tip: Never round the back as you perform this exercise. Also, some people can go farther than others. The key thing is that you go as far as your body allows you to without rounding the back. - Slowly raise your torso back to the initial position as you inhale. Tip: Avoid the temptation to arch your back past a straight line. Also, do not swing the torso at any time in order to protect the back from injury. Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_13">Assisted Pull-Up</string>
+    <string name="ex_desc_13">Step up and grasp bar with wide overhand grip. Step down onto assistance lever or platform. Some assisted machines require you to kneel on platform. If no assisted machine is used, assist as needed by allowing training partner to pull feet up behind legs or push self up with legs on elevation. Range of motion will decrease if grip is too wide.</string>
+    <string name="ex_name_14">Bent Over Two-Dumbbell Row</string>
+    <string name="ex_desc_14">With a dumbbell in each hand (palms facing your torso), bend your knees slightly and bring your torso forward by bending at the waist; as you bend make sure to keep your back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The weights should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position: - While keeping the torso stationary, lift the dumbbells to your side (as you breathe out), keeping the elbows close to the body (do not exert any force with the forearm other than holding the weights). - On the top contracted position, squeeze the back muscles and hold for a second. - Slowly lower the weight again to the starting position as you inhale. Repeat for the recommended amount of repetitions. Caution:This exercise is not recommended for people with back problems. A Low Pulley Row is a better choice for people with back issues. Ensure perfect form and never round the back as this can promote back injury. Be cautious with the weight used; in case of doubt, use less weight rather than more.</string>
+    <string name="ex_name_15">Stiff Leg Barbell </string>
+    <string name="ex_desc_15">This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it. Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso. Step away from the rack and position your legs using a shoulder width medium stance. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. This will be your starting position: - Keeping your legs stationary, move your torso forward by bending at the hips while inhaling. - Lower your torso until it is parallel with the floor. - Begin to raise the bar as you exhale by elevating your torso back to the starting position. Repeat for the recommended amount of repetitions. Caution: This is not an exercise to be taken lightly. Be cautious with the weight used; in case of doubt, use less weight rather than more. The stiff-legged barbell good morning is a very safe exercise but only if performed properly.</string>
+    <string name="ex_name_16">Reverse Flyes</string>
+    <string name="ex_desc_16">To begin, lie down on an incline bench with the chest and stomach pressing against the incline. Have the dumbbells in each hand with the palms facing each other (neutral grip). Extend the arms in front of you so that they are perpendicular to the angle of the bench. The legs should be stationary while applying pressure with the ball of your toes. This is the starting position: - Maintaining the slight bend of the elbows, move the weights out and away from each other (to the side) in an arc motion while exhaling. Tip: Try to squeeze your shoulder blades together to get the best results from this exercise. - The arms should be elevated until they are parallel to the floor. - Feel the contraction and slowly lower the weights back down to the starting position while inhaling. Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_17">One-Arm Dumbbell Row</string>
+    <string name="ex_desc_17">Choose a flat bench and place a dumbbell on each side of it. Place the right leg on top of the end of the bench, bend your torso forward from the waist until your upper body is parallel to the floor, and place your right hand on the other end of the bench for support. Use the left hand to pick up the dumbbell on the floor and hold the weight while keeping your lower back straight. The palm of the hand should be facing your torso. This will be your starting position: - Pull the resistance straight up to the side of your chest, keeping your upper arm close to your side and keeping the torso stationary. Breathe out as you perform this step. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. Also, make sure that the force is performed with the back muscles and not the arms. Finally, the upper torso should remain stationary and only the arms should move. The forearms should do no other work except for holding the dumbbell; therefore do not try to pull the dumbbell up using the forearms. - Lower the resistance straight down to the starting position. Breathe in as you perform this step. Repeat the movement for the specified amount of repetitions.\cf0  \cf2 Switch sides and repeat again with the other arm. Variations: One-arm rows can also be performed using a high pulley or a low pulley instead of a dumbbell.</string>
+    <string name="ex_name_18">Dumbbell Biceps Curl</string>
+    <string name="ex_desc_18">Stand up straight with a dumbbell in each hand at arm\'s length. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward. This will be your starting position: - Now, keeping the upper arms stationary, exhale and curl the weights while contracting your biceps. - Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level. - Hold the contracted position for a brief pause as you squeeze your biceps. - Then, inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_19">Barbell Curl</string>
+    <string name="ex_desc_19">Stand up with your torso upright while holding a barbell at a shoulder-width grip. The palm of your hands should be facing forward and the elbows should be close to the torso. This will be your starting position: - While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move. - Continue the movement until your biceps are fully contracted and the bar is at shoulder level. - Hold the contracted position for a second and squeeze the biceps hard. - Slowly begin to bring the bar back to starting position as your breathe in. Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_20">Seated Barbell Curl </string>
+    <string name="ex_desc_20">Grasp a barbell at around shoulder width apart using an underhand grip (palms facing forward) and sit at the end of a flat bench with the barbell on your thighs. Your back should be straight, head looking forward and feet firm on the floor. This will be your Seated Barbell Curl starting position: - As you keep your upper arms stationary and close to your body inhale and start to curl the weights up and forward until you reach a fully contracted position. - Hold for a second, squeeze your biceps and lower the weight in controlled motion back to the starting position.</string>
+    <string name="ex_name_21">Barbell Curls Lying Against An Incline</string>
+    <string name="ex_desc_21">Lie against an incline bench, with your arms holding a barbell and hanging down in a horizontal line. This will be your starting position: - While keeping the upper arms stationary, curl the weight up as high as you can while squeezing the biceps. Breathe out as you perform this portion of the movement. Tip: Only the forearms should move. Do not swing the arms. - After a second contraction, slowly go back to the starting position as you inhale. Tip: Make sure that you go all of the way down. Repeat for the recommended amount of repetitions. Variations: You can perform this exercise using an E-Z bar or dumb.</string>
+    <string name="ex_name_22">Standing Biceps Cable Curl </string>
+    <string name="ex_desc_22">Stand up with your torso upright while holding a cable curl bar that is attached to a low pulley. Grab the cable bar at shoulder width and keep the elbows close to the torso. The palm of your hands should be facing up (supinated grip). This will be your starting position: - While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second as you squeeze the muscle. -  Slowly begin to bring the curl bar back to starting position as your breathe in. Repeat for the recommended amount of repetitions. Variation: You can also perform this movement using an E-Z barbell attachment or single handles.</string>
+    <string name="ex_name_23">Glute Kickback</string>
+    <string name="ex_desc_23">Kneel on the floor or an exercise mat and bend at the waist with your arms extended in front of you (perpendicular to the torso) in order to get into a kneeling push-up position but with the arms spaced at shoulder width. Your head should be looking forward and the bend of the knees should create a 90-degree angle between the hamstrings and the calves. This will be your starting position: - As you exhale, lift up your right leg until the hamstrings are in line with the back while maintaining the 90-degree angle bend. - Contract the glutes throughout this movement and hold the contraction at the top for a second. Tip: At the end of the movement the upper leg should be parallel to the floor while the calf should be perpendicular to it. - Go back to the initial position as you inhale and now repeat with the left leg. - Continue to alternate legs until all of the recommended repetitions have been performed. Variations: For this exercise you can also perform all of the repetitions with one leg first and then the other one. Additionally, you can also add ankle weights.</string>
+    <string name="ex_name_24">Single Leg Glute Bridge</string>
+    <string name="ex_desc_24">Lay on the floor with your feet on the bench and knees bent. Raise one leg up, pulling the knee to your chest. This will be your starting position: - Execute the movement by driving through the heel, extending your hip upward and raising your glutes off of the ground. - Extend as far as possible, pause and then return to the starting position.</string>
+    <string name="ex_name_25">Single Leg Stiff-Leg Deadlift</string>
+    <string name="ex_desc_25">Stand with feet together and hands just in front of thighs. Lift leg slightly so foot is just off floor. Lower torso forward and downward while raising lifted leg back behind. Keep back straight and knee of supporting leg slightly bend. Keep hip and knee of lifted leg extended throughout movement. Once stretch is felt or hands contact floor, return to original position by raising torso while lowering lifted leg. Straighten knee of supporting leg as torso becomes upright. Repeat.</string>
+    <string name="ex_name_26">One-Legged Cable Kickback</string>
+    <string name="ex_desc_26">Hook a leather ankle cuff to a low cable pulley and then attach the cuff to your ankle. Face the weight stack from a distance of about two feet, grasping the steel frame for support. While keeping your knees and hips bent slightly and your abs tight, contract your glutes to slowly "kick" the working leg back in a semicircular arc as high as it will comfortably go as you breathe out. Tip: At full extension, squeeze your glutes for a second in order to achieve a peak contraction. Now slowly bring your working leg forward, resisting the pull of the cable until you reach the starting position. Repeat for the recommended amount of repetitions. Switch legs and repeat the movement for the other side. Variations: You can perform this exercise with exercise bands.</string>
+    <string name="ex_name_27">Smith Machine Incline Bench Press</string>
+    <string name="ex_desc_27">Place an incline bench underneath the smith machine. Place the barbell at a height that you can reach when lying down and your arms are almost fully extended. Once the weight you need is selected, lie down on the incline bench and make sure your upper chest is aligned with the barbell. Using a pronated grip (palms facing forward) that is wider than shoulder width, unlock the bar from the rack and hold it straight over you with your arms locked. This will be your starting position: - As you breathe in, come down slowly until you feel the bar on your upper chest. - After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up. - Repeat the movement for the prescribed amount of repetitions. When you are done, place the bar back in the rack. Caution: If you are new at this exercise, it is advised that you use a spotter as this exercise can be a bit challenging. If no spotter is available, then be conservative with the amount of weight used.</string>
+    <string name="ex_name_28">Push-Ups - Close Triceps Position</string>
+    <string name="ex_desc_28">Lie on the floor face down and place your hands closer than shoulder width for a close hand position. Make sure that you are holding your torso up at arms\' length. Lower yourself until your chest almost touches the floor as you inhale. Using your triceps and some of your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step. After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions. Variations: - If you are new at this exercise and do not have the strength to perform it, you can either bend your legs at the knees to take off resistance or perform the exercise against the wall instead of the floor. - For the most advanced lifters, you can place your feet at a high surface such as a bench in order to increase the resistance.</string>
+    <string name="ex_name_29">Incline Dumbbell Press</string>
+    <string name="ex_desc_29">Lie back on an incline bench with a dumbbell in each hand atop your thighs. The palms of your hands will be facing each other. Then, using your thighs to help push the dumbbells up, lift the dumbbells one at a time so that you can hold them at shoulder width. Once you have the dumbbells raised to shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position: - Be sure to keep full control of the dumbbells at all times. Then breathe out and push the dumbbells up with your chest. - Lock your arms at the top, hold for a second, and then start slowly lowering the weight. Tip: Ideally, lowering the weights should take about twice as long as raising them. Repeat the movement for the prescribed amount of repetitions. When you are done, place the dumbbells back on your thighs and then on the floor. This is the safest manner to release the dumbbells.</string>
+    <string name="ex_name_30">Incline Dumbbell Flyes</string>
+    <string name="ex_desc_30">Hold a dumbbell on each hand and lie on an incline bench that is set to an incline angle of no more than 30 degrees. Extend your arms above you with a slight bend at the elbows. Now rotate the wrists so that the palms of your hands are facing you. Tip: The pinky fingers should be next to each other. This will be your starting position: - As you breathe in, start to slowly lower the arms to the side while keeping the arms extended and while rotating the wrists until the palms of the hand are facing each other. Tip: At the end of the movement the arms will be by your side with the palms facing the ceiling. - As you exhale start to bring the dumbbells back up to the starting position by reversing the motion and rotating the hands so that the pinky fingers are next to each other again. Tip: Keep in mind that the movement will only happen at the shoulder joint and at the wrist. There is no motion that happens at the elbow joint. Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_31">Incline Swiss-Ball Dumbbell Chest Press </string>
+    <string name="ex_desc_31">Position yourself on your back on a Swiss ball so your torso is at a 45-degree angle to the floor. Hold the dumbbells straight above your chin, with your arms straight. Keep your core braced and your feet flat on the floor.</string>
+    <string name="ex_name_32">Barbell Bench Press</string>
+    <string name="ex_desc_32">Lie back on a flat bench. Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position: - From the starting position, breathe in and begin coming down slowly until the bar touches your middle chest. - After a brief pause, push the bar back to the starting position as you breathe out. Focus on pushing the bar using your chest muscles. - Lock your arms and squeeze your chest in the contracted position at the top of the motion, hold for a second and then start coming down slowly again. Tip: Ideally, lowering the weight should take about twice as long as raising it. Repeat the movement for the prescribed amount of repetitions. When you are done, place the bar back in the rack. Caution: If you are new at this exercise, it is advised that you use a spotter. If no spotter is available, then be conservative with the amount of weight used.</string>
+    <string name="ex_name_33">Straight-Arm Dumbbell Pullover</string>
+    <string name="ex_desc_33">Place a dumbbell standing up on a flat bench. Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench (torso across it as in forming a cross) with only your shoulders lying on the surface. Hips should be below the bench and legs bent with feet firmly on the floor. The head will be off the bench as well. Grasp the dumbbell with both hands and hold it straight over your chest at arms length. Both palms should be pressing against the underside one of the sides of the dumbbell. This will be your starting position: Caution: Always ensure that the dumbbell used for this exercise is secure. Using a dumbbell with loose plates can result in the dumbbell falling apart and falling on your face. - While keeping your arms straight, lower the weight slowly in an arc behind your head while breathing in until you feel a stretch on the chest. - At that point, bring the dumbbell back to the starting position using the arc through which the weight was lowered and exhale as you perform this movement. - Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions. Caution: If you are new to this movement, have a spotter hand you the weight instead. If not, please ensure that the dumbbell does not fall on you as you arrange your torso to perform the exercise on the bench. Also, as I already mentioned, ensure that the dumbbell used is in perfect working condition. Old dumbbells in need of welding should never be used to perform this exercise.</string>
+    <string name="ex_name_34">Smith Machine Squat</string>
+    <string name="ex_desc_34">To begin, first set the bar on the height that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it. Hold on to the bar using both arms at each side (palms facing forward), unlock it and lift it off the rack by first pushing with your legs and at the same time straightening your torso. Position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times and also maintain a straight back. This will be your starting position: Note: For the purposes of this discussion we will use the medium stance which targets overall development; however you can choose any of the three stances discussed in the foot stances section. - Begin to slowly lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). - Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly. - Begin to raise the bar as you exhale by pushing the floor with the heel of your foot as you straighten the legs again and go back to the starting position. - Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_35">Wide Smith Machine Squat</string>
+    <string name="ex_desc_35">Set up for the wide smith machine squat by setting the bar to around shoulder height and loading the weight you want to use on the smith machine. Stand under the bar with your legs in a wide stance and your toes pointed slightly outward. Grasp the bar with a wide grip and position the center of the bar on top of the muscles on your back. The bar should not sit on your neck! Keeping your back straight and eyes facing forwards and take the weight off the rack: - Take a slight step forward. - Keeping your eyes facing forwards with a straight back, slowly squat down until your thighs are parallel to the floor. - Pushing up through the heels, raise the the bar back to the starting position. - Repeat for desired reps.</string>
+    <string name="ex_name_36">Smith Machine Step Lunges </string>
+    <string name="ex_desc_36">With bar upper chest height, position bar on back of shoulders and grasp bar to sides. Place feet under bar. Straighten legs so weight is lifted. Disengage bar by rotating bar back. Step back with one leg while bending supporting leg. Plant forefoot far back on floor. Lower body by flexing knee and hip of supporting leg until knee of rear leg is almost in contact with floor. Return to original standing position by extending hip and knee of forward supporting leg and return rear leg next to supporting leg. Repeat movement with opposite legs alternating between sides.</string>
+    <string name="ex_name_37">Leg press</string>
+    <string name="ex_desc_37">Using a leg press machine, sit down on the machine and place your legs on the platform directly in front of you at a medium (shoulder width) foot stance. Note: For the purposes of this discussion we will use the medium stance described above which targets overall development; however you can choose any of the three stances described in the foot positioning section. Lower the safety bars holding the weighted platform in place and press the platform all the way up until your legs are fully extended in front of you. Tip: Make sure that you do not lock your knees. Your torso and the legs should make a perfect 90-degree angle. This will be your starting position: - As you inhale, slowly lower the platform until your upper and lower legs make a 90-degree angle. - Pushing mainly with the heels of your feet and using the quadriceps go back to the starting position as you exhale. Repeat for the recommended amount of repetitions and ensure to lock the safety pins properly once you are done. You do not want that platform falling on you fully loaded. Caution: Always check to make sure that when you re-rack the weight the platform is securely locked.</string>
+    <string name="ex_name_38">Hack Squat</string>
+    <string name="ex_desc_38">Place the back of your torso against the back pad of the machine and hook your shoulders under the shoulder pads provided. Position your legs in the platform using a shoulder width medium stance with the toes slightly pointed out. Tip: Keep your head up at all times and also maintain the back on the pad at all times. Place your arms on the side handles of the machine and disengage the safety bars (which on most designs is done by moving the side handles from a facing front position to a diagonal position). Now straighten your legs without locking the knees. This will be your starting position: Note: For the purposes of this discussion we will use the medium stance described above which targets overall development; however you can choose any of the three stances described in the foot positioning section. - Begin to slowly lower the unit by bending the knees as you maintain a straight posture with the head up (back on the pad at all times). Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). - Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly. - Begin to raise the unit as you exhale by pushing the floor with mainly with the heel of your foot as you straighten the legs again and go back to the starting position. Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_39">Seated Leg Curl</string>
+    <string name="ex_desc_39">Adjust the machine lever to fit your height and sit on the machine with your back against the back support pad. Place the back of lower leg on top of padded lever (just a few inches under the calves) and secure the lap pad against your thighs, just above the knees. Then grasp the side handles on the machine as you point your toes straight (or you can also use any of the other two stances) and ensure that the legs are fully straight right in front of you. This will be your starting position: - As you exhale, pull the machine lever as far as possible to the back of your thighs by flexing at the knees. - Keep your torso stationary at all times. Hold the contracted position for a second. - Slowly return to the starting position as you breathe in. Repeat for the recommended amount of repetitions. Caution: Do not ever use so much weight on the exercise that you start using swinging and jerking as you can risk both lower back injury and also a hamstring tear.</string>
+    <string name="ex_name_40">Leg Extensions</string>
+    <string name="ex_desc_40">For this exercise you will need to use a leg extension machine. First choose your weight and sit on the machine with your legs under the pad (feet pointed forward) and the hands holding the side bars. This will be your starting position: Tip: You will need to adjust the pad so that it falls on top of your lower leg (just above your feet). Also, make sure that your legs form a 90-degree angle between the lower and upper leg. If the angle is less than 90-degrees then that means the knee is over the toes which in turn creates undue stress at the knee joint. If the machine is designed that way, either look for another machine or just make sure that when you start executing the exercise you stop going down once you hit the 90-degree angle. - Using your quadriceps, extend your legs to the maximum as you exhale. Ensure that the rest of the body remains stationary on the seat. - Pause a second on the contracted position. - Slowly lower the weight back to the original position as you inhale, ensuring that you do not go past the 90-degree angle limit. Repeat for the recommended amount of times.</string>
+    <string name="ex_name_41">Plie Squat</string>
+    <string name="ex_desc_41">Hold some weights at the base with both hands and stand straight up. Move your legs so that they are wider than shoulder width apart from each other with your knees slightly bent. Your toes should be facing out. This is your starting position: Note: Your arms should be stationary while performing the exercise. - Slowly bend the knees and lower your legs until your thighs are parallel to the floor. Make sure to inhale as this is the eccentric part of the exercise. - Press mainly with the heel of the foot to bring the body back to the starting position while exhaling. Repeat for the recommended amount of repetitions. Caution: Failure to keep your back straight can result in back injury.</string>
+    <string name="ex_name_42">Sumo Squat To Side Crunch</string>
+    <string name="ex_desc_42">Stand tall with your feet slightly wider than hip width, toes and knees turned out about 45 degrees, hands behind your head. Bend your knees and lower into a sumo squat (dropping hips as low as you can without letting knees buckle forward or back). As you press back up to standing, raise your right knee up toward your right elbow. Step your right foot down and immediately repeat sumo squat and crunch to the left. Repeat, alternating sides each time.</string>
+    <string name="ex_name_43">Side Squat</string>
+    <string name="ex_desc_43">Begin standing with feet together. Squat halfway down and side step to the right as far as you can manage. Bring right leg toward left, returning to your starting position. Step to different sides each time.</string>
+    <string name="ex_name_44">Weighted Walking Lunges</string>
+    <string name="ex_desc_44">Begin standing with your feet shoulder width apart and your hands straightened over the head holding weight. Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot. Drive through the heel of your lead foot and extend both knees to raise yourself back up. Step forward with your rear foot, repeating the lunge on the opposite leg.</string>
+    <string name="ex_name_45">Dumbbell Rear Lunge With Knee-Up</string>
+    <string name="ex_desc_45">Stand with your torso upright holding two dumbbells in your hands by your sides. This will be your starting position: - Step backward with your right leg around two feet or so from the left foot and lower your upper body down, while keeping the torso upright and maintaining balance. Inhale as you go down. Tip: As in the other exercises, do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. Make sure that you keep your front shin perpendicular to the ground. Keep the torso upright during the lunge; flexible hip flexors are important. A long lunge emphasizes the Gluteus Maximus; a short lunge emphasizes Quadriceps. - Push up and go back to the starting position and as you exhale lift your right knee keeping your back straight. Tip: Use the ball of your feet to push in order to accentuate the quadriceps. To focus on the glutes, press with your heels. Now repeat with the opposite leg.</string>
+    <string name="ex_name_46">Barbell Cross-Back Lunge</string>
+    <string name="ex_desc_46">To begin, first set the bar on a rack just below shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it. Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso. Step away from the rack and step right foot back and to the left and lower into a lunge so left knee is bent about 90 degrees while keeping the torso upright and maintaining balance. Inhale as you go down. Note: Do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. Using mainly the heel of your foot, push up and go back to the starting position as you exhale. Repeat the movement for the recommended amount of repetitions and then perform with the left leg.</string>
+    <string name="ex_name_47">Side-Lying Leg Lift</string>
+    <string name="ex_desc_47">Lie on your side with your legs stacked and your head resting on your arm. Tighten the muscle in the front of the top thigh and lift that leg into the air. Hold for one count, lower to touch the bottom leg and then lift again. You can also use ankle weights or a resistance band.</string>
+    <string name="ex_name_48">Step-Up With Knee Raise </string>
+    <string name="ex_desc_48">Stand facing a bench of an appropriate height with your feet together. This will be your starting position: - Begin the movement by stepping up, putting your left foot on the top of the bench. - Extend through the hip and knee of your front leg to stand up on the box. - As you stand on the box with your left leg, flex your right knee and hip, bringing your knee as high as you can. Reverse this motion to step down off the box, and then repeat the sequence on the opposite leg.</string>
+    <string name="ex_name_49">Dumbbell Squat</string>
+    <string name="ex_desc_49">Stand up straight holding a dumbbell on each hand (palms facing the side of your legs). Position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. This will be your starting position: - Begin to slowly lower your torso by bending the knees as you maintain a straight posture with the head up. Continue down until you reach 90 degrees. - Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly. - Begin to raise the bar as you exhale by pushing the floor with the heel of your foot mainly as you straighten the legs again and go back to the starting position. Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_50">Stiff-Legged Barbell Deadlift </string>
+    <string name="ex_desc_50">Grasp a bar using an overhand grip (palms facing down). You may need some wrist wraps if using a significant amount of weight. Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position: - Keeping the knees stationary, lower the barbell to over the top of your feet by bending at the hips while keeping your back straight. - Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Inhale as you perform this movement. - Start bringing your torso up straight again by extending your hips until you are back at the starting position. Exhale as you perform this movement. Repeat for the recommended amount of repetitions. Caution: This is not an exercise that is recommended for people with lower back problems. Also, it needs to be treated with the utmost respect paying special attention not to round the back forward as you move the torso down; the back should always be straight. Finally, jerking motions or doing too much weight can injure your back.</string>
+    <string name="ex_name_51">Sumo Stiff-Legged Deadlift</string>
+    <string name="ex_desc_51">Begin with a plate in your hands. The feet should be set very wide, near the collars. Take a breath, and then lower your hips, looking forward with your head with your chest up. Keeping the knees stationary, lower the barbell to over the top of your feet by bending at the hips while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Inhale as you perform this movement. Start bringing your torso up straight again by extending your hips until you are back at the starting position. Exhale as you perform this movement. Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_52">One-Legged Cable Side Extension</string>
+    <string name="ex_desc_52">Hook a leather ankle cuff to a low cable pulley and then attach the cuff to your ankle. Stand side to the weight stack from a distance of about two feet, grasping the steel frame for support. While keeping your knees and hips bent slightly and your abs tight, contract your glutes to slowly extend the working leg to the side as high as it will comfortably go as you breathe out. Tip: At full extension, squeeze your glutes for a second in order to achieve a peak contraction. Now slowly bring your working leg forward, resisting the pull of the cable until you reach the starting position. Repeat for the recommended amount of repetitions. Switch legs and repeat the movement for the other side. Variations: You can perform this exercise with exercise bands.</string>
+    <string name="ex_name_53">Arnold Dumbbell Press</string>
+    <string name="ex_desc_53">Sit on an exercise bench with back support and hold two dumbbells in front of you at about upper chest level with your palms facing your body and your elbows bent. Tip: Your arms should be next to your torso. The starting position should look like the contracted portion of a dumbbell curl: - Now to perform the movement, raise the dumbbells as you rotate the palms of your hands until they are facing forward. - Continue lifting the dumbbells until your arms are extended above you in straight arm position. Breathe out as you perform this portion of the movement. - After a second pause at the top, begin to lower the dumbbells to the original position by rotating the palms of your hands towards you. Tip: The left arm will be rotated in a counter clockwise manner while the right one will be rotated clockwise. Breathe in as you perform this portion of the movement. Repeat for the recommended amount of repetitions. Variations: You can perform the exercise standing up but that is not recommended for people with lower back issues.</string>
+    <string name="ex_name_54">Alternating Dumbbell Press</string>
+    <string name="ex_desc_54">Clean two dumbbells to your shoulders. Clean the dumbbells to your shoulders by extending through the legs and hips as you pull the dumbbells towards your shoulders. Press one directly overhead by extending through the elbow, turning it so the palm faces forward while holding the other dumbbell stationary. Lower the pressed dumbbell to the starting position and immediately press with your other arm.</string>
+    <string name="ex_name_55">Front Two-Dumbbell Raise</string>
+    <string name="ex_desc_55">Pick a couple of dumbbells and stand with a straight torso and the dumbbells on front of your thighs at arms length with the palms of the hand facing your thighs. This will be your starting position: - While maintaining the torso stationary (no swinging), lift the dumbbells to the front with a slight bend on the elbow and the palms of the hands always facing down. Continue to go up until you arms are slightly above parallel to the floor. - Exhale as you execute this portion of the movement and pause for a second at the top. - As you inhale, lower the dumbbells back down slowly to the starting position. Repeat for the recommended amount of repetitions. Variations: This exercise can also be performed by alternating hands, meaning doing one repetition with the right arm, and then one with the left, back to the right, etc. Also, you could use a barbell as well.</string>
+    <string name="ex_name_56">Standing Low-Pulley Deltoid Raise</string>
+    <string name="ex_desc_56">Start by standing to the right side of a low pulley row. Use your left hand to come across the body and grab a single handle attached to the low pulley with a pronated grip (palms facing down). Rest your arm in front of you. Your right hand should grab the machine for better support and balance. Make sure that your back is erect and your feet are shoulder width apart from each other. This is the starting position: - Begin to use the left hand and come across your body out until it is elevated to shoulder height while exhaling. - Feel the contraction at the top for a second and begin to slowly lower the handle back down to the original starting position while inhaling. Repeat for the recommended amount of repetitions. Switch arms and repeat the exercise.</string>
+    <string name="ex_name_57">Front Cable Raise</string>
+    <string name="ex_desc_57">The cable front raise is a great exercise for isolating the front deltoids. Set up for the exercise by attaching a cable rope to a low pulley cable machine and selecting the weight you want to use. Stand facing away from the machine and grip the cable rope  Stand up straight with your eyes forward, holding the rope just off your thighs. This is the starting position: - To execute, slowly raise the rope up to around shoulder height while keeping your arms straight and your body fixed. - Pause, and then slowly lower the bar to the starting position. - Do not allow the stack to drop or the bar to touch your body.</string>
+    <string name="ex_name_58">One-Arm Triceps Push-Up</string>
+    <string name="ex_desc_58">Lie on your right side with the knees bent and the hips stacked. Wrap the right arm around the shoulder and place the left hand on the floor in front of you. Contract the triceps to push the body up and off the floor, straightening the left arm as much as you can. Lower a few inches and continue pushing up and down  before switching sides.</string>
+    <string name="ex_name_59">Standing Dumbbell Triceps Extension</string>
+    <string name="ex_desc_59">To begin, stand up with a dumbbell held by both hands. Your feet should be about shoulder width apart from each other. Slowly use both hands to grab the dumbbell and lift it over your head until both arms are fully extended. The resistance should be resting in the palms of your hands with your thumbs around it. The palm of the hands should be facing up towards the ceiling. This will be your starting position: - Keeping your upper arms close to your head with elbows in and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step. - Go back to the starting position by using the triceps to raise the dumbbell. Breathe out as you perform this step. Repeat for the recommended amount of repetitions.</string>
+    <string name="ex_name_60">Single Leg Bench Dips</string>
+    <string name="ex_desc_60">Start with your hands palm down on a bench. have one leg extended out and one leg planted on the floor. the closer your foot is to the bench, the easier this will be. Ramp up the intensity by positioning your foot out as far as it will go or keep it easy by placing your foot this close to the bench. Bend your elbows and dip down as far as you can without your butt actually touching the floor. Straighten your arms. Switch legs and repeat.</string>
+    <string name="ex_name_61">Standing Bent-Over One-Arm Dumbbell Triceps Extension</string>
+    <string name="ex_desc_61">With a dumbbell in one hand and the palm facing your torso, bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up. The upper arm should be close to the torso and parallel to the floor while the forearm is pointing towards the floor as the hand holds the weight. Tip: There should be a 90-degree angle between the forearm and the upper arm. This is your starting position: - Keeping the upper arms stationary, use the triceps to lift the weights as you exhale until the forearms are parallel to the floor and the whole arm is extended. Like many other arm exercises, only the forearm moves. - After a second contraction at the top, slowly lower the dumbbell back to the starting position as you inhale. Repeat the movement for the prescribed amount of repetitions. Switch arms and repeat the exercise.</string>
+    <string name="ex_name_62">Cable One-Arm Triceps Extension</string>
+    <string name="ex_desc_62">With your right hand, grasp a single handle attached to the high-cable pulley using a supinated (underhand, palms facing up) grip. You should be standing directly in front of the weight stack. Now pull the handle down so that your upper arm and elbow are locked in to the side of your body. Your upper arm and forearm should form an acute angle (less than 90-degrees). You can keep the other arm by the waist and you can have one leg in front of you and the other one back for better balance. This will be your starting position:- As you contract the triceps, move the single handle attachment down to your side until your arm is straight. Breathe out as you perform this movement. Tip: Only the forearms should move. Your upper arms should remain stationary at all times. - Squeeze the triceps and hold for a second in this contracted position. - Slowly return the handle to the starting position. Repeat for the recommended amount of repetitions and then perform the same movement with the other arm. Variations: You can use exercise bands to perform this exercise.</string>
+    <string name="ex_name_63">Triceps Pushdown</string>
+    <string name="ex_desc_63">Attach a straight or angled bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width. Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the bar. This is your starting position: - Using the triceps, bring the bar down until it touches the front of your thighs and the arms are fully extended perpendicular to the floor. The upper arms should always remain stationary next to your torso and only the forearms should move. Exhale as you perform this movement. - After a second hold at the contracted position, bring the bar slowly up to the starting point. Breathe in as you perform this step. Repeat for the recommended amount of repetitions. Variations: There are many variations to this movement. For instance you can use an E-Z bar attachment as well as a V-angled bar that allows the thumb to be higher than the small finger. Also, you can attach a rope to the pulley as well as using a reverse grip on the bar exercises.</string>
+
+    <string name="ex_name_5063">Squat Jacks</string>
+    <string name="ex_desc_5063">Muscle Group. Quadriceps \n\nStep 1. Get into a low squat, like you\'re a baseball catcher. \n\nStep 2. Jump up &amp; out while fanning your elbows up toward the ceiling. \n\nStep 3. Jump up to and bring your legs back together, bringing your arms down at the same time.</string>
+
+    <string name="ex_name_5064">Plank</string>
+    <string name="ex_desc_5064">Muscle. Rectus Abdominis \n\nStep 1. Extend your legs in straight position and rise up onto your toes. While keeping your back straight, place your forearms on the floor. \n\nStep 2. Your forearms should be perpendicular to your upper arms. Hold the position for as long as you can.</string>
+
+    <string name="ex_name_5065">Back Extension</string>
+    <string name="ex_desc_5065">Muscle. Lower Back \n\nStep 1. Lie face down on the floor. Place your arms straight out in front of you. \n\nStep 2. Raise your legs and upper body towards the ceiling, and stretch out as much as you can. Hold for one second. Return to starting position.</string>
+
+    <string name="ex_name_5066">Back Extension 2</string>
+    <string name="ex_desc_5066">Muscle Group. Lower Back \n\nStep 1. Lie face down on the floor with your arms beside your hips and your palms facing down. Activate your core muscles by drawing your abdominals toward your spine and squeezing your gluteals. \n\nStep 2. Slowly exhale and lift your chest off the floor and your arms up and backward toward your hips. Rotate your thumbs toward the ceiling as you carry out the movement. \n\nStep 3. Pause at the top of the movement for two seconds, then return to the start position.</string>
+
+    <string name="ex_name_5067">Leg Touch</string>
+    <string name="ex_desc_5067">Muscle. Rectus Abdominis \n\nStep 1. Lie down on the floor, lift your legs until one leg is perpendicular to the floor. Fully extend your arms in front of you. \n\nStep 2. Reach for your toes with your hands. Hold on for a second return to starting position.</string>
+
+    <string name="ex_name_5068">Kick Crunch</string>
+    <string name="ex_desc_5068">Muscle. Rectus Abdominis \n\nStep 1. Stand tall with your feet shoulder-width apart. \n\nStep 2. Lift your left leg as high as you can, and touch your left foot with both hands. \n\nStep 3. Return to the initial position and repeat on the opposite side. \n\nStep 4. Continue alternating sides, in a fast-paced move, until the set is complete.</string>
+
+    <string name="ex_name_5069">Running Under</string>
+    <string name="ex_desc_5069">Muscle. Rectus Abdominis \n\nStep 1. Assume a pushup position with your hands below your shoulders and your body forming a straight line from your head to your heels. \n\nStep 2. Lifting your right foot off of the floor, drive your right knee towards your chest. Tap the floor with your right foot and then return to the starting position. Step \n\n3. Alternate legs with each repetition.</string>
+
+    <string name="ex_name_5070">Crunch</string>
+    <string name="ex_desc_5070">MUSCLE. Rectus Abdominis \n\nStep 1. Lie with your knees bent and your feet flat on the floor. Fold your arms across your chest or hold your hands behind your ears. \n\nStep 2. Use your abs to lift your head and upper torso while keeping your lower back pressed firmly against the floor. Step \n\n3. Pause with your shoulder blades a couple of inches off the floor, then slowly return to the starting position using a controlled movement.</string>
+
+    <string name="ex_name_5071">Pull In-Out</string>
+    <string name="ex_desc_5071">Muscle. Rectus Abdominis \n\nStep 1. Lie on the floor, place both hands under your hips, fully extend your legs and slightly raise them. \n\nStep 2. Bend legs towards your upper body and hold for one second. Return to the starting position.</string>
+
+    <string name="ex_name_5072">Bottom Ups</string>
+    <string name="ex_desc_5072">Muscle. Rectus Abdominis \n\nStep 1. Lie on your back with your hands at your sides and your legs pointed straight up toward the ceiling, perpendicular to your torso. \n\nStep 2. Pull your navel inward and flex your glutes as you lift your hips just a few inches off the floor. Then lower your hips.</string>
+
+    <string name="ex_name_5073">Squirm Crunch</string>
+    <string name="ex_desc_5073">Muscle . Rectus Abdominis \n\nStep 1. Lay down on the floor, bend your knees and keep your feet 18-24 inches apart. Your arms should be extended by your side. \n\nStep 2. Crunch over your torso forward and up about 3-4 inches to the right side and touch your right heel as you hold the contraction for a second. Exhale while performing this movement. \n\nStep 3. Now go back slowly to the starting position as you inhale. \n\nStep 4. Now crunch over your torso forward and up around 3-4 inches to the left side and touch your left heel as you hold the contraction for a second. Exhale while performing this movement and then go back to the starting position as you inhale. Now that both heels have been touched, that is considered 1 repetition. Continue alternating sides.</string>
+
+    <string name="ex_name_5074">Russian Twist</string>
+    <string name="ex_desc_5074">Muscle. Obliques \n\nStep 1. Sit on the floor with a kettlebell or a medicine ball at your side. Put your legs together and bend your knees, at about 90 degrees. Keep your chest lifted and back straight. \n\nStep 2. Pick up the medicine ball or kettlebell holding it upside down by the handles for better control. It should be at chest height. \n\nStep 3. Twist your torso slightly, being careful not to round your back. Lift your feet off the floor but keep your knees together and legs bent.</string>
+
+    <string name="ex_name_5075">Bicycle Crunches</string>
+    <string name="ex_desc_5075">Muscle. Obliques \n\nStep 1. Lie on your back, lift your shoulders off the mat and raise your legs. \n\nStep 2. Bring one knee and the opposing elbow close to each other by crunching to one side, and fully extend the other leg. \n\nStep 3. Return to the starting position and then crunch to the opposite side. \n\nStep 4. Repeat until the set is complete.</string>
+
+    <string name="ex_name_5076">Dancing Crab</string>
+    <string name="ex_desc_5076">Muscle. Rectus Abdominis \n\nStep 1. Lie down on the floor. Position your hands and legs on the floor. \n\nStep 2. Raise your upper body upward.Tap quickly with your right hand your left leg, switch sides. Increase the speed, do it as fast as you can.</string>
+
+    <string name="ex_name_5081">Glute Kickback 2</string>
+    <string name="ex_desc_5081">Muscle. Glutes \n\nStep 1. Get on your hands and knees on a mat or on the floor. Your back should be parallel to the ground and raised, as shown. \n\nStep 2. In a controlled motion, lift up your leg until the hamstrings are in line with the back while maintaining the 90 –degree angle bend. Be sure to flex your gluteus, when your leg is fully extended back behind you. At the end of the movement, the upper leg should be parallel to the floor while the calf should be perpendicular to it. Return to the starting position and repeat with the opposite leg.</string>
+
+    <string name="ex_name_5082">Side Kicks Glutes</string>
+    <string name="ex_desc_5082">Muscle Group. Glutes \n\nStep 1. Start by getting on your hands and knees, as shown. Your knees should be positioned underneath your hips and your wrists should be directly underneath your shoulders. \n\nStep 2. Keep your back straight as you lift one knee off the floor. Keep the knee bent as you lift it outwards and upwards toward the side. \n\nStep 3 Hold this position briefly, then slowly lower your knee back to the floor. Pause and then repeat.</string>
+
+    <string name="ex_name_5083">Squat Side Kick</string>
+    <string name="ex_desc_5083">Muscle Group. Glutes \n\nStep 1. Start in a squat position with your hips back and your feet shoulder width apart. \n\nStep 2. As you stand up switch your weight to the right leg and lift your left leg to the side. \n\nStep 3. Return to the squat position and repeat with the right leg.</string>
+
+    <string name="ex_name_5084">Reverse Lunge</string>
+    <string name="ex_desc_5084">Muscle. Glutes \n\nStep 1. As you stand with your feet shoulder-width apart, toes pointing forward. \n\nStep 2. Step back as far as possible with your dominant leg and drop down until that knee touches the floor, keeping your torso as upright as possible. \n\nStep 3. Push through your forward heel to return to the starting position, then immediately lunge back with that leg. That\'s one repetition.</string>
+
+    <string name="ex_name_5085">Back Lunge</string>
+    <string name="ex_desc_5085">Muscle. Quadriceps \n\nStep 1. Stand with your feet shoulder-width apart, toes pointing forward. \n\nStep 2. Step back, allowing your hips and knees to flex to lower your body. Contacting the back leg through only the ball of the foot, descend until your knee nearly touches the ground. \n\nStep 3. Push off of your bent foot to the starting position and repeat the exercise by switching legs.</string>
+
+    <string name="ex_name_5086">Plank Leg Touch</string>
+    <string name="ex_desc_5086">Muscle. Lower Back \n\nStep 1. Start in a low plank position with your body in a straight line, your elbows bent and under your shoulders and your feet hip width apart. \n\nStep 2. Lift your left leg to a 45-degree angle, then lower your foot on the other ankle. \n\nStep 3. Go to the starting position and repeat with the other leg.</string>
+
+    <string name="ex_name_5087">Lying Hip Extension</string>
+    <string name="ex_desc_5087">Muscle. Glutes \n\nStep 1. Lie on the floor and place your heels on floor, keep your knees slightly bent, and your arms at your sides. \n\nStep 2. Pushing with your glutes and hamstrings, dig the heels of your feet down and lift your hips until your body forms a ramp. Pause, and slowly return to your starting position.</string>
+
+    <string name="ex_name_5088">Lying Hip Extension Chair</string>
+    <string name="ex_desc_5088">Muscle. Glutes \n\nStep 1. Lie on the chair with your back and place your heels on the floor, keep your knees slightly bent, and your arms at your sides. \n\nStep 2. Pushing with your glutes and hamstrings, dig the heels of your feet down and lift your hips until your body forms a ramp. Pause, and slowly return to your starting position.</string>
+
+    <string name="ex_name_5089">Bulgarian Split Squat</string>
+    <string name="ex_desc_5089">MUSCLE. Quadriceps \n\nStep 1. Place one foot on the floor, roughly 3 feet in front of a chair and balance your other foot on a chair behind you. Position your hands in front your chest. \n\nStep 2. Use your front foot for balance as you bend both knees to lower your body straight down until your back knee is a few inches off the floor and your front leg is bent at 90 degrees. The rest of your body should form a straight line. Return to your starting position and switch your legs.</string>
+
+    <string name="ex_name_5090">Step Up</string>
+    <string name="ex_desc_5090">Muscle. Glutes \n\nStep 1. Stand close to the exercise bench. Step up with your right foot on the bench while keeping your left foot on the floor. \n\nStep 2. Raise your left knee in front of you. \n\nStep 3. Step down with your left leg. Repeat exercise with the other leg. Keeping alternating sides.</string>
+
+    <string name="ex_name_5091">Bench Kickback</string>
+    <string name="ex_desc_5091">Muscle. Glutes \n\nStep 1. Get on your hands and knees on a bench. Your back should be parallel to the ground and raised, as shown. \n\nStep 2. In a controlled motion, thrust one of your feet backward and upwards as if you are kicking the ceiling behind you. Be sure to flex your glutes, butt when your leg is fully extended back behind you. Return to the starting position and repeat with the opposite leg.</string>
+
+    <string name="ex_name_5092">Butt Kick</string>
+    <string name="ex_desc_5092">Muscle. Quadriceps \n\nStep 1. Start standing tall and bring one heel off the floor towards your glutes, position your arms in front of your chest. \n\nStep 2. Then switch to the other side.</string>
+
+    <string name="ex_name_5093">Squat Kickback</string>
+    <string name="ex_desc_5093">Muscle Group. Glutes \n\nStep 1. Start with your feet a little wider than shoulder width apart and squat. \n\nStep 2. As you stand up, transfer your weight to one leg and kick back with the opposite leg. \n\nStep 3. Return to the starting position and repeat on the other side.</string>
+
+    <string name="ex_name_5095">Push Up Touch</string>
+    <string name="ex_desc_5095">Muscle. Pectoralis \n\nStep 1. Lie down chest first with your hands on the floor. Position hands under your shoulders, the distance between your hands should be narrower than shoulder width apart lift yourself with your arms so that only your hands and toes are on the floor. Maintain a straight back, hands point slightly outward. \n\nStep 2. Lower yourself until your chest is inches away from the floor by bending your elbows. The elbows should bend towards your feet.</string>
+
+    <string name="ex_name_5096">T Extension</string>
+    <string name="ex_desc_5096">Muscle. Pectoralis \n\nStep 1. Start out in the classic push-up position, but as you are pushing yourself upward, rotate your body so your right arm lifts up and extends overhead, as illustrated. Your arms and torso should form a T. \n\nStep 2. Return to the starting position, lower yourself, the push-up and rotate until your left-hand points toward the ceiling.</string>
+
+    <string name="ex_name_5115">Push Ups</string>
+    <string name="ex_desc_5115">Muscle. Pectoralis \n\nStep 1. With your legs extended back, place the hands below the shoulders, slightly wider than shoulder width apart. \n\nStep 2. Start bending your elbows and lower your chest until it’s just above the floor. \n\nStep 3. Push back to the starting position. A 1-second push, 1-second pause, 2-second down count is ideal. \n\nStep 4. Repeat.</string>
+
+    <string name="ex_name_5116">Triceps Dips</string>
+    <string name="ex_desc_5116">Muscle. Triceps Brachii \n\nStep 1. Place your hands behind you onto a chair, so that your fingers face forward. \n\nStep 2. Extend your legs and start bending your elbows. \n\nStep 3. Lower yourself until your arms are at a 90-degree angle. \n\nStep 4. Raise yourself back up so that your arms are straight, and then repeat the exercise.</string>
+
+    <string name="ex_name_5117">Inchworm</string>
+    <string name="ex_desc_5117">Muscle Group. Quadriceps \n\nStep 1. Stand tall with your feet shoulder - width apart, bend over until your fingertips are touching the floor. \n\nStep 2. Walk your hands out, as far as you can while keeping your legs straight, and pause. Walk back up to the starting position and repeat until the set is complete.</string>
+
+    <string name="ex_name_5097">Chair Pose</string>
+    <string name="ex_desc_5097">Muscles. Quadriceps \n\nStep 1. Start in mountain pose and, as you inhale, bring your arms up, with the palms facing each other. \n\nStep 2. As you exhale, bend your knees and sit back. \n\nStep 3. Stay in chair pose for 30 seconds to 1 minute.</string>
+
+    <string name="ex_name_5098">Squats</string>
+    <string name="ex_desc_5098">Muscle. Glutes \n\nStep 1. Stand with your feet hip-width apart. \n\nStep 2. Lower your hips until your thighs are parallel to the floor. Push back up all the way, pause, then go back down to parallel. \n\nStep 3. Pause again, then return to the start.</string>
+
+    <string name="ex_name_5099">180 Jumping Squat</string>
+    <string name="ex_desc_5099">Muscle Group. Quadriceps \n\nStep 1.Stand with your feet a little wider than shoulder-width apart, your toes pointing slightly outward and sit back. \n\nStep 2. Push through the heels to jump up, spinning to the left 180 degrees. \n\nStep 3. Land on your toes with your knees slightly bent and squat. \n\nStep 4. Quickly jump up, spinning to the right, and go back into the squat position. Repeat until the set is complete.</string>
+
+    <string name="ex_name_5100">Sumo Squat</string>
+    <string name="ex_desc_5100">Muscle. Quadriceps \n\nStep 1. Stand with your feet in a wide stance and with your toes pointing out to the sides. \n\nStep 2. Lower yourself by bending your knees and pressing your hips back. \n\nStep 3. Once your thighs are parallel to the floor, come back up and repeat.</string>
+
+    <string name="ex_name_5101">Jump Lunge</string>
+    <string name="ex_desc_5101">Muscle Group. Glutes \n\nStep 1. Take a large step backward and lower your hips, so that your back knee is just above the floor, and your front thigh is parallel to the floor. \n\nStep 2. Jump into the air and switch leg positions. \n\nStep 3. Jump again and return to the starting position. \n\nStep 4. Repeat the exercise until the set is complete.</string>
+
+    <string name="ex_name_5102">Squat Press Up</string>
+    <string name="ex_desc_5102">Muscle Group. Deltoids \n\nStep 1. With dumbbells at shoulder height, sit back on your heels and lower down into a squat. \n\nStep 2. Press your heels into the ground and push hips forward to stand, pressing the dumbbells over the shoulders on the way up.</string>
+
+    <string name="ex_name_5103">Burpee</string>
+    <string name="ex_desc_5103">Muscle Group. Quadriceps \n\nStep 1. Stand straight with your feet shoulder-width apart. \n\nStep 2. Squat and place your hands in front of your feet. \n\nStep 3. Jump back until your legs are fully extended and your body is in plank position. \n\nStep 4. Do a push-up, jump forward and then push through the heels to return to the starting position. \n\nStep 5. Repeat until the set is complete.</string>
+
+    <string name="ex_name_5104">Sumo Squat Dumbbell</string>
+    <string name="ex_desc_5104">Muscle Group. Glutes \n\nStep 1. Stand with your feet roughly twice shoulder-width apart and point your toes outward and hold a dumbbell with both hands. \n\nStep 2. Squat and bring the dumbbell between your legs. \n\nStep 3. Stand up by keeping the dumbbell with your hands in the same position. \n\nStep 4. Return to the squat position and repeat for the duration of the set.</string>
+
+    <string name="ex_name_5105">Side Plank With Dumbbell Lateral Raise</string>
+    <string name="ex_desc_5105">Muscle Group. Obliques \n\nStep 1. Start in a modified side plank position, with your top leg extended and your bottom leg bent back with the knee on the mat. \n\nStep 2. Lift your top leg as high as possible, also simultaneously press up your arm and then lower them down. \n\nStep 3. Repeat and then switch sides.</string>
+
+    <string name="ex_name_5106">Jumping Jacks</string>
+    <string name="ex_desc_5106">Muscle Group. Quadriceps \n\nStep. 1 Stand straight with your feet together and hands by your sides. \n\nStep 2. Jump up, spread your feet and bring both hands together above your head. \n\nStep 3. Jump again and return to the starting position. \n\nStep 4. Repeat until the set is complete.</string>
+
+    <string name="ex_name_5107">Running High Knees</string>
+    <string name="ex_desc_5107">Muscle Group. Quadriceps \n\nStep 1. Stand straight with your feet shoulder-width apart. Face forward and open your chest. \n\nStep 2.  Bring your knees up to waist level and then slowly land on the balls of your feet. \n\nStep 3.  Repeat until the set is complete.</string>
+
+    <string name="ex_name_5108">Run In Place With Arms Raised</string>
+    <string name="ex_desc_5108">Muscle. Quadriceps \n\nStep 1. Stand in a wide split position, fit hip with apart rear hill lifted arms extended. \n\nStep 2. Jumping switch legs forward and backward, simultaneously raise your hands up. \n\nStep 3. Continue this running on the spot.</string>
+
+    <string name="ex_name_5109">Running Man</string>
+    <string name="ex_desc_5109">Muscle. Quadriceps \n\nStep 1. Stand straight with your feet shoulder-width apart and face forward, opening up your chest. \n\nStep 2. Start pulling your knees up, and slowly land on the balls of your feet. \n\nStep 3. Repeat until the set is complete.</string>
+
+    <string name="ex_name_5110">Side To Side Hops</string>
+    <string name="ex_desc_5110">Muscle. Calves \n\nStep 1. Stand straight with your hands on your sides and your feet hip-width apart. \n\nStep 2. Jump with both feet to the right and then to the left, in a quick, repetitive movements. \n\nStep 3. Repeat until the set is complete.</string>
+
+    <string name="ex_name_5111">Speed Rope</string>
+    <string name="ex_desc_5111">Muscle. Calves \n\nStep 1. Place your hands at about hip height and elbows slightly bent, keeping your upper arms close to your sides. \n\nStep 2. Rotate your wrists to simulate the swinging rope and jump. \n\nStep 3. Jump with both feet at the same time and land on the ball of your feet.</string>
+
+    <string name="ex_name_5112">Cross Jacks</string>
+    <string name="ex_desc_5112">Muscle. Calves \n\nStep 1. Stand straight with your feet shoulder-width apart and your arms up and extended out to the sides. \n\nStep 2. Jump up and cross your left leg in front of the right, and your left arm on top of the right. \n\nStep 3. Jump again and return to the starting position. \n\nStep 4. Repeat, and reverse the position of your arms and legs.</string>
+
+    <string name="ex_name_5113">Lunge Shoulder Press</string>
+    <string name="ex_desc_5113">Muscle. Quadriceps \n\nStep 1. Stand with your feet hip-width apart and hold a dumbbell in each hand. Position the dumbbells at shoulder height. \n\nStep 2. Take a step forward with your left leg and flex your knees until the back knee is just above the floor, push the dumbbells up. \n\nStep 3. Repeat this movement for the entire duration of the set and then switch legs.</string>
+
+    <string name="ex_name_5114">Single Arm Dumbbell Snatch</string>
+    <string name="ex_desc_5114">Muscle. Deltoids \n\nStep 1. Grab a dumbbell with your right hand, bend your knees, push your hips back and take the dumbbell between your feet. \n\nStep 2. Pull the dumbbell up by extending your hips and knees and, as the dumbbell reaches your shoulder, rotate your hand to the front and punch straight up. \n\nStep 3. Lower the dumbbell and return to the initial position. \n\nStep 4. Repeat and then switch sides.</string>
+
+    <string name="ex_name_5077">Dumbbell Row Kickback</string>
+    <string name="ex_desc_5077">Muscle. Triceps Brachii \n\nStep 1. Grab a set of dumbbells, bring your torso forward and bend your knees slightly. \n\nStep 2. Bring your elbows up, so that your upper arms are parallel to the floor, and kick back until your arms are fully extended. \n\nStep 3. Slowly lower the weights to the starting position. \n\nStep 4. Repeat.</string>
+
+    <string name="ex_name_5078">Good Morning</string>
+    <string name="ex_desc_5078">Muscle. Lower Back \n\nStep 1. Stand straight with feet shoulder width apart. Place barbell on the back of your shoulders. Hold the barbell with overhand Grip. The distance between your hands should be wider than shoulder-width apart. Adjust feet to point slightly outward. \n\nStep 2. Keep back straight and bend upper body until it is parallel with the ground. Hold for one second. Return to starting position.</string>
+
+    <string name="ex_name_5079">One-Arm Dumbbell Row 2</string>
+    <string name="ex_desc_5079">Muscle. Triceps Brachii \n\nStep 1. Use your non-dominant hand to hold a dumbbell, while placing your dominant hand and knee on a bench, as illustrated. \n\nStep 2. Keep your back flat as you let the dumbbell hang down to your side so your arm lines up just in front of your shoulder. \n\nStep 3. Pull the dumbbell upward and back toward your hip while keeping your elbow close to your body. Focus on using your upper-back muscles in doing this motion. Pause, then slowly return to the starting position.</string>
+
+    <string name="ex_name_5080">Deadlift</string>
+    <string name="ex_desc_5080">Muscle. Glutes \n\nStep 1. Stand up tall with your feet shoulder-width apart and hold a dumbbell in each hand. \n\nStep 2. Push your hips back and lower the dumbbells, while keeping your legs straight or only slightly bent. \n\nStep 3. Return to the starting position and repeat.</string>
+
+    <string name="ex_name_5094">Jump Star</string>
+    <string name="ex_desc_5094">Muscle Group. Quadriceps \n\nStep 1. Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body. \n\nStep 2. To initiate the move, squat down halfway and explode back up as high as possible. Fully extend your entire body, spreading your legs and arms away from the body. \n\nStep 3. As you land, bring your limbs back in and absorb your impact through the legs.</string>
+
+    <string name="extra_main_name">Training Plans</string>
+
+    <string name="day">Day</string>
+    <string name="round">Round</string>
+    <string name="day1">2 days per week</string>
+    <string name="day2">3 days per week</string>
+    <string name="day3">4 days per week</string>
+    <string name="restorePurchases">Restore Purchases</string>
+    <string name="textUpgrade">Upgrade to Premium version to unlock New 50 Exercises and remove Ads.</string>
+    <string name="upgrade">UPGRADE NOW</string>
+    <string name="one_day_ADS1">1-Day NO ADS</string>
+    <string name="one_day_ADS2">SPONSORED VIDEO</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="free">FREE</string>
+    <string name="tell_friend">Tell a Friend</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="facebook">Share app on Facebook</string>
+    <string name="rate_app">Rate us</string>
+    <string name="twitter">Share app on Twitter</string>
+    <string name="ic_googleplay">Our other apps</string>
+    <string name="ic_settings_">Settings</string>
+    <string name="social_follow">Stay connected with VGFIT</string>
+    <string name="daily_reminder">Daily reminder</string>
+    <string name="frequency">Frequency</string>
+    <string name="after_days">After %1$s days of inactivity</string>
+    <string name="units">Units</string>
+    <string name="menu_bt">Menu Button</string>
+    <string name="success">Success!</string>
+    <string name="purch_restored">In-App purchases were restored</string>
+
+    <string name="ex_cat_1">Abs</string>
+    <string name="ex_cat_2">Back</string>
+    <string name="ex_cat_3">Biceps</string>
+    <string name="ex_cat_4">Buttocks</string>
+    <string name="ex_cat_5">Chest</string>
+    <string name="ex_cat_6">Legs</string>
+    <string name="ex_cat_7">Shoulders</string>
+    <string name="ex_cat_8">Triceps</string>
+    <string name="ex_cat_88">ALL</string>
+
+    <string name="reminder">Reminder</string>
+    <string name="time_worout">It\’s time to workout!</string>
+
+    <string name="cat_name6">ABS</string>
+    <string name="cat_name7">Butt Workout</string>
+    <string name="cat_name8">Bikini Body</string>
+    <string name="cat_name9">Fat Burn</string>
+    <string name="cat_name10">Arms, Chest and Back</string>
+    <string name="cat_name11">Lean Legs</string>
+    <string name="cat_name12">Cardio and Total Body</string>
+
+
+    <string name="extraDescription6">Get lean and work your six pack with this abs burner inspired circuit.</string>
+    <string name="extraDescription7">Workout focusing on glutes muscle and definition.</string>
+    <string name="extraDescription8">The perfect combination of exercises to get stronger and total body definition.</string>
+    <string name="extraDescription9">Get Lean and sweat it out with this inspired fat burning circuit.</string>
+    <string name="extraDescription10">Great workout focusing on your arms, chest and back muscles.</string>
+    <string name="extraDescription11">Great Workout focusing on legs definition.</string>
+    <string name="extraDescription12">Workout designed to burn fat and total body definition.</string>
+
+
+    <string name="Equipment">Equipment</string>
+    <string name="Focus">Focus</string>
+    <string name="Goal">Goal</string>
+    <string name="Place">Place</string>
+    <string name="Target_Group">Target Group</string>
+    <string name="Skill_level">Skill Level</string>
+
+    <string name="focus_1">Core zone.</string>
+    <string name="focus_2">Glutes Muscles</string>
+    <string name="focus_3">Total body muscles.</string>
+    <string name="focus_4">Muscle definition and fat burn.</string>
+    <string name="focus_5">Biceps, Triceps, Pectorals, Lower Back</string>
+    <string name="focus_6">Glutes, Hamstrings, Quadriceps Muscles</string>
+
+    <string name="goal_1">Abdominals definition &amp; fat burning.</string>
+    <string name="goal_2">Get definition and volume.</string>
+    <string name="goal_3">Body conditioning.</string>
+    <string name="goal_4">The cardio routine of the full body.</string>
+    <string name="goal_5">Get strength and definition. </string>
+
+    <string name="skill_level">Beginner Intermediate Advanced.</string>
+
+    <string name="target_group">Man and Woman</string>
+
+    <string name="equipment_1">Mat.</string>
+    <string name="equipment_2">Bench, Mat.</string>
+    <string name="equipment_3">Dumbbell, Barbell.</string>
+    <string name="equipment_4">Bench, Dumbbell, Mat.</string>
+    <string name="place">Home, Gym, Office.</string>
+
+
+    <string name="resetKey">Reset</string>
+    <string name="startKey">Start</string>
+    <string name="pauseKey">Pause</string>
+    <string name="resumeKey">Resume</string>
+    <string name="intervalsKey">Intervals</string>
+    <string name="myWorkoutsKey">My workouts</string>
+    <string name="editKey">Edit</string>
+    <string name="roundsKey">Rounds</string>
+    <string name="doneKey">Done</string>
+    <string name="worktimekey">Work time</string>
+    <string name="resttimekey">Rest time</string>
+    <string name="currentsetkey">Current settings</string>
+    <string name="minkey">Min</string>
+    <string name="seckey">Sec</string>
+    <string name="sets_extra1">30 sec. without rest time</string>
+    <string name="sets_extra2">3 sets and 12/11/10 reps</string>
+    <string name="sets_extra3">35 s. work time 15 s. rest time</string>
+    <string name="sets_extra4">30 s. work time 15 s. rest time</string>
+    <string name="sets_extra5">2 rounds 15 reps</string>
+
+    <string name="rep_extra1">30 s. work time, 15 s. rest time</string>
+    <string name="rep_extra2">30 s. work time, 15 s. rest time, 30 s. rbc</string>
+    <string name="rep_extra3">3 sets and 12/11/10 reps</string>
+
+    <string name="rep_extra1_how">Work time 30 sec., Rest time between exercise 15 sec.</string>
+    <string name="rep_extra2_how">Work time 30 sec., Rest time between exercises 15 sec., Rest time between Rounds 30 sec.</string>
+    <string name="rep_extra3_how">Rest time between exercise 30 sec., Rest time between sets 45 sec.</string>
+
+    <string name="enter_text">Enter text message</string>
+
+    <string name="main_work">Workouts Designed to lift weights and building muscle and strength.</string>
+
+
+    /** Nutrition Plan**/
+    <string name="titleDay1">Healthy recipes that are awesome to prepare and try out.</string>
+    <string name="descriptionDay1">To keep your metabolism running strong, you must eat your first meal within 1 hour of rising.</string>
+
+    <string name="titleDay2">Good nutrition is the foundation of good health.</string>
+    <string name="descriptionDay2">The solution is to eat within 1 hour of waking up so that you move your metabolism.</string>
+
+    <string name="titleDay3">Plan ahead to eat breakfast.</string>
+    <string name="descriptionDay3">To the highest fat burning speed breakfast is so important to your weight-loss success.</string>
+
+    <string name="titleDay4">Carbs supply the body with energy.</string>
+    <string name="descriptionDay4">Studies show that 5 meals a day are important in maintaining a healthy body weight.</string>
+
+    <string name="titleDay5">Protein is essential for growth and development.</string>
+    <string name="descriptionDay5">Nutrition plays a key role in maintaining a healthy lifestyle.</string>
+
+    <string name="titleDay6">You are what you eat.</string>
+    <string name="descriptionDay6">Is literally true, if you want your body to perform at a peak level.</string>
+
+    <string name="titleDay7">Controlling portion size use smaller plates.</string>
+    <string name="descriptionDay7">Eliminate emotional eating by healing your hungry heart.</string>
+
+    <string name="meal">Meal %1$d</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+
+    <string name="namemeal1_1">Strawberries and Creme Oatmeal</string>
+    <string name="ingredientMeal1_1">&#189; cup rolled oats \n\n&#8531; cup skim milk \n\n&#8531; cup vanilla Greek yogurt \n\n&#189; cup sliced strawberries \n\n2 tbsp vanilla nonfat Greek yogurt \n\n1 tbsp toasted almonds</string>
+    <string name="stepsMakeMeal1_1">In the evening, stir together the oats, milk, and &#8531; cup of the yogurt in a jar or bowl until well combined. Cover and chill in the refrigerator overnight. Enjoy!</string>
+
+
+    <string name="namemeal1_2">Golden Glow Elixir</string>
+    <string name="ingredientMeal1_2">2 apples \n\n4 medium oranges, peel removed \n\n1 lemon, peeled \n\n2&#8211;3 inch knob fresh ginger, peeled \n\n2&#8211;inch knob fresh turmeric, peeled \n\n2 cups cold water \n\n1 handful ice</string>
+    <string name="stepsMakeMeal1_2">In a high&#8211;speed blender, blend all ingredients until smooth, adding extra water if needed. A high powered decent blender will turn this into a smooth juice. If you would rather juice the ingredients to make it even smoother, go right ahead to keep all the fiber and nutrients in but juicing the ingredients is just as good. Enjoy!</string>
+
+
+    <string name="namemeal1_3">Tso’s Chicken Stir Fry</string>
+    <string name="ingredientMeal1_3">4 chicken breasts, cubed \n\n1 cup flour \n\nvegetable oil \n\nsalt \n\nfreshly ground black pepper \n\n2 cloves garlic, minced \n\n&#189; can chicken broth \n\n3 tbsp honey \n\n4 tbsp soy sauce \n\n2 tbsp lime juice \n\n2 cans broccoli, florets only \n\n2 cans of cooked white rice, for serving</string>
+    <string name="stepsMakeMeal1_3">In a large bowl, dredge chicken slightly in cornstarch. Transfer pieces to a large bowl filled with flour and toss slightly to coat again then set aside. Fill a large, deep skillet with &#189; vegetable oil over medium&#8211;high heat. Season the chicken, then drain and set aside. Add 2 tablespoons of cornstarch and stir to incorporate. To the sauce, add broccoli and carrots and cook until tender, for 5 minutes. Enjoy!</string>
+
+
+    <string name="namemeal1_4">Herbal Tea</string>
+    <string name="ingredientMeal1_4">1 cup water \n\n1 teaspoon grated fresh ginger \n\n1 teaspoon grated lime zest \n\n1 teaspoon lime juice \n\n3 leaves fresh mint</string>
+    <string name="stepsMakeMeal1_4">Bring water to a boil in a pot stir in rest of the ingredients. Cook and stir until tea is infused. Enjoy!</string>
+
+
+    <string name="namemeal1_5">Grilled Lemon Dijon Chicken Thighs with Arugula Salad</string>
+    <string name="ingredientMeal1_5">4 (4 oz.) skinless, boneless chicken thighs \n\n&#189; tsp salt \n\n&#188; tsp ground black pepper \n\n2.5 tbsp olive oil \n\n2 tsp lemon juice \n\n1 tsp minced garlic \n\ncooking spray \n\n1 tbsp balsamic vinegar \n\n1 tsp honey \n\n1 cup grape tomatoes, halved \n\n1 (5 oz.) package baby arugula</string>
+    <string name="stepsMakeMeal1_5">Sprinkle chicken with &#188; teaspoon salt and 1/8 teaspoon pepper. Combine chicken with 1&#8211;1.5 teaspoons oil, lemon juice, mustard, and garlic in a bowl, toss to coat. Let stand 4 minutes. Heat a grill pan over medium heat. Coat pan with cooking spray. Add chicken to pan, grill for 5 minutes on each side or until done. Cut chicken into &#188;&#8211;inch&#8211;thick slices. Enjoy!</string>
+
+
+    <string name="namemeal2_1">Cottage Berry Crunch</string>
+    <string name="ingredientMeal2_1">&#189; cup 2% low&#8211;fat cottage cheese \n\n2 tbsp granola \n\n&#189; cup sliced bananas \n\n&#189; cup assorted mixed berries</string>
+    <string name="stepsMakeMeal2_1">Spoon cottage cheese into a small bowl. Top with remaining ingredients. Enjoy!</string>
+
+
+    <string name="namemeal2_2">Pineapple Kiwi</string>
+    <string name="ingredientMeal2_2">4 tbsp water \n\n&#189; cup milk \n\n&#189; cup yogurt \n\n1.5 tbsp honey \n\n1 kiwi fruit, peeled \n\n1 cup pineapple chunks \n\n&#189; a mango \n\n2 ice cubes</string>
+    <string name="stepsMakeMeal2_2">Blend all ingredients at low speed until thick and smooth. Enjoy!</string>
+
+
+    <string name="namemeal2_3">Lemon Chicken Skillet</string>
+    <string name="ingredientMeal2_3">4 chicken breasts \n\n&#188; cup butter \n\n2 tbsp. olive oil \n\n1 lemon \n\n1 lemon sliced \n\n&#188; cup white wine \n\n1 tsp salt \n\n1 tsp ground black pepper \n\n&#189; tsp paprika \n\n&#189; tsp dried parsley</string>
+    <string name="stepsMakeMeal2_3">Combine flour, salt, pepper, paprika, and parsley in a shallow bowl. Heat oil and butter over medium&#8211;high heat. Coat each chicken breast in the flour mixture and add to the hot skillet. Add lemon juice, white wine, lemon zest, and rosemary to the skillet. Cook chicken on each side until cooked. Enjoy!</string>
+
+
+    <string name="namemeal2_4">Zucchini Quinoa Cookies</string>
+    <string name="ingredientMeal2_4">&#189; cup creamy peanut butter \n\n&#188; cup honey \n\n1 banana \n\n1 egg \n\n1 tsp vanilla extract \n\n&#189; cup rolled oats \n\n&#189; cup quinoa flakes \n\n1 tsp cinnamon \n\n&#188; tsp salt \n\n1 cup shredded zucchini, pressed</string>
+    <string name="stepsMakeMeal2_4">Preheat oven to 350 degrees °F. Add peanut butter, honey, banana, egg, and vanilla in a large bowl, and stir. Add oats, quinoa flakes, baking powder, spices and salt to the bowl and stir together. Fold in shredded zucchini and chia seeds. Spoon the dough onto a baking pan. Bake cookies on the center rack for 15 &#8211; 18 minutes until edges are golden brown. Enjoy!</string>
+
+
+    <string name="namemeal2_5">Savory Shrimp with Fresh Herbs</string>
+    <string name="ingredientMeal2_5">1 pound large shrimp \n\n2 red hot peppers \n\n1 leek, thinly sliced \n\n0.5&#8211;1 tbsp capers, rinsed and drained \n\n2 cloves garlic, thinly sliced \n\n&#189; cup coarsely chopped parsley \n\n3 tbsp lemon juice \n\n2 tbsp olive oil</string>
+    <string name="stepsMakeMeal2_5">Place a sauté pan over medium heat and add oil. Add shrimp, peppers, leek, capers, garlic, salt and pepper and cook for 4 minutes until shrimp is pink. Remove from heat. Add lemon juice, scraping the bottom of the pan with a spoon. Serve shrimp sprinkled with fresh parsley and basil. Enjoy!</string>
+
+
+    <string name="namemeal3_1">Flaxseed Oatmeal with Blueberries</string>
+    <string name="ingredientMeal3_1">3 cups water \n\n2 cups rolled oats \n\n3 tbsp ground flaxseed \n\n1/8 tsp salt \n\n&#188; cup whole milk \n\n1 cup blueberries \n\n1 tbsp blueberry preserves \n\n&#189; tsp grated lemon rind \n\n1 tbsp lemon juice</string>
+    <string name="stepsMakeMeal3_1">Bring 3 cups of water to a boil. Stir in oats, add the flaxseed, and salt. Reduce heat to medium&#8211;low, cook until tender, stirring frequently. Stir in milk and butter. Meanwhile, combine blueberries and next 4 ingredients in a microwave bowl, microwave at high for 1.5 minutes, stirring every 30 seconds. Divide oatmeal among 4 bowls. Top with blueberries and pecans. Enjoy!</string>
+
+
+    <string name="namemeal3_2">Coconut Milk Smoothie WithLo Blueberries</string>
+    <string name="ingredientMeal3_2">1 bag frozen blueberries, (10 oz) \n\n3 ripen bananas \n\n1 cup plain yogurt \n\n1 cup unsweetened coconut milk \n\n2 tbsp honey</string>
+    <string name="stepsMakeMeal3_2">In a blender, puree the blueberries, bananas, yogurt, coconut milk, and honey. Enjoy!</string>
+
+
+    <string name="namemeal3_3">Chicken and Asparagus Stir&#8211;Fry</string>
+    <string name="ingredientMeal3_3">1 tbsp soy sauce \n\n1 tbsp honey \n\n2 chicken breasts, cut into pieces \n\n1 tbsp olive oil \n\n1 bunch asparagus, cut into pieces \n\n4 cloves garlic, thinly sliced \n\n2 tsp toasted sesame oil</string>
+    <string name="stepsMakeMeal3_3">In a zip lock bag, combine soy sauce and honey. Add chicken, and stir to coat. Set in the refrigerator until ready. Meanwhile, heat oil in a large skillet over medium heat. Remove the asparagus and set aside. Remove chicken from marinade, and add to skillet.  Then add garlic, scallions, and the reserved marinade to the pan. Remove from heat and stir in sesame oil. Enjoy!</string>
+
+
+    <string name="namemeal3_4">Lavender Mint Tea</string>
+    <string name="ingredientMeal3_4">&#188; cup fresh lavender petals \n\n1 cup fresh mint leaves \n\n4 cups water</string>
+    <string name="stepsMakeMeal3_4">Place lavender petals and mint leaves into a saucepan, pour water over and bring to a boil. Turn heat to low and simmer tea until flavor is your desired strength, 15 to 20 minutes. Enjoy!</string>
+
+
+    <string name="namemeal3_5">Chili Fajitas</string>
+    <string name="ingredientMeal3_5">1 lb. skinless chicken breast \n\n&#189; green, red, and yellow bell pepper, thinly sliced \n\n&#8531; cup water \n\n2 tsp soy sauce \n\n1 dash salt \n\n1 dash black pepper \n\n2 tbsp olive oil \n\n1 large onion, thinly sliced</string>
+    <string name="stepsMakeMeal3_5">Combine all marinade ingredients with the chicken in a container and refrigerate at least 2 hours. Remove the meat from the marinade and grill over medium flame for 4&#8211;5 minutes on each side. Cut meat into thin strips. For the sauce, combine 2 tbsp water, 1 tsp soy sauce, &#188; tsp lime juice, dash salt, dash black pepper, and 1 tbsp olive oil.  Enjoy!</string>
+
+
+    <string name="namemeal4_1">Healthy Fruity Oatmeal</string>
+    <string name="ingredientMeal4_1">&#189; cup oats \n\n1 cup water \n\n1 tbsp honey \n\n1 tbsp vanilla extract \n\n&#189; tsp ground cinnamon \n\n&#188; cup blueberries \n\n4 sliced strawberries \n\n&#189; banana, cut into slices</string>
+    <string name="stepsMakeMeal4_1">Combine water and oats in a microwave bowl. Microwave on high until oats have absorbed the water. Stir in honey, vanilla extract, and ground cinnamon. Add the blueberries and top with banana and strawberry slices. Enjoy!</string>
+
+
+    <string name="namemeal4_2">Coffee Smoothie</string>
+    <string name="ingredientMeal4_2">1 tsp instant espresso coffee powder \n\n1 tbsp hot water \n\n1 small banana, peeled, cut up, and frozen \n\n&#188; cup fat&#8211;free milk \n\n1 tbsp honey \n\n&#189; cup ice cubes \n\n ground cinnamon</string>
+    <string name="stepsMakeMeal4_2">In a blender combine espresso powder and hot water, let rest for one minute. Add banana, milk, and honey. Cover and blend until smooth. Gradually add ice blending to desired consistency. Sprinkle lightly with cinnamon. Enjoy!</string>
+
+
+    <string name="namemeal4_3">Chicken &amp; Pineapple Stir&#8211;Fry</string>
+    <string name="ingredientMeal4_3">110 g chicken breasts, 4 oz \n\n40 g pineapple, 1.4 oz \n\n120 g brown rice, 4.4 oz \n\n&#8531; tbsp olive oil \n\n&#189; tsp brown mustard \n\n1/6 tbsp smoked paprika \n\nsea salt \n\npepper</string>
+    <string name="stepsMakeMeal4_3">Chop the raw chicken breasts into small pieces. Season the chicken pieces with smoked paprika and brown mustard. Add olive oil to a skillet then toss in the chicken breast pieces. Cook for about 4 minutes until the chicken is about 80% finished, then add chopped bell pepper. Cook for another 2 or 3 minutes before adding the diced pineapple. Enjoy!</string>
+
+
+    <string name="namemeal4_4">Raw Chocolate Truffles</string>
+    <string name="ingredientMeal4_4">&#189; cup walnuts, cashew nuts, and almonds left in water overnight \n\n3&#8211;4 tbsp almond milk \n\n&#188; cup sunflower seeds \n\n&#188; cup pumpkin seeds \n\n2 tbsp carob powder \n\n3 tbsp coconut flakes</string>
+    <string name="stepsMakeMeal4_4">Put everything in the blender except the coconut flakes, and mix. Start making small balls from the mixture using an ice cream scoop. Roll each candy into coconut flake. Serve cold. Enjoy!</string>
+
+
+    <string name="namemeal4_5">Baked Salmon with Veggies</string>
+    <string name="ingredientMeal4_5">2 salmon fillets \n\n1 cup sliced zucchini \n\n1 cup broccoli \n\n&#189; cup cherry tomatoes \n\nsalt \n\npepper \n\nolive oil</string>
+    <string name="stepsMakeMeal4_5">Pre&#8211;heat oven to 375 Degrees °F. Combine veggies in a large sheet pan. Season the veggies with salt, pepper, and olive oil. Place the fillets next to the veggies and bake 18&#8211;20 minutes or until the salmon is cooked and the veggies are tender. Enjoy!</string>
+
+
+    <string name="namemeal5_1">Banana Nut Oatmeal</string>
+    <string name="ingredientMeal5_1">&#189; cup rolled oats \n\n1 cup water \n\n1 sliced banana \n\n1 tbsp chopped walnuts \n\n1 tsp ground cinnamon</string>
+    <string name="stepsMakeMeal5_1">Combine oats and 1 cup of water in a small microwave bowl. Microwave on high temperature for 3 minutes. Top with banana slices, walnuts, and cinnamon. Enjoy!</string>
+
+
+    <string name="namemeal5_2">Pink Power</string>
+    <string name="ingredientMeal5_2">1.5 cup small fresh cauliflower florets \n\n2 cups watermelon cubes (seeds and rinds removed) \n\n1.5 cups whole strawberries \n\n1 container (6 oz) strawberry greek yogurt \n\n2 tbsp strawberry preserves (optional)</string>
+    <string name="stepsMakeMeal5_2">In a small saucepan cook cauliflower, cover it with boiling water, until very tender. In a blender combine cooked cauliflower, watermelon, strawberries, yogurt, and, if desired, strawberry preserves. Enjoy!</string>
+
+
+    <string name="namemeal5_3">BBQ Chicken&#8211;Wrapped Asparagus</string>
+    <string name="ingredientMeal5_3">2 chicken breasts thinly cut, 3 oz each piece \n\n12 spears asparagus \n\n2 tbsp bbq sauce 1 pinch smoked paprika \n\n1 pinch garlic powder \n\n1 pinch pepper</string>
+    <string name="stepsMakeMeal5_3">Set oven to 400°F / 200°C. Flatten the chicken with a mallet. Season chicken cutlets with 1 tbsp barbecue sauce (for each piece) and your choice of seasonings. Place the chicken on a grill with the open facing down. Bake in the oven or smoke on a grill for about 8 to 10 minutes. Enjoy!</string>
+
+
+    <string name="namemeal5_4">Ginger Turmeric Herbal Tea</string>
+    <string name="ingredientMeal5_4">2 cups water \n\n&#189; teaspoon chopped fresh ginger \n\n&#189; teaspoon ground cinnamon \n\n1 tablespoon honey \n\n1 lemon wedge</string>
+    <string name="stepsMakeMeal5_4">Bring water to a boil in a small saucepan add turmeric, ginger, and cinnamon. Reduce heat to low and simmer for 10 minutes. Pour tea into a large glass, add honey and lemon. Enjoy!</string>
+
+
+    <string name="namemeal5_5">Grilled Shrimp &amp; Avocado Kabobs</string>
+    <string name="ingredientMeal5_5">450 g / 1 lb jumbo shrimp \n\n1.5 avocados \n\n1 red bell pepper \n\n1 orange bell pepper \n\n1 yellow bell pepper \n\n1 red onion \n\n1 tsp garlic paste \n\n&#189; tbsp extra virgin olive oil \n\n1 lime \n\nsalt, pepper</string>
+    <string name="stepsMakeMeal5_5">Set your grill to about 400°F/200°C. Chop veggies and avocado into large pieces for the kabob. Peel shrimp and season.  Choose fibrous vegetables as they are more filling and will likely hold well on a kabob stick under intense heat. Place the kabobs on the grill and cook for about 8&#8211;10 minutes then flip over and cook for another 8 to 10 minutes. Enjoy!</string>
+
+
+    <string name="namemeal6_1">Morning Parfait</string>
+    <string name="ingredientMeal6_1">&#188; cup raisins and 1 tsp finely shredded orange peel \n\n1 tsp vanilla \n\nhalf package reduced&#8211;fat cream Neufchatel cheese (8 oz) \n\nbread crumbs \n\n2 cups fresh raspberries, blueberries, sliced strawberries, and/or cut&#8211;up peaches \n\n&#189; cup low&#8211;fat granola \n\nhoney \n\nshredded orange peel</string>
+    <string name="stepsMakeMeal6_1">Mix bread crumbs and cheese, sprinkle over baking dish. Drizzle with oil. Bake for 20 to 25 minutes. In four glasses place layer of cream cheese mixture, a layer of fruit, and a layer of granola. Repeat layers until the top of the glasses. Drizzle with honey and top with additional orange peel. Makes 4 servings. Enjoy!</string>
+
+
+    <string name="namemeal6_2">Green Tea Kiwi and Mango</string>
+    <string name="ingredientMeal6_2">2.5 cups frozen diced mango \n\n3/4 cup vanilla yogurt \n\n2 tbsp honey \n\n2 tbsp water \n\n3 ripe kiwi \n\n2 cups ice cubes \n\n&#189; cup baby spinach \n\n2 tbsp bottled green tea</string>
+    <string name="stepsMakeMeal6_2">Place mango, &#189; cup yogurt, 2 tablespoons honey, 2 tablespoons water, and lime rind in a blender, process until smooth.  Place &#188; cup yogurt, 2 tablespoons honey, kiwifruit, and next 3 ingredients in a blender and blend until smooth. Enjoy!</string>
+
+
+    <string name="namemeal6_3">Citrus Chicken Stir&#8211;Fry</string>
+    <string name="ingredientMeal6_3">140 g / 5 oz chicken breast, small pieces \n\n34 g / 0.25 oz broccolini  \n\n25 g / 0.875 oz baby portobello mushroom \n\n&#188; red bell pepper \n\n20 g / 0.7 oz red onion \n\ncoconut oil spray \n\nsesame seeds   \n\n&#188; tsp arrowroot starch \n\n1/8 tbsp garlic paste \n\n&#188; tsp ginger paste</string>
+    <string name="stepsMakeMeal6_3">In a bowl, mix together all the ingredients for the stir&#8211;fry sauce. Spray a skillet with coconut oil and set on medium heat. Toss in the chicken pieces and cook until they are about 85% finished. then toss in the veggies and stir using a spatula. Enjoy!</string>
+
+
+    <string name="namemeal6_4">Grilled Mexican Corn</string>
+    <string name="ingredientMeal6_4">4 ears corn \n\n1.5 cups sour cream \n\n1 cup grated parmesan \n\n1 lime, juice \n\nred chili powder \n\n2 limes cut into wedges, for garnish</string>
+    <string name="stepsMakeMeal6_4">Grill the corn turning once on a hot grill until it starts to get slightly charred. In a small bowl mix the mayonnaise, sour cream and cilantro. Squeeze over corn, lime juice and season with parmesan. Sprinkle with chili powder. Enjoy!</string>
+
+
+    <string name="namemeal6_5">Salmon Burger with Avocado</string>
+    <string name="ingredientMeal6_5">1 lb. salmon fillet \n\n1 cup breadcrumbs \n\n1 egg \n\n1 tbsp lemon juice \n\nsalt and pepper \n\nolive oil \n\n1 large avocado, chopped \n\n&#8531; cup chopped red onion \n\n1 lime juice</string>
+    <string name="stepsMakeMeal6_5">Chop the salmon filet into small pieces and transfer it into a mixing bowl. Gently stir in the rest of the ingredients. Let the mixture rest for 5&#8211;10 minutes. Heat a little oil in a large grill pan over medium heat. Form neat patties from the salmon mixture. Fry the patties until browned on both sides about 4 minutes on each side. Enjoy!</string>
+
+
+    <string name="namemeal7_1">Strawberry and Banana Nut Bread Oatmeal</string>
+    <string name="ingredientMeal7_1">150 g  rolled oats, 5.3 oz (cooked) \n\n&#189; mashed banana \n\n50 g / 1.8 oz strawberries \n\n2 tbsp almond milk \n\n1 tbsp vanilla extract \n\n2 tbsp  chopped walnuts \n\npacket stevia by brand \"In The Raw\" \n\nlemon zest garnish \n\n1 tbsp greek yogurt (2% fat) \n\n&#189; tbsp chopped walnuts \n\npoppy seeds</string>
+    <string name="stepsMakeMeal7_1">Cook rolled oats as directed, then set aside. Add all the ingredients into a bowl except the strawberries, and mix thoroughly. Top the oatmeal with freshly chopped strawberries. Garnish with Greek yogurt, chopped walnuts, and poppy seeds. Enjoy!</string>
+
+
+    <string name="namemeal7_2">Strawberry Banana</string>
+    <string name="ingredientMeal7_2">2 cups strawberries \n\n1 fresh peeled banana \n\n1 cup milk \n\n1 cube ice \n\n1 tbsp honey</string>
+    <string name="stepsMakeMeal7_2">Add all ingredients to a blender, and blend until combined.If the smoothie is too thick, add more milk. If it is too thin, add more fruit and/or ice. Enjoy!</string>
+
+
+    <string name="namemeal7_3">Spicy &amp; Light Kung Pao Chicken Meal Prep</string>
+    <string name="ingredientMeal7_3">150 g / 0.3 lb. chicken breast \n\n1/6 clove garlic  \n\n33 g / 1.17 oz snow peas \n\n150 g / 5.17 oz bell pepper \n\n2/3 tbsp water \n\n&#8531; tbsp tomato sauce \n\n1/6 tbsp fresh ginger \n\n1/6 tbsp red chili pepper sauce \n\n1/6 tbsp rice vinegar \n\nchopped green onion</string>
+    <string name="stepsMakeMeal7_3">In a bowl, add ingredients for the sauce and whisk. Set a skillet over medium heat and spray with olive oil. When the skillet is hot, toss in garlic and sear for about 2 minutes. Then add chopped chicken breasts. Cook the chicken until the outside of it is seared, about 6 to 8 minutes. Toss in chopped bell peppers and sear for about 3 minutes. Slowly pour in the sauce and stir frequently. Enjoy!</string>
+
+
+    <string name="namemeal7_4">Lavender Mint Tea</string>
+    <string name="ingredientMeal7_4">&#188; cup fresh lavender petals \n\n1 cup fresh mint leaves \n\n4 cups water</string>
+    <string name="stepsMakeMeal7_4">Place lavender petals and mint leaves into a saucepan, pour water over and bring to a boil. Turn heat to low and simmer tea until flavor is your desired strength, 15 to 20 minutes. Enjoy!</string>
+
+
+    <string name="namemeal7_5">Foil Fish Packets with Spinach and Tomato</string>
+    <string name="ingredientMeal7_5">1 bunch  asparagus \n\n2 sliced tomatoes \n\n2 tilapia fillets \n\nolive oil \n\n&#189; tsp chili garlic sauce \n\nsalt \n\n1 lemon, sliced</string>
+    <string name="stepsMakeMeal7_5">Preheat oven to 375 degrees °F. In a small bowl, mix together olive oil, chili sauce, and salt. Place asparagus spears down the center on a piece of aluminum foil and lay sliced tomato evenly on top, then season it. Place one fish fillet on top of tomatoes in each packet, and spread fish with olive oil mixture. Arrange lemon slices over the fish. Bake the fish in the oven for 25&#8211;30 minutes. Enjoy!</string>
+
+
+    <string name="focus_13">7 days clean eating plan</string>
+    <string name="goal_13">Weight loss speed up metabolism.</string>
+    <string name="days_plan">%1$d days plan</string>
+    <string name="extra">Extra</string>
+    <string name="cat_name13">Nutrition Plan Weight</string>
+    <string name="extraDescription13">Be in the best shape, ever! Learn what to eat, discover fat burning foods, eat tasty meals to speed up your metabolism.</string>
+    <string name="exercise">Exercise</string>
+    <string name="timer">Timer</string>
+    <string name="muscle">Muscle</string>
+
+    <string name="congrulation">Congratulation !</string>
+    <string name="thnak_you">Thank you!</string>
+    <string name="after_update">You\'ve got 50 new exercises, 7 new workout plans, 1 nutrition plans and no ads</string>
+    <string name="first_restore">You have Premium version. 7 workout plans and 1 nutrition plans were added for you.</string>
+    <string name="upgrade_new">UPGRADE</string>
+    <string name="description_upgrade">Unlock all new plans designed by top coaches. Achieve your goals more easily</string>
+    <string name="no_ads">NO ADS</string>
+    <string name="no_ads_description">GET RID OF ALL ADS. ENJOY YOUR WORKOUT SESSIONS WITH ADS FREE</string>
+    <string name="noty_sound">Notifications sound</string>
+    <string name="noty_sound_description">Choose your special tone for notification not to miss anything</string>
+    <string name="new_workouts">New WORKOUTS</string>
+    <string name="new_workouts_desription">7 NEW WORKOUT PLANS CUSTOMIZED FOR EACH MUSCLE GROUP AND FITNESS GOAL TO FOCUS ON MAXIMUM RESULTS.</string>
+    <string name="upgrade_header">Upgrade to unlock new 50 exercises, 10 workout plans, 2 nutrition plans and remove ads.</string>
+    <string name="sound">Sound</string>
+    <string name="buy">Buy</string>
+    <string name="subscription_info">Your subscription renew within 24-hours before yhe subscription period ends, you will be charged through your Google Play account. Manage your subscription in Menu. By continuing you accept our <a href="https://vgfit.com/privacy">Privacy Policy</a> and <a href="https://vgfit.com/terms"> Terms of Service. </a> <a href="http://play.google.com/store/account/subscriptions">Manage subscriptions.</a> </string>
+
+    <string name="nutrition">Nutrition</string>
+    <string name="nutritionPlanName1">Build muscle</string>
+    <string name="nutritionPlanName2">Lean body</string>
+
+    <string name="_3_days_for_free">7-day Free Trial</string>
+    <string name="new_workoutsN">NEW\nworkouts</string>
+    <string name="title_11">Exercises</string>
+    <string name="one_week">1 week for Free</string>
+    <!--<string name="new_workoutsN">Yoga\nClasses</string>-->
+    <string name="week_after">/week after</string>
+    <string name="month_after">/month after</string>
+    <string name="year_after">/year after</string>
+    <string name="free_trial">3-day\nFree Trial</string>
+    <string name="month">/mo</string>
+    <string name="year">/year</string>
+    <string name="one_time_payment"> one time payment</string>
+    <string name="get_lifetime_access">GET LIFETIME ACCESS</string>
+    <string name="get_workouts_courses_with_powerful_support">Get 100% ready workouts courses with powerful support!</string>
+    <string name="only_now">Only now</string>
+    <string name="start_your_positive_transformation_today">Start your positive transformation today!</string>
+    <string name="monthly_slim">MONTHLY</string>
+    <string name="try_it_now">TRY IT NOW</string>
+    <string name="_3_day_nfree_trial">3-day \nFree Trial</string>
+    <string name="_7_day_nfree_trial">7-day\nFree Trial</string>
+    <string name="after">after</string>
+    <string name="nutrition_plans">Nutrition Plans</string>
+</resources>

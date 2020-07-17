@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Water Reminder</string>
+	<string name="welcome">добро пожаловать</string>
+	<string name="info_input_text">сначала введите личные данные</string>
+	<string name="units_of_measure">ед. измерения</string>
+	<string name="gender">пол</string>
+	<string name="weight">вес</string>
+	<string name="training">тренировка</string>
+	<string name="wake_up">подъем</string>
+	<string name="sleep">сон</string>
+	<string name="metric">метрические</string>
+	<string name="imperial">имперские</string>
+	<string name="kg">кг</string>
+	<string name="lbs">фунтов</string>
+	<string name="ml">мл</string>
+	<string name="l">л</string>
+	<string name="oz">унций</string>
+	<string name="male">мужской</string>
+	<string name="female">женский</string>
+	<string name="receive_notifications_from">получать напоминания с</string>
+	<string name="receive_notifications_until">получать напоминания до</string>
+	<string name="done">готово</string>
+	<string name="reset_to_recommended">восстановить рекомендации</string>
+	<!-- mainviewcontroller -->
+	<string name="today">сегодня</string>
+	<string name="add_drink">добавить напиток</string>
+	<string name="select_drink">выбрать напиток</string>
+	<string name="of">из</string>
+	<string name="are_you_sure_you_want_to_delete_selected_drink">вы уверены, что хотите удалить выбранный напиток?</string>
+	<string name="cancel">отмена</string>
+	<string name="ok">да</string>
+	<string name="delete_drink">удалить напиток</string>
+	<string name="edit_drink">настроить напиток</string>
+	<!-- tabbarcontroller -->
+	<string name="home">главная</string>
+	<string name="remind">напоминания</string>
+	<string name="history">история</string>
+	<string name="settings">опции</string>
+	<!-- reminderviewcontroller -->
+	<string name="reminder_type">тип напоминания</string>
+	<string name="every">каждые</string>
+	<string name="minutes">минут</string>
+	<string name="hour">час</string>
+	<string name="hours">часа</string>
+	<string name="save">сохранить</string>
+	<string name="sound">звук</string>
+	<!-- historyviewcontrolelr -->
+	<string name="week">неделя</string>
+	<string name="month">месяц</string>
+	<string name="week_of">неделя</string>
+	<!-- settingsviewcontroller -->
+	<string name="default_drink_size">станд. размер напитка</string>
+	<string name="rate_the_app">оценить</string>
+	<string name="contact_us">связаться с нами</string>
+	<string name="share_app">поделиться</string>
+	<string name="other_apps">другие приложения</string>
+	<string name="achievements">достижения</string>
+	<!-- contact us -->
+	<string name="enter_text_message">введите текст сообщения</string>
+	<!-- getfullversionviewcontroller -->
+	<string name="buy">купить</string>
+	<string name="no_ads">никакой рекламы</string>
+	<string name="restore_purchases">восстановить покупки</string>
+	<string name="notifications_sound">звук напоминаний</string>
+	<string name="more_drinks">больше напитков</string>
+	<string name="water_plays_a_very_important_role_in_your_body_use_the_app_effectively_and_lead_an_active_lifestyle">вода играет очень важную роль для вашего тела, используйте приложение с толком и ведите здоровый образ жизни</string>
+	<string name="remind_drinking_water_on_time_more_effectively_without_the_distraction_of_ads">более эффективные напоминания о воде без отвлекающей рекламы</string>
+	<string name="choose_your_special_tone_for_notification_not_to_miss_anything">особый звук напоминаний не даст их пропустить</string>
+	<string name="add_multiple_types_of_drinks_to_get_precise_result">добавление множества видов напитков обеспечит точный результат</string>
+	<!-- otherappsviewcontroller -->
+	<!-- achievements -->
+	<string name="first_glass">первый стакан</string>
+	<string name="first_day">первый день</string>
+	<string name="one_week">одна неделя</string>
+	<string name="_30_days">30 дней</string>
+	<string name="_100_days">100 дней</string>
+	<string name="_365_days">365 дней</string>
+	<string name="congratulations">поздравляем!</string>
+	<string name="you_got_an_award">вы получили награду!</string>
+	<string name="see_all_awards">все награды</string>
+	<string name="share_with_friends">поделиться с друзьями</string>
+	<string name="you_earned_this_award_for_your_first_glass">вы получили эту награду за первый стакан воды</string>
+	<string name="you_earned_this_award_for_your_first_day">вы получили эту награду за первый день</string>
+	<string name="you_earned_this_award_for_completing_your_first_week">вы получили эту награду за первую неделю</string>
+	<string name="you_earned_this_award_for_completing_your_first_30_days">вы получили эту награду за первые 30 дней</string>
+	<string name="you_earned_this_award_for_completing_your_first_100_days">вы получили эту награду за первые 100 дней</string>
+	<string name="you_earned_this_award_for_completing_your_first_365_days">вы получили эту награду за первые 365 дней</string>
+	<!-- drinks -->
+	<string name="water">Вода</string>
+	<string name="coffee">Кофе</string>
+	<string name="tea">Чай</string>
+	<string name="milk">Молоко</string>
+	<string name="orange_juice">Апельсиновый Сок</string>
+	<string name="soda">Газировка</string>
+	<string name="wine">Вино</string>
+	<string name="other">Другие</string>
+	<string name="beer">Пиво</string>
+	<string name="coconut_water">Кокосовая вода</string>
+	<string name="energy_drink">Энергетический напиток</string>
+	<string name="yogurt">Йогурт</string>
+	<string name="smoothie">Смузи</string>
+	<string name="hot_chocolate">Горячий шоколад</string>
+	<string name="kefir">Кефир</string>
+	<string name="cacao">Какао</string>
+	<string name="chicory">Цикорий</string>
+	<string name="milkshake">Молочный коктейль</string>
+	<string name="bouillon">Бульон</string>
+	<string name="ayran">Айран</string>
+	<string name="cranberry">Клюква</string>
+	<string name="compote">Компот</string>
+	<string name="sport_drink">Спортивный напиток</string>
+	<string name="protein">Протеин</string>
+	<string name="kvass">Квас</string>
+	<string name="lemonade">Лимонад</string>
+	<string name="kombucha">Комбуча</string>
+	<string name="kissel">Кисель</string>
+	<string name="mate">Мате</string>
+	<string name="latte">Лате</string>
+	<string name="whisky">Крепкий напиток</string>
+	<string name="soya_milk">Соевое молоко</string>
+	<string name="cider">Сидр</string>
+	<string name="barley_drink">Ячменный напиток</string>
+	<string name="spritz">Спритц</string>
+	<string name="bubble_tea">Пузырьковый чай</string>
+	<string name="decaf_coffee">Кофе без кофеина</string>
+	<string name="oolong_tea">Чай улун</string>
+	<string name="non_alc_beer">Безалк. пиво</string>
+	<string name="intake_time">Время Приема</string>
+	<string name="cappuccino">Капучино</string>
+	<string name="herbal_tea">Травяной чай</string>
+	<string name="sparkling_water">Газированная вода</string>
+	<string name="cola">Кола</string>
+	<string name="slurpee">Слюрпи</string>
+	<string name="flat_white">Флэт уайт</string>
+	<string name="oatmeal_drink">Овсяный напиток</string>
+	<string name="sake">Сакэ</string>
+	<string name="matcha">Чай Матча</string>
+	<string name="sangria">Сангрия</string>
+	<string name="mojito">Мохито</string>
+	<string name="cucumber_water">Огуречная вода</string>
+	<string name="lemon_water">Вода с лимоном</string>
+	<string name="ice_tea">Чай Со Льдом</string>
+	<string name="kool_aid">Кул-Аид</string>
+	<string name="almond_milk">Миндальное молоко</string>
+	<string name="aloe_juice">Сок алоэ</string>
+	<string name="tonic_water">Тоник</string>
+	<string name="chai_tea">Чай Chai</string>
+	<string name="rice_drink">Рисовый напиток</string>
+	<string name="diet_coke">Диет. Кола</string>
+	<string name="zero_coke">Кола Ноль</string>
+	<string name="lowfat_milk">Обезжиренное Молоко</string>
+	<string name="mors">Морс</string>
+	<string name="golden_milk">Золотое Молоко</string>
+	<string name="buttermilk">Пахта</string>
+	<string name="cordial_juice">Сквош</string>
+	<string name="apple_juice">Яблочный Сок</string>
+
+	<!-- new -->
+	<string name="upgrade">апгрейд</string>
+	<string name="everyday">каждый день</string>
+	<string name="reminder_alert_title">напоминание включено с %1$s до %2$s</string>
+	<string name="first_notification_text">аква-сигнал: пейте больше воды</string>
+	<string name="second_notification_text">время выпить воды</string>
+	<string name="third_notification_text">вашему телу нужна вода. выпейте стаканчик</string>
+	<string name="required_water_consumption_text">важно, чтобы вы пили %s воды каждый день, \nно при желании вы можете поменять это значение</string>
+	<string name="drink_enough_water_txt">отправлено с %s</string>
+
+	<string name="enable_noty_query">Доступ к уведомлениям отключен</string>
+	<string name="enable_noty">Включить</string>
+	<string name="get_lifetime_access">ПОЛУЧИТЕ ПОЖИЗНЕННЫЙ ДОСТУП</string>
+
+</resources>

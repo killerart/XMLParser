@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d9534f</color>
+    <color name="colorPrimaryDark">#68201e</color>
+    <color name="colorAccent">#f49a97</color>
+    <color name="properGray">#5c6678</color>
+    <color name="properGrayLight">#A6B0B9</color>
+    <color name="properPink">#E7005B</color>
+    <color name="yellow">#fbeb4d</color>
+    <color name="green">#99ff33</color>
+    <color name="red">#f13729</color>
+    <color name="blue">#1e90ff</color>
+    <color name="black">#000000</color>
+    <color name="bootstrap_gray_dark">#373a3c</color>
+    <color name="bootstrap_gray">#55595c</color>
+    <color name="bootstrap_gray_light">#818a91</color>
+    <color name="bootstrap_gray_lighter">#eceeef</color>
+    <color name="bootstrap_gray_lightest">#f7f7f9</color>
+    <color name="roz">#FD4B8A</color>
+    <color name="roz2">#F8657C</color>
+    <color name="colorProgress">#FF6667</color>
+
+    <color name="selected_color">#08FD8E</color>
+    <color name="bg_color_">#17FFFFFF</color>
+    <color name="another_color">#80FFFFFF</color>
+
+
+    <color name="startPoint">#C43CE6</color>
+    <color name="endPoint">#EE4A74</color>
+    <color name="colorTextGraph">#fbeb4d</color>
+    <color name="white1">#ffffff</color>
+    <color name="white2">#FFFFFE</color>
+    <color name="transparent_bottom">#1A000000</color>
+
+
+</resources>

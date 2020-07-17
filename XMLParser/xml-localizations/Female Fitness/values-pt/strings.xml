@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fitness Feminino</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">Exercícios</string>
+    <string name="title_2">Treinos</string>
+    <string name="title_3">Personalizado</string>
+    <string name="title_4">Histórico</string>
+    <string name="title_5">Mais</string>
+    <string name="done">Concluído</string>
+    <string name="back">Voltar</string>
+    <string name="titles">Voltar:  </string>
+    <string name="downl_vid">Transferindo vídeo</string>
+    <string name="please_wait">Por favor aguarde...</string>
+    <string name="cancel">Cancelar</string>
+    <string name="edit">Editar</string>
+    <string name="work">Meu Treino</string>
+    <string name="create_plus">Para criar novo treino prima +</string>
+    <string name="save">Guardar</string>
+    <string name="workout_name">Nome do Treino:</string>
+    <string name="days_title">Número de Dias:</string>
+    <string name="delete">Apagar</string>
+    <string name="work_title">Título do Treino:</string>
+    <string name="options">Opções:</string>
+    <string name="camera">Câmara/Galleria</string>
+    <string name="ex_phot_title">Fotos do Exercício</string>
+    <string name="name_desc">Nome, Descrição</string>
+    <string name="ex_name">Nome do Exercício:</string>
+    <string name="desc">Descrição:</string>
+
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+
+    <string name="blanck">Por favor, preencha o campo de texto!</string>
+    <string name="okey">Ok</string>
+    <string name="realy_cancel">Deseja cancelar realmente o processo de transferência? Todo o progresso será eliminado!</string>
+    <string name="download_all">Transfira todos os vídeos</string>
+    <string name="unzip">Descompactar Ficheiros</string>
+    <string name="files">Ficheiros</string>
+    <string name="dow_video">Transferindo Vídeos</string>
+    <string name="video_saved">Todos os vídeos foram guardados com sucesso!</string>
+    <string name="conn">Por favor verifique a sua conexão sem fios!</string>
+
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+
+    <string name="start">Iniciar</string>
+    <string name="weight">Peso(kg)</string>
+    <string name="repetitions">Repetições</string>
+    <string name="set_s">Definir sgundos</string>
+    <string name="wei">Peso</string>
+    <string name="rep">Repetições</string>
+    <string name="wei_rep">Performance</string>
+    <string name="no_history">Nenhum exercício feito até agora</string>
+    <string name="last_val">Últimos valores</string>
+    <string name="send_f">Enviar Feedback</string>
+    <string name="rep_bug">Reportar Falha</string>
+    <string name="tel_fr">Dizer a Amigo</string>
+    <string name="rate_us">Avalie-nos</string>
+    <string name="ad">Adicionar</string>
+
+    <string name="exit">Tem a certeza ?</string>
+    <string name="sdcard">Sem Cartão SD!</string>
+    <string name="post_to">Publique no mural</string>
+    <string name="not_loged">Sem sessão iniciada</string>
+    <string name="log_fail">Falha no Login</string>
+    <string name="posting">Postando </string>
+    <string name="posting_succes">Postado com Sucesso</string>
+    <string name="email_sent">Email Enviado</string>
+    <string name="email_notsent">Email Não Enviado</string>
+
+
+    <string name="reps1">3 séries e 12/12/12 repetições</string>
+    <string name="reps2">3 séries e 15/15/15 repetições</string>
+    <string name="reps3">3 séries e 20/20/20 repetições</string>
+    <string name="reps4">3 séries e 30/30/30 repetições</string>
+
+    <string name="app_name_fast">Fitness e Musculação</string>
+    <string name="wk1">Tende a ter excesso de peso na zona da anca, braços e peitos com um corpo de pouca gordura na parte inferior. Coloque-se na linha rapidamente com exercícios intensos para o corpo superior.</string>
+    <string name="wk2">Você é direita sem grandes curvas. Adicione mais feito À sua cintura e tente esculpir os glúteos com estes exercícios para corpos estilo banana.</string>
+    <string name="wk3">O seu peito e quadris é mais largo comparado com a anca. Adicione músculos cheios nesses braços e pernas com estes exercícios curva-liciosos.</string>
+    <string name="wk4">Você tem ombros largos e anca fina. Uniformize o seu núcleo, e adicione forma ao seu rabo com estes exercícios para corpos-de-triângulo-invertido.</string>
+    <string name="wk5">Você é um pouco mais larga em baixo do que é no topo. Tonifique os braços e ombros, e fique mais firme em todo o corpo com este treino amigável para pêras.</string>
+    <string name="dialog_future">Não pode introduzir dados em datas futuras!</string>
+    <string name="info">Escolha o formato do seu corpo.</string>
+
+    <string name="ex_guide_1">Maça</string>
+    <string name="ex_guide_2">Banana</string>
+    <string name="ex_guide_3">Ampulheta</string>
+    <string name="ex_guide_4">Triângulo Invertido</string>
+    <string name="ex_guide_5">Pêra</string>
+    <string name="ex_name_1">Bola de Fitness para Esticar</string>
+    <string name="ex_desc_1">Preparação: Sente-se na bola de exercício. Ande para a frente com a bola e deitar-se nela sem apoiar os ombros e a cabeça e dobre os joelhos e quadris. Coloque agora de forma cuidada as costas no contorno da bola. Segure a placa atrás do pescoço ou no peito com ambas as mãos ou então não use pesos. Flexione a cintura para levantar a parte superior do tronco. Retorne à posição inicial. Repita.</string>
+    <string name="ex_name_2">Bola de Estabilidade para Prancha a Pique</string>
+    <string name="ex_desc_2">Coloque uma bola de exercício na sua proximidade e deite-se no chão em frente a ela, com as mãos alinhadas com a largura dos ombros em posição de flexões. Agora coloque as suas canelas em cima de uma bola de exercício. Dica: Neste ponto, as suas pernas devem estar completamente estendidas com as canelas em cima da bola e parte superior do corpo deve estar em posição de elevação, apoiado pelos seus dois braços estendidos. Esta será a sua posição inicial: - Mantendo as suas costas completamente retas e a parte superior do corpo estacionário, eleve os glúteos em direção ao teto, apertando os abdominais com força para fechar a distância entre o tórax e os quadris. O resultado final será uma posição em que vai tipo uma ponte alta. – Expire enquanto faz este troço de movimentos. – Baixe lentamente até à sua posição inicial enquanto inspira. Dica: Não deixe que as suas costas se afundem. Repita o procedimento até ao valor de repetições recomendado.</string>
+    <string name="ex_name_3">Tocar no Dedo dos Pés</string>
+    <string name="ex_desc_3">Para começar, deite-se no chão ou sobre um colchão, com as costas voltadas para baixo. Os seus braços devem estar colocados ao lado do seu corpo com a palma das mãos viradas igualmente para baixo. As suas pernas devem estar a tocar-se uma na outra. Eleve lentamente as pernas até que estas fiquem perpendiculares ao chão e flexione os joelhos em 90 graus. Com as costas pressionadas contra o chão, eleve o tronco até conseguir tocar com as mãos nos dedos do pés. Lembre-se de expirar quando executar esta parte do exercício. Volte a colocar os seus braços e pernas na posição inicial enquanto inspira. Lembre-se de manter os braços esticados e apontados para os dedos dos pés. Repita o procedimento até ao valor de repetições recomendado..</string>
+    <string name="ex_name_4">Encolher Perna</string>
+    <string name="ex_desc_4">Deite-se sobre um colchão com as pernas estendidas e as palmas das mãos voltadas para baixo ao seu lado. Esta será a sua posição inicial: - Lentamente, eleve o tronco com as costas pressionadas contra o chão. Lembre-se de expirar enquanto executa esta parte do exercício. - Dobre os joelhos e puxe os coxas até à sua barriga enquanto expira. Continue o movimento até ficar com os joelhos ao nível do peito. – Contraia os seus abdominais enquanto executa este movimento e mantenha-se por um segundo no topo. Dica: Enquanto executa este movimento, a parte inferior das suas pernas deve estar paralela ao chão. - Volte à posição inicial enquanto inspira. Repita o procedimento até ao valor de repetições recomendado.</string>
+    <string name="ex_name_5">Prancha &amp; Push-Up (Prancha Cima-Baixo)</string>
+    <string name="ex_desc_5">Inicie este exercício em prancha na posição elevada. Certifique-se de que as suas mãos estão exatamente abaixo dos seus ombros, as suas pernas estão retas e seu núcleo envolvido (posição 1). Mantenha esta posição durante 15 segundos. Baixe-se até aos seus antebraços sem deixar cair os seus joelhos. Traga um antebraço para o colchão de cada vez e sempre em posição de prancha baixa. Com os seus antebraços paralelos, mantenha-se nesta posição por 15 segundos (posição 2). Depois, volte para a posição de prancha elevada com ambos os braços retos.</string>
+    <string name="ex_name_6">Alpinista</string>
+    <string name="ex_desc_6">Assume uma posição de flexão com os braços completamente retos. O seu corpo deve formar uma linha reta da cabeça aos tornozelos [A]. Sem permitir que postura lombar mude, levante o seu pé direito do chão e mova lentamente o joelho direito em direção ao peito [B]. Retorne à posição inicial e repita o movimento com a perna esquerda. Mova alternadamente para a frente e para trás durante a duração do exercício.</string>
+    <string name="ex_name_7">Agachamento Lateral</string>
+    <string name="ex_desc_7">Deite-se sobre seu lado direito com a mão esquerda ao lado da cabeça e as pernas ligeiramente levantadas, a esquerda sobre a direita. Movimente o seu torso para cima e para baixo, usando o cotovelo direito para manter a estabilidade. Faça uma pausa, e em seguida, retorne à posição inicial.</string>
+    <string name="ex_name_8">V-Up</string>
+    <string name="ex_desc_8">Deite-se de costas e estenda os braços acima da cabeça. Não necessita de juntar as mãos para este exercício. Num movimento lento e controlado, levante simultaneamente os seus braços e as suas pernas, de modo a que se encontrem no ponto médio de seu torso. Estenda-se voltando à posição inicial num movimento lento e controlado. Mantenha o olhar no teto.</string>
+    <string name="ex_name_9">Salto em Banco</string>
+    <string name="ex_desc_9">Inicie com uma caixa ou banco a 1-2 pés de distância da sua frente. Coloque os pés alinhados com os seus ombros. Esta será a sua posição inicial: - Realize um curto agachamento, em preparação para o salto; balance os braços atrás de você. – Saia desta posição esticando-se com a ajuda dos quadris, joelhos e tornozelos para saltar o mais alto possível. - Balance os braços para a frente e para cima -. Salte sobre o banco, aterrando com os joelhos dobrados, absorvendo o impacto com as pernas. - Vire-se e fique de frente na direção oposta, e pule novamente o banco para o outro lado.</string>
+    <string name="ex_name_10">Remo Sentado com Cabo</string>
+    <string name="ex_desc_10">Para este exercício, irá necessitar de uma máquina de gama baixa com uma barra V-bar. Nota: A V- bar irá permitir que tenha uma garra neutra, onde as palmas das mãos se enfrentam. Para se colocar na posição de partida, sente-se inicialmente na máquina e coloque os pés na plataforma da frente ou barra fornecida, certificando-se que os seus joelhos estão levemente flexionados e não bloqueados. Incline-se mantendo o alinhamento natural das costas e pegue nas alças da V- bar. Com os braços estendidos, puxe para trás até o seu torso ficar com um ângulo de 90 graus em relação às suas pernas. As suas costas devem ser ligeiramente arqueadas e seu peito deve sair para fora. Você deve sentir um estiramento agradável nos seus músculos laterais enquanto segura a barra à sua frente. Esta é a posição inicial do exercício : - Mantenha o tronco parado, puxe as alças até ao tronco, mantendo os braços perto dele até que toque nos abdominais . - Expire enquanto executa o movimento. Neste ponto, deve ficar com os músculos das costas duros e apertados. - Mantenha essa contração por um segundo e, lentamente, volte à posição inicial, enquanto inspira. Repita o procedimento até satisfazer o valor recomendado de repetições. Atenção: Evite balançar o tronco para trás e para a frente, pois pode causar uma lesão menor nas suas costas.</string>
+    <string name="ex_name_11">Pull-downs Laterais com Aperto Afastado</string>
+    <string name="ex_desc_11">Sente-se numa máquina de pull-down com a barra anexada no topo. Certifique-se de ajustar a almofada de joelho da máquina em função da sua altura. Estas almofadas vão impedir que o seu corpo seja levado pela resistência ligada à barra. Agarre a barra com as palmas das mãos viradas para a frente usando os apertos prescritos. Nota sobre os apertos : Para uma maior aderência , deve colocar as mãos espaçadas a uma distância maior que a largura dos ombros. Para um aperto médio, as mãos devem ser espaçadas a uma distância igual à largura do ombro e para um aperto grande a uma distância menor do que a largura dos ombros. Assim que tiver ambos os braços estendidos à sua frente, e a barra na largura do aperto escolhido, incline o seu torso para trás cerca de 30 graus ou mais, criando uma curvatura na parte inferior das suas costas e trazendo o seu peito para fora. Esta é a posição de partida: - Quando expirar, traga a barra para baixo até tocar o peito, chamando os ombros e os braços igualmente para baixo e para trás. Dica: Concentre-se em apertar os músculos das costas assim que alcançar a posição de contração total. - A parte superior do tronco deve ficar parado e apenas os braços devem mover-se. - Os braços não devem fazer nenhum outro trabalho, exceto segurar a barra, portanto não tente puxar para baixo a barra com os antebraços. Depois de um segundo na posição contraída apertando as omoplatas, levante lentamente a barra até à posição inicial, até ficar com os braços estendidos e os músculos laterais totalmente esticado. – Inspire durante esta parte do movimento. Repita este movimento na quantidade de repetições prescrita.</string>
+    <string name="ex_name_12">Hiper-extensões (Extensão de Costas)</string>
+    <string name="ex_desc_12">Deite-se com cabeça para baixo num banco de hiper-extensão, prendendo os tornozelos firmemente sob os coxas. Ajuste o bloco superior de forma a que as coxas fiquem deitadas ao longo de toda a grande almofada, deixando espaço suficiente para conseguir dobrar a cintura, sem qualquer restrição. Com o corpo reto, cruze os braços à sua frente ou atrás da sua cabeça. Esta será a sua posição inicial: Dica: Pode também segurar um peso para uma resistência extra à sua frente com os braços cruzados. - Comece dobrando lentamente a cintura para a frente, tanto quanto possa, mantendo no entanto as costas retas . – Inspire aquando da execução deste movimento. - Siga em frente até sentir um bom estiramento nos tendões e até não conseguir mais um arredondamento das costas. Dica: Nunca encurve as costas enquanto executar este exercício. Além disso, algumas pessoas podem ir mais longe do que os outras. A principal coisa é que vá até ao limite que o seu corpo consiga, sem encurvar as costas. – Eleve lentamente o tronco de volta à posição inicial enquanto inspira. Dica: Evite a tentação de arquear as costas, use sempre em linha reta. Além disso, não balance o tronco em qualquer momento, para não lesionar as suas costas. Repita o procedimento no valor recomendado de repetições.</string>
+    <string name="ex_name_13">Pull-Up Assistido</string>
+    <string name="ex_desc_13">Levante-se e agarre a barra com os apertos em largura afastada. Desça na alavanca de assistência ou na plataforma. Algumas máquinas assistidas exigem que se ajoelhe na plataforma. Se for usada uma máquina sem assistência, peça ajuda ao parceiro de treino para elevar os pés para cima atrás das pernas ou empurre as pernas em elevação. A amplitude de movimento irá diminuir se a aderência for elevada.</string>
+    <string name="ex_name_14">Remo Dobrado com Haltere-Duplo</string>
+    <string name="ex_desc_14">Com um haltere em cada mão (palmas para o tronco), dobre os joelhos levemente e leve o tronco à frente, dobrando na cintura; enquanto se dobrar certifique-se de manter as costas retas, até que fique quase paralela ao chão. Dica: Certifique-se que tem a cabeça sempre erguida. Os pesos devem ficar à sua frente e os seus braços perpendiculares ao chão e ao seu torso. Esta será a sua posição de partida: - Mantendo o tronco firme, levante os halteres ao seu lado (enquanto expira), mantendo os cotovelos próximos do corpo (não exerce qualquer força com o braço a não ser a necessária para segurar nos pesos). - Na posição contraída de topo, aperte os músculos das costas e aguente por um segundo. - Baixe lentamente o peso novamente para a posição inicial enquanto inspira. Repita o procedimento no valor recomendado de repetições. Atenção: Este exercício não é recomendado para pessoas com problemas nas costas. A torre baixa é a melhor opção para pessoas com problemas nas costas. Certifique-se de que as costas não fiquem encurvadas, pois isso pode promover lesões nas costas. Seja cauteloso com o peso utilizado; em caso de dúvida, use menos peso, em vez de mais.</string>
+    <string name="ex_name_15">Barbell de Perna Dural</string>
+    <string name="ex_desc_15">Por razões de segurança este exercício é melhor executada num cavalete de agachamento. Para começar, coloque a fasquia do cavalete que melhor corresponde à sua altura. Uma vez escolhida a altura correta e a barra carregada, passe por baixo desta e coloque-a na parte de trás dos seus ombros (ligeiramente abaixo do pescoço). Segure na barra com os dois braços um em cada lado e retire-o da prateleira empurrando primeiro com as pernas e, ao mesmo tempo endireitando o tronco. Afaste-se da prateleira e posiciona as suas pernas com uma distância média ao ombros. Mantenha a cabeça erguida o tempo todo pois olhando para baixo vai influenciar o seu equilíbrio. Mantenha também as costas direitas. Esta será a sua posição inicial: - Mantendo as pernas paradas, mova o tronco para a frente, dobrando -se nos quadris, enquanto inspira. - Baixe o tronco até que esteja paralelo com o chão. - Comece a levantar a barra enquanto expira, elevando o tronco de volta para a posição inicial. Repita o procedimento no valor recomendado de repetições. Atenção: Isto não é um exercício para ser tomada de ânimo leve. Seja cauteloso com o peso utilizado, em caso de dúvida, use menos peso. A barra de perna-dura é um exercício muito seguro, mas somente se executada corretamente.</string>
+    <string name="ex_name_16">Aviação Reversa</string>
+    <string name="ex_desc_16">Para começar, deite-se num banco inclinado com o peito e estômago virados para baixo. Tenha os halteres em cada mão com as palmas viradas uma para a outra (pega neutro). Estenda os braços à sua frente de forma a formar perpendicularidade com o banco. As pernas devem estar paradas enquanto aplica pressão com os seus pés. Esta é a posição inicial de partida: - Mantendo uma ligeira curvatura nos cotovelos, mova os pesos para fora e longe um do outro (para o lado), num movimento em arco enquanto expira. Dica: Tente contrair as omoplatas em conjunto para obter os melhores resultados neste exercício. - Os braços devem ser elevados até que fiquem paralelos ao chão. - Sinta a contração e, lentamente, baixe os pesos de volta à posição inicial enquanto inspira. Repita o procedimento no valor recomendado de repetições.</string>
+    <string name="ex_name_17">Serra com Haltere de Um Braço</string>
+    <string name="ex_desc_17">Escolha um banco fixo e coloque um haltere de cada lado. Coloque a perna direita em cima da ponta do banco, flexione o tronco para a frente, até a parte superior do corpo ficar paralela ao chão, e coloque a mão direita sobre a outra extremidade do banco de apoio. Use a mão esquerda para pegar no haltere do chão e sustente o peso, mantendo as costas retas. A palma da mão deve estar voltado para o torso. Esta será a posição inicial: - Puxe o peso em linha reta até ficar ao lado de seu peito, mantendo o braço próximo de si e mantendo o tronco parado. Expire enquanto executa esta etapa. Dica: Concentre-se em contrair os músculos das costas até alcançar a posição de contração total. Além disso, certifique-se de que a força é realizada com os músculos das costas e não com os braços. Finalmente, a parte superior do tronco deve ficar estático e apenas os braços devem mover-se. Os antebraços não devem realizar nenhuma outra função, exceto para segurar no haltere, portanto não tente puxar o haltere para cima usando os antebraços. - Baixe o peso em linha reta até a posição inicial. Inspire enquanto realiza este passo. Repita o movimento no valor especificado de repetições .\Cf0 \cf2 Troque de lado e repita tudo novamente com o outro braço. Variações: Serras de braços podem também ser realizadas usando a torre alta ou a torre baixa em vez de um haltere.</string>
+    <string name="ex_name_18">Elevação de Haltere com Bícepes</string>
+    <string name="ex_desc_18">Fique de pé com um haltere em cada mão e com os braços estendidos. Mantenha os cotovelos perto de seu torso e gire as palmas das mãos até que fiquem viradas para a frente. Esta será a posição inicial: - Agora, mantendo os braços superiores parados, expire e enrole os pesos enquanto contrai os bícepes. - Continue a levantar os pesos até possuir os bícepes totalmente contraídos e os halteres ao nível do ombro. - Mantenha a posição de contração por breves instantes enquanto contrai os bícepes. - Em seguida, inspire e baixe lentamente os halteres de volta para a posição inicial. Repita o procedimento no valor recomendado de repetições.</string>
+    <string name="ex_name_19">Elevação de Barra</string>
+    <string name="ex_desc_19">Levante-se com o tronco reto, segurando uma barra com as pegas distanciadas à largura do ombro. A palma das suas mãos devem estar voltadas para a frente e os cotovelos devem estar perto do tronco. Esta será a posição inicial: - Enquanto mantém os braços superiores fixos, enrole os pesos para a frente contraindo os bícepes enquanto expira. Dica: Somente os braços devem mover-se. - Continue o movimento até possuir os bícepes totalmente contraídos e a barra à altura dos ombros. - Mantenha a posição contraída por um segundo e contraia os bícepes. - Lentamente, comece a trazer a barra de volta à posição inicial enquanto inspira. Repita o procedimento no valor recomendado de repetições.</string>
+    <string name="ex_name_20">Elevação de Barra Sentado</string>
+    <string name="ex_desc_20">Segure numa barra com as pegas afastadas à distância dos ombros (palmas das mãos voltadas para frente) e sente-se na ponta do banco fixo colocando a barra em cima das suas coxas. As suas costas devem estar retas, cabeça olhando para a frente e os pés firmes no chão. Esta será a posição inicial: - Mantendo os braços superiores parados e perto do seu corpo, comece a puxar o peso para cima até chegar à posição de contração total. – Aguente por um segundo, contraindo os bícepes e deixe o peso num movimento controlado até à posição inicial.</string>
+    <string name="ex_name_21">Elevação de Barra Deitado e Inclinado</string>
+    <string name="ex_desc_21">Deite-se num banco inclinado, com os braços segurando a barra que está pendurada em linha horizontal. Esta será a posição inicial: - Mantendo os braços superiores parados, empurre o peso o mais alto possível contraindo os bícepes. Expire enquanto executa esta parte do movimento. Dica: Somente os braços devem mover-se. Não balance os braços. - Depois de um segundo de contração, volte a colocar-se lentamente na posição inicial enquanto inspira. Dica: Certifique-se de que a barra vem toda abaixo. Repita o procedimento no valor recomendado de repetições. Variações: Você pode realizar este exercício usando uma barra EZ.</string>
+    <string name="ex_name_22">Elevação de Cabo com Bícepes</string>
+    <string name="ex_desc_22">Levante-se com o tronco reto, segurando uma barra ondulada com cabo que é ligado a uma torre baixa. Agarre a barra com a largura dos ombros e mantenha os cotovelos junto ao tronco. As palmas das mãos devem ficar voltadas para cima (pega spinada). Esta será a posição inicial: - Enquanto mantém os braços fixos, puxe os pesos enquanto contrai os bíceps e expira. Só os antebraços devem mover-se. Continue o movimento possuir os bícepes totalmente contraídos e a barra à altura dos ombros. Aguente a posição contraída por um segundo contraindo o músculo. - Lentamente, traga de volta a barra ondulada à posição inicial enquanto inspira. Repita o procedimento no valor recomendado de repetições. Variação: Você também pode executar este movimento utilizando uma barra de fixação EZ ou cabos individuais.</string>
+    <string name="ex_name_23">Chuto de Glúteos</string>
+    <string name="ex_desc_23">Ajoelhe-se no chão ou num colchão e dobre a cintura com os braços estendidos à sua frente (perpendiculares ao tronco), a fim de ficar numa posição de push-up de joelhos, mas com os braços afastados à largura dos ombros. A cabeça deve estar a olhar para a frente e a curvatura dos joelhos deve criar um ângulo de 90 graus entre os isquiotibiais e panturrilhas. Esta será a posição inicial: - Ao expirar, levante a perna direita até possuir o isquiotibiais alinhados com as costas, mantendo o ângulo de curvatura de 90 graus. - Contraia os glúteos durante este movimento e mantenha a contração no topo por um segundo. Dica: No final do movimento a perna superior deve ficar paralela ao chão enquanto a perna inferior deve estar perpendicular a ele. - Volte à posição inicial enquanto inspira e repita com a perna esquerda. – Continue alternado entre pernas até ao número de repetições recomendadas. Variações: Para este exercício, pode também executar todas as repetições com uma perna e só depois a outra. Além disso, pode também adicionar pesos nos tornozelos .</string>
+    <string name="ex_name_24">Ponte de Glúteo com Perna Singular</string>
+    <string name="ex_desc_24">Deite-se no chão com os pés no banco e os joelhos dobrados. Levante uma perna, puxando o joelho para o seu peito. Esta será a posição inicial: - Execute o movimento de condução através do calcanhar, estendendo o quadril para cima e levantando os glúteos do chão. - Estenda o mais longe possível, faça uma pausa e, em seguida, retorne à posição inicial.</string>
+    <string name="ex_name_25">Perna Singular Dura-Elevação de Perna</string>
+    <string name="ex_desc_25">Fique de pé com os pés juntos e mãos à frente das coxas. Eleve a perna de modo a levantar o pé apenas um pouco do chão. Mova o tronco para a frente e para baixo, enquanto eleva a perna para trás. Mantenha as costas retas e o joelho da perna de suporte ligeiramente dobrado. Mantenha quadril e joelho da perna levantada estendido durante todo o movimento. Uma vez sentida o esticar ou as mãos em contacto com o chão, retorne à posição inicial, levantando o torso, e baixando a perna levantada. Endireite o joelho da perna de suporte como tronco sempre reto. Repita.</string>
+    <string name="ex_name_26">Chuto com Perna presa por Cabo</string>
+    <string name="ex_desc_26">Prenda um manguito de cabedal no tornozelo à torre baixa com o cabo e, em seguida, anexe a braçadeira no seu tornozelo. Enfrente a coluna de peso a uma distância de cerca de dois metros, segurando a estrutura de aço de apoio. Mantendo os joelhos e quadris ligeiramente dobrados e os abdominais contraídos, contraia os glúteos lentamente chutando a perna de trabalho num movimento de arco semicircular tão alto quanto possível e expire enquanto isso. Dica: Em extensão completa, contraia os glúteos por um segundo, até alcançar uma contração de pico. Agora, lentamente, traga a perna de trabalho de volta para a frente, resistindo à tração do cabo até chegar à posição inicial. Repita o procedimento no valor recomendado de repetições. Mude de perna e repita o movimento para o outro lado. Variações: Pode igualmente realizar este exercício com bandas de exercício.</string>
+    <string name="ex_name_27">Máquina de Smith com Banco Inclinado</string>
+    <string name="ex_desc_27">Coloque um banco inclinado por baixo da máquina smith. Coloque a barra de forma a que lhe consiga chegar após se deitar e com os braços estendidos. Após escolher o peso, deite-se no banco inclinado e verifique que está alinhada com a barra. Usando um aperto pronada (palmas das mãos voltadas para frente), que é distanciado a uma largura superior à dos ombros, desbloqueie a barra da base e mantenha-a em linha reta em cima de você com os braços firmes. Esta será a posição inicial: - Enquanto expira, desça lentamente até sentir a barra no seu peito. - Depois de um segundo em pausa, traga a barra de volta à posição inicial enquanto inspira e empurre a barra com os músculos do peito. Mantenha os braços na posição contraída, segurando por um segundo e, em seguida, comece novamente a descer. Dica: Deve demorar pelo menos o dobro do tempo a descer do que subir. - Repita o movimento para a quantidade prescrita de repetições. Quando estiver pronto, coloque a barra de volta na base. Atenção: Se é novo neste exercício, recomenda-se que use um ajudante no exercício, pois poderá ser desafiador. Se nenhum ajudante estiver disponível, seja conservadora na quantidade de peso utilizado.</string>
+    <string name="ex_name_28">Push-Ups – Perto da Posição Tríceps</string>
+    <string name="ex_desc_28">Deite-se no chão com rosto para baixo e coloque as mãos numa posição inferior à largura dos ombros para juntar as mãos. Certifique-se de que você está segurando seu torso com o alongamento dos braços. Baixe-se até tocar no chão com o peito enquanto inspira. Usando o seus trícepes e alguns de seus músculos peitorais, eleve o seu corpo superior de volta para a posição inicial e contraia o seu peito. Expire enquanto executa esta etapa. Depois de um segundo de pausa na posição contraída, repita o movimento para a quantidade prescrita de repetições. Variações: - Se é novo neste exercício e não têm força para realizá-lo, pode dobrar as pernas na zona dos joelhos para aliviar a resistência ou então realizar o exercício na parede em vez de no chão. - Para os elevadores mais avançados, pode colocar os pés numa superfície alta, como um banco, para aumentar a resistência.</string>
+    <string name="ex_name_29">Elevação de Halteres com Apoio Inclinado</string>
+    <string name="ex_desc_29">Deite-se num banco inclinado com um haltere em cada mão colocados no topo das suas coxas. As palmas da mão devem estar de frente uma para a outra. Em seguida, use as coxas para ajudar a empurrar os halteres para cima, levante os halteres um de cada vez por forma a mantê-lo na largura dos ombros. Depois de ter os pesos levantados à largura dos ombros, gire os punhos para a frente de modo a que as palmas das mãos fiquem de frente para si ao longe. Esta será a posição inicial: - Certifique-se de manter o controlo total dos halteres em todos os momentos. Depois expire e empurre os halteres com o seu peito. - Mantenha os braços firmes no alto, segurando por um segundo, e comece depois a baixar lentamente o peso. Dica: O ideal é baixar os pesos no dobro do tempo em que necessita para os elevar. Repita o movimento para a quantidade prescrita de repetições. Quando estiver pronto, coloque os halteres de volta nas coxas e em seguida no chão. Esta é a forma mais segura para libertar os halteres.</string>
+    <string name="ex_name_30">Aviação com Halteres em Apoio Inclinado</string>
+    <string name="ex_desc_30">Segure um haltere em cada mão e deite-se num banco inclinado que deve estar definido para um ângulo de inclinação não superior a 30 graus. Estique os braços por cima de si formando uma ligeira curva nos cotovelos. Agora gire os punhos para que as palmas das suas mãos fiquem uma ao lado da outra. Dica: Os dedos mindinhos devem ficar do mesmo lado. Esta será a posição inicial: - Enquanto respira, comece a baixar lentamente os braços para o lado, mantendo-os estendidos e girando os punhos por forma a que as palmas das mãos fiquem viradas frente a frente uma para a outra. Dica: No final do movimento dos braços deverá estar com as palmas das mãos viradas para o teto. – Enquanto expira comece a trazer os halteres de volta à posição inicial, invertendo o movimento e rotação das mãos para que os dedos mindinhos estejam lado a lado novamente. Dica: Tenha em mente que o movimento só deve existir  na articulação do ombro e no pulso. Não existe movimento a ocorrer na articulação do cotovelo. Repita o procedimento no valor recomendado de repetições.</string>
+    <string name="ex_name_31">Apoio Inclinado para Pressão de Peito em Bola-Suiça com Halteres</string>
+    <string name="ex_desc_31">Posicione-se de costas sobre a bola suíça para que o torso forme um ângulo de 45 graus com o chão. Segure os halteres diretamente acima do seu queixo, com os braços esticados. Mantenha o núcleo firme e os pés apoiados no chão.</string>
+    <string name="ex_name_32">Apoio de Elevação de Peso</string>
+    <string name="ex_desc_32">Deite-se num banco plano. Usando um aperto de largura média (um aperto que forma um ângulo de 90 graus a meio do movimento entre os antebraços e os braços), levante a barra da base e mantenha-a em linha reta  em cima de si com os braços firmes. Esta será a posição inicial: - A partir da posição inicial, expire e comece a descer lentamente até que sentir a barra a tocar o meio do peito. - Após uma breve pausa, eleve a barra de volta à posição inicial enquanto expira. Certifique-se em empurrar a barra usando os músculos do peito. – Mantenha os braços firmes enquanto contraí o peito no início do movimento, segure por um segundo e, em seguida, desça novamente a barra lentamente. Dica: O ideal é demorar o o dobro do tempo a descer o peso relativamente ao tempo de elevação do mesmo. Repita o movimento  na quantidade prescrita de repetições. Quando estiver pronto , coloque a barra de volta na base. Atenção: Se é novo neste exercício, é recomendado que use um ajudante. Se não tiver nenhum ajudante por perto, seja conservador e use uma quantidade de peso adequado.</string>
+    <string name="ex_name_33">Elevação de Haltere com Braço-Esticado</string>
+    <string name="ex_desc_33">Coloque um haltere de pé num banco plano. Assegure-se que o haltere fica devidamente colocada na parte superior do banco, encontrando-se perpendicular ao banco (como em forma de cruz), com apenas os seus ombros deitados sobre a superfície. Quadris devem estar abaixo do banco e as pernas dobradas com os pés firmes no chão. A cabeça deverá estar fora do banco também. Segure o haltere com ambas as mãos e mantenha-o em linha reta sobre o seu peito com comprimento dos braços. Ambas as palmas das mãos devem estar pressionadas contra o lado inferior de um dos lados do haltere. Esta será a posição inicial: Atenção: Assegure-se sempre que o haltere utilizado no exercício é seguro. Usando um haltere com pesos soltos pode resultar num haltere desfeito e caindo no seu rosto. - Mantendo os braços retos, baixe o peso lentamente em arco atrás de cabeça, enquanto inspira sentindo um alargamento no peito. – Após este ponto, pode trazer o haltere novamente para a posição inicial descrevendo o arco através do qual foi baixado, tudo isso enquanto expira durante o movimento. - Segure o peso na posição inicial por um segundo e repita o movimento no número de repetições determinado. Atenção: Se é novo neste movimento, tenha por perto um ajudante que coloque o peso no lugar. Se não, certifique-se que o haltere não irá cair sobre o torso enquanto executa o exercício no banco. Além disso, como já mencionado, deve garantir que o haltere é usado em perfeitas condições de funcionamento. Halteres antigos que necessitam de soldagem nunca devem ser usados para a realizar este exercício.</string>
+    <string name="ex_name_34">Agachamento na Máquina Smith</string>
+    <string name="ex_desc_34">Para começar, coloque a fasquia numa altura que melhor corresponde à sua altura. Uma vez colocada a barra à altura certa, coloque-se por baixo dela de forma a que fique com os ombros atrás dela (barra um pouco abaixo do pescoço). Segure a barra com os dois (palmas das mãos voltadas para frente), desbloqueia a barra tirando-a da base e empurre com as suas pernas ao mesmo tempo que endireita o tronco. Posicione as pernas numa largura de ombros em postura e com os dedos a apontarem ligeiramente entre si. Mantenha a cabeça erguida durante todo o tempos e mantenha também as costas retas. Esta será a posição inicial: Nota: Para fins desta explicação, vamos utilizar a postura média visa o desenvolvimento global, no entanto, pode escolher qualquer uma das três posições de postura de pés discutidas. - Comece a baixar lentamente a barra, dobrando os joelhos enquanto mentem postura reta e a cabeça erguida. Continue a descer até que o ângulo entre a perna superior e inferior forme um ângulo ligeiramente inferior a 90 graus (que é o ponto em que as pernas superiores estão abaixo do paralelo ao solo). – Inspire enquanto executa esta parte do movimento. Dica: Se executar o exercício corretamente, a ponto dos joelhos deve fazer uma linha reta imaginária com os dedos dos pés. Se os joelhos passarem a linha imaginária (se passarem os dedos), então está a colocar um esforço muito grande no joelho e o exercício foi executado de forma errada. – Eleve a barra enquanto expira, empurrando o chão com o calcanhar do pé até endireitar as pernas até à posição inicial. - Repita o procedimento no valor recomendado de repetições.</string>
+    <string name="ex_name_35">Agachamento Largo em Máquina Smith</string>
+    <string name="ex_desc_35">Configure a máquina de smith, colocando a barra à altura dos ombros e carregue-a com pesos. Coloque-se sob a barra com as pernas numa posição larga e os pés apontando ligeiramente para fora. Segure a barra com uma grande firmeza e posicione o centro da barra em cima dos músculos das suas costas. A barra não deve tocar no pescoço! Mantenha as costas retas e os olhos voltados para a frente enquanto tira o peso da base: - Tome um ligeiro passo em frente. - Mantenha os olhos sempre virados para a frente, com as costas retas, e agache-se lentamente até  as coxas ficarem paralelas ao chão. - Levantando os calcanhares, levante a barra de volta à posição inicial. - Repita o procedimento no valor recomendado de repetições.</string>
+    <string name="ex_name_36">Alongamento Traseiros na Máquina Smith</string>
+    <string name="ex_desc_36">Com a barra à altura igual à do peito, posicione a barra na parte de trás dos ombros e aperte os pesos da barra em ambos os lados. Coloque os pés na barra. Estique as pernas para que o peso seja elevado. Desengate a barra rodando a barra de volta. Dê um passo para trás com uma perna enquanto dobra a perna de apoio. Plante do ante-pé atrás o mais longe possível. Flexione a parte inferior do corpo flexionando o seu joelho e quadril da perna de suporte até que o joelho da perna de trás fique quase em contato com o chão. Retorne à posição inicial de pé, estendendo o quadril e joelho da perna de apoio para a frente e colocando a perna de trás ao lado da perna apoiada. Repita o movimento com as pernas, alternando os lados das pernas.</string>
+    <string name="ex_name_37">Prensa de Pernas</string>
+    <string name="ex_desc_37">Usando uma máquina de pressionar pernas, sente-se na máquina e coloque as pernas na plataforma diretamente à sua frente a uma pequena média (à largura dos ombros). Note: Para os fins de explicação, vamos utilizar a posição média descrito acima, que visa o desenvolvimento global, no entanto, pode escolher qualquer uma das três posições descritas na seção de posicionamento de pés. Retire os pinos de segurança que prendem a coluna de pesos e pressione a plataforma durante todo o movimento até ficar com as suas pernas totalmente estendidas à sua frente. Dica: Certifique-se de que não trava os joelhos. O seu torso e as pernas devem fazer um ângulo de 90 graus perfeito. Esta será a posição inicial: - Enquanto inspira, baixe lentamente a plataforma até fazer um ângulo de 90 graus entre as pernas inferiores e as superiores. – Empurrando com os seus pés e usando os quadrícepes volte à posição inicial enquanto expira. Repita o procedimento no valor recomendado de repetições e garanta o travamento dos pinos de segurança corretamente assim que concluir o exercício. Você não vai querer que a plataforma caia sobre si totalmente carregada. Atenção: Verifique sempre que a coluna de peso está travada quando colocar novos pesos nela.</string>
+    <string name="ex_name_38">Agachamentos</string>
+    <string name="ex_desc_38">Encoste a parte de trás de seu torso contra o apoio de costas da máquina e coloque os seus ombros sob as ombreiras existentes. Posicione as pernas na plataforma à largura dos ombros e os dedos dos pés ligeiramente apontados para fora. Dica: Mantenha a cabeça erguida durante todo o tempo e mantenha as costas na almofada em em todos os momentos. Coloque os braços nas alças de lado da máquina e retire os pinos de segurança (que na maioria dos casos é movendo as alças laterais de uma posição frente a frente para uma posição diagonal). Agora, estique as pernas, sem travar os joelhos. Esta será a posição inicial: Note: Para fins de explicação deste exercício, vamos utilizar a posição média descrita acima, que visa o desenvolvimento global, no entanto, você pode escolher qualquer uma das três posições descritas na seção de posicionamento dos pés. - Comece a baixar lentamente a unidade, dobrando os joelhos mantendo uma postura reta e com a cabeça erguida para cima (costas sempre encostadas à almofada traseira). Continue a descer até formar um o ângulo entre as pernas superiores e inferiores com menos de 90 graus (que é o ponto em que as pernas superiores estão abaixo da linha paralela ao chão). – Inspire enquanto executa esta parte do movimento. Dica: Se executar o exercício corretamente, a frente dos joelhos deve fazer uma linha reta imaginária com os dedos dos pés, que é perpendicular à frente. Se os joelhos passarem a linha imaginária (se passarem os dedos dos pés), então está a colocar um esforço nos joelhos e o exercício foi realizado de forma incorreta. - Eleve unidade enquanto expira, empurrando o chão com os calcanhares dos pés enquanto endireita as pernas novamente e volta à posição inicial. Repita o procedimento no valor recomendado de repetições.</string>
+    <string name="ex_name_39">Flexão de Pernas Sentado</string>
+    <string name="ex_desc_39">Ajuste a máquina à sua altura e sente-se na máquina com as costas encostadas à almofada de apoio. Coloque a parte de trás da perna inferior em cima do apoio almofadado e fixe a almofada contra as suas coxas, logo acima dos joelhos. Em seguida, segure nas alças laterais da máquina, como os dados devidamente esticados (ou use qualquer uma das outras duas posições) e garanta que as pernas estão totalmente direitas em linha reta à sua frente. Esta será a posição inicial: - Enquanto expira, puxe a alavanca da máquina, tanto quanto possível para a parte de trás das coxas, flexionando os joelhos. - Mantenha o tronco parado em todos os instantes. Aguente a posição contraída por um segundo. – Enquanto inspira, retorne lentamente à posição inicial. Repita o procedimento no valor recomendado de repetições. Atenção: Nunca use muito peso no exercício por forma a balançando e sacudindo, pois poderá causar lesões graves nas costas e também rasgar os tendões.</string>
+    <string name="ex_name_40">Extensão de Pernas</string>
+    <string name="ex_desc_40">Para este exercício você vai necessitar de uma máquina de extensão de pernas. Primeiro, escolha o seu peso e sente-se na máquina com as pernas sob o apoio (pés apontados para a frente) segurando com as mãos as barras laterais. Esta será a posição inicial: Dica: Vai precisar de ajustar o bloco por forma a que ele caia em cima da sua perna (um pouco acima de seus pés). Além disso, certifique-se de que as pernas superiores formam um ângulo de 90 graus com as pernas inferiores. Se o ângulo for inferior a 90 graus, significa que o joelho está além dos dedos dos pés, o que por sua vez cria um excesso indevido de esforço na articulação do joelho. Se a máquina estiver projetada desta forme, procure outra máquina ou certifique-se apenas de que quando executar o exercício não vá mais abaixo dos 90 graus assim que os atingir. - Usando os quadrícepes, estenda as pernas ao máximo enquanto expira. Assegure-se que o resto do corpo permanece fixo ao assento. - Faça uma pausa de um segundo na posição contraída. – Enquanto inspira volte o peso lentamente à posição inicial, garantindo que não excede os tais 90 graus já mencionados. Repita o procedimento no valor recomendado de repetições.</string>
+    <string name="ex_name_41">Agachamento com Haltere</string>
+    <string name="ex_desc_41">Coloque alguns pesos na base com as duas mãos e fique de pé. Mova as pernas de modo a que fiquem num posição mais larga do que os ombros, e com os joelhos levemente dobrados. Os dedos dos pés devem ficar voltados para fora. Esta é a posição inicial: Nota: Os braços devem estar parados durante a realização do exercício. - Lentamente, dobre os joelhos e baixar as pernas até ficar com as coxas paralelas ao chão. Certifique-se de inspirar enquanto executa esta parte do exercício. - Pressione com os calcanhares dos pés o chão para trazer o corpo de volta à posição inicial, enquanto isso, expire. Repita o procedimento no valor recomendado de repetições. Cuidado: Deixar de manter as costas retas pode resultar numa lesão grave nas costas.</string>
+    <string name="ex_name_42">Agachamento Sumo para a Lateral</string>
+    <string name="ex_desc_42">Fique em pé com os pés distanciados à largura do quadril, com os dedos dos pés a fazer um ângulo de 45 graus com as pernas, e com as mãos atrás da cabeça. Dobre os joelhos e parte inferior agachando-se numa posição de sumo (coloque os quadris o mais baixo quanto possível, sem deixar joelhos se dobrarem para a frente ou para trás). Quando pressionar o chão para voltar de pé, levante o joelho direito em direção ao seu cotovelo direito. Passe o pé direito para baixo e repita imediatamente o agachamento sumo com a esquerda. Repita, alternando os lados.</string>
+    <string name="ex_name_43">Agachamento Lateral</string>
+    <string name="ex_desc_43">Comece em pé com os pés juntos. Agache-se até metade dando um passo para o lado direito, tanto quanto conseguir gerir. Traga a perna direita para a esquerda, voltando à posição inicial. Troque de lados a cada repetição.</string>
+    <string name="ex_name_44">Ataque de Andamento Pesado</string>
+    <string name="ex_desc_44">Comece de pé com os pés distanciados à largura dos ombros e as mãos erguidas acima da cabeça segurando peso. Dê um passo em frente com uma perna, flexionando os joelhos para fazer cair os quadris. Desça o joelho de trás quase até tocar no chão. A sua postura deve permanecer na posição vertical, e o seu joelho da frente deve ficar acima do pé da frente. Faça força com calcanhar do pé da frente e estenda os joelhos ao levantar-se novamente para cima. Dê um passo em frente com o seu pé de trás, repetindo a trocando agora de perna.</string>
+    <string name="ex_name_45">Ataque de Halteres com Joelho para Cima</string>
+    <string name="ex_desc_45">Fique de pé com o tronco na vertical segurando dois halteres nas mãos colocadas ao seu lado. Esta será a posição inicial: - Dê um passo para trás com a perna direita distanciando-a em dois metros do pé esquerdo e baixe a sua parte superior do corpo, mantendo o tronco sempre firme e reto para manter o equilíbrio. Inspire enquanto desce. Dica: Como nos outros exercícios, não permita que o seu joelho avance para além de dedos do pé enquanto desce, pois isso irá criar uma tensão indevida na articulação do joelho. Certifique-se de que mantém o tronco sempre perpendicular ao chão. Mantenha o tronco firme durante o movimento; flexionar o quadril é importante. Um longo movimento enfatiza a Glúteus Maximus; um pequeno movimento enfatiza quadrícepes. – Eleve-se à posição inicial, expirando e levantando o seu joelho direito mantendo as costas sempre retas. Dica: Use a bola dos seus pés para empurrar e acentuar o quadrícepes. Para focalizar os glúteos, pressione com os calcanhares. Agora repita com a outra perna.</string>
+    <string name="ex_name_46">Ataque de Costas</string>
+    <string name="ex_desc_46">Para começar, coloque a fasquia da base logo abaixo do nível do ombro. Uma vez escolhida a altura certa e barra carregada, passe por baixo da barra e coloque-a na parte de trás dos seus ombros (um pouco abaixo do pescoço). Segure a barra com os dois braços em cada lado e retire-a da base, empurrando primeiro com as pernas ao mesmo tempo que endireita o tronco. Afaste-se da base e dê um passo com o pé direito para trás e para a esquerda baixando-se ao mesmo tempo que dobra o joelho esquerdo até cerca de 90 graus, mantendo o tronco sempre reto e equilibrando-se. Inspire enquanto desce. Nota: Não deixe que o seu joelho avance para a frente dos dedos do pé, pois isso irá colocar uma tensão indevida sobre a articulação do joelho. Usando o calcanhar do pé, eleve-se para cima até voltar à posição inicial enquanto expira. Repita o movimento no valor recomendado de repetições e, em seguida, execute com a perna esquerda.</string>
+    <string name="ex_name_47">Levantamento de Pernas com Corpo Deitado na Lateral</string>
+    <string name="ex_desc_47">Deite-se de lado com as pernas empilhadas e a cabeça apoiada no braço. Contraia o músculo da frente da parte superior da coxa e levante a perna para o ar. Mantenha a posição por uma contagem curta, baixe até tocar na outra perna e depois eleve-a novamente. Pode eventualmente usar pesos nos tornozelos ou banda elástica.</string>
+    <string name="ex_name_48">Step-Up Com Elevação de Joelhos</string>
+    <string name="ex_desc_48">Fique de frente com os pés juntos para um banco com altura adequada. Esta será a posição inicial: - Comece o movimento, acelerando, colocando seu pé esquerdo em cima do banco. - Estenda através do quadril o joelho da perna da frente para ficar em cima da caixa. – Assim que estiver em cima do banco com a perna esquerda, flexione o joelho e quadril direito, trazendo para cima o joelho o mais alto que puder. Reverter este movimento para descer do banco e, em seguida, repita a sequência com a outra perna.</string>
+    <string name="ex_name_49">Agachamento com Halteres</string>
+    <string name="ex_desc_49">Fique de pé segurando um haltere em cada mão (palmas voltadas para o lado das suas pernas). Posicione as pernas distanciadas à largura do ombro com postura média e os dedos dos pés apontados ligeiramente para fora. Mantenha a cabeça erguida o tempo todo pois olhando para baixo vai tirar o equilíbrio. Mantenha também as costas retas. Esta será a posição inicial: - Comece a baixar lentamente o seu tronco, dobrando os joelhos enquanto mantêm uma postura reta e com cabeça erguida. Continue a descer até chegar a 90 graus. – Inspire enquanto executa este movimento. Dica: Se executar o exercício corretamente , a frente dos joelhos deve fazer uma linha reta imaginária com os dedos dos pés, que estão perpendiculares à perna. Se os joelhos passarem a linha imaginária (se eles passarem os dedos dos pés), quero dizer que está a colocar um esforço no joelho e o exercício está a ser realizado incorretamente. - Comece a levantar a barra enquanto vocês expira, empurrando o chão com os calcanhares do pés, enquanto endireita as pernas novamente à posição inicial. Repita o procedimento no valor recomendado de repetições.</string>
+    <string name="ex_name_50">Levantamento de Pernas Duras</string>
+    <string name="ex_desc_50">Segure a barra com uma garra em cada mão (palmas das mãos voltadas para baixo). Poderá precisar de alguns reforços nos pulsos caso esteja a usar uma quantidade significativa de peso. Fique de pé com o tronco reto e as pernas espaçadas a uma distância de ombros ou mais estreito. Os joelhos devem estar ligeiramente flexionados. Esta é a posição de partida: - Mantendo os joelhos parados, baixe a barra para até ao topo dos pés, dobrando-se nos quadris, e mantendo as costas retas. - Mantenha-se inclinado para a frente, como se estivesse para pegar alguma coisa do chão e até sentir um alongamento nos isquiotibiais. Inspire enquanto executa este movimento. – Traga de novo o tronco para posição reta, esticando os quadris até à posição inicial. Expire enquanto executa este movimento. Repita o procedimento no valor recomendado de repetições. Atenção: Este exercício não é recomendado para pessoas com problemas nas costas. Além disso, deverá ter especial atenção em não encurvar as costas enquanto traz o torso para baixo. As costas devem estar sempre retas. Para finalizar, muito peso e balançar pode prejudicar o seu regresso à posição inicial.</string>
+    <string name="ex_name_51">Levantamento de Pernas Duras em Posição Sumo</string>
+    <string name="ex_desc_51">Comece com um peso nas suas mãos. Os pés devem ser definidas muito espaçados. Respire e abaixe os quadris, olhando para a frente com a cabeça, e com o peito para cima. Mantendo os joelhos parados, baixe a barra até ao topo dos pés, dobrando-se nos quadris e, mantendo as costas retas. Mantenha-se inclinado para a frente, como se estivesse para pegar alguma coisa do chão e até sentir um alongamento nos isquiotibiais. Inspire enquanto executa este movimento. Traga de novo o tronco para posição reta, esticando os quadris até à posição inicial. Expire enquanto executa este movimento. Repita o procedimento no valor recomendado de repetições.</string>
+    <string name="ex_name_52">Extensão Lateral com Perna ligado a Cabo</string>
+    <string name="ex_desc_52">Prenda um manguito de cabedal no tornozelo à torre baixa com o cabo e, em seguida, anexe a braçadeira no seu tornozelo. Esteja ao lado da coluna de pesos a uma distância de cerca de dois metros, segurando a estrutura de aço no apoio. Mantendo os joelhos e quadris dobrados ligeiramente e tudo devidamente apertado, contraia os glúteos e estique lentamente a perna para o lado tão alto quanto ela conseguir ir de forma confortável. Expire enquanto isso. Dica: Em extensão completa, contraia os glúteos por um segundo, até atingir uma contração de máxima. Agora, lentamente, traga a perna de trabalho para a frente, resistindo à tração do cabo até chegar à posição inicial. Repita o procedimento no valor recomendado de repetições. Troque de perna e repita o movimento para o outro lado. Variações: Você pode realizar este exercício com bandas de exercício.</string>
+    <string name="ex_name_53">Halteres em Arnold</string>
+    <string name="ex_desc_53">Sente-se num banco de exercício com apoio para as costas e segure dois halteres à sua frente e ao nível do tórax, com as palmas viradas para o seu corpo e os cotovelos dobrados . Dica: Os braços devem estar ao lado de seu torso. A posição de partida deve ser semelhante a parte contraída de uma rosca nos halteres: - Agora, para executar o movimento, levante os halteres enquanto vira as palmas das mãos para a frente. - Continue a levantar os halteres até que seus braços estejam estendidos acima da posição do braço direito. Expire enquanto executa este movimento. - Depois de um segundo de pausa no topo, baixe os halteres para a posição inicial, girando as palmas das mãos novamente para si. Dica: O braço esquerdo será virado de forma anti-horária, enquanto o caminho certo vai é ser girado no sentido horário. Inspire enquanto executa esta movimento. Repita o procedimento no valor recomendado de repetições. Variações: Pode realizar o exercício em pé, embora não seja recomendado para pessoas com problemas lombares.</string>
+    <string name="ex_name_54">Halteres Alternados</string>
+    <string name="ex_desc_54">Coloque dois halteres nos ombros. Coloque os halteres nos ombros, estendendo as pernas e os quadris enquanto puxa os halteres em direção as ombros. Pressione uma diretamente em cima, estendendo o cotovelo e, transformando-o com a palma virada para a frente, mantendo o outro haltere fixo. Abaixe o haltere para a posição inicial e pressione imediatamente com o outro braço.</string>
+    <string name="ex_name_55">Elevação Frontal de Haltere-Duplo</string>
+    <string name="ex_desc_55">Escolha um par de halteres com o tronco reto e com os halteres na nos seus braços com as palmas das mãos viradas para suas coxas. Esta será a posição inicial: - Mantendo o tronco fixo (sem balançar), levante os halteres para a frente com uma ligeira curvatura nos cotovelo e as palmas das mãos sempre viradas para baixo. Continue a subir até ficar com os braços paralelos ao chão. – Expire enquanto faz este movimento e faça uma pausa de um segundo no topo. – Enquanto inspira, baixe lentamente os halteres de volta à posição inicial. Repita o procedimento no valor recomendado de repetições. Variações: Este exercício pode ser também realizado alternando as mãos, ou seja, fazer uma vez com o braço direito e, em seguida, uma vez com o braço esquerdo, direita, esquerdo, etc. Além disso pode usar também uma barra em vez de halteres.</string>
+    <string name="ex_name_56">Elevação de Halteres em Posição Baixa</string>
+    <string name="ex_desc_56">Comece de pé no lado direito de uma torre baixa. Use sua mão esquerda para apoiar o corpo e pegue na alavanca colocado na torre baixa com uma pega pronada (palmas das mãos voltadas para baixo). Descanse o braço à sua frente. A mão direita deve pegar na máquina para um melhor apoio e equilíbrio. Certifique-se de que as costas se mantêm firmes e que os pés estejam distanciados na largura dos ombros. Esta é a posição de partida: - Comece a usar a mão esquerda e puxe para o seu corpo até que fique à altura do ombro, enquanto isso expire. - Mantenha a contração no topo por um segundo e começar a baixar lentamente a alavanca de volta à posição inicial, enquanto inspira. Repita o procedimento no valor recomendado de repetições. Alterne entre braços e repita o exercício.</string>
+    <string name="ex_name_57">Elevação de Cabo Frontal</string>
+    <string name="ex_desc_57">A elevação do cabo frontal é ótimo para isolar os deltóides frontais. Configure o exercício, anexando uma corda de cabo da máquina na roldana baixa e selecione o peso que deseja utilizar. Fique de frente e longe da máquina enquanto pega no cabo. Fique de pé, com os olhos a olhar para a frente, segurando a corda na zona das suas coxas. Esta é a posição de partida: - Execute, levantando lentamente a corda até À altura dos seus ombros, mantendo os braços sempre esticados e o seu corpo firme. - Pause, e baixe lentamente até à posição inicial. - Não permita que a coluna de pesos caia ou que a barra toque no seu corpo.</string>
+    <string name="ex_name_58">Push-Up de Braço com Trícepes</string>
+    <string name="ex_desc_58">Deite-se sobre o seu lado direito, com os joelhos dobrados e os quadris um em cima do outro. Envolva o braço direito em torno do ombro e coloque a mão esquerda no chão à sua frente. Contraia os tríceps para empurrar o corpo para cima afastando-o do chão, e endireitando o braço esquerdo, tanto quanto for possível. Diminua alguns centímetros e volte a empurrar para cima e para baixo antes de trocar de lado.</string>
+    <string name="ex_name_59">Extensão de Trícepes com Haltere</string>
+    <string name="ex_desc_59">Para começar, levante-se com um haltere em cada mão. Os seus pés devem estar distanciados a uma largura de ombros. Lentamente, use as mãos para levar os halteres acima da cabeça com os braços esticados. A força deve fazer-se sentir nas palmas das mãos com os polegares sobre eles. A palma da mão deve ficar voltado para cima em direção ao teto. Esta será a posição inicial: - Mantenha os braços perto da cabeça com os cotovelos perpendiculares ao chão, diminua a força num movimento semicircular atrás da sua cabeça até que toque nos seus bicépes. Dica: Os antebraços devem permanecer parados e só os braços devem mover-se. Inspire enquanto executa este passo. - Volte para a posição inicial usando os tríceps para levantar o haltere. Expire enquanto realiza esta etapa. Repita o procedimento no valor recomendado de repetições.</string>
+    <string name="ex_name_60">Mergulho de Perna em Flexão</string>
+    <string name="ex_desc_60">Comece num banco com as palmas das mãos para baixo. Tenha uma perna estendida para fora e uma perna colocada no chão. Quanto mais perto estiver o seu pé do banco, mais fácil será. Aumente a intensidade do exercício afastando o pé o mais possível, dentro do possível, ou coloque-o o mais próximo do banco para facilitar o exercício. Dobre os cotovelos e mergulhe para baixo, tanto quanto lhe for possível, sem que o seu rabo toque no chão. Estique os seus braços. Troque entre pernas e repita.</string>
+    <string name="ex_name_61">Extensão de Trícepes com Haltere e em Flexão</string>
+    <string name="ex_desc_61">Com um haltere numa mão e a palma da mesma virada para o tronco, dobre os joelhos ligeiramente e leve o tronco para a frente, dobrando a cintura, mantendo as costas retas e até fazer uma paralela com o chão. Certifique-se de que mantém a cabeça sempre erguida. O braço deverá ficar perto do tronco e paralelo ao chão, enquanto o antebraço está a apontar para o chão e a mão a segurar o peso. Dica: Deverá formar um ângulo de 90 graus entre o antebraço e o braço. Esta é a posição de partida: - Mantenha o braço parado e use o tríceps para levantar os pesos enquanto expira e coloca os braços esticados e paralelos ao chão. Como em muitos outros exercícios de braço, apenas o antebraço se deve mover. - Depois de uma contração de um segundo no topo, desça lentamente o haltere de volta para a posição inicial enquanto inspira. Repita o movimento na quantidade de repetições prescrita. Troque de braço e repita o exercício.</string>
+    <string name="ex_name_62">Extensão de Trícepes com Braço ligado a Cabo </string>
+    <string name="ex_desc_62">Com a mão direita , segure uma alça única ligada à polia alta cabo usando um spinada (desleal , com as palmas para cima) aderência. Você deve estar de pé em frente a pilha de pesos. Agora puxe a alavanca para baixo de modo que o seu braço e cotovelo são bloqueadas para o lado do seu corpo. O braço e o antebraço devem formar um ângulo agudo (menos de 90 graus ) . Você pode manter o outro braço pela cintura e você pode ter uma perna na frente e outra para trás para melhor equilíbrio. Esta será a sua posição inicial : - Como você contrair os tríceps , mova o único anexo alça para baixo a seu lado até que seu braço é reto . Expire como você executar este movimento. Dica: Somente os braços devem mover-se . Seus braços devem permanecer parado em todos os momentos . - Esprema o tríceps e segure por um segundo nesta posição contraída . - Lentamente retorne a alavanca para a posição inicial. Repita o procedimento para o valor recomendado de repetições e , em seguida, realizar o mesmo movimento com o outro braço . Variações: Você pode usar bandas de exercício para realizar este exercício .</string>
+    <string name="ex_name_63">Pushdown de Tricepes</string>
+    <string name="ex_desc_63">Anexar uma barra reta ou curva a uma torre alta e pegue-a com uma pronação (palmas das mãos voltadas para baixo afastadas à largura do ombro). De pé com o tronco reto e uma pequena inclinação para a frente, traga os braços junto do seu corpo e perpendicularmente ao chão. Os antebraços devem estar apontando para cima em direção à torre enquanto segura na barra . Esta é a posição de partida: - Usando os trícepes, traga a barra para baixo até tocar nas coxas, sempre com os braços estendidos e perpendiculares ao chão. Os braços devem manter-se fixos ao lado do seu tronco e apenas os antebraços deve mover-se. Expire enquanto executa este movimento. – Depois de esperar um segundo em posição contraída, coloque a barra novamente na posição inicial. Inspire enquanto realiza este movimento. Repita o procedimento no valor recomendado de repetições. Variações: Existem muitas variações para este exercício. Pode por exemplo utilizar uma barra de fixação EZ, bem como uma barra em V que permite ao polegar ficar acima do dedo mindinho. Pode também usar um aperto reverso sobre as barras.</string>
+
+    <string name="ex_name_5063">Agachamentos Com Salto</string>
+    <string name="ex_desc_5063">Grupo Muscular. Quadríceps \n\nPasso 1. Agache-se bem até abaixo, com as pernas pouco afastadas. \n\nPasso 2. Salte e afaste as pernas erguendo os braços e cotovelos na direção do teto. \n\nPasso 3. Salte e una novamente as pernas, ao mesmo tempo que baixa os braços.</string>
+
+    <string name="ex_name_5064">Prancha</string>
+    <string name="ex_desc_5064">Músculo. Reto Abdominal \n\nPasso 1. Estique as pernas e eleve-se sobre os dedos dos pés. Mantendo as costas direitas, apoie os antebraços no chão. \n\nPasso 2. Os seus antebraços devem ficar perpendiculares aos braços. Mantenha a posição o máximo de tempo que conseguir.</string>
+
+    <string name="ex_name_5065">Extensão De Costas</string>
+    <string name="ex_desc_5065">MÚSCULO. Fundo das costas \n\nPasso 1. Deite-se no chão de barriga para baixo. Estique os braços para a sua frente. \n\nPasso 2. Eleve as pernas e o tronco na direção do teto e alongue o máximo que puder. Mantenha durante um segundo. Volte à posição inicial.</string>
+
+    <string name="ex_name_5066">Extensão De Costas 2</string>
+    <string name="ex_desc_5066">Grupo muscular. Fundo das costas \n\nPasso 1. Deite-se no chão de barriga para baixo com os braços junto às ancas e as palmas viradas para baixo. Ative os músculos do tronco encolhendo os abdominais e espremendo os glúteos. \n\nPasso 2. Expire lentamente e levante o peito do chão e os braços para cima e para trás na direção das ancas. Rode os polegares apontando-os para o teto à medida que realiza o movimento. \n\nPasso 3. Pause no final do movimento durante dois segundos, depois volte à posição inicial.</string>
+
+    <string name="ex_name_5067">Toque De Perna</string>
+    <string name="ex_desc_5067">Músculo. Reto Abdominal \n\nPasso 1. Deite-se de costas no chão, flita uma perna e eleve a outra até que fique perpendicular ao chão. Estique totalmente os braços à sua frente. \n\nPasso 2. Tente alcançar os dedos do pé elevado com as mãos. Mantenha durante um segundo e volte à posição inicial.</string>
+
+    <string name="ex_name_5068">Abdominal Com Pontapé</string>
+    <string name="ex_desc_5068">Músculo. Reto Abdominal \n\nPasso 1. Posicione-se em pé com os pés à mesma distância dos ombros. \n\nPasso 2. Levante a perna esquerda o mais alto que puder e toque no pé esquerdo com ambas as mãos. \n\nPasso 3. Volte à posição inicial e repita para o lado oposto. \n\nPasso 4. Continue a alternar os lados, em movimentos rápidos, até concluir o set.</string>
+
+    <string name="ex_name_5069">Corrida Em Prancha</string>
+    <string name="ex_desc_5069">Músculo. Reto Abdominal \n\nPasso 1. Assuma uma posição de flexão de braços com as mãos por baixo dos ombros e o corpo a formar uma linha reta da cabeça aos calcanhares. \n\nPasso 2. Levantando o pé direito do chão, leve o joelho direito até ao peito. Toque no chão com o pé direito e volte à posição inicial. \n\nPasso 3. Alterne as pernas em cada repetição.</string>
+
+    <string name="ex_name_5070">Abdominais</string>
+    <string name="ex_desc_5070">Músculo. Reto Abdominal \n\nPasso 1. Deite-se com os joelhos fletidos e os pés bem apoiados no chão. Cruze os braços sobre o peito ou coloque as mãos atrás das orelhas. \n\nPasso 2. Use os abdominais para elevar a cabeça e a parte superior do tronco mantendo o fundo das costas bem firmado no chão. \n\nPasso 3. Pause com as omoplatas a alguns centímetros do chão, depois volte lentamente à posição inicial usando um movimento controlado.</string>
+
+    <string name="ex_name_5071">Puxa-Empurra</string>
+    <string name="ex_desc_5071">Músculo. Reto Abdominal \n\nPasso 1. Deite-se no chão, coloque ambas as mãos debaixo das ancas, estique totalmente as pernas e eleve-as ligeiramente. \n\nPasso 2. Flita os joelhos apontando-os para a parte de cima do corpo e mantenha a posição durante um segundo. Volte à posição inicial.</string>
+
+    <string name="ex_name_5072">Pernas Para Cima</string>
+    <string name="ex_desc_5072">Músculo. Reto Abdominal \n\nPasso 1. Deite-se de costas com as mãos com as mãos ao lado do corpo e as pernas esticadas e a apontar para o teto, perpendiculares ao tronco. \n\nPasso 2. Encolha a barriga e flita os glúteos elevando as ancas a alguns centímetros do chão. Depois desça as ancas.</string>
+
+    <string name="ex_name_5073">Abdominais Com Torção</string>
+    <string name="ex_desc_5073">Músculo. Reto Abdominal \n\nPasso 1. Deite-se de costas no chão, dobre os joelhos e mantenha os pés 45-60 centímetros de distância. Os seus braços devem ficar estendidos ao longo do corpo. \n\nPasso 2. Curve-se pelo tronco para a frente e para cima cerca de 7-10 centímetros para o lado direito e toque no calcanhar direito enquanto mantém a contração durante um segundo. Expire enquanto realiza este movimento. \n\nPasso 3. Agora volte lentamente à posição inicial enquanto inspira. \n\nPasso 4. Agora curve-se pelo tronco para a frente e para cima cerca de 7-10 centímetros para o lado esquerdo e toque no calcanhar esquerdo enquanto mantém a contração durante um segundo. Expire enquanto realiza este movimento e depois volte à posição inicial enquanto inspira. Quando ambos os calcanhares tiverem sido tocados, considera-se uma repetição. Continue alternando os lados.</string>
+
+    <string name="ex_name_5074">Torção Russa</string>
+    <string name="ex_desc_5074">Músculo. Oblíquos \n\nPasso 1. Sente-se no chão com um kettlebell ou uma bola medicinal ao seu lado. Una os joelhos e dobre-os a um ângulo de 90 graus. Mantenha o peito elevado e as costas direitas. \n\nPasso 2. Pegue na bola medicinal ou no kettlebell segurando-o ao contrário pela pega para melhor controlo. Deve ficar à altura do peito. \n\nPasso 3. Torça ligeiramente o tronco, tendo o cuidado de não curvar as costas. Levante os pés do chão mas mantenha os joelhos unidos e as pernas fletidas.</string>
+
+    <string name="ex_name_5075">Abdominais De Bicicleta</string>
+    <string name="ex_desc_5075">Músculo. Oblíquos \n\nPasso 1. Deite-se de costas, levante os ombros do tapete e levante as pernas. \n\nPasso 2. Aproxime um joelho do cotovelo do lado oposto, curvando-se para um lado, e estique totalmente a outra perna. \n\nPasso 3. Volte à posição inicial e curve-se para o lado oposto. \n\nPasso 4. Repita até concluir o set.</string>
+
+    <string name="ex_name_5076">Caranguejo Dançante</string>
+    <string name="ex_desc_5076">Músculo. Reto Abdominal \n\nPasso 1. Deite-se no chão de costas. Apoie as mãos e pernas no chão. \n\nPasso 2. Eleve a parte de cima do corpo. Toque rapidamente a sua perna esquerda com a mão direita e depois troque de lados. Aumente a velocidade, faça os movimentos o mais depressa que puder.</string>
+
+    <string name="ex_name_5081">Pontapé Para Trás De Glúteos 2</string>
+    <string name="ex_desc_5081">Músculo. Glúteos \n\nPasso 1. Apoie-se nas mãos e joelhos num tapete ou no chão. As suas costas devem ficar paralelas ao chão e elevadas, conforme ilustrado. \n\nPasso 2. Num movimento controlado, eleve a sua perna até que os isquiotibiais estejam alinhados com as costas, mantendo o ângulo de 90 graus no joelho. Certifique-se de flexionar os glúteos quando a sua perna estiver esticada para trás. No final do movimento, a coxa deve estar paralela ao chão, enquanto a canela deve estar perpendicular ao mesmo. Volte à posição inicial e repita com a perna oposta.</string>
+
+    <string name="ex_name_5082">PONTAPE LATERAL GLÚTEOS</string>
+    <string name="ex_desc_5082">Grupo muscular. Glúteos \n\nPasso 1. Comece por se apoiar nas mãos e nos joelhos, como ilustrado. Os seus joelhos devem estar posicionados por baixo das ancas e os pulsos devem estar diretamente debaixo dos seus ombros. \n\nPasso 2. Mantenha as costas direitas enquanto levanta um joelho do chão. Mantenha o joelho fletido à medida que o eleva para fora e para cima. \n\nPasso 3. Mantenha esta posição brevemente, depois baixe lentamente o joelho de volta até ao chão. Faça uma pausa e depois repita.</string>
+
+    <string name="ex_name_5083">Agachamento Com Pontapé Lateral</string>
+    <string name="ex_desc_5083">Grupo muscular. Glúteos \n\nPasso 1. Comece numa posição de agachamento com as ancas recuadas e os pés à mesma distância dos ombros. \n\nPasso 2. Enquanto se ergue, transfira o seu peso para a perna direita e levante a perna esquerda para o lado. \n\nPasso 3. Volte à posição de agachamento e repita com a perna direita.</string>
+
+    <string name="ex_name_5084">Lunge Invertido</string>
+    <string name="ex_desc_5084">Músculo. Glúteos \n\nPasso 1. Posicione-se de pé com os pés à mesma distância dos ombros e os dedos dos pés a apontar para a frente. \n\nPasso 2. Coloque a sua perna dominante atrás o mais longe possível e desça o corpo até que esse joelho toque no chão, mantendo o tronco bem direito e erguido. \n\nPasso 3. Faça pressão sobre o calcanhar da frente para voltar à posição inicial, depois faça imediatamente um novo lunge com essa perna. Este conjunto constitui uma repetição.</string>
+
+    <string name="ex_name_5085">Lunge Atrás</string>
+    <string name="ex_desc_5085">Músculo. Quadríceps \n\nPasso 1. Posicione-se de pé com os pés à mesma distância dos ombros e os dedos dos pés a apontar para a frente. \n\nPasso 2. Coloque um pé atrás, permitindo que as suas ancas e joelhos se flitam para baixar o seu corpo. Contactando a perna de trás apenas através da parte da frente do pé, desça até o seu joelho praticamente tocar no chão. \n\nPasso 3. Faça pressão a partir do seu pé dobrado para voltar à posição inicial e repita o exercício trocando de pernas.</string>
+
+    <string name="ex_name_5086">Toque De Perna Em Prancha</string>
+    <string name="ex_desc_5086">Músculo. Fundo das costas \n\nPasso 1. Comece numa posição de prancha baixa com o corpo em linha reta, os cotovelos dobrados por baixo dos ombros e os pés à mesma distância das ancas. \n\nPasso 2. Levante a perna esquerda até um ângulo de 45 graus, depois baixe o pé sobre o outro tornozelo. \n\nPasso 3. Volte à posição inicial e repita com a outra perna.</string>
+
+    <string name="ex_name_5087">Extensão De Anca Deitada</string>
+    <string name="ex_desc_5087">Músculo. Glúteos \n\nPasso 1. Deite-se de costas no chão e apoie os calcanhares no chão, mantendo os joelhos ligeiramente fletidos e os braços ao longo do corpo. \n\nPasso 2. Ativando os glúteos e isquiotibiais, faça pressão sobre os calcanhares e eleve as ancas até que o seu corpo forme uma rampa. Mantenha durante um momento e volte lentamente à posição inicial.</string>
+
+    <string name="ex_name_5088">Extensão De Anca Deitada Com Cadeira</string>
+    <string name="ex_desc_5088">Músculo. Glúteos \n\nPasso 1. Deite o cimo das costas numa cadeira e apoie os calcanhares no chão, mantendo os joelhos fletidos e os braços ao lado do corpo. \n\nPasso 2. Fazendo força com os glúteos e isquiotibiais, faça pressão sobre os calcanhares e eleve as ancas até que o seu corpo forme uma rampa. Pause e volte lentamente à posição inicial.</string>
+
+    <string name="ex_name_5089">Agachameto Búlgaro</string>
+    <string name="ex_desc_5089">Músculo. Quadríceps \n\nPasso 1. Coloque um pé no chão, a pouco menos de um metro de uma cadeira e equilibre o outro pé sobre a cadeira atrás de si. Posicione as mãos em frente ao peito. \n\nPasso 2. Use o pé da frente para se equilibrar enquanto flete os dois joelhos para descer o corpo em linha reta para baixo até que o joelho de trás fique a poucos centímetros do chão e a perna da frente esteja dobrada a 90 graus. O resto do seu corpo deve formar uma linha reta. Volte à posição inicial e troque a posição das pernas.</string>
+
+    <string name="ex_name_5090">Subida</string>
+    <string name="ex_desc_5090">Músculo. Glúteos \n\nPasso 1. Posicione-se junto a um banco de exercício. Coloque o pé direito em cima do banco mantendo o pé esquerdo no chão. \n\nPasso 2. Suba e levante o joelho esquerdo à sua frente. \n\nPasso 3. Desça com a perna esquerda. Repita o exercício com a outra perna. Continue alternando os lados.</string>
+
+    <string name="ex_name_5091">Pontapé Para Trás No Banco</string>
+    <string name="ex_desc_5091">Músculo. Glúteos \n\nPasso 1. Apoie as mãos e os joelhos num banco. As suas costas devem estar paralelas ao chão e levantadas, conforme ilustrado. \n\nPasso 2. Num movimento controlado, lance um dos seus pés para trás e para cima como se estivesse a dar um pontapé no teto atrás de si. Contraia os glúteos quando a perna estiver esticada para trás. Volte à posição inicial e repita com a outra perna.</string>
+
+    <string name="ex_name_5092">Pontapé De Rabo</string>
+    <string name="ex_desc_5092">Músculo. Quadríceps \n\nPasso 1. Comece de pé e traga um dos calcanhares para junto dos glúteos, posicionando os braços em frente ao peito. \n\nPasso 2. Depois repita com a outra perna.</string>
+
+    <string name="ex_name_5093">Pontapé Para Trás Com Agachamento</string>
+    <string name="ex_desc_5093">Grupo muscular. Glúteos \n\nPasso 1. Comece com os pés um pouco mais afastados do que a largura dos ombros e agache-se. \n\nPasso 2. À medida que se levanta, transfira o seu peso para uma perna e estique a outra perna para trás. \n\nPasso 3. Volte à posição inicial e repita para o outro lado.</string>
+
+    <string name="ex_name_5095">Flexões De Braços Com Toque</string>
+    <string name="ex_desc_5095">Músculo. Peitorais \n\nPasso 1. Deite-se de barriga para baixo com as mãos apoiadas no chão. Coloque as mãos por baixo dos ombros, a uma distância entre si inferior à distância dos ombros. Eleve-se com os braços de modo a que apenas as suas mãos e dedos dos pés estejam no chão. Mantenha as costas direitas e as mãos a apontar ligeiramente para fora. \n\nPasso 2. Desça até que o seu peito fique apenas a poucos centímetros do chão fletindo os cotovelos. Os cotovelos devem estar apontados para os seus pés.</string>
+
+    <string name="ex_name_5096">Entensão T</string>
+    <string name="ex_desc_5096">Músculo. Peitorais \n\nPasso 1. Comece na posição clássica de flexão de braços, mas à medida que se erguer, rode o corpo de modo que o seu braço direito se levante e estique para cima, conforme ilustrado. Os seus braços e tronco devem formar um T. \n\nPasso 2. Volte à posição inicial, desça o corpo, eleve-se novamente e rode o corpo até que a sua mão esquerda aponte para o teto.</string>
+
+    <string name="ex_name_5115">Flexões De Braços</string>
+    <string name="ex_desc_5115">Músculo. Peitorais \n\nPasso 1. Com as pernas esticadas para trás, coloque as mãos por baixo dos ombros, a uma distância entre si ligeiramente maior que a distância dos ombros. \n\nPasso 2. Comece a fletir os cotovelos e desça o peito até ficar mesmo acima do chão. \n\nPasso 3. Suba até à posição inicial. Subida em 1 segundo, pausa de 1 segundo e descida em 2 segundos é o ideal. \n\nPasso 4. Repita.</string>
+
+    <string name="ex_name_5116">Descidas Com Tríceps</string>
+    <string name="ex_desc_5116">Músculo. Tríceps braquial \n\nPasso 1. Apoie as mãos atrás de si numa cadeira, de modo que os seus dedos apontem para a frente. \n\nPasso 2. Estique as pernas e comece a dobrar os cotovelos. \n\nPasso 3. Desça o corpo até que os seus braços atinjam um ângulo de 90 graus. \n\nPasso 4. Suba o corpo até que os braços fiquem de novo esticados e depois repita o exercício.</string>
+
+    <string name="ex_name_5117">Minhoca</string>
+    <string name="ex_desc_5117">Músculo. Quadríceps \n\nPasso 1. Comece de pé, com os pés à mesma distância dos ombros, e dobre-se para a frente até que as pontas dos dedos das mãos toquem no chão. \n\nPasso 2. Caminhe com as mãos para a frente, o mais longe que puder enquanto mantém as pernas esticadas e pare. Reverta até voltar à posição inicial e repita até concluir o set.</string>
+
+    <string name="ex_name_5097">Pose Da Cadeira</string>
+    <string name="ex_desc_5097">Músculos. Quadríceps \n\nPasso 1. Comece na pose de montanha e, ao inspirar, levante os braços com as palmas viradas uma para a outra. \n\nPasso 2. Ao expirar, dobre os joelhos até a uma posição sentada. \n\nPasso 3. Mantenha a pose durante 30 segundos a 1 minuto.</string>
+
+    <string name="ex_name_5098">Agachamentos</string>
+    <string name="ex_desc_5098">Músculo. Glúteos \n\nPasso 1. Posicione-se de pé com os pés à mesma distância das ancas. \n\nPasso 2. Desça as ancas até que as suas coxas fiquem paralelas ao chão. Suba tudo de novo, pause, depois volte a descer até as coxas ficarem paralelas ao chão. \n\nPasso 3. Faça nova pausa, depois volte ao início.</string>
+
+    <string name="ex_name_5099">180 Jumping Squat</string>
+    <string name="ex_desc_5099">Músculo. Quadríceps \n\nPasso 1. Posicione-se de pé com os pés um pouco mais afastados entre si do que a distância entre os seus ombros, com os dedos dos pés a apontar ligeiramente para fora. \n\nPasso 2. Dê impulso com os calcanhares para saltar, girando 180 graus para a esquerda. \n\nPasso 3. Aterre com os dedos dos pés, joelhos ligeiramente fletidos e agache-se. \n\nPasso 4. Salte rapidamente girando para a direita e volte à posição de agachamento. Repita até concluir o set.</string>
+
+    <string name="ex_name_5100">Agachamento De Sumo</string>
+    <string name="ex_desc_5100">Músculo. Quadríceps \n\nPasso 1. Assuma uma postura de pé, pés bem afastados e com os dedos dos pés a apontar para fora. \n\nPasso 2. Baixe-se fletindo os joelhos e empurrando as ancas para trás. \n\nPasso 3. Assim que as suas coxas ficarem paralelas ao chão, volte a subir e repita.</string>
+
+    <string name="ex_name_5101">Lunge Com Salto</string>
+    <string name="ex_desc_5101">Grupo muscular. Glúteos \n\nPasso 1. Coloque um pé bem atrás e baixe as ancas, de modo que o joelho de trás fique mesmo acima do chão e a coxa da frente fique paralela ao chão. \n\nPasso 2. Salte e troque a posição das pernas. \n\nPasso 3. Salte novamente e volte à posição inicial. \n\nPasso 4. Repita o exercício até concluir o set.</string>
+
+    <string name="ex_name_5102">Prensa Com Agachamento</string>
+    <string name="ex_desc_5102">Grupo muscular. Deltóides \n\nPasso 1. Com halteres à altura dos ombros, apoie-se nos calcanhares e desça num agachamento. \n\nPasso 2. Faça pressão sobre os calcanhares e empurre as ancas para a frente para se pôr em pé, empurrando os halteres acima dos ombros no caminho para cima.</string>
+
+    <string name="ex_name_5103">Burpee</string>
+    <string name="ex_desc_5103">Músculo. Quadríceps \n\nPasso 1. Posicione-se de pé com os pés à mesma distância dos ombros. \n\nPasso 2. Agache-se e coloque as mãos em frente aos seus pés. \n\nPasso 3. Salte para trás para ficar com as pernas esticadas e o corpo em posição de prancha. \n\nPasso 4. Faça uma flexão de braços, salte para a frente e faça pressão sobre os calcanhares para voltar à posição inicial. \n\nPasso 5. Repita até concluir o set.</string>
+
+    <string name="ex_name_5104">Agachamento De Sumo Com Haltere</string>
+    <string name="ex_desc_5104">Grupo muscular. Glúteos \n\nPasso 1. Posicione-se em pé com os pés mais ao menos ao dobro da distância dos ombros e aponte os dedos dos pés para fora enquanto segura num haltere com ambas as mãos. \n\nPasso 2. Agache-se e mantenha o haltere entre as suas pernas. \n\nPasso 3. Levante-se mantendo o haltere na mesma posição. \n\nPasso 4. Volte à posição de agachamento e repita pela duração do set.</string>
+
+    <string name="ex_name_5105">Prancha Lateral Com Elevação Lateral De Haltere</string>
+    <string name="ex_desc_5105">Grupo muscular. Oblíquos \n\nPasso 1. Comece numa posição de prancha lateral modificada, com a perna de cima esticada e a perna de baixo dobrada para trás com o joelho no tapete. \n\nPasso 2. Levante a perna de cima o mais alto possível, enquanto simultaneamente levanta o braço do mesmo lado e depois baixe ambos. \n\nPasso 3. Repita e depois troque de lados.</string>
+
+    <string name="ex_name_5106">Polichinelo</string>
+    <string name="ex_desc_5106">Músculo. Quadríceps \n\nPasso 1. Posicione-se de pé com os pés juntos e as mãos ao lado do corpo. \n\nPasso 2. Salte, afaste os pés e una as mãos acima da cabeça. \n\nPasso 3. Salte novamente e volte à posição inicial. \n\nPasso 4. Repita até concluir o set.</string>
+
+    <string name="ex_name_5107">Corrida Com Elevação De Joelhos</string>
+    <string name="ex_desc_5107">Músculo. Quadríceps \n\nPasso 1. Posicione-se em pé com os pés à mesma distância dos ombros. Olhe para a frente e abra o peito. \n\nPasso 2. Traga alternadamente os joelhos até à altura da cintura e depois desça-os lentamente pousando a parte da frente do pé. \n\nPasso 3. Repita até concluir o set.</string>
+
+    <string name="ex_name_5108">Corrida No Lugar Com Braços Levantados</string>
+    <string name="ex_desc_5108">Músculo. Quadríceps \n\nPasso 1. Posicione-se de pé com os pés afastados à distância das ancas, rabo empinado e braços estendidos. \n\nPasso 2. Salte colocando alternadamente uma perna atrás e outra à frente, ao mesmo tempo que levanta as mãos. \n\nPasso 3. Continue a correr no lugar desta forma.</string>
+
+    <string name="ex_name_5109">Homem A Correr</string>
+    <string name="ex_desc_5109">Músculo. Quadríceps \n\nPasso 1. Posicione-se de pé com os pés à mesma distância dos ombros e olhe para a frente, abrindo o peito. \n\nPasso 2. Comece a trazer alternadamente os joelhos para cima e aterre suavemente na parte da frente dos pés. \n\nPasso 3. Repita até concluir o set.</string>
+
+    <string name="ex_name_5110">Saltos Laterais</string>
+    <string name="ex_desc_5110">Músculo. Gémeos \n\nPasso 1. Posicione-se em pé com as mãos ao lado do corpo e os pés à mesma distância das ancas. \n\nPasso 2. Salte com os dois pés para a direita e para a esquerda, num movimento rápido e repetitivo. \n\nPasso 3. Repetir até concluir o set.</string>
+
+    <string name="ex_name_5111">Corda Rápida</string>
+    <string name="ex_desc_5111">Músculo. Gémeos \n\nPasso 1. Posicione as mãos como se estivesse a segurar numa corda e mantenha os cotovelos ligeiramente dobrados, mantendo a parte de cima dos braços junto ao corpo. \n\nPasso 2. Rode os pulsos para simular o movimento da corda e salte. \n\nPasso 3. Salte com ambos os pés ao mesmo tempo e aterre com a parte da frente dos pés.</string>
+
+    <string name="ex_name_5112">Saltos Cruzados</string>
+    <string name="ex_desc_5112">Músculo. Gémeos \n\nPasso 1. Posicione-se de pé com os pés à mesma distância dos ombros e os braços levantados e esticados para os lados. \n\nPasso 2. Salte e cruze a perna esquerda em frente da direita e o braço esquerdo por cima do direito. \n\nPasso 3. Salte de novo e volte à posição inicial. \n\nPasso 4. Repita e inverta a posição dos braços e pernas.</string>
+
+    <string name="ex_name_5113">Lunge Com Prensa De Ombros</string>
+    <string name="ex_desc_5113">Músculo. Quadríceps \n\nPasso 1. Posicione-se de pé com os pés à mesma distância das ancas e segure num haltere em cada mão. Posicione os halteres à altura dos ombros. \n\nPasso 2. Dê um passo em frente com a perna esquerda e flita os joelhos até que o de trás fique mesmo acima do chão e empurre os halteres para cima. \n\nPasso 3. Repita este movimento por toda a duração do set e depois troque de pernas.</string>
+
+    <string name="ex_name_5114">Elevação De Haltere Com Um Braço</string>
+    <string name="ex_desc_5114">Músculo. Deltóides \n\nPasso 1. Agarre num haltere com a mão direita, dobre os joelhos, empurre as ancas para trás e coloque o haltere entre os seus pés. \n\nPasso 2. Puxe o haltere para cima desfazendo a flexão das ancas e dos joelhos e, à medida que o haltere chega ao ombro, rode a mão para a frente e empurre em linha reta para cima. \n\nPasso 3. Baixe o haltere e volte à posição inicial. \n\nPasso 4. Repita e depois troque de lados.</string>
+
+    <string name="ex_name_5077">Remo Com Haltere Para Trás</string>
+    <string name="ex_desc_5077">Músculo. Tríceps Braquial \n\nPasso 1. Agarre num par de halteres, dobre o tronco para a frente e flita ligeiramente os joelhos. \n\nPasso 2. Puxe os cotovelos para cima, de modo que a parte de cima dos seus braços fique paralela ao chão, e mande os halteres para trás até que os seus braços estejam totalmente esticados. \n\nPasso 3. Baixe lentamente os pesos para a posição inicial. \n\nPasso 4. Repita.</string>
+
+    <string name="ex_name_5078">Bom Dia</string>
+    <string name="ex_desc_5078">Músculo. Fundo das costas \n\nPasso 1. Posicione-se de pé com os pés à mesma distância dos ombros. Pegue numa barra e segure-a na parte de trás dos seus ombros. Segure na barra com pega pronada. A distância entre as mãos deve ser maior que a distância entre os ombros. Ajuste os seus pés para apontarem ligeiramente para fora. \n\nPasso 2. Mantenha as costas direitas e dobre a parte de cima do corpo até que fique paralela ao chão. Mantenha durante um segundo. Volte à posição inicial.</string>
+
+    <string name="ex_name_5079">Remo De Um Braço Com Haltere 2</string>
+    <string name="ex_desc_5079">Músculo. Tríceps Braquial \n\nPasso 1. Use a sua mão não dominante para segurar num haltere enquanto coloca a sua mão dominante e o joelho num banco, conforme ilustrado. \n\nPasso 2. Mantenha as costas direitas enquanto deixa o haltere pendurado ao seu lado de modo que o seu braço se alinhe com o ombro. \n\nPasso 3. Puxe o haltere para cima para junto à anca mantendo o cotovelo próximo do corpo. Foque-se no envolvimento dos seus músculos do cimo das costas ao fazer este movimento. Faça uma pausa e depois volte lentamente à posição inicial.</string>
+
+    <string name="ex_name_5080">Levantamento Terra</string>
+    <string name="ex_desc_5080">Músculo. Glúteos \n\nPasso 1. Posicione-se de pé com os pés à mesma distância dos ombros e segure num haltere em cada mão. \n\nPasso 2. Empurre as ancas para trás e baixe os halteres, mantendo as pernas esticadas ou ligeiramente fletidas. \n\nPasso 3. Volte à posição inicial e repita.</string>
+
+    <string name="ex_name_5094">SALTO EM ESTRELA</string>
+    <string name="ex_desc_5094">Grupo Muscular. Quadríceps \n\nPasso 1. Comece numa posição relaxada com os pés à mesma distância dos ombros e mantendo os braços junto ao corpo. \n\nPasso 2. Para iniciar o movimento, agache-se até meio caminho do chão e expluda num salto o mais alto possível. Estique completamente o corpo todo, estendendo braços e pernas para fora.</string>
+
+    <string name="extra_main_name">Planos de Treinamento</string>
+
+    <string name="day">Dia</string>
+    <string name="round">Série</string>
+    <string name="day1">2 dias por semana</string>
+    <string name="day2">3 dias por semana</string>
+    <string name="day3">4 dias por semana</string>
+    <string name="restorePurchases">Restaurar Compras</string>
+    <string name="textUpgrade">Faça upgrade para a versão Premium para desbloquear 50 Novos Exercícios e remover Anúncios</string>
+    <string name="one_day_ADS1">1 Dia SEM ANÚNCIOS</string>
+    <string name="one_day_ADS2">VER VÍDEO PATROCINADO</string>
+    <string name="upgrade">FAÇA UPGRADE AGORA</string>
+    <string name="free">Grátis</string>
+    <string name="tell_friend">Dizer a Amigo</string>
+    <string name="send_feedback">Enviar Feedback</string>
+    <string name="rate_app">Avalie-nos</string>
+    <string name="facebook">Compartilhar aplicativo no Facebook</string>
+    <string name="twitter">Partilhar app no Twitter</string>
+    <string name="ic_googleplay">As nossas outras apps</string>
+    <string name="ic_settings_">Definições</string>
+    <string name="social_follow">Fique conectado com VGFIT</string>
+    <string name="reminder">Lembrete</string>
+    <string name="daily_reminder">Lembrete diário</string>
+    <string name="frequency">Frequência</string>
+    <string name="after_days">Após %1$s dias de inatividade</string>
+    <string name="menu_bt">Botão de menu</string>
+    <string name="units">Unidades</string>
+    <string name="purch_restored">Compras do aplicativo restauradas</string>
+    <string name="success">Sucesso!</string>
+
+    <string name="ex_cat_1">Abdominais</string>
+    <string name="ex_cat_2">Costas</string>
+    <string name="ex_cat_3">Bícepes</string>
+    <string name="ex_cat_4">Nádegas</string>
+    <string name="ex_cat_5">Peito</string>
+    <string name="ex_cat_6">Pernas</string>
+    <string name="ex_cat_7">Ombros</string>
+    <string name="ex_cat_8">Tríceps</string>
+    <string name="time_worout">Está na hora de treinar!</string>
+
+    <string name="cat_name6">Abdominais</string>
+    <string name="cat_name7">Treino de Nádegas</string>
+    <string name="cat_name8">Corpo de Bikini</string>
+    <string name="cat_name9">Queima de Gordura</string>
+    <string name="cat_name10">Braços, Peito e Costas</string>
+    <string name="cat_name11">Pernas Magras</string>
+    <string name="cat_name12">Cardio e Corpo Inteiro</string>
+
+    <string name="extraDescription6">Fique definido e trabalhe seu abdomen com esta série para definição abdominal.</string>
+    <string name="extraDescription7">Treino focado na definição dos músculos dos glúteos.</string>
+    <string name="extraDescription8">A combinação perfeita de exercícios para fortalecer e melhorar a definição de todo o corpo.</string>
+    <string name="extraDescription9">Emagreça e transpire com este circuito inspirado de queima de gordura.</string>
+    <string name="extraDescription10">Excelente treino focado nos seus braços, peito e músculos das costas.</string>
+    <string name="extraDescription11">Excelente treino focado na definição de pernas.</string>
+    <string name="extraDescription12">Treino concebido para queimar gordura e criar definição de todo o corpo.</string>
+
+    <string name="Focus">Foco</string>
+    <string name="Goal">Meta</string>
+    <string name="Skill_level">Nível de habilidade</string>
+    <string name="Target_Group">Grupo alvo</string>
+    <string name="Place">Local</string>
+    <string name="Equipment">Equipamento</string>
+
+    <string name="focus_1">Zona central</string>
+    <string name="focus_2">Músculos dos Glúteos.</string>
+    <string name="focus_3">Músculos do corpo inteiro.</string>
+    <string name="focus_4">Definição muscular e queima de gorduras</string>
+    <string name="focus_5">Bíceps, Tríceps, Peitorais, Fundo das Costas.</string>
+    <string name="focus_6">Músculos de Glúteos, Isquiotibiais, Quadríceps.</string>
+
+    <string name="goal_1">Definição de abdominais e queima de gorduras.</string>
+    <string name="goal_2">Consiga definição e volume.</string>
+    <string name="goal_3">Condicionamento físico.</string>
+    <string name="goal_4">Rotina cardíaca do corpo inteiro.</string>
+    <string name="goal_5">Ganhe força e definição.</string>
+
+    <string name="skill_level">Iniciante Intermediário Avançado</string>
+
+    <string name="target_group">Homens e mulheres</string>
+
+    <string name="equipment_1">Tapete.</string>
+    <string name="equipment_2">Banco, Tapete.</string>
+    <string name="equipment_3">Haltere, Barra.</string>
+    <string name="equipment_4">Banco, Haltere, Tapete.</string>
+    <string name="place">HAcademia, casa, escritório.</string>
+
+
+    <string name="doneKey">Concluído</string>
+    <string name="editKey">Editar</string>
+    <string name="intervalsKey">Intervalos</string>
+    <string name="myWorkoutsKey">Os meus exercícios</string>
+    <string name="pauseKey">Pausa</string>
+    <string name="resetKey">Reiniciar</string>
+    <string name="resumeKey">Retomar</string>
+    <string name="roundsKey">Rondas</string>
+    <string name="startKey">Iniciar</string>
+    <string name="currentsetkey">Configurações atuais</string>
+    <string name="resttimekey">Tempo de descanso</string>
+    <string name="worktimekey">Tempo de exercício</string>
+    <string name="minkey">Min</string>
+    <string name="seckey">Seg</string>
+    <string name="sets_extra1">30 segundos sem tempo de descanso</string>
+    <string name="sets_extra2">3 sequências com 12/11/10 repetições</string>
+    <string name="sets_extra3">35 segundos de exercício e 15 segundos de descanso</string>
+    <string name="sets_extra4">30 segundos de exercício e 15 segundos de descanso</string>
+    <string name="sets_extra5">2 séries 15 repetições</string>
+
+    <string name="rep_extra1">30 segundos de exercício e 15 segundos de descanso</string>
+    <string name="rep_extra2">tempo de exercício 30 s., tempo de descanso 15 s., dec 30 s.</string>
+    <string name="rep_extra3">3 sequências com 12/11/10 repetições</string>
+
+    <string name="rep_extra1_how">Duração do exercício 30 seg., Tempo de descanso entre exercícios 15 seg.</string>
+    <string name="rep_extra2_how">Duração do exercício 30 seg., Tempo de descanso entre exercícios 15 seg., Tempo de descanso entre rondas 30 seg.</string>
+    <string name="rep_extra3_how">Tempo de descanso entre exercícios 30 seg., Tempo de descanso entre sets 45 seg.</string>
+
+
+    <string name="enter_text">Insira mensagem de texto</string>
+    <string name="main_work">Exercícios desenvolvidos para levantamento de peso e devenvolvimento muscular e de força.</string>
+
+
+    <string name="namemeal1_1">Papa de Aveia com Morangos e Creme</string>
+    <string name="ingredientMeal1_1">\n\n&#189; chávena de flocos de aveia\n\n&#8531; chávena de leite magro\n\n&#8531; chávena de iogurte Grego de baunilha\n\n&#189; chávena de morangos picados\n\n2 colheres de sopa de iogurte Grego magro de baunilha\n\n1 colher de sopa de amêndoas torradas</string>
+    <string name="stepsMakeMeal1_1">À noite, misture bem a aveia, o leite e &#8531; de chávena do iogurte num frasco ou numa taça. Cubra e deixe arrefecer no frigorífico durante a noite. Bom apetite!</string>
+
+
+    <string name="namemeal1_2">Elixir do Brilho Dourado</string>
+    <string name="ingredientMeal1_2">2 maçãs \n\n4 laranjas médias descascadas \n\n1 limão descascado \n\n1 pedaço de 5&#8211;7,5 cm de gengibre fresco descascado \n\n1 pedaço de 5 cm de curcuma descascada \n\n2 chávenas de água fria  \n\n1 mão cheia de gelo</string>
+    <string name="stepsMakeMeal1_2">Num liquidificador de alta velocidade, passe todos os ingredientes até que a mistura fique uniforme, adicionando água fria se necessário. Um liquidificador de alta potência irá transformar isto numa bebida suave. Se preferir usar o sumo dos ingredientes para que a bebida fique ainda mais suave, pode fazê&#8211;lo, embora o ideal seja manter todas as fibras e todos os nutrientes na bebida. Bom apetite!</string>
+
+
+    <string name="namemeal1_3">Refogado de Frango Tso</string>
+    <string name="ingredientMeal1_3">4 peitos de frango cortados em cubos  \n\n1 chávena de farinha  \n\nóleo vegetal \n\nsal \n\npimenta preta acabada de moer  \n\n2 dentes de alho picados  \n\n&#189; lata de caldo de galinha  \n\n3 colheres de sopa de mel  \n\n4 colheres de sopa de molho de soja  \n\n2 colheres de sopa de sumo de lima  \n\n2 latas de brócolos, apenas os ramos  \n\n2 latas de arroz branco cozido, para servir</string>
+    <string name="stepsMakeMeal1_3">Numa taça grande, passe o frango ligeiramente por amido de milho. Transfira os pedaços para uma taça maior com farinha e passe ligeiramente para revestir novamente e reserve. Encha uma frigideira grande até meio com óleo vegetal e leve a lume médio&#8211;alto. Tempere o frango, depois escorra e reserve. Adicione 2 colheres de sopa de amido de milho e misture para incorporar. Para o molho, adicione brócolos e cenouras e coza até ficarem tenros, cerca de 5 minutos. Bom apetite!</string>
+
+
+    <string name="namemeal1_4">Chá de Ervas</string>
+    <string name="ingredientMeal1_4">1 chávena de água  \n\n1 colher de chá de gengibre fresco ralado  \n\n1 colher de chá de raspa de lima  \n\n1 colher de chá de sumo de lima  \n\n3 folhas de menta fresca</string>
+    <string name="stepsMakeMeal1_4">Ferva água num tacho e misture os restantes ingredientes. Deixe ferver e mexa até a infusão estar pronta. Bom proveito!</string>
+
+
+    <string name="namemeal1_5">Coxas de Frango Dijon e Limão com Salada de Rúcula</string>
+    <string name="ingredientMeal1_5">4 coxas de frango sem pele e sem osso  \n\n&#189; colher de chá de sal  \n\n&#188; colher de chá de pimenta preta moída  \n\n2,5 colheres de sopa de azeite \n\n2 colheres de chá de sumo de limão  \n\n1 colher de chá de alho picado \n\nspray de cozinha \n\n1 colher de sopa de vinagre balsâmico  \n\n1 colher de chá de mel  \n\n1 chávena de tomates cereja cortados ao meio \n\n1 embalagem de rúcula pequena</string>
+    <string name="stepsMakeMeal1_5">Polvilhe o frango com &#188; colher de chá de sal e 1/8 colher de chá de pimenta. Tempere o frango com 1&#8211;1,5 colher de chá de azeite, sumo de limão, mostarda e alho numa taça e envolva bem a carne nos temperos. Deixe ficar durante 4 minutos. Aqueça um grelhador de fogão em lume médio e unte&#8211;o com spray de cozinha. Coloque o frango e cozinhe durante 5 minutos de cada lado ou até ficar bem passado. Corte o frango em tiras de 0,6 cm de espessura. Bom apetite!</string>
+
+
+    <string name="namemeal2_1">Crocante de cottage e bagas</string>
+    <string name="ingredientMeal2_1">&#189; chávena de queijo cottage magro com 2% de gordura \n\n2 colheres de sopa de granola  \n\n&#189; chávena de rodelas de banana \n\n&#189; chávena de bagas sortidas</string>
+    <string name="stepsMakeMeal2_1">Coloque o queijo cottage numa taça pequena. Cubra com os restantes ingredientes. Bom apetite!</string>
+
+
+    <string name="namemeal2_2">Ananás e Kiwi</string>
+    <string name="ingredientMeal2_2">4 colheres de sopa de água  \n\n&#189; chávena de leite  \n\n&#189; chávena de iogurte \n\n1,5 colher de sopa de mel \n\n1 kiwi descascado \n\n1 chávena de pedaços de ananás  \n\n&#189; manga \n\n2 cubos de gelo</string>
+    <string name="stepsMakeMeal2_2">Misture todos os ingredientes a baixa velocidade até ficar espesso e uniforme. Bom apetite!</string>
+
+
+    <string name="namemeal2_3">Frigideira de Frango com Limão</string>
+    <string name="ingredientMeal2_3">4 peitos de frango  \n\n&#188; chávena de manteiga  \n\n2 colheres de sopa de azeite  \n\n1 limão  \n\n1 limão às rodelas  \n\n&#188; chávena de vinho branco  \n\n1 colher de chá de sal  \n\n1 colher de chá de pimenta preta moída  \n\n&#189; colher de chá de paprika  \n\n&#189; colher de chá de salsa seca</string>
+    <string name="stepsMakeMeal2_3">Junte a farinha, o sal, a pimenta, a paprika e a salsa numa taça rasa. Aqueça o azeite e a manteiga em lume médio&#8211;alto. Pane os peitos de galinha com a mistura de farinha e coloque na frigideira quente. Adicione sumo de limão, vinho branco, raspa de limão e alecrim na frigideira. Cozinhe bem o frango dos dois lados. Bom apetite!</string>
+
+
+    <string name="namemeal2_4">Bolachas de Curgete e Quinoa</string>
+    <string name="ingredientMeal2_4">&#189; chávena de manteiga de amendoim cremosa \n\n&#188; chávena de mel  \n\n1 banana  \n\n1 ovo  \n\n1 colher de chá de extrato de baunilha  \n\n&#189; chávena de flocos de aveia  \n\n&#189; chávena de quinoa \n\n1 colher de chá de canela  \n\n&#188; colher de chá de sal  \n\n1 chávena de curgete picada, bem espremida</string>
+    <string name="stepsMakeMeal2_4">Pré&#8211;aqueça o forno a 175ºC. junte a manteiga de amendoim, o mel, a banana, o ovo e a baunilha numa taça grande e misture. Acrescente a aveia, a quinoa, fermento em pó, especiarias e sal e misture bem. Envolva a curgete e sementes de chia. Com uma colher coloque a massa num tabuleiro. Coza as bolachas no tabuleiro do meio durante 15 – 18 minutos até as beiras estarem douradas. Bom apetite!</string>
+
+
+    <string name="namemeal2_5">Camarão Delicioso com Ervas Frescas</string>
+    <string name="ingredientMeal2_5">450 g camarão grande  \n\n2 malaguetas  \n\n1 alho francês cortado fino  \n\n0,5&#8211;1 colher de sopa alcaparras, lavadas e escorridas  \n\n2 dentes de alho picadinhos  \n\n&#189; chávena salsa picadinha  \n\n3 colheres de sopa de sumo de limão \n\n2 colheres de sopa de azeite</string>
+    <string name="stepsMakeMeal2_5">Coloque um tacho em lume médio com azeite. Acrescente o camarão, pimentos, alho francês, alcaparras, alho, sal e pimenta e cozinhe durante 4 minutos até os camarões ficarem rosados. Retire do lume. Adicione o sumo de limão, raspando o fundo da panela com uma colher. Sirva os camarões polvilhados com salsa fresca e manjericão. Bom apetite!</string>
+
+
+    <string name="namemeal3_1">Papa de Aveia com Sementes de Linhaça e Mirtilos</string>
+    <string name="ingredientMeal3_1">3 chávenas de água  \n\n2 chávenas de flocos de aveia \n\n3 colheres de sopa de sementes de linhaça moída \n\n1/8 colher de chá de sal  \n\n&#188; cháv. de leite gordo \n\n1 cháv. de mirtilos  \n\n1 colher de sopa geleia de mirtilo \n\n&#189; colher de chá de casca de limão ralada  \n\n1 colher de sopa de sumo de limão</string>
+    <string name="stepsMakeMeal3_1">Ferva as 3 chávenas de água. Misture a aveia e depois acrescente as sementes de linhaça e o sal. Reduza para lume médio&#8211;baixo, deixe cozer até ficar macio, mexendo frequentemente. Junte o leite e a manteiga. Entretanto, junte os mirtilos e os 3 ingredientes seguintes numa tigela para micro&#8211;ondas e aqueça na temperatura máxima durante 1,5 minutos, mexendo a cada 30 segundos. Divida a mistura de aveia por 4 taças. Cubra com os mirtilos e as nozes pecã. Bom apetite!</string>
+
+
+    <string name="namemeal3_2">Smoothie de Leite de Coco com Mirtilos</string>
+    <string name="ingredientMeal3_2">1 embalagem de mirtilos congelados (300 ml)  \n\n3 bananas maduras \n\n1 chávena de iogurte natural  \n\n1 chávena de leite de coco sem açúcar  \n\n2 colheres de sopa de mel</string>
+    <string name="stepsMakeMeal3_2">Num liquidificador, passe os mirtilos, as bananas, o iogurte, o leite de coco e o mel. Bom apetite!</string>
+
+
+    <string name="namemeal3_3">Refogado de Frango e Espargos</string>
+    <string name="ingredientMeal3_3">1 colher de sopa de molho de soja  \n\n1 colher de sopa de mel  \n\n2 peitos de frango cortados em pedaços  \n\n1 colher de sopa de azeite  \n\n1 molho de espargos cortado em pedaços  \n\n4 dentes de alho picados finamente  \n\n2 colheres de chá de óleo de sésamo torrado</string>
+    <string name="stepsMakeMeal3_3">Num saco com fecho de deslizar, junte o molho de soja e o mel. Adicione o frango e agite para envolver. Reserve no frigorífico até ao momento de usar. Entretanto, aqueça o azeite numa frigideira grande em lume médio. Remova os espargos e reserve. Remova o frango da marinada e coloque&#8211;o na frigideira. Depois acrescente alho, cebolinha e a marinada. Remova do calor e junte o óleo de sésamo mexendo bem. Bom apetite!</string>
+
+
+    <string name="namemeal3_4">Chá de Menta e Lavanda</string>
+    <string name="ingredientMeal3_4">&#188; chávena de pétalas de lavanda fresca  \n\n1 chávena de folhas de menta fresca \n\n4 chávenas de água</string>
+    <string name="stepsMakeMeal3_4">Coloque as pétalas de lavanda e as folhas de menta num tacho com água e leve a ferver. Baixe o lume e deixe apurar o chá até o sabor ter a intensidade pretendida, 15 a 20 minutos. Bom proveito!</string>
+
+
+    <string name="namemeal3_5">Fajitas de Chili</string>
+    <string name="ingredientMeal3_5">450 g de peito de frango sem pele  \n\n&#189; pimento verde vermelho e amarelo cortado em tiras finas  \n\n&#8531; chávena de água \n\n2 colheres de chá de molho de soja  \n\n1 pitada de sal  \n\n1 pitada de pimenta preta \n\n2 colheres de sopa de azeite  \n\n1 cebola grande finamente picada</string>
+    <string name="stepsMakeMeal3_5">Combine todos os ingredientes da marinada com o frango num recipiente e leve ao frigorífico durante pelo menos 2 horas. Retire a carne da marinada e grelhe em fogo médio durante 4&#8211;5 minutos de cada lado. Corte a carne às tiras. Para o molho, junte 2 colheres de sopa de água, uma colher de chá de milho de soja, &#188; colher de chá de sumo de lima, uma pitada de sal, uma pitada de pimenta preta e 1 colher de sopa de azeite. Bom apetite!</string>
+
+
+    <string name="namemeal4_1">Papa de Aveia Frutada Saudável</string>
+    <string name="ingredientMeal4_1">&#189; chávena de aveia \n\n1 chávena de água  \n\n1 colher de sopa de mel  \n\n1 colher de sopa de extrato de baunilha  \n\n&#189; colher de chá de canela em pó  \n\n&#188; chávena de mirtilos  \n\n4 morangos picados \n\n&#189; banana às rodelas</string>
+    <string name="stepsMakeMeal4_1">Junte a água e a aveia numa taça de microondas. Aqueça no máximo até a aveia ter absorvido a água. Misture o mel, o extrato de baunilha e a canela em pó. Acrescente os mirtilos e cubra com a banana e os morangos. Bom apetite!</string>
+
+
+    <string name="namemeal4_2">Smoothie de Café</string>
+    <string name="ingredientMeal4_2">1 colher de chá de café expresso em pó  \n\n1 colher de sopa de água quente  \n\n1 banana pequena, descascada, cortada e congelada \n\n&#188; chávena de leite magro  \n\n1 colher de sopa de mel  \n\n&#189; chávena de cubos de gelo \n\n canela em pó</string>
+    <string name="stepsMakeMeal4_2">Num liquidificador junte o café em pó e a água quente e deixe repousar durante um minuto. Adicione a banana, o leite e o mel. Cubra e passe até ficar homogéneo. Acrescente gradualmente gelo até à consistência desejada. Salpique levemente com canela. Bom apetite!</string>
+
+
+    <string name="namemeal4_3">Refogado de Frango e Ananás</string>
+    <string name="ingredientMeal4_3">110 g peitos de frango \n\n40 g ananás  \n\n120 g arroz integral \n\n&#8531; colheres de sopa de azeite  \n\n&#189; colheres de chá de mostarda castanha  \n\n1/6 colheres de sopa de paprika fumada \n\nsal marinho \n\npimenta</string>
+    <string name="stepsMakeMeal4_3">Corte os peitos de frango crus em pedaços pequenos. Tempere os pedaços com a paprika fumada e a mostarda castanha. Adicione azeite a uma frigideira e coloque os pedaços de peito de frango. Cozinhe durante cerca de 4 minutos, até o frango estar cerca de 80% concluído, e então adicione o pimento picado. Cozinhe mais 2 ou 3 minutos antes de acrescentar as fatias de ananás. Bom apetite!</string>
+
+
+    <string name="namemeal4_4">Trufas de Chocolate Cru</string>
+    <string name="ingredientMeal4_4">&#189; chávena de nozes, cajus e amêndoas demolhadas durante a noite \n\n3&#8211;4 colheres de sopa de leite de amêndoa \n\n&#188; chávena de sementes de girassol  \n\n&#188; chávena de sementes de abóbora  \n\n2 colheres de sopa de farinha de alfarroba  \n\n3 colheres de sopa de flocos de coco</string>
+    <string name="stepsMakeMeal4_4">Coloque tudo no liquidificador, exceto os flocos de coco, e passe tudo. Comece a formar bolas pequenas com a mistura usando uma colher de gelado. Passe as bolinhas pelos flocos de coco. Sirva bem frios. Bom apetite!</string>
+
+
+    <string name="namemeal4_5">Salmão Cozido com Legumes</string>
+    <string name="ingredientMeal4_5">2 filetes de salmão  \n\n1 chávena de curgete partida  \n\n1 chávena de brócolos  \n\n&#189; chávena de tomates cherry  \n\nsal \n\npimenta \n\nazeite</string>
+    <string name="stepsMakeMeal4_5">Pré&#8211;aqueça o forno a 190ºC. junte os legumes numa travessa grande. Tempere os legumes com sal, pimenta e azeite. Coloque os filetes junto aos legumes e asse durante 18&#8211;20 minutos ou até o salmão estar cozinhado e os legumes estarem tenros. Bom apetite!</string>
+
+
+    <string name="namemeal5_1">Papa de Aveia com Banana e Noz</string>
+    <string name="ingredientMeal5_1">&#189; chávena de flocos de aveia  \n\n1 chávena de água  \n\n1 banana às rodelas \n\n1 colher de sopa de nozes picadas  \n\n1 colher de chá de canela em pó</string>
+    <string name="stepsMakeMeal5_1">Misture a aveia e 1 chávena de água numa taça pequena de micro&#8211;ondas. Aqueça na temperatura máxima durante 3 minutos. Cubra com a banana, as nozes e a canela. Bom apetite!</string>
+
+
+    <string name="namemeal5_2">Pó Rosa</string>
+    <string name="ingredientMeal5_2">1,5 chávena de caules pequenos de couve&#8211;flor  \n\n2 chávenas de cubos de melancia (sem casca ou sementes)  \n\n1,5 chávena de morangos inteiros \n\n1 iogurte grego de morango  \n\n2 colheres de sopa de geleia de morango (opcional) </string>
+    <string name="stepsMakeMeal5_2">Num tacho pequeno, coza a couve&#8211;flor cobrindo&#8211;a com água a ferver até ficar muito tenra. No liquidificador junte a couve&#8211;flor cozida, a melancia, os morangos, o iogurte e, se desejar, a geleia de morango. Bom apetite!</string>
+
+
+    <string name="namemeal5_3">Barbecue de Frango Embrulhado em Espargos</string>
+    <string name="ingredientMeal5_3">2 peitos de frango cortados em bifes finos  \n\n12 turiões de espargos  \n\n2 colheres de sopa de molho barbecue \n\n1 pitada de paprika fumada \n\n1 pitada de alho em pó  \n\n1 pitada de pimenta</string>
+    <string name="stepsMakeMeal5_3">Ligue o forno a 200ºC. Bata os bifes com um martelo para alisar. Tempere o frango com 1 colher de sopa de molho barbecue (para cada pedaço) e a sua opção de temperos. Coloque o frango numa grelha com a abertura virada para baixo durante 8 a 10 minutos. Bom apetite!</string>
+
+
+    <string name="namemeal5_4">Chá de Gengibre e Açafrão</string>
+    <string name="ingredientMeal5_4">2 chávenas de água  \n\n&#189; colher de chá de gengibre fresco picado  \n\n&#189; colher de chá de canela em pó  \n\n1 colher de chá de mel  \n\n1 casca de limão</string>
+    <string name="stepsMakeMeal5_4">Ferva água num tacho pequeno e junte&#8211;lhe açafrão, gengibre e canela. Reduza o lume e deixe apurar durante 10 minutos. Deite o chá num copo grande, adicione mel e limão. Bom proveito!</string>
+
+
+    <string name="namemeal5_5">Kebabs de Camarão Grelhado e Abacate</string>
+    <string name="ingredientMeal5_5">450 g de camarão jumbo \n\n1,5 abacate \n\n1 pimento vermelho \n\n1 pimento laranja \n\n1 pimento amarelo \n\n1 cebola vermelha \n\n1 colher de chá de pasta de alho  \n\n&#189; colher de sopa de azeite  \n\n1 lima \n\nsal, pimenta</string>
+    <string name="stepsMakeMeal5_5">Ligue o grill a 200°C. Pique os legumes e o abacate em pedaços grandes para o kebab. Descasque o camarão e tempere&#8211;o. escolha vegetais fibrosos, já que são mais saciantes e deverão aguentar&#8211;se bem no espeto sob calor intenso. Coloque os kebabs no grill e cozinhe durante cerca de 8&#8211;10 minutos, depois vire&#8211;os e cozinhe outros 8 a 10 minutos. Bom apetite!</string>
+
+
+    <string name="namemeal6_1">Parfait Matinal</string>
+    <string name="ingredientMeal6_1"> &#188; chávena de passas e 1 colher de chá de raspa fina de casca de laranja  \n\n1 colher de chá de baunilha \n\n200 ml de queijo creme Neufchatel magro  \n\npão ralado \n\n2 chávenas de framboesas frescas, mirtilos, morangos picados e/ou pêssegos cortados  \n\n&#189; chávena de granola magra \n\nmel \n\ncasca de laranja picada</string>
+    <string name="stepsMakeMeal6_1">Misture pão ralado e queijo e espalhe sobre um refratário. Salpique com azeite. Coza durante 20 a 25 minutos. Em quatro copos coloque uma camada de queijo creme, uma camada de fruta e uma camada de granola. Repita as camadas até encher os copos. Bom apetite!</string>
+
+
+    <string name="namemeal6_2">Chá Verde, Kiwi e Manga</string>
+    <string name="ingredientMeal6_2">2,5 chávenas de manga congelada picada \n\n3/4 chávenas de iogurte de baunilha \n\n2 colheres de sopa de mel \n\n2 colheres de sopa de água \n\n3 kiwi picado  \n\n2 chávenas de cubos de gelo  \n\n&#189; chávena de espinafres pequenos  \n\n2 colheres de chá de chá verde engarrafado</string>
+    <string name="stepsMakeMeal6_2">Coloque a manga, &#189; chávena de iogurte, 2 colheres de sopa de mel, 2 colheres de sopa de água e casca de lima no liquidificador e passe tudo até ficar uniforme. Coloque &#188; de chávena de iogurte, 2 colheres de sopa de mel, kiwi e os 3 ingredientes seguintes no liquidificador e passe até ficar uniforme. Bom apetite!</string>
+
+
+    <string name="namemeal6_3">Refogado de Frango Cítrico</string>
+    <string name="ingredientMeal6_3">140 g peitos de frango cortados em pedaços pequenos \n\n34 g broccolini   \n\n25 g cogumelos portobello pequenos  \n\n&#188; pimento vermelho  \n\n20 cebola vermelha  \n\nspray de óleo de coco \n\nsementes de sésamo    \n\n&#188; colher de chá de amido de araruta \n\n1/8 colher de sopa de pasta de alho \n\n&#188; colher de chá de pasta de gengibre</string>
+    <string name="stepsMakeMeal6_3">Numa taça, misture todos os ingredientes para o molho do refogado. Coloque spray numa frigideira com óleo de coco e leve a lume médio. Coloque os pedaços de frango e cozinhe&#8211;os até estarem cerca de 85% concluídos. Depois junte os legumes e mexa usando uma espátula. Bom apetite!</string>
+
+
+    <string name="namemeal6_4">Milho Grelhado Mexicano</string>
+    <string name="ingredientMeal6_4">4 maçarocas de milho  \n\n1,5 nata ácida  \n\n1 chávena de parmesão ralado  \n\nsumo de 1 lima \n\nmalagueta em pó \n\n2 lima cortadas em gomos, para decorar</string>
+    <string name="stepsMakeMeal6_4">Grelhe o milho numa grelha bem quente até começar a ficar ligeiramente esturricado. Numa taça pequena misture a maionese, a nata ácida e coentros. Junte o milho, o sumo de lima e tempere com o parmesão. Polvilhe com a malagueta em pó. Bom apetite!</string>
+
+
+    <string name="namemeal6_5">Hambúrguer de Salmão com Abacate</string>
+    <string name="ingredientMeal6_5">450 g filetes de salmão \n\n1 chávena de pão ralado \n\n1 ovo \n\n1 colher de sopa de sumo de limão  \n\nsal e pimenta  \n\nazeite  \n\n1 abacate grande picado  \n\n&#8531; chávena de cebola vermelha picada  \n\n1 sumo de lima</string>
+    <string name="stepsMakeMeal6_5">Corte os filetes de salmão em pedaços pequenos e transfira&#8211;os para uma tigela. Misture suavemente o resto dos ingredientes. Deixe a mistura repousar durante 5&#8211;10 minutos. Aqueça um pouco de óleo numa sertã grande em lume médio. Forme hambúrgueres com a mistura do salmão. Frite&#8211;os até alourar dos dois lados, cerca de 4 minutos de cada lado. Bom apetite!</string>
+
+
+    <string name="namemeal7_1">Papa de Aveia com Banana, Noz e Morango</string>
+    <string name="ingredientMeal7_1">150 g de flocos de aveia (cozidos) \n\n&#189; banana amassada  \n\n50 g morangos  \n\n2 colheres de sopa de leite de amêndoa  \n\n1 colher de sopa de extrato de baunilha  \n\n2 colheres de sopa de noz picada \n\npacote de stevia da marca \"In The Raw\"  \n\nraspa de limão  \n\n1 colher de sopa de iogurte Grego (2% de gordura) \n\n&#189; colheres de sopa de noz picada  \n\nsementes de papoila</string>
+    <string name="stepsMakeMeal7_1">Coza os flocos de aveia conforme as instruções e reserve. Adicione todos os ingredientes numa taça exceto os morangos e misture bem. Cubra a papa de aveia com os morangos acabados de cortar. Acompanhe com iogurte Grego, nozes picadas e sementes de papoila. Bom apetite!</string>
+
+
+    <string name="namemeal7_2">Morango e Banana</string>
+    <string name="ingredientMeal7_2">2 chávenas de morangos  \n\n1 banana acabada de descascar \n\n1 chávena de leite \n\n1 cubo de gelo  \n\n1 colher de sopa de mel</string>
+    <string name="stepsMakeMeal7_2">Junte todos os ingredientes no liquidificador e passe até ficar homogéneo. Se o smoothie ficar demasiado espesso, adicione mais leite. Se ficar muito líquido, adicione mais fruta e/ou gelo. Bom apetite!</string>
+
+
+    <string name="namemeal7_3">Frango Kung Pao Leve e Picante</string>
+    <string name="ingredientMeal7_3">150 g peitos de frango \n\n1/6 dentes de alho   \n\n33 g ervilha torta \n\n150 g pimento  \n\n2/3 colheres de sopa de água  \n\n&#8531; colheres de sopa de molho de tomate  \n\n1/6 colheres de sopa de gengibre fresco  \n\n1/6 colheres de sopa de molho de malagueta  \n\n1/6 colheres de sopa de vinagre de arroz  \n\ncebola verde picada</string>
+    <string name="stepsMakeMeal7_3">Numa taça, junte os ingredientes do molho e mexa. Coloque uma frigideira em lume médio com azeite. Quando a frigideira estiver quente, coloque o alho a alourar durante 2 minutos. Cozinhe o frango até o lado de fora estar dourado, cerca de 6 a 8 minutos. Junte os pimentos e salteie durante 3 minutos. Junte lentamente o molho e mexa com frequência. Bom apetite!</string>
+
+
+    <string name="namemeal7_4">Chá de Menta e Lavanda</string>
+    <string name="ingredientMeal7_4">&#188; chávena de pétalas de lavanda fresca  \n\n1 chávena de folhas de menta fresca \n\n4 chávenas de água</string>
+    <string name="stepsMakeMeal7_4">Coloque as pétalas de lavanda e as folhas de menta num tacho com água e leve a ferver. Baixe o lume e deixe apurar o chá até o sabor ter a intensidade pretendida, 15 a 20 minutos. Bom proveito!</string>
+
+
+    <string name="namemeal7_5">Peixe em Cartucho de Folha de Alumínio com Espinafre e Tomate</string>
+    <string name="ingredientMeal7_5">1 molho de espargos  \n\n2 tomates cortados  \n\n2 filetes de tilápia \n\nazeite  \n\n&#189; colher de chá de molho chili com alho  \n\nsal \n\n1 limão fatiado</string>
+    <string name="stepsMakeMeal7_5">Pré&#8211;aqueça o forno a 190ºC. Numa taça pequena, junte azeite, molho de chili e sal. Coloque os turiões dos espargos no centro de uma folha de alumínio e cubra&#8211;os com as fatias de tomate, depois tempere&#8211;as. Coloque um filete de peixe por cima dos tomates em cada cartucho e pincele os peixes com a mistura do azeite. Distribua os gomos de limão sobre o peixe. Asse o peixe no forno durante 25&#8211;30 minutos. Bom apetite!</string>
+    <string name="cat_name13">Plano de Nutrição de Peso</string>
+    <string name="focus_13">Plano 7 dias de alimentação pura</string>
+    <string name="goal_13">Aceleração de metabolismo para perda de peso.</string>
+    <string name="extraDescription13">Fique na melhor forma de sempre! Saiba o que comer, descubra alimentos que queimam gordura e faça refeições saborosas para acelerar o seu metabolismo.</string>
+    <string name="meal">Refeição %1$d</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="steps">Passos</string>
+    <string name="titleDay1">Receitas saudáveis que são espetaculares de preparar e experimentar</string>
+    <string name="descriptionDay1">Para manter o seu metabolismo a funcionar bem, deve comer a sua primeira refeição no espaço de 1 hora depois de se levantar.</string>
+    <string name="titleDay2">Uma boa nutrição é o alicerce de uma boa saúde</string>
+    <string name="descriptionDay2">A solução é comer no espaço de 1 hora depois de acordar para acionar o seu metabolismo.</string>
+    <string name="titleDay3">Planeie antecipadamente o seu pequeno-almoço</string>
+    <string name="descriptionDay3">Para uma maior velocidade de queima de gordura, o pequeno-almoço é importantíssimo para o sucesso da sua perda de peso.</string>
+    <string name="titleDay4">Os hidratos de carbono fornecem energia ao corpo</string>
+    <string name="descriptionDay4">Estudos revelam que 5 refeições por dia são importantes para manter um peso corporal saudável.</string>
+    <string name="titleDay5">A proteína é essencial para o crescimento e desenvolvimento</string>
+    <string name="descriptionDay5">A nutrição desempenha um papel crucial na manutenção de um estilo de vida saudável.</string>
+    <string name="titleDay6">Somos o que comemos</string>
+    <string name="descriptionDay6">É literalmente verdade, se quiser que o seu corpo tenha um desempenho de alto nível.</string>
+    <string name="titleDay7">Para controlar o tamanho das porções, use pratos mais pequenos</string>
+    <string name="descriptionDay7">Elimine o ato emocional de comer curando o seu coração faminto.</string>
+    <string name="days_plan">Plano de %1$d dias</string>
+    <string name="extra">Extra</string>
+    <string name="exercise">EXERCÍCIO</string>
+
+    <string name="timer">"Cronômetro "</string>
+    <string name="ex_cat_88">todos</string>
+    <string name="muscle">Músculo</string>
+
+    <string name="congrulation">Parabéns !</string>
+    <string name="thnak_you">Obrigado!</string>
+    <string name="after_update">Você tem 50 novos exercícios, 7 novos planos de treino, 1 planos de nutrição e sem anúncios.</string>
+    <string name="first_restore">Você tem a versão premium. Foram adicionados 7 planos de treino e 1 planos de nutrição para você.</string>
+    <string name="upgrade_new">ATUALIZAR</string>
+    <string name="description_upgrade">Desbloqueie todos os novos planos concebidos pelos melhores treinadores. Alcance os seus objetivos mais facilmente.</string>
+    <string name="no_ads">SEM PUBLICIDADE</string>
+    <string name="no_ads_description">REMOVE ADS. APRECIE SUAS SESSÕES DE WORKOUT SEM ADS</string>
+    <string name="noty_sound">Som de notificações</string>
+    <string name="noty_sound_description">Escolha o seu tom especial para notificação para não perder nada</string>
+    <string name="new_workouts">NOVOS TRABALHOS</string>
+    <string name="new_workouts_desription">7 NOVOS PLANOS DE TRABALHO PERSONALIZADOS PARA CADA GRUPO MÚSCULO E OBJETIVO DE FITNESS PARA FOCO EM RESULTADOS MÁXIMOS.</string>
+    <string name="upgrade_header">Atualize para desbloquear novos 50 exercícios, 10 planos de treino, 2 planos de nutrição e remover anúncios.</string>
+    <string name="sound">Som</string>
+    <string name="buy">Comprar</string>
+
+    <string name="get_lifetime_access">OBTENHA ACESSO VITALÍCIO</string>
+    <string name="get_workouts_courses_with_powerful_support">Receba treinos 100% prontos com um suporte eficaz!</string>
+    <string name="try_it_now">Experimente Já</string>
+    <string name="new_workoutsN">Novos \nexercícios</string>
+    <string name="monthly_slim">Por mês</string>
+    <string name="only_now">Só agora</string>
+    <string name="start_your_positive_transformation_today">Comece hoje mesmo\na sua transformação positiva!</string>
+    <string name="one_time_payment">pagamento único</string>
+    <string name="_7_day_nfree_trial">"7dias \n de Avaliação Gratuita "</string>
+    <string name="_3_day_nfree_trial">3 dias \ nde Avaliação Gratuita</string>
+    <string name="_3_days_for_free">7 dias GRATUITAMENTE</string>
+    <string name="month">/mês</string>
+    <string name="year">/ano</string>
+    <string name="after">após</string>
+    <string name="nutritionPlanName2">PERDA DE PESO</string>
+    <string name="nutritionPlanName1">PARA GANHAR MÚSCULO</string>
+    <string name="nutrition_plans">Planos nutricionais</string>
+    <string name="title_11">Exercícios</string>
+</resources>

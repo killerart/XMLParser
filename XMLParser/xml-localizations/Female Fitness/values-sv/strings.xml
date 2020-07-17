@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kvinno Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">Övningar</string>
+    <string name="title_2">Träningspass</string>
+    <string name="title_3">Anpassad</string>
+    <string name="title_4">Historik</string>
+    <string name="title_5">Mer</string>
+    <string name="done">Klar</string>
+    <string name="back">Tillbaka</string>
+    <string name="titles">Titel:  </string>
+    <string name="downl_vid">Laddar ner videoklipp</string>
+    <string name="please_wait">Vänligen vänta...</string>
+    <string name="cancel">Avbryt</string>
+    <string name="edit">Redigera</string>
+    <string name="work">Mitt träningspass</string>
+    <string name="create_plus">För att skapa nytt träningspass, tryck +</string>
+    <string name="save">Spara</string>
+    <string name="workout_name">Namn på träningspass:</string>
+    <string name="days_title">Antal dagar:</string>
+    <string name="delete">Ta bort</string>
+    <string name="work_title">Titel på träningspass:</string>
+    <string name="options">Alternativ:</string>
+    <string name="camera">Kamera/Galleri</string>
+    <string name="ex_phot_title">Övningsfoton</string>
+    <string name="name_desc">Namn, beskrivning</string>
+    <string name="ex_name">Namn på övning:</string>
+    <string name="desc">Beskrivning:</string>
+
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+
+    <string name="blanck">Vänligen fyll i hela textfältet!</string>
+    <string name="okey">Ok</string>
+    <string name="realy_cancel">Vill du verkligen avbryta nedladdningsprocessen? Alla framsteg kommer att gå förlorade !</string>
+    <string name="download_all">Ladda ner alla videoklipp</string>
+    <string name="unzip">Packar upp filer</string>
+    <string name="files">Filer</string>
+    <string name="dow_video">Laddar ner videoklipp</string>
+    <string name="video_saved">Alla videoklipp sparades!</string>
+    <string name="conn">Vänligen kolla din Wifi internet eller cellulära internet anslutning!</string>
+
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+
+    <string name="start">Start</string>
+    <string name="weight">Vikt (kg)</string>
+    <string name="repetitions">Repetitioner</string>
+    <string name="set_s">Set sekunder</string>
+    <string name="wei">Vikt</string>
+    <string name="rep">Repetitioner</string>
+    <string name="wei_rep">Prestation</string>
+    <string name="no_history">Inga övningar har gjorts ännu</string>
+    <string name="last_val">Senaste värden</string>
+    <string name="send_f">Skicka feedback</string>
+    <string name="rep_bug">Rapportera ett fel</string>
+    <string name="tel_fr">Tipsa en vän</string>
+    <string name="rate_us">Ge vitsord</string>
+    <string name="ad">Lägg till</string>
+
+    <string name="exit"> Är du säker ?</string>
+    <string name="sdcard">Inget SD-kort!!</string>
+    <string name="post_to">Posta på väggen</string>
+    <string name="not_loged">Inte inloggad</string>
+    <string name="log_fail">Inloggning misslyckades</string>
+    <string name="posting">Postar </string>
+    <string name="posting_succes">Postat</string>
+    <string name="email_sent">E-mail skickat</string>
+    <string name="email_notsent">E-mail inte skickat</string>
+
+
+    <string name="reps1">3 set och 12/12/12 reps</string>
+    <string name="reps2">3 set och 15/15/15 reps</string>
+    <string name="reps3">3 set och 20/20/20 reps</string>
+    <string name="reps4">3 set och 30/30/30 reps</string>
+
+
+    <string name="app_name_fast">Fitness &amp; Bodybuilding</string>
+    <string name="wk1">Din kropps överskott av fett tenderar att lägga sig på midjan, armarna och brösten, medan väldigt lite kroppsfet lagras i underkroppen. Kom i form snabbt med intensiva kombinationsövningar för överkroppen.</string>
+    <string name="wk2">Du är rak som en pinne och har väldigt få kurvor. Få en tydligare midja och skulptera rumpan med den här träningsplanen för bananformade kroppar.</string>
+    <string name="wk3">Din byst och dina höfter är större jämfört med din midja. Tona hela kroppens muskler och få form på armarna och benen med den här kurvälskande övningen.</string>
+    <string name="wk4">Du har breda axlar och smala höfter. Stärk torson och gör rumpan och låren fastare med den här övningen, speciellt utformad för omvända trianglar.</string>
+    <string name="wk5">Din underkropp är något bredare än överkroppen. Tona armarna och axlarna och få en tightare kropp överlag med den här päronvänliga övningen.</string>
+    <string name="dialog_future">Du kan inte mata in data för framtida datum!</string>
+    <string name="info">Välj din nuvarande kroppsform.</string>
+
+    <string name="ex_guide_1">Äpple</string>
+    <string name="ex_guide_2">Banan</string>
+    <string name="ex_guide_3">Timglas</string>
+    <string name="ex_guide_4">Omvänd triangel</string>
+    <string name="ex_guide_5">Päron</string>
+    <string name="ex_name_1">Sneda crunches med balansboll</string>
+    <string name="ex_desc_1">Förberedelse: Sitt på balansbollen. Gå framåt på bollen och lägg dig på rygg på den, med axlarna och huvudet i luften och knäna och höfterna böjda. Sträck försiktigt ut ryggen så långt du kan längs med bollens kontur. Håll viktplattan bakom nacken eller på bröstet med båda händerna, eller använd ingen vikt alls. Spänn midjan för att lyfta överkroppen. Återgå till startläget. Upprepa.</string>
+    <string name="ex_name_2">Pikplanka med balansboll</string>
+    <string name="ex_desc_2">Placera en balansboll nära dig och ligg på golvet framför den, med händerna axelbrett isär på golvet i en armhävningsställning. Placera sedan nedre delen av smalbenen på balansbollen. Tips: Just nu borde dina ben vara helt utsträckta, med smalbenen ovanpå bollen. Överkroppen ska vara i en armhävningsliknande ställning och stödjas av dina två utsträckta armar framför dig. Detta kommer att vara din startposition: - Samtidigt som du håller ryggen helt rakt och överkroppen stilla, lyft rumpan mot taket och spänn magmusklerna hårt för att minska avståndet mellan bröstkorgen och höfterna. Slutresultatet kommer att vara att du hamnar i en hög brygga. - Andas ut medan du utför den här delen av rörelsen. - Sänk långsamt ryggen till startläget samtidigt som du andas in. Tips: Låt inte ryggen hänga ned. Upprepa övningen det rekommenderade antalet gånger.</string>
+    <string name="ex_name_3">Nå tårna</string>
+    <string name="ex_desc_3">Börja med att ligga ned på golvet eller på en träningsmatta med ryggen pressad mot golvet. Armarna ska ligga längs sidorna med handflatorna nedåt. Benen ska röra vid varandra. Lyft långsamt upp benen i luften tills de nästan ligger i rät vinkel mot golvet och är böjda i 90 grader vid knäna. Medan ländryggen ligger pressad mot golvet, lyft långsamt överkroppen och använd händerna för att försöka nå tårna. Kom ihåg att andas ut medan du gör den här delen av övningen. Släpp långsamt ned överkroppen och armarna tillbaka till startläget samtidigt som du andas in. Kom ihåg att hålla armarna rakt ut mot tårna. Upprepa övningen det rekommenderade antalet gånger.</string>
+    <string name="ex_name_4">Vertikala benlyft</string>
+    <string name="ex_desc_4">Ligg på en träningsmatta med benen utsträckta och handflatorna liggandes nedåt bredvid dig. Detta kommer att vara din startposition: - Lyft långsamt överkroppen med ryggen pressad mot golvet. Kom ihåg att andas ut medan du gör den här delen av övningen. - Böj knäna och dra in låren mot naveln samtidigt som du andas ut. Fortsätt med rörelsen tills knäna är ungefär på bröstnivå. – Dra ihop magmusklerna medan du utför den här rörelsen och håll i en sekund i det högsta läget. Tips: När du utför rörelsen ska underbenen (vaderna) alltid vara parallella med golvet. - Återgå till startläget samtidigt som du andas in. Upprepa övningen det rekommenderade antalet gånger.</string>
+    <string name="ex_name_5">Planka och armhävning (dynamisk planka)</string>
+    <string name="ex_desc_5">Börja den här övningen med en hög planka, i det högsta läget i en armhävningsställning. Se till att händerna är precis under axlarna, att benen är raka och att torson är aktiv (position 1). Håll den här ställningen i 15 sekunder. Sjunk ned på underarmarna utan att falla på knä. Lägg en underarm i taget på mattan så att du hamnar i en låg planka. Med underarmarna parallella, håll den här ställningen i 15 sekunder (position 2). Återgå sedan till den höga plankställningen med båda armarna raka.</string>
+    <string name="ex_name_6">Bergsklättraren</string>
+    <string name="ex_desc_6">Lägg dig i armhävningsställning med armarna helt raka. Din kropp ska forma en rak linje från huvudet till fotknölarna [A]. Utan att ländryggens hållning förändras, lyft högerfoten från golvet och flytta långsamt det högra knät mot bröstet [B]. Återgå till startläget och upprepa med vänsterbenet. Växla fram och tillbaka under hela setet.</string>
+    <string name="ex_name_7">Liggande sidocrunch</string>
+    <string name="ex_desc_7">Ligg på din högra sida med vänsterhanden på sidan av huvudet och benen något lyfta, med det vänstra över det högra. Fortsätt därefter med att lyfta överkroppen uppåt och sedan ned igen genom att använda din högra armbåge för att hålla dig stabil. Pausa och återgå sedan till startläget.</string>
+    <string name="ex_name_8">V-sittande</string>
+    <string name="ex_desc_8">Ligg med ryggen mot golvet och armarna utsträckta över huvudet. Du behöver inte knäppa händerna för den här övningen. Lyft med en långsam, kontrollerad rörelse simultant dina armar och ben så att de möter varandra på mitten av torson.  Återgå till startläget med en långsam, kontrollerad rörelse. Håll hela tiden blicken fäst mot taket.</string>
+    <string name="ex_name_9">Bänkhopp</string>
+    <string name="ex_desc_9">Börja med en låda eller en bänk 30-60 cm framför dig. Stå med fötterna axelbrett isär. Detta kommer att vara din startposition: - Gör ett kort knäböj i förberedelse inför hoppet; sväng armarna bakom dig. - Studsa tillbaka ur den här ställningen genom att sträcka ut höfterna, knäna och vristerna för att hoppa så högt du kan. - Sväng armarna framåt och upp. - Hoppa över bänken och landa med knäna böjda, så att du tar emot stöten genom benen. - Vänd dig om och stå i motsatt riktning. Hoppa sedan tillbaka över bänken.</string>
+    <string name="ex_name_10">Sittande roddmaskin</string>
+    <string name="ex_desc_10">För den här övningen behöver du ha tillgång till en låg roddmaskin med en v-stång. Obs: V-stången kommer att göra det möjligt för dig att ha ett neutralt grepp, med handflatorna vända mot varandra. För att hamna i startpositionen, sätt dig ned på maskinen och placera fötterna på den främre plattan eller stången. Se till att knäna är något böjda och inte låsta. Luta dig framåt samtidigt som ryggen fortsätter att vara i en naturlig linje och ta tag i v-stångens handtag. Med armarna utsträckta, dra bakåt tills överkroppen är i en 90 graders vinkel från benen. Ryggen ska svanka lite och bröstet sticka ut. Du bör känna en skön sträckning i ryggen när du håller stången framför dig. Det här är övningens startposition: - Håll överkroppen stilla och dra tillbaka handtagen mot överkroppen samtidigt som du håller armarna nära den, tills du rör magen. - Andas ut medan du utför rörelsen. Vid det här laget bör du spänna ryggmusklerna hårt. - Håll sammandragningen i en sekund och gå långsamt tillbaka till startläget samtidigt som du andas in. Upprepa det rekommenderade antalet gånger. Varning: Undvik att gunga överkroppen fram och tillbaka, eftersom det kan orsaka skador i ländryggen.</string>
+    <string name="ex_name_11">Breda latsdrag</string>
+    <string name="ex_desc_11">Sätt dig vid en latsdragmaskin som har en bred stång fäst i vajern. Se till att justera maskinens knäkuddar så att de passar din längd. Dessa kuddar kommer att hindra din kropp från att lyftas upp av motståndet som finns i stången. Ta tag i stången med handflatorna vända framåt genom att använda det föreskrivna greppet. Notering gällande grepp: För ett brett grepp ska dina händer ha ett mellanrum på mer än en axelbredd. För ett mediumgrepp ska dina händer vara axelbrett isär, och för ett smalt grepp ska de ha ett mellanrum mindre än en axelbredd. När du har båda armarna utsträckta framför dig och håller i stången med ditt valda grepp, luta överkroppen bakåt cirka 30 grader samtidigt som du kröker ländryggen och skjuter ut bröstet. Detta är din startposition: - När du andas ut, dra ned stången tills den rör övre delen av bröstet genom att dra axlarna och överarmarna nedåt och bakåt. Tips: Koncentrera dig på att spänna ryggmusklerna när du når det helt sammandragna läget. - Överkroppen ska hållas stilla; endast armarna ska röra sig. - Underarmarna ska inte göra något arbete utöver att hålla i stången. Försök därför inte att dra ned stången genom att använda underarmarna. Efter en sekund i det sammandragna läget där du har dragit ihop skulderbladen ska du, när armarna är helt utsträckta och ryggen är helt stretchad, långsamt lyfta tillbaka stången till startläget. - Andas in under den här delen av rörelsen. Upprepa rörelsen det rekommenderade antalet gånger.</string>
+    <string name="ex_name_12">Hyperextensions (ryggsträckningar)</string>
+    <string name="ex_desc_12">Ligg med ansiktet mot golvet på en hyperextension-bänk och stoppa in vristerna ordentligt under fotkuddarna. Justera om möjligt den övre kudden så att låren ligger plant över den breda dynan och därmed ger dig tillräckligt med utrymme för att böja dig vid midjan utan någon begränsning. Med kroppen rak, korsa armarna framför dig eller bakom huvudet. Detta kommer att vara din startposition: Tips: Du kan även hålla en viktplatta framför dig eller under dina korsade armar för extra motstånd. - Börja med att långsamt luta dig framåt vid midjan så långt du kan samtidigt som du håller ryggen rak. - Andas in medan du utför rörelsen. - Fortsätt framåt tills du känner en skön sträckning i baksida lår och du inte längre kan fortsätta utan att kröka ryggen. Tips: Krök aldrig ryggen när du utför den här övningen. Kom också ihåg att vissa personer kan gå längre än andra. Det viktiga är att du går så långt som din kropp tillåter dig utan att kröka ryggen. - Lyft långsamt tillbaka överkroppen till startläget medan du andas in. Tips: Stå emot frestelsen att svanka ryggen så att den inte är rak längre. Gunga heller aldrig överkroppen, för att skydda den från skada. Upprepa övningen det rekommenderade antalet gånger.</string>
+    <string name="ex_name_13">Assisterad armhävning</string>
+    <string name="ex_desc_13">Kliv upp och ta tag i stången med ett brett överhandsgrepp. Kliv ned på assistanshävarmen eller -plattan. En del assisterade maskiner kräver att du står på knä på plattan. Om du inte använder en assisterad maskin måste du ha assistans av en träningspartner som drar upp dina fötter bakom benen, eller häva upp dig själv genom att ha benen på en bänk eller liknande. Rörelsefriheten minskar om greppet är för brett.</string>
+    <string name="ex_name_14">Framåtböjda hantellyft</string>
+    <string name="ex_desc_14">Med en hantel i varje hand (och handflatorna vända mot dig), böj lite på knäna och flytta överkroppen framåt genom att böja vid midjan. När du böjer dig, se till att hålla din rygg rak tills den nästan är parallell med golvet. Tips: Se till att hålla huvudet uppe. Vikterna ska hänga direkt framför dig när armarna hänger lodrätt mot golvet och mot överkroppen. Detta är din startposition: - Medan överkroppen hålls stilla, lyft upp hantlarna till sidorna (samtidigt som du andas ut) och håll armbågarna nära kroppen (utsätt inte underarmarna för någon ansträngning förutom att hålla i vikterna). - Högst upp i det sammandragna läget, spänn ryggmusklerna i en sekund. - Släpp långsamt ned vikterna igen till startläget samtidigt som du andas in. Upprepa övningen det rekommenderade antalet gånger. Varning: Den här övningen rekommenderas inte för personer med ryggproblem. Att träna i en roddmaskin är då bättre. Försäkra dig om att du står helt rätt och krök aldrig ryggen, eftersom detta kan främja ryggskador. Var försiktig med vilken vikt du använder; om du inte är säker, använd hellre för lite vikt än för mycket.</string>
+    <string name="ex_name_15">Stela marklyft</string>
+    <string name="ex_desc_15">Den här övningen bör av säkerhetsskäl utföras i en skivstångsställning. Börja med att lägga skivstången i en ställning som passar din längd bäst. När du har valt rätt höjd och lagt vikter på skivstången, ställ dig under den och placera baksidan av axlarna (en bit under nacken) under den. Håll i skivstången med båda armarna och lyft den från ställningen genom att trycka med benen och samtidigt räta ut överkroppen. Kliv bort från ställningen och ställ dig med benen axelbrett isär. Håll hela tiden huvudet uppe eftersom du kommer att förlora balansen om du tittar ned. Det hjälper dig även att hålla ryggen rak. Detta kommer att vara din startposition: - Stå stilla med benen och sänk överkroppen framåt genom att böja vid höfterna samtidigt som du andas in. - Sänk överkroppen tills den är parallell med golvet. - Börja lyfta skivstången medan du andas ut genom att lyfta upp överkroppen tillbaka till startläget. Upprepa övningen det rekommenderade antalet gånger. Varning: Det här är en övning man måste ta seriöst. Var försiktig med vilken vikt du använder; om du inte är säker, använd hellre för lite vikt än för mycket. Stela marklyft är en väldigt säker övning, men endast om den utförs korrekt.</string>
+    <string name="ex_name_16">Omvända flyes</string>
+    <string name="ex_desc_16">Börja med att ligga ned på en lutande bänk med bröstet och magen pressade mot lutningen. Ha en hantel i varje hand och handflatorna vända mot varandra (neutralt grepp). Sträck ut armarna framför dig så att de är vinkelräta mot bänkens vinkel. Benen ska vara stilla samtidigt som du trycker nedåt med tårnas trampdynor. Detta är startpositionen: - Håll hela tiden armbågarna något böjda och lyft vikterna ut och bort från varandra (till sidan) i en bågrörelse samtidigt som du andas ut. Tips: Försök att dra ihop skulderbladen för att få det bästa resultatet från den här övningen. - Armarna bör lyftas till de är parallella med golvet. - Känn sammandragningen och sänk långsamt tillbaka vikterna till startläget samtidigt som du andas in. Upprepa övningen det rekommenderade antalet gånger.</string>
+    <string name="ex_name_17">Enarmade hantellyft</string>
+    <string name="ex_desc_17">Välj en plan bänk och placera en hantel på varje sida om den. Placera högerbenet ovanpå ena änden av bänken, böj överkroppen framåt från midjan tills den är parallell med golvet, och placera högerhanden på andra änden av bänken för stöd. Använd vänsterhanden för att plocka upp hanteln från golvet och håll i den samtidigt som ländryggen hela tiden förblir rak. Handflatan ska vara vänd mot överkroppen. Detta kommer att vara din startposition: - Lyft hanteln rakt upp till sidan av bröstet samtidigt som överarmen hålls nära sidan och överkroppen hålls stilla. Andas ut medan du utför det här steget. Tips: Koncentrera dig på att spänna ryggmusklerna när du har nått det helt sammandragna läget. Se också till att övningen utförs med ryggmusklerna och inte med armarna. Slutligen ska överkroppen hållas stilla; endast armarna ska röra sig. Underarmarna ska inte göra något arbete utöver att hålla i hanteln. Försök därför inte att lyfta upp hanteln genom att använda underarmarna. – Sänk hanteln rakt ned till startläget. Andas in medan du utför det här steget. Upprepa rörelsen det specificerade antalet gånger. Byt sida och upprepa med den andra armen. Variationer: Enarmade lyft kan också utföras genom att använda en hög eller låg dragmaskin istället för en hantel.</string>
+    <string name="ex_name_18">Bicepcurls med hantlar</string>
+    <string name="ex_desc_18">Stå upprätt med en hantel i varje hand på en armlängds avstånd. Håll armbågarna nära överkroppen och rotera handflatorna tills de är vända framåt. Detta kommer att vara din startposition: - Nu ska du medan du håller överarmarna stilla andas ut och lyfta vikterna medan du drar samman dina biceps. - Fortsätt att höja vikterna tills bicepsen är helt sammandragna och hantlarna är på axelnivå. – Håll i det sammandragna läget en kort stund samtidigt som du spänner bicepsen. - Andas därefter in och börja långsamt sänka tillbaka hantlarna till startläget. Upprepa övningen det rekommenderade antalet gånger.</string>
+    <string name="ex_name_19">Skivstångscurl</string>
+    <string name="ex_desc_19">Stå rakt med kroppen medan du håller en skivstång i ett axelbrett grepp. Handflatorna ska vara vända framåt och armbågarna nära överkroppen. Detta kommer att vara din startposition: - Medan du håller överarmarna stilla, lyft skivstången framåt samtidigt som du drar samman dina biceps när du andas ut. Tips: Endast underarmarna ska röra sig. - Fortsätt rörelsen tills dina biceps är helt sammandragna och skivstången är på axelnivå. – Håll i det sammandragna läget en sekund och spänn bicepsen hårt. - Släpp långsamt ned skivstången till startläget samtidigt som du andas in. Upprepa det rekommenderade antalet gånger.</string>
+    <string name="ex_name_20">Sittande skivstångscurl</string>
+    <string name="ex_desc_20">Ta tag i en skivstång på ett axelbrett avstånd genom att använda ett underhandsgrepp (handflatorna vända framåt) och sitt längst ut på en plan bänk med skivstången på låren. Din rygg ska vara rak, huvudet vänt framåt och fötterna stadigt på golvet. Detta kommer att vara din startposition: - Samtidigt som du håller överarmarna stilla och nära kroppen, andas in och börja lyfta vikterna uppåt och framåt tills du når ett helt sammandraget läge. - Håll i en sekund, spänn bicepsen och släpp i en kontrollerad rörelse tillbaka vikten till startläget.</string>
+    <string name="ex_name_21">Skivstångscurls liggandes mot en lutning</string>
+    <string name="ex_desc_21">Ligg mot en lutande bänk med armarna hållandes i en skivstång och hängandes ned i en horisontell linje. Detta kommer att vara din startposition: - Medan överarmarna hela tiden är stilla, lyft upp vikten så högt du kan samtidigt som du spänner bicepsen. Andas ut medan du utför den här delen av rörelsen. Tips: Endast underarmarna ska röra sig. Sväng inte med armarna. - Efter en sekunds sammandragning, gå långsamt tillbaka till startläget samtidigt som du andas in. Tips: Se till att du går hela vägen ned. Upprepa övningen det rekommenderade antalet gånger. Variationer: Du kan också göra den här övningen med en EZ-stång eller en hantel.</string>
+    <string name="ex_name_22">Stående kabelcurl för biceps</string>
+    <string name="ex_desc_22">Stå upp med överkroppen rak och håll i en kabelcurlstång som sitter fast i en låg dragmaskin. Ta tag i kabelstången med ett axelbrett grepp och håll armbågarna nära överkroppen. Handflatorna ska vara vända uppåt (supinerat grepp). Detta kommer att vara din startposition: - Medan du håller överarmarna stilla, lyft stången samtidigt som du drar samman bicepsen och andas ut. Endast underarmarna ska röra sig. Fortsätt rörelsen tills dina biceps är helt sammandragna och stången är på axelnivå. Håll i det sammandragna läget en sekund samtidigt som du spänner muskeln. - Släpp långsamt ned curlstången till startläget samtidigt som du andas in. Upprepa det rekommenderade antalet gånger. Variation: Du kan även utföra den här rörelsen med en EZ-stång eller bara en kabel.</string>
+    <string name="ex_name_23">Fyrfota benlyft</string>
+    <string name="ex_desc_23">Sätt dig på knä på golvet eller på en träningsmatta och böj dig framåt vid midjan med armarna utsträckta framför dig (vinkelräta mot överkroppen) så att du hamnar i en armhävningsposition, men med armarna axelbrett isär. Ditt huvud ska vara vänt framåt och de knänas böjning ska skapa en vinkel på 90 graders mellan de bakre låren och vaderna. Detta kommer att vara din startposition: - När du andas ut, lyft upp högerbenet tills det bakre låret är i linje med ryggen, samtidigt som du håller kvar 90 graders vinkeln. - Dra samman sätesmuskeln under den här rörelsen och håll sammandragningen i det högsta läget en sekund. Tips: I slutet av den här rörelsen ska låret vara parallellt med golvet och vaden vinkelrät med det. - Återgå till startläget samtidigt som du andas in och upprepa med vänsterbenet. - Fortsätt att växla mellan benen tills alla rekommenderade repetitioner har utförts. Variationer: I den här övningen kan du utföra alla repetitioner först med ena benet och sedan det andra. Du kan också använda vristvikter om du vill.</string>
+    <string name="ex_name_24">Brygga med ett ben</string>
+    <string name="ex_desc_24">Ligg på golvet med fötterna på bänken och knäna böjda. Lyft upp ett ben och dra knät mot bröstet. Detta kommer att vara din startposition: - Utför rörelsen genom att pressa genom hälen, sträck höfterna uppåt och lyft rumpan från marken. - Sträck ut dig så långt du kan, pausa och återgå sedan till startläget.</string>
+    <string name="ex_name_25">Stela marklyft med ett ben</string>
+    <string name="ex_desc_25">Stå med fötterna ihop och händerna precis framför låren. Lyft ena benet lite så att foten är precis ovanför golvet. Sänk överkroppen framåt och nedåt samtidigt som du lyfter det lyfta benet bakom dig. Håll ryggen rak och det stödjande benets knä något böjt. Håll höfterna och det lyfta benets knä utsträckt genom hela rörelsen. När du känner sträckningen eller när händerna kommer i kontakt med golvet, återgå till startläget genom att lyfta överkroppen samtidigt som du sänker det lyfta benet. Räta ut det stödjande benets knä när överkroppen börjar bli rak. Upprepa.</string>
+    <string name="ex_name_26">Benlyft med kabel och ett ben</string>
+    <string name="ex_desc_26">Sätt fast ett vristband av läder på en låg kabelmaskin och sätt sedan på dig vristbandet. Stå vänd mot viktstapeln på ett avstånd på cirka 60 cm; håll fast i stålramen för stöd. Medan du håller knäna och höfterna något böjda och magmusklerna spända, dra samman sätesmuskeln för att långsamt sparka det arbetande benet i en halvcirkelbåge, så högt som du känner att du kan, samtidigt som du andas ut. Tips: När benet är helt utsträckt, spänn sätesmuskeln en sekund för att uppnå den högsta sammandragningen. Flytta långsamt det arbetande benet framåt och stå emot kabelns kraft tills du når startläget. Upprepa övningen det rekommenderade antalet gånger. Byt ben och upprepa rörelsen med den andra sidan. Variationer: Du kan utföra den här övningen med träningsband.</string>
+    <string name="ex_name_27">Lutande bänkpress i smithmaskin</string>
+    <string name="ex_desc_27">Placera en lutande bänk under smithmaskinen. Placera skivstången på en höjd som du kan nå när du ligger ned med armarna nästan helt utsträckta. När du har valt en vikt, lägg dig ned på den lutande bänken och se till att övre delen av bröstet är i rät linje med skivstången. Genom att använda ett pronerat grepp (handflatorna vända framåt) som är bredare än en axelbredd, lyft skivstången från ställningen och håll den rakt över dig med armarna låsta. Detta kommer att vara din startposition: - När du andas in, släpp långsamt ned skivstången tills du känner den på övre delen av bröstkorgen. - Efter en sekunds paus, lyft tillbaka skivstången till startläget samtidigt som du andas ut och pressar upp den genom att använda bröstmusklerna. Lås armarna i det sammandragna läget, håll i en sekund och börja sedan långsamt lyfta ned skivstången igen. Tips: Det bör ta åtminstone dubbelt så lång tid att gå ned som att komma upp. - Upprepa rörelsen det angivna antalet gånger. När du är klar, lägg tillbaka skivstången i ställningen. Varning: Om du inte är van vid att göra den här övningen rekommenderas det att du tar hjälp av en träningspartner, eftersom den kan vara ganska svår. Om du inte har någon träningspartner, var försiktig med antalet vikter du använder.</string>
+    <string name="ex_name_28">Smala armhävningar för triceps</string>
+    <string name="ex_desc_28">Ligg på golvet med ansiktet nedåt och placera händerna närmare ihop än en axelbredd, för att få en smal handposition. Se till att du håller överkroppen uppe med hela armarna. Sänk ned dig själv tills bröstet nästan når golvet, samtidigt som du andas in. Använd dina triceps och en del av bröstmusklerna, pressa upp överkroppen tillbaka till startläget och spänn bröstet. Andas ut medan du utför det här steget. Efter en sekunds paus i det sammandragna läget, upprepa rörelsen det angivna antalet gånger. Variationer: - Om den här övningen är ny för dig och du inte har styrkan att utföra den kan du antingen böja benen vid knäna för att minska motståndet eller utföra den mot en vägg istället för på golvet. - De mest avancerade lyftarna kan placera fötterna på en hög yta, som en bänk, för att öka motståndet.</string>
+    <string name="ex_name_29">Lutande hantellyft</string>
+    <string name="ex_desc_29">Lägg dig på en lutande bänk och ha händerna på låren med en hantel i varje hand. Handflatorna ska vara vända mot varandra. Med hjälp av låren som trycker upp hantlarna, lyft dem sedan en i taget så att du kan hålla dem på axelhöjd. När du har lyft hantlarna till axlarna, rotera handlederna framåt så att handflatorna är vända bort från dig. Detta kommer att vara din startposition: - Se till att hela tiden ha full kontroll över hantlarna. Andas sedan ut och tryck upp hantlarna med bröstet. - Lås armarna när de är som högst, håll i en sekund och sänk sedan långsamt ned vikten. Tips: I bästa fall ska sänkningen av vikterna ta ungefär dubbelt så lång tid som att lyfta dem. Upprepa rörelsen det rekommenderade antalet gånger. När du är klar, lägg tillbaka hantlarna på låren och sedan på golvet. Det är det säkraste sättet att släppa dem på.</string>
+    <string name="ex_name_30">Lutande hantelflyes</string>
+    <string name="ex_desc_30">Håll en hantel i varje hand och ligg på en lutande bänk som är inställd i en lutningsvinkel på inte mer än 30 grader. Sträck ut armarna ovanför dig. De ska vara något böjda vid armbågarna. Rotera nu handlederna så att handflatorna är vända mot dig. Tips: Lillfingrarna ska vara bredvid varandra. Detta kommer att vara din startposition: - När du andas in, börja långsamt sänka armarna till sidorna samtidigt som du håller dem utsträckta och roterar handlederna tills handflatorna är vända mot varandra. Tips: I slutet av rörelsen ska armarna vara vid din sida med handflatorna vända mot taket. - Samtidigt som du andas ut, börja lyfta hantlarna tillbaka upp till startläget genom att vända rörelsen och rotera händerna så att lillfingrarna är bredvid varandra igen. Tips: Kom ihåg att rörelsen bara ska ske vid axelleden och handleden. Ingen rörelse ska ske vid armbågsleden. Upprepa övningen det rekommenderade antalet gånger.</string>
+    <string name="ex_name_31">Lutande bröstpress med hantlar och balansboll</string>
+    <string name="ex_desc_31">Lägg dig på rygg på en balansboll så att överkroppen är i 45 graders vinkel mot golvet. Håll hantlarna rakt ovanför hakan med armarna raka. Håll torson spänd och fötterna platta på golvet.</string>
+    <string name="ex_name_32">Bänkpress med skivstång</string>
+    <string name="ex_desc_32">Ligg bakåtlutad på en plan bänk. Använd ett mellanbrett grepp (ett grep som skapar en 90 graders vinkel mellan underarmarna och överarmarna mitt i rörelsen) och lyft sedan skivstången från ställningen och håll den rakt över dig med armarna låsta. Detta kommer att vara din startposition: - Från startpositionen, andas in och börja långsamt lyfta ned skivstången tills den rör mitten av bröstet. - Efter en kort paus, pressa tillbaka skivstången till startläget samtidigt som du andas ut. Fokusera på att pressa skivstången genom att använda bröstmusklerna. - Lås armarna och spänn bröstet i det sammandragna läget högst upp i rörelsen, håll i en sekund och börja sedan långsamt att sänka skivstången igen. Tips: I bästa fall ska sänkningen av vikten ta ungefär dubbelt så lång tid som att lyfta den. Upprepa rörelsen det rekommenderade antalet gånger. När du är klar, lägg tillbaka skivstången i ställningen. Varning: Om du inte är van vid den här övningen rekommenderas det att du tar hjälp av en träningspartner. Om du inte har någon träningspartner, var försiktig med antalet vikter du använder.</string>
+    <string name="ex_name_33">Rakarmad pullover med hantel</string>
+    <string name="ex_desc_33">Ställ en hantel på en plan bänk. Försäkra dig om att den står säkert på bänken och lägg dig därefter vinkelrätt mot bänken (torson över den, så att du formar ett kors) med endast axlarna liggandes på den. Höfterna ska vara nedanför bänken och benen böjda med fötterna stadigt på golvet. Huvudet ska också vara utanför bänken. Ta hanteln med båda händerna och håll den rakt över bröstet på en armlängds avstånd. Båda handflatorna ska vara pressade mot undersidan av hantelns sidor. Detta kommer att vara din startposition: Varning: Se alltid till att hanteln som används för den här övningen är säker. Att använda en hantel med lösa plattor kan resultera i att den faller isär och ramlar ned på ditt ansikte. - Medan du håller armarna raka, sänk långsamt vikten i en båge bakom huvudet samtidigt som du andas in tills du känner en sträckning i bröstet. – Du ska då börja ta tillbaka hanteln till startläget genom att använda bågen som hanteln sänktes genom. Andas ut medan du utför den här rörelsen. - Håll vikten i startläget en sekund och upprepa sedan rörelsen det angivna antalet gånger. Varning: Om du inte har gjort den här övningen tidigare, låt en träningspartner ge dig vikten istället. Om inte, se till att hanteln inte faller ned på dig när du placerar torson på bänken för att utföra övningen. Och, som jag redan sagt, försäkra dig om att hanteln du använder är i perfekt skick. Gamla hantlar i behov av svetsning ska absolut inte användas för den här övningen.</string>
+    <string name="ex_name_34">Knäböj i smithmaskin</string>
+    <string name="ex_desc_34">Börja med att lägga skivstången på en höjd som bäst passar din längd. När du har valt rätt höjd och lagt vikter på skivstången, ställ dig under den och placera baksidan av axlarna (en bit under nacken) under den. Håll i skivstången med båda armarna (handflatorna vända framåt) och lyft den från ställningen genom att trycka med benen och samtidigt räta ut överkroppen. Positionera benen axelbrett isär med tårna något pekandes utåt. Håll hela tiden huvudet uppe och se även till att ryggen alltid är rak. Detta kommer att vara din startposition: Obs: För den här diskussionens syften kommer vi att använda den medelhöga hållningen, som riktar in sig på övergripande utveckling; du kan dock välja vilken av de tre hållningarna du vill som diskuteras i delen om fothållning. - Börja långsamt att sänka skivstången genom att böja på knäna samtidigt som du hela tiden har en rak hållning med huvudet uppåt. Fortsätt nedåt tills vinkeln mellan låret och vaderna är något mindre än 90 grader (vilket är den punkt då låren har gått förbi att vara parallella med golvet). - Andas in medan du utför den här delen av rörelsen. Tips: Om du utförde övningen korrekt ska framsidan av knäna forma en tänkt rak linje med tårna som är vinkelräta framåt. Om knäna är utanför den här tänkta linjen (dvs. om de är utanför tårna) så placerar du onödig belastning på knät och övningen har utförts inkorrekt. - Börja lyfta skivstången samtidigt som du andas ut genom att pressa hälen mot golvet. Räta därefter ut benen igen och återgå till startläget. - Upprepa det rekommenderade antalet gånger.</string>
+    <string name="ex_name_35">Breda knäböj i smithmaskin</string>
+    <string name="ex_desc_35">Förbered inför de breda knäböjen genom att lägga skivstången på ungefär axelnivå och ladda vikten du vill använda i smithmaskinen. Stå under skivstången med benen brett isär och tårna pekandes något utåt. Ta tag i skivstången med ett brett grepp och positionera mitten av den på ryggmusklerna. Skivstången ska inte ligga på nacken! Håll ryggen rak, ögonen vända framåt och lyft vikten från ställningen: - Ta ett litet steg framåt. - Medan du håller ögonen vända framåt och ryggen rak, knäböj långsamt tills låren är parallella med golvet. - Pressa uppåt genom hälarna och lyft tillbaka skivstången till startläget. - Upprepa det önskade antalet gånger.</string>
+    <string name="ex_name_36">Utfall för ryggen i smithmaskin</string>
+    <string name="ex_desc_36">Med skivstången i övre brösthöjd, positionera den på baksidan av axlarna och fatta tag i den. Placera fötterna under stången. Räta ut benen så att vikten lyfts. Lossa stången genom att rotera den bakåt. Ta ett steg tillbaka med ena benet och böj det andra, stödjande benet. Placera framfoten långt tillbaka på golvet. Sänk kroppen genom att böja det stödjande benets knä och höft, tills det bakre benets knä nästan når golvet. Återgå till den ursprungliga stående positionen genom att sträcka ut höften och knät på det främre stödjande benet och flytta tillbaka det bakre benet bredvid det. Upprepa rörelsen med båda benen genom att växla sida.</string>
+    <string name="ex_name_37">Benpress</string>
+    <string name="ex_desc_37">Sitt ned på en benpressmaskin och placera benen på plattan direkt framför dig i en mellanhög (axelbredd) fotställning. Obs: För den här diskussionens syften kommer vi att använda den medelhöga hållningen som beskrivs ovan, som riktar in sig på övergripande utveckling; du kan dock välja vilken som helst av de tre hållningarna som diskuteras i delen om fothållning. Sänk säkerhetsstängerna som håller den nedtyngda plattan på plats och pressa den hela vägen upp tills dina ben är helt utsträckta framför dig. Tips: Se till att du inte låser knäna. Torson och benen ska forma en perfekt 90 graders vinkel. Detta kommer att vara din startposition: - Samtidigt som du andas in, sänk långsamt plattan tills låren och underbenen formar en 90 graders vinkel. - Tryck huvudsakligen med hälarna och använd lårmusklerna för att gå tillbaka till startläget samtidigt som du andas ut. Upprepa det rekommenderade antalet gånger och se till att låsa maskinen ordentligt när du är klar. Du vill inte att plattan ska ramla ned på dig när den är helt laddad. Varning: Se alltid till att plattan är ordentligt låst när du tar bort eller lägger till vikter på den.</string>
+    <string name="ex_name_38">Hacksquat</string>
+    <string name="ex_desc_38">Placera baksidan av kroppen mot maskinens ryggkudde och sätt axlarna under axelkuddarna som finns på maskinen. Positionera benen axelbrett isär på plattan, i en mellanhög hållning med tårna något pekandes utåt. Tips: Håll hela tiden huvudet uppe och ha alltid ryggen på kudden. Placera armarna på maskinens sidohandtag och lossa säkerhetsstängerna (vilket på de flesta modeller görs genom att flytta sidohandtagen från ett läge där de är vända framåt till ett diagonalt läge). Räta nu ut benen utan att låsa knäna. Detta kommer att vara din startposition: Obs: För den här diskussionens syften kommer vi att använda den medelhöga hållningen som beskrivs ovan, som riktar in sig på övergripande utveckling; du kan dock vilken som helst av de tre hållningarna som diskuteras i delen om fothållning. - Börja långsamt att sänka enheten genom att böja på knäna samtidigt som du hela tiden har en rak hållning med huvudet uppåt (och ryggen på kudden). Fortsätt nedåt tills vinkeln mellan låret och vaderna är något mindre än 90 grader (vilket är den punkt då låren har gått förbi att vara parallella med golvet). - Andas in medan du utför den här delen av rörelsen. Tips: Om du utförde övningen korrekt ska framsidan av knäna forma en tänkt rak linje med tårna som är vinkelräta framåt. Om knäna är utanför den här tänkta linjen (dvs. om de är utanför tårna) så placerar du onödig belastning på knät och övningen har utförts inkorrekt. - Börja lyfta enheten samtidigt som du andas ut genom att trycka huvudsakligen hälen mot golvet. Räta därefter ut benen igen och återgå till startläget. Upprepa övningen det rekommenderade antalet gånger.</string>
+    <string name="ex_name_39">Sittande bencurl</string>
+    <string name="ex_desc_39">Justera hävstången så att den passar din längd och sitt på maskinen med ryggen mot den stödjande ryggkudden. Placera baksidan av underbenet ovanpå den vadderade hävstången (bara ett par centimeter under vaderna) och fäst knäkudden mot låren, precis ovanför knäna. Ta sedan tag i sidohandtagen på maskinen samtidigt som du pekar tårna rakt ut (du kan även använda någon av de andra två hållningarna) och se till att benen är helt raka framför dig. Detta kommer att vara din startposition: - När du andas ut, dra hävstången så långt som möjligt till baksidan av låren genom att böja vid knäna. - Håll resten av kroppen stilla hela tiden. Var kvar i det sammandragna läget en sekund. - Återgå långsamt till startläget samtidigt som du andas in. Upprepa det rekommenderade antalet gånger. Varning: Använd aldrig så mycket vikt att du börjar gunga och rycka, eftersom du då kan riskera både ländryggsskada och sträckning i baksida lår.</string>
+    <string name="ex_name_40">Benspark</string>
+    <string name="ex_desc_40">För den här övningen behöver du använda en bensparksmaskin. Välj först din vikt och sitt på maskinen med benen under kudden (fötterna pekandes utåt) och händerna hållandes i sidohandtagen. Detta kommer att vara din startposition: Tips: Du måste justera kudden så att den lägger sig ovanpå underbenet (precis ovanför fötterna). Se också till att benen formar en 90 graders vinkel mellan underbenen och låren. Om vinkeln är mindre än 90 grader betyder det att knät är över tårna, vilket i sin tur lägger onödig belastning på knäleden. Om maskinen är utformad på det sättet, försök antingen att hitta en ny maskin eller se helt enkelt till att sluta gå ned när nu når 90 graders vinkeln. - Genom att använda lårmusklerna, sträck ut benen så långt du kan medan du andas ut. Se till att resten av kroppen förblir stilla på sätet. - Pausa en sekund i det sammandragna läget. - Släpp långsamt tillbaka vikten ned till startläget samtidigt som du andas in. Se till att du inte går förbi 90 graders vinkeln. Upprepa det rekommenderade antalet gånger.</string>
+    <string name="ex_name_41">Knäböj i plié</string>
+    <string name="ex_desc_41">Håll några vikter vid basen med båda händerna och stå upprätt. Flytta benen så att de är bredare än en axelbredd isär, med knäna något böjda. Tårna ska peka utåt. Detta är din startposition: Obs: Armarna ska vara stilla medan du utför den här övningen. - Böj långsamt på knäna och sänk benen tills låren är parallella med golvet. Se till att andas in – det är en viktig del av övningen. - Tryck huvudsakligen med hälen för att ta tillbaka kroppen till startläget samtidigt som du andas ut. Upprepa övningen det rekommenderade antalet gånger. Varning: Om du inte håller ryggen rak kan du få ryggskador.</string>
+    <string name="ex_name_42">Sumoknäböj till sidocrunches</string>
+    <string name="ex_desc_42">Stå upprätt med fötterna något mer isär än en höftbredd, med tårna och knäna vända utåt i en 45 graders vinkel och händerna bakom huvudet. Böj på knäna och sjunk ned i ett sumoknäböj (släpp ned höfterna så långt du kan utan att knäna böjs framåt eller bakåt). När du trycker tillbaka dig själv upp till en stående position, lyft upp högerknät mot din högra armbåge. Sätt ned högerfoten och upprepa direkt sumoknäböjet och crunchen till vänster. Upprepa och växla sida varje gång.</string>
+    <string name="ex_name_43">Knäböj i sidled</string>
+    <string name="ex_desc_43">Börja med att stå med fötterna ihop. Gör ett halvt knäböj och ta ett sidosteg åt höger, så långt du klarar av. Flytta högerbenet åt vänster och återgå till startläget. Ta steg åt olika sidor varje gång.</string>
+    <string name="ex_name_44">Gående utfall med vikter</string>
+    <string name="ex_desc_44">Börja med att stå med fötterna axelbrett isär och händerna raka över huvudet hållandes i vikter. Ta ett steg framåt med ena benet och böj på knäna för att släppa ned höfterna. Sjunk ned tills det bakre knät nästan rör marken. Din hållning ska hela tiden vara upprätt och det främre knät ska vara över den främre foten. Pressa genom den ledande fotens häl och sträck ut båda knäna för att resa dig upp igen. Ta ett steg framåt med den bakre foten för att upprepa utfallet med det andra benet.</string>
+    <string name="ex_name_45">Utfall bakåt med handlar och ett knä upp</string>
+    <string name="ex_desc_45">Stå med torson upprätt och håll en hantel i varje hand vid sidorna. Detta kommer att vara din startposition: - Ta ett steg bakåt med högerbenet, ungefär 60 cm från vänsterfoten, och sänk överkroppen samtidigt som du håller torson rak och i balans. Andas in medan du går ned. Tips: Liksom i de andra övningarna ska du inte låta knät hamna utanför tårna när du går ned, eftersom det lägger onödig belastning på knäleden. Se till att det främre skenbenet hålls vinkelrätt med golvet. Håll överkroppen rak under utfallet; flexibel höftmuskulatur är viktigt. Ett långt utfall lägger tonvikten på stora sätesmuskeln, medan ett kort utfall framför allt tränar lårmuskeln. - Pressa upp dig själv tillbaka till startläget. Medan du andas ut, lyft högerknät samtidigt som du håller ryggen rak. Tips: Pressa med fotsulorna för att betona lårmusklerna. För att fokusera på sätesmuskeln, pressa med hälarna. Upprepa därefter med det andra benet.</string>
+    <string name="ex_name_46">Korsande utfall med skivstång</string>
+    <string name="ex_desc_46">Börja med att lägga skivstången i en ställning precis under axelhöjd. När du har valt rätt höjd och lagt vikter på stången, ställ dig under den och placera baksidan av axlarna (en bit under nacken) under den. Håll i skivstången med båda armarna och lyft den från ställningen genom att tycka med benen och samtidigt räta ut överkroppen. Gå bort från ställningen och ta ett kliv bakåt och till vänster med högerfoten. Sjunk ned i ett knäböj så att vänsterknät är böjt i ungefär 90 grader, samtidigt som du håller överkroppen rak och i balans. Andas in medan du går ned. Obs: Låt inte knät hamna utanför tårna när du går ned, eftersom det lägger onödig belastning på knäleden. Genom att huvudsakligen använda hälen, pressa uppåt och gå tillbaka till startläget samtidigt som du andas ut. Upprepa övningen det rekommenderade antalet gånger och utför den sedan med vänsterbenet.</string>
+    <string name="ex_name_47">Sidoliggande benlyft</string>
+    <string name="ex_desc_47">Ligg på sidan med benen på varandra och huvudet vilandes på armen. Spänn främre lårmuskeln och lyft upp ena benet i luften. Håll i en sekund, sänk benet så att det rör det andra undre benet och lyft sedan igen. Du kan även använda vristvikter eller ett träningsband.</string>
+    <string name="ex_name_48">Step-up med höjda knän</string>
+    <string name="ex_desc_48">Stå vänd mot en lagom hög bänk med fötterna ihop. Detta kommer att vara din startposition: - Börja rörelsen genom att sätta vänsterfoten ovanpå bänken. - Sträck ut dig genom det främre benets höft och knä för att stå upp på bänken. - När du står på bänken med vänsterbenet, böj det högra knät och den högra höften för att lyfta knät så högt du kan. Vänd på rörelsen för att kliva ned från bänken och upprepa den sedan med det andra benet.</string>
+    <string name="ex_name_49">Knäböj med hantlar</string>
+    <string name="ex_desc_49">Stå upprätt och håll en hantel i varje hand (med hanflatorna vända mot benens sidor). Positionera benen axelbrett isär med tårna något pekandes utåt. Håll hela tiden huvudet uppe eftersom du kommer att förlora balansen om du tittar ned. Det hjälper dig även att hålla ryggen rak. Detta kommer att vara din startposition: - Börja med att långsamt sänka torson genom att böja på knäna samtidigt som du hela tiden har en rak hållning med huvudet uppåt. Fortsätt ned tills då når 90 grader. - Andas in medan du utför den här delen av rörelsen. Tips: Om du utförde övningen korrekt bör framsidan av knäna forma en tänkt rak linje med tårna som är vinkelräta framåt. Om knäna är utanför den här tänkta linjen (dvs. om de är utanför tårna) så placerar du onödig belastning på knät och övningen har utförts inkorrekt. - Börja lyfta hanteln samtidigt som du andas ut genom att pressa hälen mot golvet, framför allt medan du rätar ut benen igen. Återgå sedan till startläget. Upprepa övningen det rekommenderade antalet gånger.</string>
+    <string name="ex_name_50">Stela marklyft med skivstång</string>
+    <string name="ex_desc_50">Ta tag i en skivstång med ett överhandsgrepp (handflatorna vända nedåt). Du kan behöva handledslindor om du använder en väldigt tung vikt. Stå med torson rak och benen axelbrett eller något mindre isär. Knäna ska vara lite böjda. Detta är din startposition: - Medan du håller knäna stilla, sänk skivstången till ovanför fötterna genom att böja vid höfterna samtidigt som du håller ryggen rak. - Fortsätt framåt, som om du skulle plocka upp något från golvet, tills du känner en sträckning i bakre låren. Andas in medan du utför rörelsen. - Börja lyfta upp överkroppen igen genom att sträcka ut höfterna tills du är tillbaka i startläget. Andas ut medan du utför rörelsen. Upprepa övningen det rekommenderade antalet gånger. Varning: Den här övningen rekommenderas inte för personer med ländryggsbesvär. Man måste behandla den med största respekt och verkligen se till att inte kröka ryggen framåt när man sänker överkroppen; ryggen måste alltid vara rak. Slutligen kan ryckiga rörelser eller att använda för mycket vikt skada ryggen.</string>
+    <string name="ex_name_51">Stela sumomarklyft</string>
+    <string name="ex_desc_51">Börja med en skiva i händerna. Fötterna ska vara väldigt brett isär, nära nyckelbenen. Ta ett andetag och sänk därefter höfterna. Titta framåt med huvudet och skjut ut bröstet. Medan du håller knäna stilla, sänk skivstången till ovanför fötterna genom att böja vid höfterna samtidigt som du håller ryggen rak. Fortsätt framåt, som om du skulle plocka upp något från golvet, tills du känner en sträckning i bakre låren. Andas in medan du utför rörelsen. Börja lyfta upp överkroppen igen genom att sträcka ut höfterna tills du är tillbaka i starläget. Andas ut medan du utför rörelsen. Upprepa övningen det rekommenderade antalet gånger.</string>
+    <string name="ex_name_52">Kabellyft åt sidan med ett ben</string>
+    <string name="ex_desc_52">Sätt fast ett vristband av läder på en låg kabelmaskin och sätt sedan på dig vristbandet. Stå bredvid viktstapeln på ett avstånd på cirka 60 cm; håll tag i stålramen för stöd. Medan du håller knäna och höfterna något böjda och magmusklerna spända, dra ihop sätesmuskeln för att långsamt sträcka ut det arbetande benet åt sidan, så högt som du känner att du kan, samtidigt som du andas ut. Tips: När benet är helt utsträckt, spänn sätesmuskeln en sekund för att uppnå den högsta sammandragningen. Flytta långsamt det arbetande benet framåt och stå emot kabelns kraft tills du når startläget. Upprepa övningen det rekommenderade antalet gånger. Byt ben och upprepa rörelsen med den andra sidan. Variationer: Du kan utföra den här övningen med träningsband.</string>
+    <string name="ex_name_53">Arnoldpress med hantlar</string>
+    <string name="ex_desc_53">Sitt på en träningsbänk med ryggstöd och håll två hantlar framför dig på ungefär övre bröstnivå, med handflatorna vända mot kroppen och armbågarna böjda. Tips: Armarna ska vara bredvid torson. Startpositionen ska se ut som den sammandragna delen av en hantelcurl: - För att utföra rörelsen, lyft hantlarna samtidigt som du roterar handflatorna tills de är vända framåt. - Fortsätt lyfta hantlarna tills armarna är raka och utsträckta över dig. Andas ut medan du utför den här delen av rörelsen. - Efter en sekunds paus i det högsta läget, börja sänka tillbaka hantlarna till startläget genom att rotera handflatorna mot dig. Tips: Vänsterarmen kommer att roteras moturs, medan högerarmen roteras medurs. Andas in medan du utför den här delen av rörelsen. Upprepa övningen det rekommenderade antalet gånger. Variationer: Du kan stå upp och utföra den här övningen, men det rekommenderas inte för personer med ländryggsbesvär.</string>
+    <string name="ex_name_54">Alternerande hantelpress</string>
+    <string name="ex_desc_54">Håll två hantlar vid axlarna genom att sträcka ut benen och höfterna när du lyfter hantlarna mot axlarna. Pressa den ena rakt över huvudet genom att sträcka ut armbågen och vända den så att handflatorna är vända framåt, medan den andra hanteln hålls stilla. Sänk ned den pressade hanteln till startläget och börja genast att pressa med den andra armen.</string>
+    <string name="ex_name_55">Hantellyft rakt fram</string>
+    <string name="ex_desc_55">Plocka upp några hantlar och stå med rak torso och hantlarna framför låren på en armlängds avstånd, med handflatorna vända mot låren. Detta kommer att vara din startposition: - Medan överkroppen hela tiden är stilla (inget gungande), lyft hantlarna framåt med armbågarna något böjda och handflatorna vända nedåt. Fortsätt uppåt tills armarna är lite mer än parallella med golvet. - Andas ut medan du utför den här delen av rörelsen och pausa en sekund högst upp. - När du andas in, sänk långsamt ned hantlarna tillbaka till startläget. Upprepa övningen det rekommenderade antalet gånger. Variationer: Den här övningen kan också utföras genom att växla händer, dvs. genom att göra en repetition med högerarmen, sedan en med vänsterarmen, tillbaka till högerarmen, osv. Du kan även använda en skivstång.</string>
+    <string name="ex_name_56">Stående låg rodd för deltamuskeln</string>
+    <string name="ex_desc_56">Börja med att stå till höger om en låg roddmaskin. Använd vänsterhanden för att korsa kroppen och ta med ett pronerat grepp (handflatorna vända nedåt) tag i ett handtag som sitter fast i roddmaskinen. Lägg armen framför dig. Högerhanden ska hålla i maskinen för bättre stöd och balans. Se till att ryggen är rak och att fötterna är axelbrett isär från varandra. Detta är startpositionen: - Börja använda vänsterhanden och korsa kroppen med den tills den är vid axelhöjd, samtidigt som du andas ut. - Känn sammandragningen i det högsta läget en sekund och börja långsamt sänka handtaget tillbaka ned till startläget samtidigt som du andas in. Upprepa övningen det rekommenderade antalet gånger. Byt arm och upprepa övningen.</string>
+    <string name="ex_name_57">Kabellyft rakt fram</string>
+    <string name="ex_desc_57">Kabellyft rakt fram är en utmärkt övning för att isolera den främre deltamuskeln. Förbered inför övningen genom att sätta fast en kabel på en låg kabelmaskin och välj vikten du vill använda. Stå bortvänd från maskinen och ta tag i kabeln. Stå rakt med ögonen framåt och håll kabeln precis vid låren. Detta är startpositionen: - För att utföra övningen, lyft långsamt upp kabeln till ungefär axelhöjd samtidigt som du håller armarna raka och kroppen stilla. - Pausa och sänk sedan långsamt tillbaka kabeln till startläget. - Låt inte stapeln sjunka eller kabeln röra kroppen.</string>
+    <string name="ex_name_58">Enarmad armhävning för triceps</string>
+    <string name="ex_desc_58">Ligg på din högra sida med knäna böjda och höfterna på varandra. Lägg högerarmen runt axeln och placera vänsterhanden på golvet framför dig. Dra samman dina triceps för att trycka upp kroppen från golvet och räta ut vänsterarmen så mycket du kan. Sjunk ned ett par centimeter och fortsätt att pressa upp och ned, tills du byter sida.</string>
+    <string name="ex_name_59">Stående tricepsextension med hantel</string>
+    <string name="ex_desc_59">Börja med att stå upp med en hantel som du håller med båda händerna. Fötterna ska vara axelbrett isär. Använd långsamt båda händerna för att ta hanteln och lyfta den över huvudet tills båda armarna är helt utsträckta. Hanteln ska ligga i handflatorna med tummarna runt den. Handflatorna ska vara vända mot taket. Detta kommer att vara din startposition: - Medan du håller överarmarna nära huvudet med armbågarna inåt och vinkelräta mot golvet, sänk hanteln i en halvcirkelrörelse bakom huvudet tills underarmarna rör bicepsen. Tips: Överarmarna ska hållas stilla; endast underarmarna ska röra sig. Andas in medan du utför det här steget. - Återgå till startläget genom att använda dina triceps för att lyfta hanteln. Andas ut medan du utför det här steget. Upprepa övningen det rekommenderade antalet gånger.</string>
+    <string name="ex_name_60">Bänkdips med ett ben</string>
+    <string name="ex_desc_60">Börja med händerna på bänken med handflatorna nedåt, ett ben utsträckt och ett ben stadigt på golvet. Ju närmre foten är bänken, desto enklare är den här övningen. Öka intensiteten genom att positionera foten så långt ut som möjligt eller håll det enkelt genom att placera den nära bänken. Böj armbågarna och sjunk ned så långt du kan utan att rumpan når golvet. Räta på armarna. Byt ben och upprepa.</string>
+    <string name="ex_name_61">Böjd, stående tricepsextension med hantel i en hand åt gången</string>
+    <string name="ex_desc_61">Med en hantel i en hand och handflatan vänd mot kroppen, böj lite på knäna och sänk överkroppen framåt och nedåt genom att böja vid midjan, samtidigt som du håller ryggen rak tills den nästan är parallell med golvet. Se till att hålla huvudet uppe. När handen håller i vikten ska överarmen vara nära torson och parallell med golvet, medan underarmen ska peka mot golvet. Tips: Det ska vara en 90 graders vinkel mellan underarmen och överarmen. Detta är din startposition: - Medan du håller överarmarna stilla, använd dina triceps för att lyfta vikterna samtidigt som du andas ut, tills underarmarna är parallella med golvet och hela armen är utsträckt. Liksom många andra armövningar ska bara underarmen röra sig. - Efter en sekunds sammandragning i det högsta läget, släpp långsamt tillbaka hanteln ned till startläget samtidigt som du andas in. Upprepa rörelsen det rekommenderade antalet gånger. Byt arm och upprepa övningen.</string>
+    <string name="ex_name_62">Tricepsextension med kabel och en arm i taget</string>
+    <string name="ex_desc_62">Ta med högerhanden tag i ena handtaget på kabelmaskinen genom att använda ett supinerat grepp (underhands, handflatorna vända uppåt). Du ska stå precis framför viktstapeln. Dra nu ned handtaget så att överarmen och armbågen låses till sidan av kroppen. Överarmen och underarmen ska forma en spetsig vinkel (mindre än 90 grader). Du kan hålla den andra armen vid midjan och ha ett ben framför dig och ett bakom för bättre balans. Detta kommer att vara din startposition: - När du drar ihop dina triceps, dra ned handtaget till din sida tills armen är rak. Andas ut medan du utför den här rörelsen. Tips: Endast underarmarna ska röra sig. Överarmarna ska hela tiden vara stilla. - Spänn tricepsen och håll i en sekund. - Låt långsamt handtaget gå tillbaka till startläget. Upprepa det rekommenderade antalet gånger och utför sedan samma rörelse med vänsterarmen. Variationer: Du kan använda träningsband för att utföra den här övningen.</string>
+    <string name="ex_name_63">Pushdown för triceps</string>
+    <string name="ex_desc_63">Sätt fast en rak eller vinklad stång på en hög dragmaskin och ta tag i den med ett axelbrett överhandsgrepp (handflatorna vända nedåt). Stå upprätt med överkroppen rak och ytterst lite framåtlutad och flytta därefter överarmarna nära kroppen och vinkelräta mot golvet. Underarmarna ska peka uppåt mot vajern när de håller i stången. Detta är din startposition: - Genom att använda dina triceps, dra ned stången tills den rör framsida lår och armarna är helt utsträckta och vinkelräta mot golvet. Överarmarna ska hela tiden förbli stilla bredvid torson och endast underarmarna ska röra sig. Andas ut medan du utför rörelsen. - Efter att ha hållit i en sekund i det sammandragna läget, låt långsamt stången gå upp tillbaka startläget. Andas in medan du utför det här steget. Upprepa övningen det rekommenderade antalet gånger. Variationer: Det finns många variationer av denna rörelse. Exempelvis kan du använda en EZ-stång eller en V-stång, som låter tummen vara högre upp än lillfingret. Dessutom kan du sätta fast ett rep i maskinen, samt använda ett omvänt grepp i övningarna med stång.</string>
+
+    <string name="ex_name_5063">Knäböjningshopp</string>
+    <string name="ex_desc_5063">Muskelgrupp. Quadriceps \n\nSteg 1. Sätt dig på huk i en squat, som om du skulle fånga en baseball. \n\nSteg 2. Hoppa upp &amp; utåt medan du håller ut dina armbågar upp toward taket. \n\nSteg 3. Hoppa upp på och för dina ben bak tillsammans, och för dina armar nedåt samtidigt.</string>
+
+    <string name="ex_name_5064">Planka</string>
+    <string name="ex_desc_5064">Muskel. Rectus Abdominis \n\nSteg 1. För ut dina ben i rakt läge och res dig upp på dina tår. medan du håller din rygg rak, placera dina underarmar på golvet. \n\nSteg 2. Dina underarmar ska vara i 90 graders vinkel med dina överarmar. Håll positionen så länge du kan.</string>
+
+    <string name="ex_name_5065">Ryggutsträckning</string>
+    <string name="ex_desc_5065">Muskel. Lägre rygg \n\nSteg 1. Ligg med ansiktet ned på golvet. placerara dina armar rak utåt framför dig. \n\nSteg 2. Höj dina ben and överkropp emot taket, och sträck dig utåt så mycket du kan. Håll i en sekund. Återgå till utgångspoitionen.</string>
+
+    <string name="ex_name_5066">Ryggutsträckning 2</string>
+    <string name="ex_desc_5066">Muskelgrupp. Lägre rygg \n\nSteg 1. Ligg med ansiktet ned på golvet med dina armar brevid dina höfter and dina handflator riktade nedåt. Aktivera dina magmuskler genom att dra dem mot din ryggrad och spänna sätesmuskeln. \n\nSteg 2. Andas ut långsamt och lyft ditt bröst från golvet och dina armar uppåt and bakåt mot dina höfter. Vänd dina tummar mot taket medan du utför övningen. \n\nSteg 3. Pausa vid toppen av övningen i två sekunder och återgå till startpositionen.</string>
+
+    <string name="ex_name_5067">Rör Benet</string>
+    <string name="ex_desc_5067">Muskel. Rectus Abdominis \n\nSteg 1. Ligg ned på golvet, lyft dina ben tills ett ben är rakt längs med golvet. För ut dina armar framför dig. \n\nSteg 2. Sträck dig mot dina tår med dina händer. Håll i en sekund. Återgå till startpositionen.</string>
+
+    <string name="ex_name_5068">Kramplyft Med Spark</string>
+    <string name="ex_desc_5068">Muskel. Rectus Abdominis \n\nSteg 1. Stå rakt med dina fötter axelbrett isär. \n\nSteg 2. Lyft ditt vänsta ben så högt du kan, och rör vid din vänstra fot med båda händer. \n\nSteg 3. Återgå till startpositionen och upprepa på andra sidan. \n\nSteg 4. Fortsätt byta sida snabbt, tills setet är klart.</string>
+
+    <string name="ex_name_5069">Spring Under</string>
+    <string name="ex_desc_5069">Muskel. Rectus Abdominis \n\nSteg 1. Ställ dig i en armhävningsposition med dina händer under dina axlar och din kropp i en rak line från ditt huvud till dina hälar. \n\nSteg 2. Medan du lyfter din högra fot från golvet, för ditt högra knä emot ditt bröst. Rör vid golvet med din högra fot och återgå till startpositionen. \n\nSteg 3. Byt ben vid varje repetition.</string>
+
+    <string name="ex_name_5070">Kramplyft</string>
+    <string name="ex_desc_5070">Muskel. Rectus Abdominis \n\nSteg 1. Ligg med dina knän böjda och dina fötter platt på golvet. Vik dina armar över bröstet eller håll dina händer bakom öronen. \n\nSteg 2. Använd dina magmuskler för att lyfta ditt huvud och övre torso medan du håller din lägre rygg pressad mot golvet. \n\nSteg 3. Pausa med dina skuldror ett par centimenter från golvet, och återgå till startpositionen med en kontrollerad rörelse.</string>
+
+    <string name="ex_name_5071">Dra In-Ut</string>
+    <string name="ex_desc_5071">Muskel. Rectus Abdominis \n\nSteg 1. Ligg på golvet, placera båda händer under dina höfter, sträck ut dina ben helt och höj dem lite. \n\nSteg 2. Böj benen emot din överkropp och håll i en sekund. Återgå till startpositionen.</string>
+
+    <string name="ex_name_5072">Botten Upp</string>
+    <string name="ex_desc_5072">Muskel. Rectus Abdominis \n\nSteg 1. Ligg på rygg med dina händer lägns sidorna och dina ben rakt upp mot taket, längstmed din torso. \n\nSteg 2. Dra din navel inward och spänn sätesmuskeln medan du lyfter dina höfter bara ett par centimeter från golvet. Sänk dina höfter.</string>
+
+    <string name="ex_name_5073">Böjt Kramplyft</string>
+    <string name="ex_desc_5073">Muskel . Rectus Abdominis \n\nSteg 1. Ligg ned på golvet, böj dina knän och håll dina fötter 18-24 tum isär. Dina armar ska vara längstmed din sida. \n\nSteg 2. Böj din torso framåt och utåt 3-4 tum mot höger sida och rör din högra heel medan du håller positionen i en sekund. Andas ut medan du utför övningen. \n\nSteg 3. Gå nu tillbaka långsamt till startpositionen medan du andas in. \n\nSteg 4. Böj din torso framåt och utåt 3-4 tum mot höger sida och rör din högra heel medan du håller positionen i en sekund. Andas ut medan du utför övningen och gå tillbaka långsamt till startpositionen medan du andas in. Nu när båda hälarna har rörts vid har du genomfört en cykel. Fortsätt byta sida.</string>
+
+    <string name="ex_name_5074">Rysk Böj</string>
+    <string name="ex_desc_5074">Muskel. Obliquer \n\nSteg 1. Sitt på golvet med en girja eller medicinboll vid sidan. För ihop benen och böj dina knän i ungefär 90 grader. Håll bröstet lyft och ryggen rak. \n\nSteg 2. Lyft upp din medicinboll eller girja och håll den uppochner vid handtagen för bättre kontroll. Den bör vara i brösthöjd. \n\nSteg 3. Böj din torso lite och var noga med att inte böja ryggen. Lyft dina fötter från golvet men håll dina knän ihop och benen böjda.</string>
+
+    <string name="ex_name_5075">Cykel-Kramplyft</string>
+    <string name="ex_desc_5075">Muskel. Obliquer \n\nSteg 1. Ligg på rygg, lyft dina axlar från mattan och höj dina ben. \n\nSteg 2. För ett knä och motsatt armbåge mot varandra genom att cruncha mot en sida och sträck ut det andra benet. \n\nSteg 3. Återgå till startpositionen and cruncha till andra sidan. \n\nSteg 4. Upprepa tills setet är klart.</string>
+
+    <string name="ex_name_5076">Dansande Krabba</string>
+    <string name="ex_desc_5076">Muskel. Rectus Abdominis \n\nSteg 1. Ligg ned på golvet. Håll dina händer och ben på golvet. \n\nSteg 2. Höj din överkropp uppåt. Rör dig snabbt med din högra hand och ditt vänstra med, och byt sida. Öka hastigheten och gör det så snabbt du kan.</string>
+
+    <string name="ex_name_5081">Spark Med Sätesmuskeln 2</string>
+    <string name="ex_desc_5081">Muskel. Sätesmuskeln \n\nSteg 1. STäll dig på alla fyra på en matta eller på golvet. Din rygg ska vara parallel med golvet och höjd som på bilden. \n\nSteg 2.Lyft upp dina ben tills hälsenorna är i linje med rygg medan du håller en 90–graders böjning. Spänn sätesmuskeln när dina ben är helt utsträckta. Vid slutet av rörelsen ska låret vara parallelt mot golvet medan vaden ska vara i 90 grader mot det. Återgå till startpositionen och upprepa med motsatt ben.</string>
+
+    <string name="ex_name_5082">SIDOSPARKAR</string>
+    <string name="ex_desc_5082">Muskelgrupp. Sätesmuskel \n\nSteg 1. Start by getting on dina händer and knän, as shown. dina knän ska vara positioned underneath dina höfter and dina wrists ska vara directly underneath dina axlar. \n\nSteg 2. Keep dina rygg rak as you lyft one knä från golvet. Keep the knä bent as you lyft it utåtwards and uppwards toward the side. \n\nSteg 3 Hold this position briefly, then slowly lower dina knä rygg to golvet. pausa and then upprepa.</string>
+
+    <string name="ex_name_5083">Knäböj Med Spark</string>
+    <string name="ex_desc_5083">Muskelgrupp. Sätesmuskel \n\nSteg 1. Starta på huk med dina höfter bak och dina fötter axelbrett isär. \n\nSteg 2. Medan du ställer dig upp, byt vikten till höger ben och lyft vänster ben to the side. \n\nSteg 3. Återgå till startpositionen och upprepa med höger ben.</string>
+
+    <string name="ex_name_5084">Bakvänt Utfall</string>
+    <string name="ex_desc_5084">Muskel. Sätesmuskel \n\nSteg 1. Medan du står med dina fötter axelbrett isär, tårna ska peka framåt. \n\nSteg 2. Kliv bak så långt som möjligt med ditt dominanta ben and sänk dig ned tills detta knä rör vid golvet, håll din torsoså rakt som möjligt. \n\nSteg 3. Tryck på din häl för att återgå till startpositionen, och dra sedan snabbt bakåt med det benet. Det är en repetition.</string>
+
+    <string name="ex_name_5085">Ryggutfall</string>
+    <string name="ex_desc_5085">Muskel. Quadriceps \n\nSteg 1. Stå med dina fötter axelbrett isär, tårna ska peka framåt. \n\nSteg 2. Kliv back så att dina höfter och knän spänner sig medan du sänker kroppen. Sänk dig ned tills ditt knä nästan rör vid marken. \n\nSteg 3. Tryck dig upp från din böjda fot till ursprungspositionen och upprepa övningen genom att byta ben.</string>
+
+    <string name="ex_name_5086">Planka Med Benrörelse</string>
+    <string name="ex_desc_5086">Muskel. Lägre rygg \n\nSteg 1. Börja i låg plank-position med din kropp i rak line, dina armbågar böjda och under dina axlar och dina fötter höftbrett isär. \n\nSteg 2. Lyft vänster ben till 45 graders vinkel, och sätt din fot på motsatt vrist. \n\nSteg 3. Återgå till startpositionen and upprepa med motsatt ben.</string>
+
+    <string name="ex_name_5087">Liggande Höftsträckningar</string>
+    <string name="ex_desc_5087">Muskel. Sätesmuskel \n\nSteg 1. Ligg på golvet and placera dina hälar på det, håll dina knän lite böjda och dina armar längs med sidorna. \n\nSteg 2. Genom att trycka med din sätesmuskel och dina hälsenor, tryck ned dina hälar och lyft dina höfter tills dina kropp bildar en bro. Pausa, och återgå till din startposition.</string>
+
+    <string name="ex_name_5088">Liggande Höftsträckningar Med Stol</string>
+    <string name="ex_desc_5088">Muskel. Sätesmuskel \n\nSteg 1. Ligg på rygg på en stol och placera dina hälar på golvet, håll benen lite böjda och dina armar vid sidorna. \n\nSteg 2. Genom att trycka med din sätesmuskel och dina hälsenor, tryck ned dina hälar och lyft dina höfter tills dina kropp bildar en bro. Pausa, och återgå till din startposition.</string>
+
+    <string name="ex_name_5089">Bulgariska Knäböj Med Splitt</string>
+    <string name="ex_desc_5089">Muskel. Quadriceps \n\nSteg 1. Placera en fot på golvet, ungefär 3 foot fro framför en stol och balansera din fot på stolen bakom dig. Håll dina händer framför bröstet. \n\nSteg 2. Använd din fot för att balansera medan du böjer båda knäna för att sänka kroppen rakt ned tills ditt bakre knä är ett par centimeter från golvet och ditt främre ben är  90 grader böjt. Resten av din kropp ska vara rak. Återgå till startpositionen och byt ben ben.</string>
+
+    <string name="ex_name_5090">Kliv Upp</string>
+    <string name="ex_desc_5090">Muskel. Sätesmuskel \n\nSteg 1. Stå nära en bänk. Kliv pp med höger fot on the bench medan du keeping dina vänster fot på golvet. \n\nSteg 2. Höj ditt vänster knä framför dig. \n\nSteg 3. Kliv ned med vänster ben. Upprepa övningen med ditt andra ben. Fortsätt alternera.</string>
+
+    <string name="ex_name_5091">Bakåtspark På Bänk</string>
+    <string name="ex_desc_5091">Muskel. Sätesmuskel \n\nSteg 1. Ställ dig på händer och knän på en bänk. Din rygg ska vara parallell med marken och höjd, som bilden visar. \n\nSteg 2. Styr en av dina fötter i en kontrollerad rörelse bakåt och uppåt som om du sparkar taket bakom dig. Var noga med att böja din rumpa när dina ben är helt raka med ryggen bakom dig. Återgå till startpositionen och repetera med motsatt ben.</string>
+
+    <string name="ex_name_5092">Rumpspark</string>
+    <string name="ex_desc_5092">Muskel. Quadriceps \n\nSteg 1. Stå rakt och för en häl från golvet emot din sätesmuskel, placera dina armar framför bröstet. \n\nSteg 2. Växla sedan till andra sidan.</string>
+
+    <string name="ex_name_5093">Knäböj Med Bakåtspark</string>
+    <string name="ex_desc_5093">Muskelgrupp. Sätesmuskel \n\nSteg 1. Starta med dina fötter lite bredare än axelbredd isär och sätt dig på huk. \n\nSteg 2. Medan du ställler dig upp, för vikten till ett ben och sparka bak med det andra benet. \n\nSteg 3. Återgå till startpositionen and upprepa på andra sidan.</string>
+
+    <string name="ex_name_5095">Armhävning Med Rörelse</string>
+    <string name="ex_desc_5095">Muskel. Pectoralis \n\nSteg 1. Lägg dig ner på golvet med bröstet först genom att använda dina händer. Placera händer under dina axlar, avståndet mellan dina händer ska vara smalare än axelbredden, så att dina händer och tår är på golvet. Håll en rak rygg, händerna pekandes lite utåt. \n\nSteg 2. Sänk digsjälv tills bröstet är centimeter bort från golvet genom att böja dina armbågar. Armbågarna ska vara vända mot dina fötter.</string>
+
+    <string name="ex_name_5096">T-Sträckning</string>
+    <string name="ex_desc_5096">Muskel. Pectoralis \n\nSteg 1. Starta i den klassiska armhävningspositionen, men när du skjuter uppåt, rotera din kropp så att höger arm lyfts upp och förs ut över huvuvdet, som illustrerat. Dina armar och torso ska bilda en T. \n\nSteg 2. återgå till startpositionen, sänk dig, tryck upp och rotera tills din vänstra hand pekar mot taket.</string>
+
+    <string name="ex_name_5115">Armhävningar</string>
+    <string name="ex_desc_5115">Muskel. Pectoralis \n\nSteg 1. Placera händerna under axlarna, något bredare än axelbredden isär. \n\nSteg 2. Börja böj dina armbågar och sänka bröstet tills det är strax ovanför golvet. \n\nSteg 3. Tryck upp dig till startpositionen. En 1-sekunders push, 1-sekunders paus och två sekunder totalt är idealiskt. \n\nSteg 4. Repetera.</string>
+
+    <string name="ex_name_5116">Triceps-Dropp</string>
+    <string name="ex_desc_5116">Muskel. Triceps Brachii \n\nSteg 1. Placera dina händer bakom dig på en stol, så att dina fingrar är vänd a framåt. \n\nSteg 2. För ut dina ben och börja böja dina armbågar. \n\nSteg 3. Sän dig själv tills dina armar ligger i 90 graders vinkel. \n\nSteg 4. Höj dig själv tillbaka upp så att dina armar är raka, och upprepa sedan övningen.</string>
+
+    <string name="ex_name_5117">Rör Golvet</string>
+    <string name="ex_desc_5117">Muskelgrupp. Quadriceps \n\nSteg 1. Stå rakt med dina fötter axelbrett isär, böj dig tills dina fingrar rör golvet \n\nSteg 2. Gå med dina händer utåt, så långt du kan medan du håller dina ben raka och pausa. Gå tillbaka upp to the startpositionen och upprepa tills setet är klart.</string>
+
+    <string name="ex_name_5097">Stolpose</string>
+    <string name="ex_desc_5097">Muskel. Quadriceps \n\nSteg 1. Börja i upprätt läge och, när du andas in, dra upp dina armar, med handflatan riktade mot varandra. \n\nSteg 2 När du andas ut, böj dina knän och sitt tillbaka. \n\nSteg 3 Stanna i stolsläget och håll i 30 sekunder till 1 minut.</string>
+
+    <string name="ex_name_5098">Knäböj</string>
+    <string name="ex_desc_5098">Muskel. Sätesmuskel \n\nSteg 1. Stå med dina fötter höftbrett isär. \n\nSteg 2. Sänk dina höfter tills dina lår är parallela med golvet. Tryck dig upp hela vägen, pausa och gå tillbaka till parallelläget. \n\nSteg 3. Pausa igen och återgå till start.</string>
+
+    <string name="ex_name_5099">180 Graders Hukhopp</string>
+    <string name="ex_desc_5099">Muskelgrupp. Quadriceps \n\nSteg 1. Stå med dina fötter lite bredare än axelbrett isär, dina tårar pekandes lite utåt och luta dig tillbaka. \n\nSteg 2. Hoppa upp och snurra till vänster 180 grader. \n\nSteg 3. Land på dina tår med dina knän lite böjda och huka dig. \n\nSteg 4. Hoppa snabbt upp, snurra till höger och gå ner i knäpositionen. Upprepa tills setet är klart.</string>
+
+    <string name="ex_name_5100">Sumo-Knäböj</string>
+    <string name="ex_desc_5100">Muskel. Quadriceps \n\nSteg 1. Stå med dina fötter i ett brett läge och med dina tårar som pekandes utåt mot sidorna. \n\nSteg 2. Sänk dig själv genom att böja dina knän och trycka på dina höfter tillbaka. \n\nSteg 3. När dina lår är parallella med golvet, kom tillbaka och upprepa.</string>
+
+    <string name="ex_name_5101">Hoppande Utfall</string>
+    <string name="ex_desc_5101">Muskelgrupp. Sätesmuskel \n\nSteg 1. Ta ett stort steg bakåt och sänk dina höfter så att dina knän ligger strax ovanför golvet och ditt lår är parallellt med golvet. \n\nSteg 2. Hoppa i luften och byt benpositioner. \n\nSteg 3. Hoppa igen och återgå till startpositionen. \n\nSteg 4. Upprepa träningen tills uppsättningen är klar.</string>
+
+    <string name="ex_name_5102">Knäböjsarmhävning</string>
+    <string name="ex_desc_5102">Muskelgrupp. Deltoider \n\nSteg 1. Med hantlar i axelhöjd, luta dig på dina hälar och huka dig. \n\nSteg 2. Tryck dina hälar i marken och skjut höften framåt för att stå upp, tryck hantlarna över axlarna på vägen upp.</string>
+
+    <string name="ex_name_5103">Rysshopp</string>
+    <string name="ex_desc_5103">Muskelgrupp. Quadriceps \n\nSteg 1. Stå rak med dina fötter axelbrett isär. \n\nSteg 2. Huka dig och placera dina händer framför dina fötter \n\nSteg 3. Hoppa tillbaka tills dina ben är helt sträckta och din kropp är i plan position. \n\nSteg 4. Gör ett tryck upp, hoppa framåt och tryck sedan igenom hälen för att återgå till startpositionen. \n\nSteg 5. Repeat till setet är klart.</string>
+
+    <string name="ex_name_5104">Sumo-Knäböj Med Hantel</string>
+    <string name="ex_desc_5104">Muskelgrupp. Sätesmuskel \n\nSteg 1. Stå med dina fötter ungefär två axelbredder isär och peka dina tårar utåt och håll en hantel med båda händer. \n\nSteg 2. Huka dig och ta hanteln mellan dina ben. \n\nSteg 3. Stå upp genom att hålla hanteln med dina händer i samma position. \n\nSteg 4. Återgå till squatpositionen och repetera.</string>
+
+    <string name="ex_name_5105">Sidoplanka Med Lateral Hantelövning</string>
+    <string name="ex_desc_5105">Muskelgrupp. Obliques \n\nSteg 1. Börja i en modifierad sidoplanks position, med ditt över ben utsträckt och ditt lägre benmed knä på mattan. \n\nSteg 2. Lyft ditt översta ben så högt som möjligt, tryck samtidigt upp din arm och sänk dem sedan ner. \n\nSteg 3. Repeatera och byt sedan sidor.</string>
+
+    <string name="ex_name_5106">Hopp</string>
+    <string name="ex_desc_5106">Muskelgrupp. Quadriceps \n\nSteg 1. Stå rakt med dina fötter ihop och händerna vid dina sidor. \n\nSteg 2. Hoppa upp, sprid dina fötter och för båda händerna ihop över ditt huvud. \n\nSteg 3. Hoppa igen och återgå till startpositionen. \n\nSteg 4. Upprepa tills setet är klart.</string>
+
+    <string name="ex_name_5107">Sprint Med Höga Knän</string>
+    <string name="ex_desc_5107">Muskelgrupp. Quadriceps \n\nSteg 1. Stå rakt med dina fötter axelbrett isär. Titta framåt och öppna bröstet. \n\nSteg 2. För dina knän upp till midjan och sedan tillbaka på dina fötter. \n\nSteg 3. Upprepa tills setet är klart.</string>
+
+    <string name="ex_name_5108">Spring På Plats</string>
+    <string name="ex_desc_5108">Muskel. Quadriceps \n\nSteg 1. Stå i ett brett splitläge, för armarna utåt. \n\nSteg 2. Hoppa med olika ben framåt och bakåt, och höj samtidigt dina händer uppåt. \n\nSteg 3. Fortsätt att springa på plats.</string>
+
+    <string name="ex_name_5109">Springande Mannen</string>
+    <string name="ex_desc_5109">Muskel. Quadriceps \n\nSteg 1. Stå rakt med dina fötter axelbrett isär och framåt, öppna upp bröstet. \n\nSteg 2. Börja för dina knän upp, och landa mjukt på dina fötter. \n\nSteg 3. Repetera tills setet är klart.</string>
+
+    <string name="ex_name_5110">Hopp I Sidled</string>
+    <string name="ex_desc_5110">Muskel. Vader \n\nSteg 1. Stå rak med dina händer vid sidorna och dina fötter höftbrett isär. \n\nSteg 2. Hoppa med båda fötterna till höger och sedan till vänster, snabbt och repetitivt. \n\nSteg 3. Upprepa tills setet är klart.</string>
+
+    <string name="ex_name_5111">Snabbt Rep</string>
+    <string name="ex_desc_5111">Muskel. Vader \n\nSteg 1. Placera dina händer i hopphöjd och armbågarna något böjda, hålla dina överarmar nära dina sidor. \n\nSteg 2. Rotera dina handleder för att simulera ett hopprep och hoppa. \n\nSteg 3. Hoppa med båda fötterna samtidigt och landa mjukt på dina fötter.</string>
+
+    <string name="ex_name_5112">Krysshopp</string>
+    <string name="ex_desc_5112">Muskel. Vader \n\nSteg 1. Stå rakt med dina fötter axelbrett isär och dina armar upp och för dem utåt till sidorna. \n\nSteg 2. Hoppa upp och korsa vänster ben framför höger, och din vänster arm ovanpå höger. \n\nSteg 3. Hoppa igen och återgå till startpositionen. \n\nSteg 4. Repetera och vänd positionen på dina armar och ben.</string>
+
+    <string name="ex_name_5113">Axelpress Med Utfall</string>
+    <string name="ex_desc_5113">Muskel. Quadriceps \n\nSteg 1. Stå med dina fötter höftbrett isär och håll en hantel i varje hand. Placera hantlarna vid axelhöjd. \n\nSteg 2. Ta ett steg fram med ditt vänster ben och flexa dina knän tills knäet ligger precis ovanför golvet, skjut hantlarna uppåt. \n\nSteg 3. Repetera denna rörelse under hela övningen och alternera ben.</string>
+
+    <string name="ex_name_5114">Enarmad Hantelshöjning</string>
+    <string name="ex_desc_5114">Muskel. Deltoider \n\nSteg 1. Ta en hantel med höger hand, böj dina knän, tryck dina höfter tillbaka och ta hanteln mellan dina fötter. \n\nSteg 2. Dra upp hanteln upp genom att föra ut dina höfter och knän och när hanteln når din axel, rotera din hand fram och slå rakt upp. \n\nSteg 3. Sänk hanteln och återgå till startpositionen. \n\nSteg 4. Repetera och byt sedan sidor.</string>
+
+    <string name="ex_name_5077">Hantelrodd</string>
+    <string name="ex_desc_5077">Muskel. Triceps Brachii \n\nSteg 1. Ta en uppsättning hantlar, för dina torso framåt och böj dina knän något. \n\nSteg 2. För dina armbågar upp, så att dina överarmar är parallella med golvet, och sparka fram tills dina armar är helt sträckta. \n\nSteg 3. Sänk långsamt vikterna till startpositionen. \n\nSteg 4. Upprepa.</string>
+
+    <string name="ex_name_5078">Godmorgon</string>
+    <string name="ex_desc_5078">Muskel. Lägre ryggen \n\nSteg 1. Stå rakt med fötterna axelbrett isär. Placera en stång på dina skuldror.Håll med överhandsgrepp. Distansen mellan dina händer ska vara mer än axelbredd. justera fötterna så att de pekar lute utåt. \n\nSteg 2. Håll ryggen rak and böj överkroppen tills den är parallel med marken. Håll i en sekund. Återgå till startpositionen.</string>
+
+    <string name="ex_name_5079">Enarmsrodd Med Hantel 2</string>
+    <string name="ex_desc_5079">Muskel. Triceps Brachii \n\nSteg 1. Använd din icke hänta hand för att hålla en hantel medan du placerar din hänta hand och knä på en bänk, som illustrerat. \n\nSteg 2. Håll din rygg platt medan du låter hanteln hänga ner längs din sida så din arm hamnar precis framför din axel. \n\nSteg 3. Dra hanteln uppåt och tillbaka mot din höft medan du håller din armbåge nära din kropp. Fokusera på att använda dina övre ryggmuskler i denna rörelse. Pausa och återgå sakta tillbaka till startpositionen.</string>
+
+    <string name="ex_name_5080">Marklyft</string>
+    <string name="ex_desc_5080">Muskel. Sätesmuskel \n\nSteg 1. Stå rakt med dina fötter axelbrett isär och håll en hantel i varje hand. \n\nSteg 2. Tryck dina höfter tillbaks och sänk hantlarna, medan du håller dina ben raka eller bara svagt böjda. \n\nSteg 3. Återgå till startpositionen och upprepa.</string>
+
+    <string name="ex_name_5094">STJÄRNHOPP</string>
+    <string name="ex_desc_5094">Muskelgrupp. Quadriceps \n\nSteg 1. Börja i en avslappnad pose med dina fötter axelbrett isär och håll dina armar nära kroppen. \n\nSteg 2. För att börja övningen, böj dig hlafvägs ner och för ryggen så högt upp som möjlit. Sträck ut hela kroppen, sära benen och armarna från kroppen.</string>
+
+    <string name="extra_main_name">Träningsplan</string>
+
+    <string name="day">Dag</string>
+    <string name="round">Omgång</string>
+    <string name="day1">2 dagar i veckan</string>
+    <string name="day2">3 dagar i veckan</string>
+    <string name="day3">4 dagar i veckan</string>
+    <string name="restorePurchases">Återställ Inköp</string>
+    <string name="textUpgrade">Uppgradera till premiumversion för att låsa upp 50 övningar och ta bort reklam</string>
+    <string name="one_day_ADS1">1-Dag INGEN REKLAM</string>
+    <string name="one_day_ADS2">SE SPONSRAD VIDEO</string>
+    <string name="upgrade">UPPGRADERA NU</string>
+    <string name="free">Gratis</string>
+    <string name="tell_friend">Tipsa en vän</string>
+    <string name="send_feedback">Skicka feedback</string>
+    <string name="rate_app">Ge vitsord</string>
+    <string name="facebook">Dela app på Facebook</string>
+    <string name="twitter">Dela appen på Twitter</string>
+    <string name="ic_googleplay">Våra andra appar</string>
+    <string name="ic_settings_">Inställningar</string>
+    <string name="social_follow">Håll kontakten med VGFIT</string>
+    <string name="reminder">Påminnelse</string>
+    <string name="daily_reminder">Daglig påminnelse</string>
+    <string name="frequency">Frekvens</string>
+    <string name="after_days">Efter %1$s dagars inaktivitet</string>
+    <string name="menu_bt">Menyknappen</string>
+    <string name="units">Enheter</string>
+    <string name="purch_restored">App-köpen återställdes</string>
+    <string name="success">Lyckat!</string>
+
+    <string name="ex_cat_1">Mage</string>
+    <string name="ex_cat_2">Rygg</string>
+    <string name="ex_cat_3">Biceps</string>
+    <string name="ex_cat_4">Rumpa</string>
+    <string name="ex_cat_5">Bröst</string>
+    <string name="ex_cat_6">Ben</string>
+    <string name="ex_cat_7">Axlar</string>
+    <string name="ex_cat_8">Triceps</string>
+    <string name="time_worout">Dags att träna!</string>
+
+    <string name="cat_name6">Magövningar</string>
+    <string name="cat_name7">Sittmuskelsövningar</string>
+    <string name="cat_name8">Bikinikropp</string>
+    <string name="cat_name9">Fettbränning</string>
+    <string name="cat_name10">Armar, Bröst och Rygg</string>
+    <string name="cat_name11">Smala Ben</string>
+    <string name="cat_name12">Cardio och Hela Kroppen</string>
+
+    <string name="extraDescription6">Bli av med fett och jobba på ditt sexpack med denna inspirerande fettförbrännande omgång för dina magmuskler.</string>
+    <string name="extraDescription7">Workout som fokuserar på glutala muskler och definintion.</string>
+    <string name="extraDescription8">Den perfekta kombinationen av övningar för att bli starkare och deffa hela kroppen.</string>
+    <string name="extraDescription9">Bli smal och svettas ut det med inspirerad fettbrännande träning.</string>
+    <string name="extraDescription10">Grym workout som fokuserar på dina armar, bröst och ryggmuskler.</string>
+    <string name="extraDescription11">Grym workout som fokuserar på att deffa benen.</string>
+    <string name="extraDescription12">Träning som är designad för att bränna fett och deffa hela kroppen.</string>
+
+
+
+    <string name="Focus">Fokus</string>
+    <string name="Goal">Mål</string>
+    <string name="Skill_level">Skicklighetsnivå</string>
+    <string name="Target_Group">Målgrupp</string>
+    <string name="Place">Plats</string>
+    <string name="Equipment">Utrustning</string>
+
+    <string name="focus_1">Bålen.</string>
+    <string name="focus_2">Gluter.</string>
+    <string name="focus_3">Alla kroppsmuskler.</string>
+    <string name="focus_4">Muskeldefinition och fettförbränning</string>
+    <string name="focus_5">Biceps, Triceps, Pectoraler, Lägre rygg.</string>
+    <string name="focus_6">Gluter, Hamstringsmuskler, Quadricep. </string>
+
+    <string name="goal_1">Magmuskeldefinition och fettförbränning</string>
+    <string name="goal_2">Få definition och volym.</string>
+    <string name="goal_3">Kroppsdeff.</string>
+    <string name="goal_4">Konditionsträning för hela kroppen</string>
+    <string name="goal_5">Få styrka och definition</string>
+
+    <string name="skill_level">Nybörjare Mellan Avancerad</string>
+
+    <string name="target_group">Män och Kvinnor</string>
+
+    <string name="equipment_1">Mattta.</string>
+    <string name="equipment_2">Bänk, Matta.</string>
+    <string name="equipment_3">Hanter, Skivstång.</string>
+    <string name="equipment_4">Bänk, Hantel, Matta.</string>
+    <string name="place">Gym, Hemma, Kontor.</string>
+
+
+    <string name="doneKey">Gjort</string>
+    <string name="editKey">Redigera</string>
+    <string name="intervalsKey">Intervaller</string>
+    <string name="myWorkoutsKey">Mina träningar</string>
+    <string name="pauseKey">Pausa</string>
+    <string name="resetKey">Återställ</string>
+    <string name="resumeKey">Fortsätt</string>
+    <string name="roundsKey">Rundor</string>
+    <string name="startKey">Start</string>
+    <string name="currentsetkey">Nuvarande inställningar</string>
+    <string name="resttimekey">Vila</string>
+    <string name="worktimekey">Träningstid</string>
+    <string name="minkey">Min</string>
+    <string name="seckey">Sek</string>
+    <string name="sets_extra1">30 sekunder utan vila</string>
+    <string name="sets_extra2">3 set och 12/11/10 repetitioner</string>
+    <string name="sets_extra3">35 s träning, 15 s vila</string>
+    <string name="sets_extra4">30 s träning, 15 s vila</string>
+    <string name="sets_extra5">2 omgångar 15 repetitioner</string>
+
+    <string name="rep_extra1">30 s träning, 15 s vila</string>
+    <string name="rep_extra2">30 s. träning, 15 s. vilotid, 30 s. vmc</string>
+    <string name="rep_extra3">3 set och 12/11/10 repetitioner</string>
+
+    <string name="rep_extra1_how">Aktiv tid 30 sek., Vilotid 15 sec..</string>
+    <string name="rep_extra2_how">Aktiv tid 30 sec., Vilotid mellan övningar 15 sek., Vilotid mellan omgångar 30 sec.</string>
+    <string name="rep_extra3_how">Vilotid mellan övningar 30 sek., vilotid mellan set 45 sekunder.</string>
+
+    <string name="enter_text">Skriv in text</string>
+    <string name="main_work">Träning för viktlyftning och byggande av muskler och styrka.</string>
+
+    <string name="namemeal1_1">Jordgubbar och Creme Havregryn</string>
+    <string name="ingredientMeal1_1">&#189; kopp havregryn \n\n1 dl skummjölk \n\n1 dl Grekisk vaniljyoghurt \n\n1.5 dl skivade jordgubbar \n\n2 msk grekisk vaniljyoghurt &#8211; fettfri \n\n1 msk rostad mandel</string>
+    <string name="stepsMakeMeal1_1">På kvällen rör du om havre, mjölk och 1 dl yoghurt i en burk eller skål tills det är väl blandat. Täck över och kyl i kylskåp över natten. Njut!</string>
+
+
+    <string name="namemeal1_2">Golden Glow Elixir</string>
+    <string name="ingredientMeal1_2">2 äpplen \n\n4 medestora apelsiner, skal avlägsnas \n\n1 citron, skalad \n\n2&#8211;3 tums färsk ingefära, skalad \n\n2&#8211;tums färsk gurkmeja, skalad \n\n2 koppar kallt vatten \n\n1 handfull is</string>
+    <string name="stepsMakeMeal1_2">Blanda alla ingredienser till en jämn blandare med hög hastighet, tillsätt extra vatten om det behövs. En bra mixer gör det till en jämn juice. Om du hellre skulle vilja juica ingredieserna för att göra det ännu mjukare, kör på för att hålla alla fibrer och näringsämnen kvar, men att juica ingredienserna funkar lika bra. Njut av!</string>
+
+
+    <string name="namemeal1_3">Tso\'s Kyklingwok</string>
+    <string name="ingredientMeal1_3">4 kycklingbröst, kuberade \n\n1 kopp mjöl \n\nvegetabilisk olja \n\nsalt \n\nnymalen svartpeppar \n\n2 klyftor vitlök, malet \n\n&#189; paket kycklingbuljong \n\n3 msk honung \n\n4 msk sojasås \n\n2 msk limesaft \n\n2 burkar broccoli, bara blomster \n\n2 burkar kokt vitt ris för servering</string>
+    <string name="stepsMakeMeal1_3">I en stor skål, marinera kycklingen med majsstärkelse. Överför bitarna till en stor skål fylld med mjöl och kasta om dem lite och sätt åt sidan. Fyll en stor, djup stekpanna med &#189; vegetabilisk olja över medelhög värme. Krydda kycklingen, dränera och lägg åt sidan. Tillsätt 2 msk majsstärkelse och rör om. Till såsen, lägg till broccoli och morötter och koka tills det är mjukt, i 5 minuter. Njut!</string>
+
+
+    <string name="namemeal1_4">Örtte</string>
+    <string name="ingredientMeal1_4">1 kopp vatten \n\n1 tesked riven frisk ingefära \n\n1 tesked riven limezest \n\n1 tesked limesaft \n\n3 lämnar färsk mint</string>
+    <string name="stepsMakeMeal1_4">Koka upp vatten i en gryta, rör i resten av ingredienserna. Koka och rör om tills teet är stöpt. Njut!</string>
+
+
+    <string name="namemeal1_5">Grillade Citron&#8211;Dijon KycklingLår med Ruccola</string>
+    <string name="ingredientMeal1_5">4 Hudlösa, benfria kycklinglår \n\n&#189; tsk salt \n\n&#188; tsk malt svartpeppar \n\n2,5 ss olivolja \n\n2 tsk citronsaft \n\n1 tsk skivad vitlök \n\nmatlagningsspray \n\n1 msk balsamvinäger \n\n1 tsk honung \n\n1 kopp druvtomater, halverad \n\n1 Paket babyruccola</string>
+    <string name="stepsMakeMeal1_5">Strö kycklingen med &#188; tsk salt och 1/8 peppar. Kombinera kycklingen med 1&#8211;1,5 tsk olja, citronsaft, senap och vitlök i en skål, kasta om. Låt stå 4 minuter. Värm en grillpanna över medelvärme. Täck pannan med matlagningsspray. Tillsätt kyckling för att panera, grilla i 5 minuter på varje sida eller tills det är klart. Klipp kycklingen i &#188; tum tjocka skivor. Njut!</string>
+
+
+    <string name="namemeal2_1">Keso och Bär&#8211;Crunch</string>
+    <string name="ingredientMeal2_1">1 dl 2% fett keso \n\n2 msk granola \n\n1.5 dl skivade bananer \n\n1.5 dl blandade bär</string>
+    <string name="stepsMakeMeal2_1">Lägg keson i en liten skål. Toppa med resten av ingredienserna. Njut!</string>
+
+
+    <string name="namemeal2_2">Ananas Kiwi</string>
+    <string name="ingredientMeal2_2">4 msk vatten \n\n1.5 dl mjölk \n\n1.5 dl kopp yoghurt \n\n1,5 msk honung \n\n1 kiwifrukter, skalad \n\n1 kopp ananasbitar \n\n&#189; en mango \n\n2 isbitar</string>
+    <string name="stepsMakeMeal2_2">Blanda alla ingredienser vid låg hastighet tills det är tjockt och mjukt. Njut!</string>
+
+
+    <string name="namemeal2_3">Citronkyckling</string>
+    <string name="ingredientMeal2_3">4 kycklingbröst \n\n0.5 dl smör \n\n2 msk. olivolja \n\n1 citron \n\n1 citron skivad \n\n0.5 dl vitt vin \n\n1 tsk salt \n\n1 tsk jordad svartpeppar \n\n&#189; tsk paprikan \n\n&#189; tsk torkad persilja</string>
+    <string name="stepsMakeMeal2_3">Kombinera mjöl, salt, peppar, paprika och persilja i en grundskål. Värm olja och smör över medelhög värme. Täck varje kycklingbröst i mjölblandningen och lägg i  stekpannan. Tillsätt citronsaft, vitt vin, citronskal och rosmarin till stekpannan. Koka kyckling på varje sida tills den är kokt. Njut av!</string>
+
+
+    <string name="namemeal2_4">Zucchini&#8211;quinoakakor</string>
+    <string name="ingredientMeal2_4">0.5 dl jordnötssmör \n\n0.5 dl honung \n\n1 banan \n\n1 ägg \n\n1 tsk vanilj extrakt \n\n1 dl havre \n\n1 dl quinoaflingor \n\n1 tsk kanel \n\n&#188; tsk salt \n\n2.5 dl riven zucchini, pressad</string>
+    <string name="stepsMakeMeal2_4">Förvärm ugnen till 175 grader °C. Tillsätt jordnötssmör, honung, banan, ägg och vanilj i en stor skål och rör om. Tillsätt havre, quinoa flingor, bakpulver, kryddor och salt till skålen och rör om ihop. Vik i strimlad kucchini och chiafrön. Sked degen på en bakpanna. Baka kakorna på mittstället i 15 &#8211; 18 minuter tills kanterna är guldbruna. Njut!</string>
+
+
+    <string name="namemeal2_5">Savoryräka med färska örter</string>
+    <string name="ingredientMeal2_5">1 kilo stora räkor \n\n2 röda paprika \n\n1 purjolök, tunt skivad \n\n0,5&#8211;1 msk kapris, sköljd och dränerad \n\n2 vitlöksklyftor, snitt skivad \n\n1.3 dl grovhackad persilja \n\n3 msk citronsaft \n\n2 msk olivolja</string>
+    <string name="stepsMakeMeal2_5">Placera en sautépanna över medelvärme och tillsätt olja. Tillsätt räkor, paprika, purjolök, kapris, vitlök, salt och peppar och koka i 4 minuter tills räkorna är rosa. Avlägsna från värmen. Tillsätt citronsaft, skrapa botten av pannan med en sked. Servera räkor som ströks med färsk persilja och basilika. Njut av!</string>
+
+
+    <string name="namemeal3_1">Linfrögröt med Blåbär</string>
+    <string name="ingredientMeal3_1">7 dl vatten \n\n5 dl havregryn \n\n3 msk linfrön \n\n1/8 tsk salt \n\n0.5 mjölk \n\n2 dl blåbär \n\n1 msk blåbärssylt \n\n&#189; tsk rivet citronskal \n\n1 msk citronsaft</string>
+    <string name="stepsMakeMeal3_1">Koka 3 koppar vatten. Rör i havre, tillsätt linfrö och salt. Minska värmen till medium&#8211;låg, koka tills det är en gröt, rör om ofta. Rör i mjölk och smör. Under tiden, kombinera blåbär och nästa 4 ingredienser i en mikrovågssäker skål i mikrovågsugn på hög effekt i 1,5 minuter, rör om var 30:e sekund. Dela havregrynsgröten i 4 skålar. Toppa med blåbär och pekannötter. Njut!</string>
+
+
+    <string name="namemeal3_2">Kokosmjölk Smoothie Med Blåbär</string>
+    <string name="ingredientMeal3_2">1 påse frysta blåbär \n\n3 mogna bananer \n\n2 dl vanlig yoghurt \n\n2 dl osötad kokosmjölk \n\n2 msk honung</string>
+    <string name="stepsMakeMeal3_2">I en blandare, lägg blåbär, bananer, yoghurt, kokosmjölk och honung. Njut!</string>
+
+
+    <string name="namemeal3_3">Kyckling och sparriswok</string>
+    <string name="ingredientMeal3_3">1 msk sojasås \n\n1 msk honung \n\n2 kycklingbröst, skurna i bitar \n\n1 msk olivolja \n\n1 knippe sparris, skuren i bitar \n\n4 vitlöksklyftor, snitt skivad \n\n2 tsk rostad sesamolja</string>
+    <string name="stepsMakeMeal3_3">Kombinera sojasås och honung. Tillsätt kyckling och täck den i röran. Ställ i kylskåpet tills det är klart. Under tiden, värm olja i en stor stekpanna över medelvärme. Ta bort sparrisen och lägg åt sidan. Avlägsna kyckling från marinaden och sätt på spisen. Tillsätt sedan vitlök, lök och den reserverade marinaden till pannan. Avlägsna från värme och rör i sesamolja. Njut!</string>
+
+
+    <string name="namemeal3_4">Lavendel och Mintte</string>
+    <string name="ingredientMeal3_4">0.5 dl färska kronblad \n\n ett knippe färska mintblad \n\n4 koppar vatten</string>
+    <string name="stepsMakeMeal3_4">Placera lavendelkronbladen och myntabladen i en kastrull, häll vatten över och koka. Vrid värmen till låg och smäll te tills önskad styrka, 15 till 20 minuter. Njut!</string>
+
+
+    <string name="namemeal3_5">Chilifajitas</string>
+    <string name="ingredientMeal3_5">1 kg skinnfritt kycklingbröst \n\n&#189; grön, röd och gul paprika, snitt skivad \n\n0.5 dl vatten \n\n2 tsk sojasås \n\nSalt \n\nLite svartpeppar \n\n2 msk olivolja \n\n1 stor lök, tunt skivad</string>
+    <string name="stepsMakeMeal3_5">Kombinera alla marinade&#8211;ingredienser med kycklingen i en behållare och kyl i minst 2 timmar. Ta av köttet från marinaden och grilla över medelflamma i 4&#8211;5 minuter på varje sida. Skär köttet i tunna band. För såsen, kombinera 2 msk vatten, 1 tsk sojasås, &#188; tsk limesaft salt pepper och 1 msk olivolja. Njut!</string>
+
+
+    <string name="namemeal4_1">Hälsosamt fruktig gröt</string>
+    <string name="ingredientMeal4_1">1.5 dl havre \n\n2 dl vatten \n\n1 msk honung \n\n1 msk vaniljextrakt \n\n&#189; tsk malen kanel \n\n0.5 dl blåbär \n\n4 skivade jordgubbar \n\n&#189; banan, skuren i skivor</string>
+    <string name="stepsMakeMeal4_1">Kombinera vatten och havre i en mikrovågssäker skål. Mikra på hög efekt tills havren har absorberat vattnet. Rör om honung, vaniljextraktet och malda kanelen. Tillsätt blåbär och toppa med banan och jordgubbsskivor. Njut!</string>
+
+
+    <string name="namemeal4_2">Kaffesmoothie</string>
+    <string name="ingredientMeal4_2">1 tsk snabbespressopulver \n\n1 msk varmt vatten \n\n1 liten banan, skalad, skuren och fryst \n\n&#188; kopp fettfri mjölk \n\n1 msk honung \n\n&#189; kopp isbitar \n\nmald kanel</string>
+    <string name="stepsMakeMeal4_2">I en mixer kombineras espressopulver och varmt vatten, låt vila i en minut. Lägg till banan, mjölk och honung. Täck och blanda tills det är mjukt. Tillsätt is tills du uppnår önskad konsistens. Stänk lätt med kanel. Njut!</string>
+
+
+    <string name="namemeal4_3">Kyckling &amp; Ananaswok</string>
+    <string name="ingredientMeal4_3">110 g kycklingbröst, 4 oz \n\n40 g ananas, 1,4 oz \n\n120 g brunt ris, 4,4 oz \n\n&#8531; msk olivolja \n\n&#189; tsk brun senap \n\n1/6 msk rökt paprika \n\nhavssalt \n\npeppar</string>
+    <string name="stepsMakeMeal4_3">Hacka de rika kycklingbrösten i små bitar. Smaka på kycklingbitarna med rökt paprika och brun senap. Tillsätt olivolja till en stekpanna och kasta sedan i kycklingbröstbitarna. Koka i ca 4 minuter tills kycklingen är ca 80% färdig, tillsätt sedan hackad paprika. Koka i ytterligare 2 eller 3 minuter innan du lägger den tärnade ananasen. Njut!</string>
+
+
+    <string name="namemeal4_4">Råa chokladtrufflar</string>
+    <string name="ingredientMeal4_4">1 dl valnötter, cashewnötter och mandlar kvar i vatten över natten \n\n3&#8211;4 msk mandelmjölk \n\n0.5 dl solrosfrön \n\n0.5 dl pumpafrön \n\n2 msk carobpulver \n\n3 msk kokosflingor</string>
+    <string name="stepsMakeMeal4_4">Lägg allt i mixern förutom kokosflakorna och mixa. Börja med att göra små bollar från blandningen med en glassscoop. Rulla varje godis i kokosflingor. Servera kallt. Njut!</string>
+
+
+    <string name="namemeal4_5">Bakad lax med grönsaker</string>
+    <string name="ingredientMeal4_5">2 laxfiléer \n\n2.5 dl skivad zucchini \n\n2.5 dl broccoli \n\n&#189; kopp körsbärstomater \n\nsalt \n\npeppar \n\nolivolja</string>
+    <string name="stepsMakeMeal4_5">Förvärm ugnen till 200 grader. Kombinera grönsaker på en stor panna. Krydda grönsakerna med salt, peppar och olivolja. Placera filéerna bredvid grönsakerna och baka 18&#8211;20 minuter eller tills laxen är kokt och grönsakerna är mjuka. Njut!</string>
+
+
+    <string name="namemeal5_1">Banan och nötgröt</string>
+    <string name="ingredientMeal5_1">&#189; kopp havregryn \n\n1 kopp vatten \n\n1 skivad banan \n\n1 msk hackade valnötter \n\n1 msk kanel</string>
+    <string name="stepsMakeMeal5_1">Kombinera havre och 1 kopp vatten i en liten mikrovågssäker skål. Mikra vid hög temperatur i 3 minuter. Toppa med bananskivor, valnötter och kanel. Njut!</string>
+
+
+    <string name="namemeal5_2">Pink Power</string>
+    <string name="ingredientMeal5_2">2 dl små färska blomkålfloretter \n\n2 koppar vattenmelonbitar (frön och skenorna avlägsnas) \n\n1,5 koppar hela jordgubbar \n\n1 paket grekisk jordgubbsyoghurt \n\n2 msk jordgubbssylt (tillval)</string>
+    <string name="stepsMakeMeal5_2">I en liten kastrullkock blomkål, täck den med kokande vatten tills mycket mjuk. I en mixer kombineras kokt blomkål, vattenmelon, jordgubbar, yoghurt och, om så önskas, jordgubbssylt. Njut!</string>
+
+
+    <string name="namemeal5_3">BBQ Kyckling&#8211;inlindade sparris</string>
+    <string name="ingredientMeal5_3">2 kycklingbröst tunt skurna \n\n12 sparris \n\n2 msk bbq sås \n\n1 nypa rökt paprika \n\n1 nypa vitlökspulver \n\n1 nypa peppar</string>
+    <string name="stepsMakeMeal5_3">Ställ ugnen på 400 ° F / 200 ° C. Platta till kycklingen med en hammare. Krydda kycklingen med 1 msk grillsås (för varje bit) och ditt urval av kryddor. Placera kycklingen på en grill med öppet vänd nedåt. Baka i ugnen eller rök på en grill i ca 8 till 10 minuter. Njut av!</string>
+
+
+    <string name="namemeal5_4">Gingerkarmeric örtte</string>
+    <string name="ingredientMeal5_4">2 koppar vatten \n\n&#189; tesked hackad färsk ingefära \n\n&#189; tesked kanel \n\n1 matsked honung \n\n1 citronkil</string>
+    <string name="stepsMakeMeal5_4">Koka upp vatten i en liten kastrull, tillsätt gurkmeja, ingefära och kanel. Minska värmen till låg och sjud i 10 minuter. Häll te i ett stort glas, tillsätt honung och citron. Njut!</string>
+
+
+    <string name="namemeal5_5">Grillad Räka &amp; Avokado Kabobs</string>
+    <string name="ingredientMeal5_5">450 g jumboräka \n\n1,5 avokado \n\n1 röd paprika \n\n1 orange paprika \n\n1 gul paprika \n\n1 rödlök \n\n1 tsk vitlökspasta \n\n&#189; msk extra jungfruolja \n\n1 lime \n\nsalt peppar</string>
+    <string name="stepsMakeMeal5_5">Ställ in grillen till ca 200 ° C. Haka grönsaker och avokado i stora bitar för kabob. Skala räkorna och krydda. Välj fibrösa grönsaker eftersom de fyller mer och kommer troligen att hålla sig bra på ett spett under intensiv värme. Placera spetten på grillen och grilla i ca 8&#8211;10 minuter och vänd sedan om och koka i ytterligare 8 till 10 minuter. Njut!</string>
+
+
+    <string name="namemeal6_1">Morgonparfait</string>
+    <string name="ingredientMeal6_1">&#188; kopp russin och 1 tsk finfördelad apelsinskalning \n\n1 tsk vanilj \n\nHalvt paket med fettfattig Neufchatelost (färskost) \n\nbrödsmulor \n\n2 dl färska hallon, blåbär, skivade jordgubbar och/eller skurna persikor \n\n1.5 dl fettfattig granola \n\nhonung \n\nstrimlade apelsinskal</string>
+    <string name="stepsMakeMeal6_1">Blanda brödsmulor och ost, strö över bakpannan. I med olja. Baka i 20 till 25 minuter. I fyra glas, placera lag av färskostblandningen, ett lager av frukt och ett lager av granola. Upprepa lagren till toppen av glasen. På med honung och toppa med ytterligare apelsinskal. Gör 4 portioner. Njut!</string>
+
+
+    <string name="namemeal6_2">Grönt te Kiwi och Mango</string>
+    <string name="ingredientMeal6_2">7 dl fryst tärnad mango \n\n1 dl vanil yoghurt \n\n2 msk honung \n\n2 msk vatten \n\n3 mogna kiwi \n\n2 koppar isbitar \n\n0.5 dl babyspenat \n\n2 msk grönt te</string>
+    <string name="stepsMakeMeal6_2">Placera mango, &#189; kopp yoghurt, 2 matskedar honung, 2 matskedar vatten och limeskal i en mixer, mixa. Placera &#188; kopp yoghurt, 2 matskedar honung, kiwifrukter och nästa 3 ingredienser i en mixer och blanda. Njut!</string>
+
+
+    <string name="namemeal6_3">Citrus kycklingwok</string>
+    <string name="ingredientMeal6_3">140 g kycklingbröst, små bitar \n\n34 g broccolini \n\n25 g baby portobello svamp \n\n&#188; röd paprika \n\n20 g rödlök \n\nKokosoljespray \n\nsesamfrön \n\n&#188; tsk pilbladstärkelse \n\n1/8 msk vitlökpasta \n\n&#188; tsk ginger pasta</string>
+    <string name="stepsMakeMeal6_3">Blanda alla ingredienser i en skål. Spraya en stekpanna med kokosnötolja och sätt på mediumvärme. Kasta i kycklingbitarna och koka tills de är ca 85% färdiga. Kasta sedan i grönsakerna och rör om med en spatel. Njut av!</string>
+
+
+    <string name="namemeal6_4">Grillad mexikansk majs</string>
+    <string name="ingredientMeal6_4">4 öron majs \n\n3.5 dl gräddfil \n\n1 kopp riven parmesan \n\n1 lime, juice \n\nrött chilipulver \n\n2 lime i skivor, för garnering</string>
+    <string name="stepsMakeMeal6_4">Grilla majsen på en varm grill tills den börjar bli lite förkolad. Blanda i en liten skål majonnäs, gräddfil och koriander. Täck med  majs, limejuice och krydda med parmesan. Strö med chili pulver. Njut!</string>
+
+
+    <string name="namemeal6_5">Laxburgare med Avokado</string>
+    <string name="ingredientMeal6_5">350 g laxfilé \n\n1 kopp brödsmulor \n\n1 ägg \n\n1 msk citronsaft \n\nsalt och peppar \n\nolivolja \n\n1 stor avokado \n\n1 dl hackad rödlök \n\n1 limejuice</string>
+    <string name="stepsMakeMeal6_5">Haka laxfileten i små bitar och överför den till en blandningsskål. Rör försiktigt in resten av ingredienserna. Låt blandningen vila i 5&#8211;10 minuter. Värm lite olja i en stor grillpanna över medelvärme. Forma burgare från laxblandningen. Stek tills de är bruna på båda sidorna ca 4 minuter på varje sida. Njut!</string>
+
+
+    <string name="namemeal7_1">Jordgubbar Bananer och Nötbrödsgröt</string>
+    <string name="ingredientMeal7_1">150 g havregryn \n\n&#189; mosad banan \n\n50 g jordgubbar \n\n2 msk mandelmjölk \n\n1 msk vanilj extrakt \n\n2 msk hackade valnötter \n\nPaket stevia \n\nCitronskalsgarnering \n\n1 msk grekisk yoghurt (2% fetthalt) \n\n&#189; msk hackade valnötter \n\nvallmofrön</string>
+    <string name="stepsMakeMeal7_1">Koka havren enligt anvisningarna, lägg sedan åt sidan. Lägg alla ingredienser i en skål utom jordgubbarna och blanda noga. Toppa havregrynen med färskhackade jordgubbar. Garnera med grekisk yoghurt, hackade valnötter och vallmofrön. Njut!</string>
+
+
+    <string name="namemeal7_2">Jordgubb och banan</string>
+    <string name="ingredientMeal7_2">2 koppar jordgubbar \n\n1 fräsch skalad banan \n\n2 dl mjölk \n\n1 kubisis \n\n1 msk honung</string>
+    <string name="stepsMakeMeal7_2">Lägg till alla ingredienser i en mixer och blanda tills de är kombinerade. Om smoothien är för tjock, tillsätt mer mjölk. Om det är för tunt, lägg till mer frukt och/eller is. Njut!</string>
+
+
+    <string name="namemeal7_3">Kryddig &amp; Lätt Kung Pao Kyckling</string>
+    <string name="ingredientMeal7_3">150 g kycklingbröst \n\n1/6 vitlöksklyfta \n\n33 g ärter \n\n150 g paprika \n\n2/3 msk vatten \n\n&#8531; msk tomatsås \n\n1 msk färsk ingefära \n\n1 msk röd chili pepparsås \n\n1 ml risvinäger \n\nhackad grön lök</string>
+    <string name="stepsMakeMeal7_3">I en skål lägg till ingredienser för såsen och vispa. Ställ en stekpanna över medelvärme och spraya med olivolja. När stekpannan är het, kasta i vitlök och sear i ca 2 minuter. Lägg sedan till hackade kycklingbrösten. Koka kycklingen tills utsidan av den är stekt, ca 6 till 8 minuter. Kasta i hackad paprika och stek i ca 3 minuter. Häll långsamt i såsen och rör om ofta. Njut!</string>
+
+
+    <string name="namemeal7_4">Lavendel och Mintte</string>
+    <string name="ingredientMeal7_4">0.5 dl färska kronblad \n\n ett knippe färska mintblad \n\n4 koppar vatten</string>
+    <string name="stepsMakeMeal7_4">Placera lavendelkronbladen och myntabladen i en kastrull, häll vatten över och koka. Vrid värmen till låg och smäll te tills önskad styrka, 15 till 20 minuter. Njut!</string>
+
+
+    <string name="namemeal7_5">Foliefiskpaket med spenat och tomat</string>
+    <string name="ingredientMeal7_5">1 knippe sparris \n\n2 skivade tomater \n\n2 tilapiafiléer \n\nolivolja \n\n&#189; tsk chili vitlöksås \n\nsalt \n\n1 citron skivad</string>
+    <string name="stepsMakeMeal7_5">Förvärm ugnen till 200 grader °C. Blanda med olivolja, chilisås och salt i en liten skål. Placera sparrisspetten i mitten på en bit aluminiumfolie och lägg skivad tomat jämnt på toppen och krydda. Placera en fiskfilé ovanpå tomaterna i varje förpackning och sära fisken med olivoljeblandning. Ordna citronskivor över fisken. Baka fisken i ugnen under 25&#8211;30 minuter. Njut!</string>
+    <string name="cat_name13">Menyplan Viktnedgång</string>
+    <string name="focus_13">7 dagars plan för clean eating</string>
+    <string name="goal_13">Viktnedgång, snabbare ämnesomsättning.</string>
+    <string name="extraDescription13">Nå din bästa form, någonsin! Lär dig vad du ska äta, upptäck mat som bränner fett, ät smakrika måltider som ger dig snabbare ämnesomsättning.</string>
+    <string name="meal">Måltid %1$d</string>
+    <string name="ingredients">Ingredienser</string>
+    <string name="steps">Steg</string>
+    <string name="titleDay1">Hälsosamma recept som är goda och lättlagade</string>
+    <string name="descriptionDay1">För att hålla fettförbränningen på högsta nivå bör du äta din första måltid inom 1 timme från det att du vaknat.</string>
+    <string name="titleDay2">En hälsosam kost är grunden till en god hälsa</string>
+    <string name="descriptionDay2">Lösningen är att äta inom 1 timme från det att du vaknat. Detta kommer att sätta fart på din ämnesomsättning.</string>
+    <string name="titleDay3">Planera din frukost i förväg</string>
+    <string name="descriptionDay3">En snabb ämnesomsättning är oerhört viktig för din viktnedgång.</string>
+    <string name="titleDay4">Kolhydrater förser kroppen med energi</string>
+    <string name="descriptionDay4">Studier visar att 5 måltider om dagen är bästa lösningen för att upprätthålla en hälsosam kroppsvikt.</string>
+    <string name="titleDay5">Protein är viktigt för tillväxt och utveckling</string>
+    <string name="descriptionDay5">Kostplaner är viktiga för att upprätthålla en hälsosam livsstil.</string>
+    <string name="titleDay6">Du är vad du äter</string>
+    <string name="descriptionDay6">Det är helt sant, i alla fall om du vill att din att din kropp ska fungera så bra som möjligt.</string>
+    <string name="titleDay7">Kontrollera portionsstorleken genom att använda mindre tallrikar</string>
+    <string name="descriptionDay7">Ta hand om ditt tomma hjärta och minska samtidigt risken för känslomässigt ätande.</string>
+    <string name="days_plan">%1$d dagars plan</string>
+    <string name="extra">Extra</string>
+    <string name="exercise">TRÄNING</string>
+
+    <string name="timer">Timer</string>
+    <string name="ex_cat_88">Allt</string>
+    <string name="muscle">Muskel</string>
+
+    <string name="congrulation">Grattis!</string>
+    <string name="thnak_you">Tack!</string>
+    <string name="after_update">Du har 50 nya övningar, 7 nya träningsplaner, 1 näringsplaner och inga annonser.</string>
+    <string name="first_restore">Du har Premium-version. 7 träningsplaner och 1 näringsplaner har lagts till för dig.</string>
+    <string name="upgrade_new">UPGRADE</string>
+    <string name="description_upgrade">Lås upp alla nya program skapade av våra bästa tränare. Uppnå dina mål enklare.</string>
+    <string name="no_ads">INGA ANNONSER</string>
+    <string name="no_ads_description">TA BORT ALLA ANNONSER. NJUT AV DINA ARBETSSEMINARIER UTAN ANNONSER</string>
+    <string name="noty_sound">Meddelanden ljud</string>
+    <string name="noty_sound_description">Välj din speciella ton för meddelande så att du inte missar något</string>
+    <string name="new_workouts">NYA ARBETSUTSÄTTNINGAR</string>
+    <string name="new_workouts_desription">7 NYA ARBETSPROGRAMER SOM ÄR SÄNDADE FÖR VARJE MUSKELGRUPP OCH FITNESSMÅL FÖR ATT FOKUSER PÅ MAXIMUMRESULTAT.</string>
+    <string name="upgrade_header">Uppgradera för att låsa upp nya 50 övningar, 10 träningsplaner, 2 näringsplaner och ta bort annonser.</string>
+    <string name="sound">Ljud</string>
+    <string name="buy">Köp</string>
+
+    <string name="one_time_payment">engångsbetalning</string>
+    <string name="get_lifetime_access">FÅ LIVSTIDS TILLGÅNG</string>
+    <string name="_3_days_for_free">7 dagar GRATIS</string>
+    <string name="get_workouts_courses_with_powerful_support">Få 100% kompletta träningsprogram med tydliga stödfunktioner!</string>
+    <string name="only_now">Bara just nu</string>
+    <string name="start_your_positive_transformation_today">Starta din\nförvandling idag!</string>
+    <string name="try_it_now">Prova nu</string>
+    <string name="_3_day_nfree_trial">3-dagars \nGratis testperiod</string>
+    <string name="_7_day_nfree_trial">7-dagars \nGratis testperiod</string>
+    <string name="new_workoutsN">Nya \nträningspass</string>
+    <string name="month">/månad</string>
+    <string name="year">/år</string>
+    <string name="monthly_slim">Månadsvis</string>
+    <string name="after">efter</string>
+    <string name="nutritionPlanName2">VIKTNEDGÅNG</string>
+    <string name="nutritionPlanName1">MUSKELBYGGE</string>
+    <string name="nutrition_plans">Kost planer</string>
+    <string name="title_11">Övningar</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer name="workouts_layout_frame_weight">5</integer>
+	<integer name="workouts_layout_button_weight">1</integer>
+</resources>

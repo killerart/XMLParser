@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Water Reminder</string>
+	<string name="welcome">欢迎</string>
+	<string name="info_input_text">请在开始前输入您的信息</string>
+	<string name="units_of_measure">测量单位</string>
+	<string name="gender">性别</string>
+	<string name="weight">重量</string>
+	<string name="training">训练</string>
+	<string name="wake_up">起床</string>
+	<string name="sleep">睡觉</string>
+	<string name="metric">公制</string>
+	<string name="imperial">英制</string>
+	<string name="kg">公斤</string>
+	<string name="lbs">英镑</string>
+	<string name="ml">毫升</string>
+	<string name="l">公升</string>
+	<string name="oz">盎司</string>
+	<string name="male">男</string>
+	<string name="female">女</string>
+	<string name="receive_notifications_from">接收通知自</string>
+	<string name="receive_notifications_until">接收通知直到</string>
+	<string name="done">完成</string>
+	<string name="reset_to_recommended">重设至推荐配置</string>
+	<string name="required_water_consumption_text">您每天应该饮用 %s 的水，\n但是您也可以更换这个数目</string>
+	<!-- mainviewcontroller -->
+	<string name="today">今天</string>
+	<string name="add_drink">增加饮料</string>
+	<string name="select_drink">选择饮料</string>
+	<string name="of">的</string>
+	<string name="are_you_sure_you_want_to_delete_selected_drink">您是否要删除所选定的饮料？</string>
+	<string name="cancel">取消</string>
+	<string name="ok">好的</string>
+	<string name="delete_drink">删除饮料</string>
+	<string name="edit_drink">编辑饮料</string>
+	<!-- tabbarcontroller -->
+	<string name="home">主页</string>
+	<string name="remind">提醒</string>
+	<string name="history">历史记录</string>
+	<string name="settings">设定</string>
+	<!-- reminderviewcontroller -->
+	<string name="reminder_type">提醒类型</string>
+	<string name="every">每一</string>
+	<string name="minutes">分钟</string>
+	<string name="hour">小时</string>
+	<string name="hours">小时</string>
+	<string name="save">储存</string>
+	<string name="sound">声音</string>
+	<!-- historyviewcontrolelr -->
+	<string name="week">周</string>
+	<string name="month">月</string>
+	<!-- settingsviewcontroller -->
+	<string name="default_drink_size">默认的喝水容量</string>
+	<string name="rate_the_app">为应用程序评级</string>
+	<string name="contact_us">联络我们</string>
+	<string name="share_app">分享应用程序</string>
+	<string name="other_apps">其他应用程序</string>
+	<string name="achievements">成就</string>
+	<!-- contact us -->
+	<string name="enter_text_message">输入文字信息</string>
+	<!-- getfullversionviewcontroller -->
+	<string name="buy">订购</string>
+	<string name="no_ads">没有广告</string>
+	<string name="restore_purchases">恢复订购</string>
+	<string name="notifications_sound">通知声音</string>
+	<string name="more_drinks">更多饮料</string>
+	<string name="water_plays_a_very_important_role_in_your_body_use_the_app_effectively_and_lead_an_active_lifestyle">水对人体十分重要，使用此应用程序过一个正面健康的生活。</string>
+	<string name="remind_drinking_water_on_time_more_effectively_without_the_distraction_of_ads">在不受广告干扰的情况下，更有效地提醒自己准时喝水。</string>
+	<string name="choose_your_special_tone_for_notification_not_to_miss_anything">选择您独特的通知声调，不要错过任何通知</string>
+	<string name="add_multiple_types_of_drinks_to_get_precise_result">增加多种类型的饮料以获得准确的结果</string>
+	<!-- otherappsviewcontroller -->
+	<!-- achievements -->
+	<string name="first_glass">第一杯</string>
+	<string name="first_day">第一天</string>
+	<string name="one_week">一周</string>
+	<string name="_30_days">30天</string>
+	<string name="_100_days">100天</string>
+	<string name="_365_days">365天</string>
+	<string name="congratulations">恭喜!</string>
+	<string name="you_got_an_award">您得奖了!</string>
+	<string name="see_all_awards">查看所有奖项</string>
+	<string name="share_with_friends">与朋友分享</string>
+	<string name="you_earned_this_award_for_your_first_glass">您因第一杯水而获得此奖项</string>
+	<string name="you_earned_this_award_for_your_first_day">您因完成第一天而获得此奖项</string>
+	<string name="you_earned_this_award_for_completing_your_first_week">您因完成第一周而获得此奖项</string>
+	<string name="you_earned_this_award_for_completing_your_first_30_days">您因完成首个30天而获得此奖项</string>
+	<string name="you_earned_this_award_for_completing_your_first_100_days">您因完成首个100天而获得此奖项</string>
+	<string name="you_earned_this_award_for_completing_your_first_365_days">您因完成首个365天而获得此奖项</string>
+	<!-- drinks -->
+	<string name="water">水</string>
+	<string name="coffee">咖啡</string>
+	<string name="tea">茶</string>
+	<string name="milk">牛奶</string>
+	<string name="orange_juice">橙汁</string>
+	<string name="soda">苏打</string>
+	<string name="wine">酒</string>
+	<string name="other">其他</string>
+	<string name="beer">啤酒</string>
+	<string name="coconut_water">椰子水</string>
+	<string name="energy_drink">能量饮料</string>
+	<string name="yogurt">优格</string>
+	<string name="smoothie">思暮雪</string>
+	<string name="hot_chocolate">热巧克力</string>
+	<string name="kefir">克菲尔</string>
+	<string name="cacao">可可</string>
+	<string name="chicory">菊苣</string>
+	<string name="milkshake">奶昔</string>
+	<string name="bouillon">肉汤</string>
+	<string name="ayran">土耳其式酸牛奶</string>
+	<string name="cranberry">蔓梅</string>
+	<string name="compote">果盘</string>
+	<string name="sport_drink">运动饮料</string>
+	<string name="protein">蛋白质</string>
+	<string name="kvass">淡啤酒</string>
+	<string name="lemonade">柠檬水</string>
+	<string name="kombucha">红茶菌</string>
+	<string name="kissel">基赛尔</string>
+	<string name="mate">马黛</string>
+	<string name="latte">拿铁</string>
+	<string name="whisky">烈酒</string>
+	<string name="soya_milk">豆浆</string>
+	<string name="cider">苹果酒</string>
+	<string name="barley_drink">大麦饮料</string>
+	<string name="spritz">斯普茨</string>
+	<string name="bubble_tea">珍珠奶茶</string>
+	<string name="decaf_coffee">无咖啡因的咖啡</string>
+	<string name="oolong_tea">乌龙茶</string>
+	<string name="non_alc_beer">非酒精啤酒</string>
+	<string name="intake_time">进入时间</string>
+	<string name="cappuccino">热奶咖啡</string>
+	<string name="herbal_tea">凉茶</string>
+	<string name="sparkling_water">苏打水</string>
+	<string name="cola">可乐</string>
+	<string name="slurpee">思乐冰</string>
+	<string name="flat_white">平白咖啡</string>
+	<string name="oatmeal_drink">燕麦饮料</string>
+	<string name="sake">清酒</string>
+	<string name="matcha">抹茶</string>
+	<string name="sangria">西班牙果酒</string>
+	<string name="mojito">莫吉托</string>
+	<string name="cucumber_water">黄瓜水</string>
+	<string name="lemon_water">柠檬水</string>
+	<string name="ice_tea">冰茶</string>
+	<string name="kool_aid">库尔急救</string>
+	<string name="almond_milk">杏仁奶</string>
+	<string name="aloe_juice">芦荟汁</string>
+	<string name="tonic_water">汤力水</string>
+	<string name="chai_tea">柴茶</string>
+	<string name="rice_drink">米饭饮料</string>
+	<string name="diet_coke">健怡可乐</string>
+	<string name="zero_coke">零可乐</string>
+	<string name="lowfat_milk">低脂牛奶</string>
+	<string name="mors">莫尔斯</string>
+	<string name="golden_milk">金牛奶</string>
+	<string name="buttermilk">酪</string>
+	<string name="cordial_juice">果汁</string>
+	<string name="apple_juice">苹果汁</string>
+
+	<!-- new -->
+	<string name="upgrade">升级</string>
+	<string name="everyday">每天</string>
+	<string name="reminder_alert_title">提醒器已开启，时间是介于 %1$s 到 %2$s</string>
+	<string name="week_of">x的那一周</string>
+	<string name="first_notification_text">水警示：喝多一点水</string>
+	<string name="second_notification_text">是时候喝多一点水了</string>
+	<string name="third_notification_text">您的身体需要水。喝多一点水。</string>
+	<string name="drink_enough_water_txt">使用这个厉害的应用程序，帮助您每天喝足够的水，保持身体健康 %s</string>
+
+	<string name="enable_noty_query">通知访问已被禁用</string>
+	<string name="enable_noty">启用</string>
+	<string name="get_lifetime_access">获取终身使用权</string>
+</resources>

@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kadınlar İçin Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">Egzersizler</string>
+    <string name="title_2">Antrenmanlar</string>
+    <string name="title_3">Kişiye Özel</string>
+    <string name="title_4">Geçmiş</string>
+    <string name="title_5">Daha</string>
+    <string name="done">Bitti</string>
+    <string name="back">Geri</string>
+    <string name="titles">Başlık:  </string>
+    <string name="downl_vid">Video indiriliyor</string>
+    <string name="please_wait">Lütfen bekleyin...</string>
+    <string name="cancel">İptal</string>
+    <string name="edit">Düzenle</string>
+    <string name="work">Antrenmanım</string>
+    <string name="create_plus">Yeni bir antrenman oluşturmak için +’ya basın</string>
+    <string name="save">Kaydet</string>
+    <string name="workout_name">Antrenman Adı:</string>
+    <string name="days_title">Gün Sayısı:</string>
+    <string name="delete">Sil</string>
+    <string name="work_title">Antrenman Başlığı:</string>
+    <string name="options">Seçenekler:</string>
+    <string name="camera">Kamera/Galeri</string>
+    <string name="ex_phot_title">Egzersizin Fotoğrafları</string>
+    <string name="name_desc">Adı, Tanımı</string>
+    <string name="ex_name">Egzersiz Adı:</string>
+    <string name="desc">Tanım:</string>
+
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+
+    <string name="blanck">Lütfen metin alanını doldurun</string>
+    <string name="okey">Tamam</string>
+    <string name="realy_cancel">İndirme işlemini iptal etmek istediğinizden emin misiniz? Tüm ilerleme kaybedilecektir!</string>
+    <string name="download_all">Tüm videoları indir</string>
+    <string name="unzip">Dosyalar Çıkartılıyor</string>
+    <string name="files">Dosyalar</string>
+    <string name="dow_video">Videolar İndiriliyor</string>
+    <string name="video_saved">Tüm videolar başarıyla kaydedildi!</string>
+    <string name="conn">Lütfen wifi ve mobil internet bağlantınızı kontrol ediniz!</string>
+
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+
+    <string name="start">Başlat</string>
+    <string name="weight">Ağırlık(kg)</string>
+    <string name="repetitions">Tekrarlar</string>
+    <string name="set_s">Saniyeyi Ayarla</string>
+    <string name="wei">Ağırlık</string>
+    <string name="rep">Tekrarlar</string>
+    <string name="wei_rep">Performans</string>
+    <string name="no_history">Henüz hiçbir egzersiz yapılmadı</string>
+    <string name="last_val">Son değerler</string>
+    <string name="send_f">Geribildirim Gönder</string>
+    <string name="rep_bug">Hata Bildir</string>
+    <string name="tel_fr">Arkadaşına Bahset</string>
+    <string name="rate_us">Bizi Puanlayın</string>
+    <string name="ad">Ekle</string>
+
+    <string name="exit">Emin misiniz ?</string>
+    <string name="sdcard">SDCard Yok!!</string>
+    <string name="post_to">Duvara gönder</string>
+    <string name="not_loged">Giriş Yapılmadı</string>
+    <string name="log_fail">Giriş Başarısız</string>
+    <string name="posting">Gönderiliyor </string>
+    <string name="posting_succes">Başarıyla Gönderildi</string>
+    <string name="email_sent">Eposta Gönderildi</string>
+    <string name="email_notsent">Eposta Gönderilmedi</string>
+
+
+    <string name="reps1">3 set ve 12/12/12 tekrar</string>
+    <string name="reps2">3 set ve 15/15/15 tekrar</string>
+    <string name="reps3">3 set ve 20/20/20 tekrar</string>
+    <string name="reps4">3 set ve 30/30/30 tekrar</string>
+
+    <string name="app_name_fast">Fitness &amp; Vücut Geliştirme</string>
+    <string name="wk1">Belinizde, kollarınızda ve göğsünüzde fazla yağ biriktirmeye meyilliyken alt gövdenizde ise çok az yağ miktarı bulunur.  Üst gövdeniz için yoğunlaştırılmış kombine egzersizlerle forma girin.</string>
+    <string name="wk2">Çok az kıvrım dışında tamamen çubuk gibi düzsünüz. Muz vücut türü için geliştirilmiş olan bu antrenmanla birlikte göğsünüze biraz daha form verin ve kalça kaslarınızı şekillendirin.</string>
+    <string name="wk3">Göğsünüz ve kalçalarınız belinize göre daha büyüktür. Bu kıvrım kıvrım antrenmanla tüm gövde kaslarınızı geliştirin ve o kollarınıza bir şekil verin.</string>
+    <string name="wk4">Geniş omuzlarınız ve dar kalçalarınız var. Bu baş aşağı üçgen vücut türü antrenmanı ile çekirdek gövdenizi sıkılaştırın ve kalça ve uyluklarınıza biraz şekil verin.</string>
+    <string name="wk5">Gövdenizin alt kısmı üst kısmına göre biraz daha geniş. Bu armut-dostu antrenmanımızla kollarınızı ve omuzlarınızı güçlendirirken, tüm vücudunuzu daha da sıkı bir hale getirin.</string>
+    <string name="dialog_future">Gelecek tarihler için veri girişi yapamazsınız!</string>
+    <string name="info">Gerçek vücut şeklinizi seçiniz.</string>
+
+    <string name="ex_guide_1">Elma</string>
+    <string name="ex_guide_2">Muz</string>
+    <string name="ex_guide_3">Kum Saati</string>
+    <string name="ex_guide_4">Baş Aşağı Üçgen</string>
+    <string name="ex_guide_5">Armut</string>
+    <string name="ex_name_1">Fitness Topu Dönmeli Crunch</string>
+    <string name="ex_desc_1">Hazırlık: Egzersiz topunun üzerine oturun. Top üzerinde ileri doğru yürüyün ve topun üzerine sırt üstü omuzlar ve kafa sarkacak ve dizler ve kalçalar bükülü olacak şekilde uzanın. Hafifçe belinizi topun üzerinde uzatın. Ensenizin arkasında veya göğsünüzde iki elinizle bir plaka tutun veya hiç ağırlık kullanmayın. Üst gövdenizi belinizi kasın. Orijinal pozisyona geri dönün. Tekrarlayın.</string>
+    <string name="ex_name_2">Denge Topu Plank Pike-Up</string>
+    <string name="ex_desc_2">Yakınınıza bir egzersiz topu koyun ve topun önüne elleriniz omuz açıklığında şınav pozisyonunda uzanın. Şimdi alt kaval kemiklerinizi egzersiz topunun üzerine yerleştirin. İpucu: Bu noktada bacaklarınız, kaval kemikleriniz topun üzerindeyken, tamamen uzatılmış olmalı ve üst gövdeniz ise önünüzde uzatılmış olan kollarınız tarafından desteklenecek şekilde şınav türü bir pozisyonda olmalıdır. Bu, sizin başlangıç pozisyonunuz olacaktır: - Belinizi tamamen düz bir şekilde ve üst gövdenizi tamamen sabit bir şekilde tutarak, kalça kaslarınızı tavana doğru kaldırın, göğüs kafesiniz ve kalçalarınız arasındaki mesafeyi kapamak için karın kaslarınızı sıkıca kasın. Sonuç olarak yüksek köprü pozisyonuna varacaksınız. – Hareketin bu kısmını yaparken nefes verin. – Nefes alırken, yavaşça başlangıç pozisyonunuza doğru aşağı doğru geri inin. İpucu: Belinizin aşağı doğru bel vermesine izin vermeyin. Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_3">Parmak ucu Dokunucuları</string>
+    <string name="ex_desc_3">Başlamak için, sırtınız yere doğru bastırılmış bir şekilde yere veya egzersiz matına uzanın. Kollarınız, avuç içleriniz yere bakacak şekilde iki yanınızda uzanmalı. Bacaklarınız birbirine değiyor olmalı. Bacaklarınızı dizlerden 90 derece bükülü olarak yavaşça zemine neredeyse dik bir hale gelene kadar kaldırın. Belinizin alt kısmını yere doğru bastırarak, yavaşça gövdenizi kaldırın ve parmak uçlarınıza dokunmak için ellerinizi uzatmayı deneyin. Egzersizin bu kısmını yaparken nefes vermeyi unutmayın. Nefes alırken yavaşça gövdenizi indirmeye başlayın ve başlangıç pozisyonunuza geri dönün. Kollarınızı düz bir şekilde parmak uçlarınıza doğru tutmayı unutmayın.  Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_4">Bacak İçeri Çekme</string>
+    <string name="ex_desc_4">Bacaklarınız uzanmış ve avuç içleriniz yanlarınızda yere bakacak şekilde egzersiz matına uzanın. Bu sizin başlangıç pozisyonunuz olacaktır: - Sırtınızı yere doğru bastırarak yavaşça gövdenizi kaldırın.  Egzersizin bu kısmını yaparken nefes vermeyi unutmayın. – Dizlerinizi bükün ve üst uyluklarınızı nefes verirken gövdenizin orta kısmına doğru çekin. Bu harekete dizleriniz göğüs seviyenize gelene kadar devam edin. – Bu hareketi yaparken karın kaslarınızı kasın ve en yüksek noktada birkaç saniye tutun. İpucu: Bu hareketi yaparken, alt bacaklarınız (baldırlar) her zaman zemine paralel olmalıdır. – Nefes alırken başlangıç pozisyonunuza geri dönün. Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_5">Plank &amp; Şınav (Yukarı-Aşağı Plank)</string>
+    <string name="ex_desc_5">Bu egzersize şınav pozisyonunun yüksek plank pozisyonunun en üst noktasında başlayın. Ellerinizin hemen omuzlarınız altında olduğundan, bacaklarınızın düz olduğundan &amp; çekirdek gövdenizin angaje olduğundan emin olun (1. pozisyon). Bu pozisyonu 15 saniye süreliğine tutun. Dizleriniz üzerine düşmeden, üst kollarınıza doğru aşağı inin. Düşük plank pozisyonuna doğru inerken, matın üzerine önkollarınızı birer birer koyun. Önkollarınız paralel bir şekilde, bu pozisyonu 15 saniyeliğine tutun (2. pozisyon). Daha sonra, iki kolunuz da düz bir halde yüksek plank pozisyonuna geri dönün.</string>
+    <string name="ex_name_6">Dağ Tırmanışçısı</string>
+    <string name="ex_desc_6">Kollarınız tamamen düz bir şekilde şınav pozisyonu alın. Vücudunuz başınızdan ayak bileklerinize kadar düz bir çizgi oluşturmalı [A]. Belinizin alt kısmının duruşunu değiştirmeden, sağ ayağınızı yerden kaldırın ve sol dizinizi yavaşça göğsünüze doğru hareket ettirin [B]. Başlangıç pozisyonunuza geri dönün ve sol bacağınızla tekrar edin. Set boyunca ileri ve geri şekilde değiştirin.</string>
+    <string name="ex_name_7">Uzanarak Yan Crunch</string>
+    <string name="ex_desc_7">Sol eliniz başınızın yanında ve bacaklarınız sol, sağın üzerine hafifçe yükselmiş şekilde sağ yanınıza doğru uzanın. Üst gövdenizi yukarı kaldırmaya ve daha sonra aşağı indirmeye başlayın; denge sağlamak için sağ dirseğinizi kullanın. Duraklayın, daha sonra başlangıç pozisyonuna dönün.</string>
+    <string name="ex_name_8">Yukarı V</string>
+    <string name="ex_desc_8">Sırt üstü düz bir şekilde uzanın ve kollarınızı başınızın üzerinde uzatın. Bu egzersiz için ellerinizi birleştirmenize gerek yoktur. Yavaş ve kontrollü bir şekilde, aynı anda kollarınızı ve bacaklarınızı gövdenizin orta kısmında buluşacak şekilde kaldırın.  Başlangıç pozisyonuna yavaş ve kontrollü bir şekilde geri uzanın. Gözleriniz tavana doğru bakmaya devam etsin.</string>
+    <string name="ex_name_9">Banka Zıplama</string>
+    <string name="ex_desc_9">30-60 cm önünüzde bir kutu ile başlayın. Ayaklarınız omuz genişliğinde açık bir şekilde ayakta durun. Bu sizin başlangıç pozisyonunuz olacaktır: - Zıplamaya hazırlık için; kollarınızı arkanızda sallayarak kısa bir çömelme hareketi yapın – Olabildiğince en yükseğe zıplamak için kalçalarınız, dizleriniz ve ayak bileklerinizden yükselerek bu pozisyondan zıplayın. – Kollarınızı öne ve yukarı doğru sallayın.- Bankın üzerine zıplayın; darbeyi bacaklar vasıtasıyla absorbe ederek dizleriniz bükülü olarak konun. – Arkanızı dönün ve ters yöne doğru bakın ve daha sonra banktan geri zıplayın.</string>
+    <string name="ex_name_10">Oturarak Makinede Çekiş</string>
+    <string name="ex_desc_10">Bu egzersiz için V-barı bulunan bir alt makara çekiş makinesine erişiminiz olması gerekmektedir. Not: V-barı, avuç içlerinizin birbirine bakmasını sağlayacak şekilde doğal bir tutuşa sahip olmanıza olanak tanır. Başlangıç pozisyonuna girmek için, öncelikle makineye oturun ve ayaklarınızı ön kısımda bulunan platforma veya sağlanmış olan crossbara yerleştirin; dizlerinizin hafifçe bükülü olduğundan ve kilitlenmemiş olduğundan emin olun. Belinizin doğal hizalanmasını bozmadan öne doğru eğilin ve V-bar tutmaçlarını kavrayın. Kollarınız uzatılmış bir şekilde, gövdeniz bacaklarınıza göre 90 derecelik bir açıya gelene kadar geriye doğru çekin. Beliniz hafifçe yay şeklini almış olmalı ve göğsünüz dışarı çıkmamalıdır. Barı önünüzde tuttuğunuzda, yanlarınızda hoş bir esneme hissediyor olmalısınız. Bu, bu egzersiz için başlangıç pozisyonunuzdur: - Gövdenizi sabit tutarak, tutmaçları karın kaslarınıza değene kadar gövdenize yakın tutarak kendinize doğru çekin. – Bu hareketi gerçekleştirirken nefes verin. Bu noktada, sırt kaslarınızı sert bir şekilde kasıyor olmalısınız. – Bu kasılmayı birkaç saniyeliğine tutun ve nefes alırken yavaşça orijinal pozisyonunuza geri dönün. Tavsiye edilen tekrar sayısı kadar tekrar edin. Uyarı: Gövdenizi ileri geri hareket ettirmekten kaçının çünkü bunu yaparak belinizin alt kısmının sakatlanmasına neden olabilirsiniz.</string>
+    <string name="ex_name_11">Geniş-Tutuşlu Yan Aşağı Çekişler</string>
+    <string name="ex_desc_11">Makaranın üst kısmına geniş bir bar takılmış bir aşağı çekiş makinesine oturun. Makinenin diz yastığının boyunuza uygun şekilde ayarlanmış olduğundan emin olun. Bu yastıklar, bara bağlanmış olan ağırlıkların gösterdiği mukavemet nedeniyle vücudunuzun yukarı kalkmasını önler. Saptanmış tutuş şeklini kullanarak avuç içleriniz ileriyi gösterecek şekilde barı kavrayın. Tutuşlar hakkında not: Geniş bir tutuş için, ellerinizin omuz açıklığından daha geniş bir seviyede açık olması gerekir. Orta genişlikte bir tutuş için, elleriniz omuz açıklığına eşit bir seviyede açık olmalıdır ve yakın bir tutuş içinse ellerinizin omuz açıklığından daha yakın bir seviyede açık olması gerekir. Seçili tutuş genişliğinde barı tutarken, her iki kolunuzda öne doğru uzatılmış bir şekilde, gövdenizi yaklaşık olarak 30 derecelik bir açıyla eğerek ve göğsünüzü dışarı çıkararak belinizin alt kısmında bir kıvrım sağlayın. Bu, sizin başlangıç pozisyonunuzdur: - Nefes verirken, omuzları ve üst kollarınızı aşağı ve geriye çekerek barı göğsünüzün üst kısmına gelene kadar aşağı doğru çekin. İpucu: Tam kasılı olduğunuz pozisyona ulaştığınızda sırt kaslarınızı kasmaya yoğunlaşın. – Üst gövdeniz sabit kalmalı ve yalnızca kollarınız hareket etmelidir. – Ön kollar barı tutmak dışında başka bir iş yapmamalıdır; bu yüzden barı ön kollarınızı kullanarak aşağı çekmeye çalışmayın. Kürek kemiklerinizi birbirine doğru sıkıştırma pozisyonunda bir saniye kasılı kaldıktan sonra, kollarınız tam olarak uzanacak ve yanlarınız tam olarak esneyecek şekilde barı yavaşça başlangıç pozisyonuna doğru kaldırın. – Hareketin bu kısmında nefes alın. Bu hareketi belirlenmiş olan tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_12">Hiper uzatmalar (Sırt Uzatmalar)</string>
+    <string name="ex_desc_12">Hiper uzatma bankına yüz üstü uzanın; ayak bilekleriniz güvenli bir şekilde ayak yastıklarına takılı olsun. Mümkünse, üst kısımda bulunan yastığı belinizden herhangi bir kısıtlama olmadan eğilmenize izin vermeye yetecek kadar yer bırakacak şekilde ayarlayın, böylece üst uyluklarınız geniş yastık boyunca düz bir şekilde uzansın. Vücudunuz düz bir şekilde kollarınızı önünüzde çapraz bir şekilde veya başınızın arkasında tutun. Bu sizin başlangıç pozisyonunuz olacaktır: İpucu: Önünüzde çapraz duran ellerinize biraz daha fazla direnç eklemek isterseniz kollarınızın altında ekstradan bir ağırlık levhası tutabilirsiniz. – Sırtınızı düz bir şekilde tutarak yapabildiğiniz kadar yavaşça belden öne doğru eğilmeye başlayın. – Bu hareketi gerçekleştirirken nefes alın. – Sırtınızı yuvarlamadan ve diz ardı kirişlerinizde güzel bir esneme hissedene kadar öne doğru gitmeye devam edin. İpucu: Bu egzersizi gerçekleştirirken belinizi asla yuvarlamayın. Ayrıca, bazı kişiler diğerlerine nazaran daha fazla ileri gidebilirler. Burada önemli olan şey, belinizi yuvarlamadan gidebileceğiniz noktaya kadar vücudunuzun izin verdiği ölçüde gitmektir. – Nefes alırken yavaşça gövdenizi başlangıç pozisyonuna doğru götürün. İpucu: Sırtınızın düz bir çizginin ötesinde yay şeklini almasından kaçının. Ayrıca, sırtınızı sakatlanmadan korumak için, hiçbir zaman gövdenizi salındırmayın. Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_13">Desteklenmiş Barfiks</string>
+    <string name="ex_desc_13">Yukarı çıkın ve barı yukarıdan aşağı inen bir şekilde tutun. Destek kaldıracına veya platformuna inin. Bazı destekli makineler platformda diz çökmenizi gerektirir. Eğer herhangi bir destekli makine kullanılmıyorsa, antrenman partnerinin gerektiğinde ayakları bacakların arkasından itmesine izin verin veya yükselişte kendinizi ayaklarla itin. Tutuş şekli çok genişse, hareketin aralığı azalacaktır.</string>
+    <string name="ex_name_14">Eğilerek İki-Dambıllı Çekiş</string>
+    <string name="ex_desc_14">Her elinizde bir dambılla (avuç içleri gövdenize bakacak şekilde), dizlerinizi hafifçe bükün ve belden eğilerek gövdenizi öne doğru götürün; eğilirken sırtınızı nerdeyse yere paralel olana kadar düz tuttuğunuzdan emin olun. İpucu: Başınızı yukarıda tuttuğunuzdan emin olun. Kollarınız yere ve gövdenize dik olarak salınırken ağırlıklar doğrudan önünüzde salınır bir şekilde olmalıdır. Bu sizin başlangıç pozisyonunuzdur: - Gövdenizi sabit tutarak, dambılları yanınıza doğru kaldırın (nefes verirken), dirseklerinizi vücudunuza yakın tutun (ön kollarınızla ağırlıkları tutmak dışında herhangi bir güç uygulamayın). – En yüksek kasılı pozisyonda, sırt kaslarınızı sıkın ve bir saniyeliğine tutun. – Nefes alırken, ağırlıkları tekrardan yavaşça aşağı indirin. Tavsiye edilen tekrar sayısı kadar tekrar edin. Uyarı: Bu egzersiz sırt sorunları olan kişiler için tavsiye edilmez.  Alt Makara Çekişi sırt problemleri olan kişiler için daha iyi bir seçenektir. Pozisyonu mükemmel bir şekilde koruduğunuzdan emin olun ve bel sakatlıklarına neden olacağından hiçbir zaman belinizi yuvarlamayın. Kullanılan ağırlık konusunda tedbirli olun; şüpheye düştüğünüz durumda, daha ağır olan yerine daha hafif olanı kullanın.</string>
+    <string name="ex_name_15">Tutulmuş Bacak Halter</string>
+    <string name="ex_desc_15">Bu egzersiz güvenlik nedeniyle en iyi çömelme (squat) askısında gerçekleştirilir. Başlamak için, barı boyunuza en uygun askıya ayarlayın. Doğru yükseklik seçildikten ve bar asıldıktan sonra, barın altına geçin ve omuzlarınızın arka kısmına doğru (ensenin hafif aşağısında) yerleştirin. Her iki taraftan, iki kolunuzu da kullanarak barı kavrayın ve önce bacaklarınızla iterek ve aynı anda gövdenizi düzleştirerek barı askıdan kaldırın. Askıdan birkaç adım uzaklaşın ve omuz genişliğinde orta seviyede bir duruş biçiminde bacaklarınızı konumlandırın. Başınızı sürekli yukarıda tutun, çünkü yere doğru bakmak dengenizi kaybettirebilir ve ayrıca beliniz tutulabilir. Bu sizin başlangıç pozisyonunuz olacaktır: - Bacaklarınızı sabit tutarak, nefes alırken gövdenizi öne doğru hareket ettirerek kalçalardan eğilin. – Gövdenizi yere paralel olana kadar aşağı indirin. – Nefes verirken, gövdenizi başlangıç pozisyonuna doğru yükseltmeye başlayın. Tavsiye edilen tekrar sayısı kadar tekrar edin. Uyarı: Bu hafife alınacak bir egzersiz değildir. Kullanılan ağırlık konusunda dikkatli olun; şüpheye düştüğünüz durumda, daha ağır olan yerine daha hafif olanı kullanın. Tutulmuş-bacak halteriyle günaydın hareketi oldukça güvenli bir egzersizdir ancak uygun şekilde gerçekleştirilmelidir.</string>
+    <string name="ex_name_16">Ters Kanat Çekiş</string>
+    <string name="ex_desc_16">Başlamak için, göğsünüz ve karnınız banka yaslı bir şekilde eğimli bir banka uzanın. Avuç içleriniz birbirine bakacak şekilde (doğal tutuş) her bir elinize bir dambıl alın. Kollarınızı, bankın açısına göre dik açıda olacak şekilde öne doğru uzatın. Ayak parmak uçlarınızın ball kısımlarıyla baskı uygularken bacaklarınız sabit olmalıdır. Bu başlangıç pozisyonudur: - Dirseklerin hafif bükülmesini sağlayarak, ağırlıkları dışarı ve birbirinde uzağa doğru (yanlara doğru) yay hareketi ile hareket ettirirken nefes verin. İpucu: Bu egzersizden en iyi sonucu almak için kürek kemiklerinizi birbirine doğru sıkıştırmaya çalışın. – Kollar, yere paralel olana kadar kaldırılmalıdır. – Kasılmayı hissedin ve nefes verirken ağırlıkları yavaşça başlangıç pozisyonuna doğru indirin. Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_17">Tek-Kollu Dambıl Çekişi</string>
+    <string name="ex_desc_17">Düz bir bak seçin ve bankın her iki yanına bir dambıl yerleştirin. Sağ bacağı bankın uç kısmının üzerine yerleştirin, üst gövdeniz yere paralel olacak şekle gelen kadar gövdenizi belden öne doğru eğin ve destek için sağ elinizi bankın diğer ucuna yerleştirin. Yerdeki dambılı almak için sol elinizi kullanın ve sırtınızın alt kısmını düz tutarak ağırlığı tutun. Avuç içiniz gövdenize bakıyor olmalıdır. Bu sizin başlangıç pozisyonunuz olacaktır: - Direnci doğrudan göğsünüzün yan kısmına doğru kaldırın, bunu yaparken üst kolunuz yan kısmınıza yakın ve gövdeniz sabit olsun. Bu adımı gerçekleştirirken nefes verin. İpucu: Tam kasılı pozisyona ulaştığınızda sırt kaslarınızı sıkıştırmaya yoğunlaşın. Ayrıca, hareketin sırt kasları ile yapıldığından ve kollar tarafından yapılmadığından emin olun. Son olarak, üst gövdeniz sabit olmalı ve yalnızca kollarınız hareket etmelidir. Önkollar dambılı tutmak dışında herhangi bir iş yapmamalıdır; bu yüzden dambılları yukarı doğru çekerken önkollarınızı kullanmaya çalışmayın. – Ağırlığı doğrudan başlangıç pozisyonuna doğru indirin. Bu adımı gerçekleştirirken nefes alın. Hareketi belirlenen tekrar sayısı kadar tekrar edin.\cf0  \cf2 Taraf değiştirin ve diğer kolla tekrar edin. Varyasyonlar: Tek-kollu çekişler ayrıca dambıl kullanmak yerine üst makara veya alt makara kullanılarak da yapılabilir.</string>
+    <string name="ex_name_18">Dambıl Biseps Bükmeler</string>
+    <string name="ex_desc_18">Her iki elinizde de bir kol mesafesinde bir dambılla dik bir şekilde ayakta durun. Dirseklerinizi gövdenize yakın tutun ve avuç içlerinizi ön tarafa bakacak şekilde olana dek döndürün. Bu sizin başlangıç pozisyonunuz olacaktır: - Şimdi, üst kollarınızı sabit tutarak, nefes verin ve biseplerinizi kasarken ağırlıkları bükün. – Bisepleriniz tamamen kasılana ve dambıllar omuz seviyenize gelene kadar ağırlıkları kaldırmaya devam edin. – Biseplerinizi sıkarken, kasılı pozisyonu birkaç saniyeliğine tutun. – Daha sonra nefes alın ve dambılları yavaşça başlangıç pozisyonuna doğru indirmeye başlayın. Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_19">Halter Bükme</string>
+    <string name="ex_desc_19">Omuz-açıklığında bir tutuşla bir halter tutarak gövdeniz dik bir halde ayakta durun. Avuç içleriniz ileri doğru bakmalı ve dirsekleriniz gövdenize yakın olmalıdır. Bu sizin başlangıç pozisyonunuz olacaktır: - Üst kolları sabit bir şekilde tutarken, nefes verirken, ağırlıkları ileri doğru bükün ve biseplerinizi kasın. İpucu: Yalnızca ön kollar hareket etmelidir. - Bisepleriniz tamamen kasılana ve halter omuz seviyenize gelene kadar ağırlıkları kaldırmaya devam edin. – Kasılı pozisyonu birkaç saniyeliğine tutun ve bisepleri sert bir şekilde sıkıştırın. – Nefes alırken, yavaşça barı başlangıç pozisyonuna doğru geri getirmeye başlayın. Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_20">Oturarak Halter Bükme</string>
+    <string name="ex_desc_20">Yaklaşık olarak omuz genişliğinde bir tutuşla bir halteri alttan yukarı doğru (avuç içleri ileri bakacak şekilde) kavrayın ve halter uyluklarınızın üzerinde duracak şekilde düze bir bankın ucuna oturun. Sırtınız dik, başınız ileri doğru ve ayaklarınız yere sıkıca basıyor olmalıdır. Bu sizin Oturarak Halter Bükme başlangıç pozisyonunuzdur: - Üst kollarınızı sabit ve gövdenize yakın bir şekilde tutarken nefes alın ve ağırlıkları tam bir kasılı pozisyona ulaşana kadar yukarı ve ileri doğru bükmeye başlayın. – Bir saniyeliğine tutun, biseplerinizi sıkıştırın ve ağırlığı kontrollü bir hareketle başlangıç pozisyonuna geri indirin.</string>
+    <string name="ex_name_21">Eğimli Bankta Yatarak Halter Bükme</string>
+    <string name="ex_desc_21">Eğimli bir banka, kollarınızla bir halter tutar şekilde ve yatay bir çizgide aşağı doğru sarkacak şekilde uzanın. Bu sizin başlangıç pozisyonunuz olacaktır: - Üst kollarınızı sabit tutarken, biseplerinizi sıkıştırarak, ağırlığı çıkarabildiğiniz kadar yükseğe bükün. Hareketin bu kısmını gerçekleştirirken nefes verin. İpucu: Yalnızca ön kollar hareket etmelidir. Kollarınızı sallamayın. – İkinci bir kasılmadan sonra, nefes alırken yavaşça başlangıç pozisyonuna doğru geri dönün. İpucu: En aşağı kadar gittiğinizden emin olun. Tavsiye edilen tekrar sayısı kadar tekrar edin. Varyasyonlar: Bu egzersizi bir E-Z bar veya dambıl kullanarak da yapabilirsiniz.</string>
+    <string name="ex_name_22">Ayakta Biseps Cable Bükme</string>
+    <string name="ex_desc_22">Alt makarasına cable bükme barı bağlanmış olan bir barı tutarken gövdeniz dik bir şekilde ayakta durun. Cable barını omuz genişliğinde kavrayın ve dirsekleri gövdeye yakın tutun. Avuç içleriniz yukarı doğru bakıyor olmalıdır (supinat tutuş). Bu sizin başlangıç pozisyonunuz olacaktır: - Üst kolları sabit bir şekilde tutarken, nefes vererek bisepleri kasarak ağırlıkları bükün. Yalnızca ön kollar hareket etmelidir. Harekete bisepleriniz tamamen kasılana ve bar omuz seviyesine gelene kadar devam edin. Kası sıkıştırırken, kasılı pozisyonu bir saniyeliğine tutun. -  Nefes alırken, yavaşça bükme barını başlangıç pozisyonuna doğru geri götürmeye başlayın. Tavsiye edilen tekrar sayısı kadar tekrar edin. Varyasyon: Bu hareketi bir E-Z halter bağlantısı veya tekli tutmaç kullanarak da gerçekleştirebilirsiniz.</string>
+    <string name="ex_name_23">Kalça Kası Geri Tekme</string>
+    <string name="ex_desc_23">Yere veya egzersiz matının üzerine diz çökün ve kollarınız önünüze doğru uzatılmış şekilde diz üstü şınav pozisyonuna girmek için kollarınızı öne doğru uzatarak (gövdenize dik olacak şekilde) belinizden eğilin ancak kollarınız omuz açıklığında olsun. Başınız öne doğru bakıyor olmalı ve dizlerinizin bükülmesi diz ardı kirişleriniz ve baldırlarınız arasında 90-derecelik bir açı oluşturmalıdır. Bu sizin başlangıç pozisyonunuz olacaktır: - Nefes verirken, 90 derecelik bir eğilme sağlarken, sağ bacağınızı diz ardı kirişleriniz sırtınızla bir çizgide olana kadar kaldırın. – Bu hareket boyunca kalça kaslarınızı kasın ve en üst noktada kasılmayı bir saniyeliğine tutun. İpucu: Hareketin sonunda, üst bacağınız zemine paralel, baldırınız ise dik bir şekilde olmalıdır. – Nefes alırken başlangıç pozisyonuna geri dönün ve şimdi hareketi sol bacağınızla tekrar edin. – Tavsiye edilen tekrar sayısına ulaşana kadar bacak değiştirerek hareketi yapmaya devam edin. Varyasyonlar: Bu egzersiz için tüm tekrarları önce bir bacak için tamamladıktan sonra diğer bacağa geçebilirsiniz. Ek olarak ayrıca bilek ağırlıkları da ekleyebilirsiniz.</string>
+    <string name="ex_name_24">Tek Bacak Kalça Kası Köprüsü</string>
+    <string name="ex_desc_24">Ayaklarınız bankın üzerinde ve dizleriniz bükülü bir şekilde yere uzanın. Bir bacağınızı kaldırarak dizinizi göğsünüze çekin. Bu sizin başlangıç pozisyonunuz olacaktır: - Hareketi, topuktan başlatarak, kalçanızı yukarı doğru uzatarak ve kalça kaslarınızı yerden kaldırarak gerçekleştirin. – Olabildiğince uzanın, bekleyin ve başlangıç pozisyonuna geri dönün.</string>
+    <string name="ex_name_25">Tek Bacak Tutulmuş-Bacak Deadlift</string>
+    <string name="ex_desc_25">Ayaklarınız bitişik ve elleriniz hemen uyluklarınızın önünde duracak şekilde ayakta durun. Ayağınız yerden hemen kalkacak bir şekilde bacağınızı kaldırın. Gövdenizi ileri ve aşağı doğru indirirken, kaldırmış olduğunuz bacağı arkanıza doğru yükseltin. Kalçayı ve kaldırılan bacağı hareket boyunca uzatılmış halde tutun. Esneme hissedildiğinde veya eller zemine temas ettiğinde, gövdenizi yükselterek ve kaldırmış olduğunuz bacağı indirerek orijinal pozisyona geri dönün. Gövde dik bir hale gelirken, destekleyen bacağın dizini düzleştirin. Tekrar edin.</string>
+    <string name="ex_name_26">Tek-Bacaklı Cable Geri Tekme</string>
+    <string name="ex_desc_26">Makaranın alt kısmına deri bir ayak bileği kelepçesi bağlayın ve daha sonra kelepçeyi ayak bileğinize takın. Ağırlık yığınına yaklaşık 60 cm uzaklıkta yüzünüz dönük bir şekilde dururken, destek için çelik çerçeveye tutunun. Dizlerinizi ve kalçanızı hafif eğili ve karın kaslarınızı da gergin bir şekilde tutarak, çalışan bacağı, rahat bir şekilde gideceği yüksekliğe kadar, yarım dairesel bir yay oluşturacak şekilde geriye doğru tekmelerken nefes verin ve kalça kaslarınızı kasın. İpucu: Tam kasılma pozisyonunda, e yüksek kasılmayı elde etmek için kalça kaslarınızı bir saniyeliğine sıkıştırın. Şimdi çalışan bacağınızı, kablonun yarattığı dirence karşı durarak, yavaşça başlangıç pozisyonuna ulaşana kadar öne doğru getirin. Tavsiye edilen tekrar sayısı kadar tekrar edin. Bacakları değiştirin ve diğer taraf için hareketi tekrar edin. Varyasyonlar: Bu egzersizi egzersiz bantları ile de gerçekleştirebilirsiniz.</string>
+    <string name="ex_name_27">Smith Makinesi – Eğimli Bankta Basma</string>
+    <string name="ex_desc_27">Bir Smith makinesinin altına eğimli bir bank yerleştirin. Uzandığınızda ve kollarınızı tamamen uzattığınızda ulaşabileceğiniz bir yüksekliğe halteri yerleştirin. İhtiyacınız olan ağırlık seçildikten sonra, eğimli banka uzanın ve göğsünüzün üst kısmının halter ile hizalandığından emin olun. Omuz açıklığından daha geniş bir pronat tutuş (avuç içleri ileriyi gösterecek şekilde) kullanın; halteri askıdan alın ve kollarınız kilitli bir şekilde halteri doğrudan üstünüzde tutun. Bu sizin başlangıç pozisyonunuz olacaktır: - Nefes alırken, halteri üst göğsünüzde hissedene kadar yavaşça aşağı doğru getirin. – Bir saniyelik bir duruştan sonra, nefes verirken halteri başlangıç pozisyonuna göğüs kaslarınızı kullanarak geri getirin. Kasılı pozisyonda kollarınızı kilitleyin, bir saniyeliğine tutun ve yavaşça aşağı doğru indirmeye başlayın. İpucu: Aşağı indirmek için gereken süre, kaldırmak için gereken sürenin en az iki katı olmalıdır. – Hareketi, belirlenmiş tekrar sayısı kadar tekrar edin. İşiniz tamamlandığında, halteri askıya geri takın. Uyarı: Eğer bu egzersizde yeniyseniz, bu egzersiz biraz zorlayıcı olacağından bir gözcü kullanmanız tavsiye edilir. Eğer uygun bir gözcü bulunamıyorsa, o zaman kullanılan ağırlık konusunda ölçülü davranın.</string>
+    <string name="ex_name_28">Şınavlar – Yakın Triseps Pozisyonu</string>
+    <string name="ex_desc_28">Yere yüz üstü uzanın ve ellerinizi yakın el pozisyonu için omuz açıklığından daha yakın bir mesafede yerleştirin. Gövdenizi kol boyunda yukarıda tuttuğunuzdan emin olun. Nefes alırken, göğsünüz neredeyse yere değecek kadar yere doğru alçalın. Triseplerinizi ve bazı göğüs kaslarınızı kullanarak, gövdenizin üst kısmını başlangıç pozisyonuna geri itin ve göğsünüzü sıkıştırın. Bu adımı gerçekleştirirken nefes verin. Kasılı pozisyonda bir saniyelik beklemeden sonra, hareketi belirlenmiş tekrar sayısı kadar tekrar edin. Varyasyonlar: - Eğer bu egzersizde yeniyseniz ve bu hareketi gerçekleştirecek güce sahip değilseniz, direncin bir kısmını azaltmak için bacaklarınızı dizlerden bükebilirsiniz veya bu egzersizi yerde yapmak yerine duvara karşı da gerçekleştirebilirsiniz. – En ileri seviyedeki halterciler için ise, direnci artırmak için ayaklarınızı bank gibi daha yüksek bir yüzeye koyabilirsiniz.</string>
+    <string name="ex_name_29">Eğimli Dambıl Basma</string>
+    <string name="ex_desc_29">Eğimli bir banka, her elinizde bir dambıl uyluklarınız üzerinde duracak şekilde sırt üstü uzanın. Avuç içleriniz birbirine bakacak şekilde olsun. Daha sonra, dambılları yukarı kaldırmaya yardımcı olması için uyluklarınızdan güç alarak dambılları birer birer omuz genişliğinde tutmak üzere kaldırın. Dambılları omuz genişliği seviyesinde yukarı kaldırdığınızda, bileklerinizi öne doğru döndürün, böylece avuç içleriniz sizden uzağa doğru bakacak şekilde olsun. Bu sizin başlangıç pozisyonunuz olacaktır: - Her zaman, dambılların hâkimiyetinin tamamen sizde olduğundan emin olun. Daha sonra nefes verin ve dambılları göğsünüzle yukarı doğru ittirin. – En üst noktada kollarınızı kilitleyin, bir saniyeliğine bekleyin ve daha sonra ağırlığı yavaşça aşağı indirmeye başlayın. İpucu: İdeal olarak, ağırlıkları indirmek için geçen süre, kaldırmak için geçen sürenin yaklaşık iki katı kadar olmalıdır. Hareketi, belirlenmiş tekrar sayısı kadar tekrar edin. İşiniz tamamlandığında, dambılları uyluklarınıza tekrar yerleştirin ve daha sonra yere koyun. Bu, dambılları bırakmanın en güvenli şeklidir.</string>
+    <string name="ex_name_30">Eğimli Dambıl Kanat Çekiş</string>
+    <string name="ex_desc_30">Her iki elinizde de bir dambıl tutun ve 30 dereceden daha fazla eğik olmayan bir eğimli banka uzanın. Dirseklerden hafif bükülü şekilde kollarınızı yukarı doğru uzatın. Şimdi bileklerinizi, avuç içleriniz size bakacak şekilde döndürün. İpucu: Serçe parmaklarınız yan yana olmalıdır. Bu sizin başlangıç pozisyonunuz olacaktır: - Nefes alırken, kollarınızı yana doğru yavaşça alçaltırken, kollarınız uzatılmış şekilde olsun ve bileklerinizi avuç içleriniz birbirine bakacak şekle gelene kadar döndürün. İpucu: Hareketin sonunda, kollarınız yanlarda olacak ve avuç içleriniz tavana bakıyor olacak. – Nefes verirken, hareketin tersini uygulayarak dambılları başlangıç pozisyonuna doğru çıkarın ve serçe parmaklarınız tekrar yan yana gelecek şekilde bileklerinizi döndürün. İpucu: Hareketin yalnızca omuz ekleminde ve bilekte olacağını aklınızdan çıkarmayın. Hareket herhangi bir şekilde dirsek ekleminde olmayacaktır. Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_31">Eğimli Pilates-Topu Dambıl Göğüs Basma </string>
+    <string name="ex_desc_31">Bir pilates topuna sırtınızı, gövdeniz yerle 45 derecelik bir açı oluşturacak şekilde yerleştirin. Dambılları tam çenenizin üzerinde dik ve kollarınız düz bir şekilde tutun. Çekirdek gövdenizi destekli ve ayaklarınızı yere düz bir şekilde basacak bir halde tutun.</string>
+    <string name="ex_name_32">Halterli Bankta Basma</string>
+    <string name="ex_desc_32">Düz bir banka sırt üstü uzanın. Orta seviyede açıklıkta bir tutuş (hareketin ortasında ön kollar ve üst kollar arasında 90 derecelik bir açı oluşturacak bir tutuş) kullanarak barı askıdan alarak kaldırın ve kollarınız kilitli bir şekilde üstünüzde tutun. Bu sizin başlangıç pozisyonunuz olacaktır: - Başlangıç pozisyonundan başlayarak, nefes alın ve bar göğsünüzün ortasına değene kadar barı yavaşça indirmeye başlayın. – Kısa bir duraklamadan sonra, nefes verirken barı başlangıç pozisyonuna doğru geri itin. Barı göğüs kaslarınızı kullanarak itmeye yoğunlaşın. – Kollarınızı kilitleyin ve hareketin en üst seviyesinde kasılı pozisyondayken göğsünüzü sıkıştırın ve bir saniyeliğine böyle tutun ve daha sonra yavaşça tekrar geri indirmeye başlayın. İpucu: İdeal olarak, ağırlıkları indirmek için geçen süre, kaldırmak için geçen sürenin yaklaşık iki katı kadar olmalıdır. Hareketi, belirlenmiş tekrar sayısı kadar tekrar edin. İşiniz tamamlandığında, barı askıya geri yerleştirin. Uyarı: Eğer bu egzersizde yeniyseniz, bu egzersiz biraz zorlayıcı olacağından bir gözcü kullanmanız tavsiye edilir. Eğer uygun bir gözcü bulunamıyorsa, o zaman kullanılan ağırlık konusunda ölçülü davranın.</string>
+    <string name="ex_name_33">Düz-Kol Dambıllı Kenara Çekme</string>
+    <string name="ex_desc_33">Düz bir banka ayakta duran bir dambıl yerleştirin. Dambılın bankta güvenli bir şekilde durduğundan emin olduktan sonra, yüzeyde yalnızca omuzlarınız uzanacak şekilde banka dik olarak uzanın (gövdeniz bankla birlikte bir artı işareti oluşturacak şekilde). Kalçalar banka göre daha aşağıda olmalı ve bacaklar bükülü bir şekilde ayaklar yere sıkı basıyor olmalı. Başınız da bankın dışında olmalı. Dambılı iki elinizle kavrayın ve kol mesafesinde göğsünüzün üzerinde tutun. Her iki avuç içi de dambılın alt kısımdaki ucuna doğru bastırıyor olmalı. Bu sizin başlangıç pozisyonunuz olacaktır: Uyarı: Her zaman bu egzersiz için kullanılacak olan dambılın güvenli olduğundan emin olun. Gevşek levhalara sahi bir dambıl kullanmak, dambılın parçalarına ayrılmasına ve ağırlıkların yüzünüze düşmesine neden olabilir. – Kollarınızı düz bir şekilde tutarak, ağırlığı başınızın arkasına doğru bir yay şeklinde, ta ki göğsünüzde bir esneme hissedene kadar indirin. – O noktada, dambılın indirilmiş olduğu yay üzerinden dambılı başlangıç pozisyonuna geri getirin ve bu hareketi gerçekleştirirken nefes verin. – Ağırlığı başlangıç pozisyonunda bir saniyeliğine tutun ve hareketi belirlenmiş olan tekrar sayısı kadar tekrar edin. Uyarı: Eğer bu hareket sizin için yeniyse, ağırlığı kendiniz almak yerine, bir gözcü size versin. Eğer gözcünüz yoksa lütfen bu hareketi gerçekleştirmek için gövdenizi bank üzerinde ayarlarken dambılı üzerinize düşürmemeye çok dikkat edin. Ayrıca, daha önce belirttiğim gibi, kullanılan dambılın iyi çalışır vaziyette olduğundan emin olun. Kaynak yaptırılması gereken eski dambıllar asla bu egzersiz için kullanılmamalıdır.</string>
+    <string name="ex_name_34">Smith Makinesi Çömelme (Squat)</string>
+    <string name="ex_desc_34">Başlamak için, ilk olarak barı sizin boyunuza en uygun yüksekliğe ayarlayın. Doğru yükseklik seçildikten sonra ve bar yüklendikten sonra, barın altına girin ve omuzlarınızın arkasını (enseden hafif aşağıya doğru) yerleştirin. Her iki yanda, iki elinizle bara tutunun (avuç içleri ileriye bakacak şekilde), barı askıdan alarak kaldırmak için bacaklarınızdan iterken, aynı anda gövdenizi düzleştirin. Bacaklarınızı orta seviyede bir omuz açıklığı mesafesine konumlandırın ve parmak uçlarınız hafif öne doğru uzansın. Başınızı sürekli yukarıda tutun ve ayrıca sırtınız düz bir şekilde olsun. Bu sizin başlangıç pozisyonunuz olacaktır: Not: Bu egzersizin amacı için, genel gelişmeyi hedefleyen orta seviye duruşunu kullanacağız; ancak ayak duruşları kısmında belirtilen üç duruştan herhangi birini kullanmayı seçebilirsiniz. – Dizlerinizi bükerek barı yavaşça aşağı indirmeye başlayın ve bunu yaparken de başınız yukarıda, düz bir duruş sağlayın. Üst bacak ve baldırlar arasındaki açı 90 dereceden biraz daha az olana kadar (bu, üst bacakların yere paralel olmanın biraz altında olduğu noktadır) indirmeye devam edin.  - Hareketin bu kısmını yaparken nefes alın. İpucu: Eğer bu egzersizi doğru bir şekilde gerçekleştirdiyseniz, dizlerinizin önü, parmak uçlarınızla hayali bir dik açı oluşturmuş olmalıdır. Eğer dizleriniz bu hayali noktanın bulunduğu yerin ötesindeyse (parmak uçlarınızın ötesindeyse), o zaman bu dizinize gereğinden fazla yük bindirdiğiniz ve egzersizin yanlış yapıldığı anlamına gelir. – Nefes verirken, ayağınızın topuğuyla yeri iterek ve bacaklarınızı tekrar düzleştirerek barı yukarı kaldırmaya başlayın ve başlangıç pozisyonuna geri dönün. - Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_35">Geniş Smith Makinesi Çömelme (Squat)</string>
+    <string name="ex_desc_35">Barı omuz yüksekliğine getirerek ve Smith makinesinde kullanmak istediğiniz ağırlığı yükleyerek geniş Smith makinesi çömelmesi için hazırlığınızı yapın. Barın altında, bacaklarınız geniş bir duruşta ve parmak uçlarınız hafifçe dışarı bakacak şekilde ayakta durun. Geniş bir tutuşla barı kavrayın ve barın merkezini sırtınızdaki kasların en üst noktasına konumlandırın. Bar, ensenizin üzerinde durmamalı! Sırtınızı düz tutarak ve gözleriniz ileri doğru bakarak ağırlığı askıdan alın: - İleri doğru hafif bir adım adın. – Gözleriniz ileri doğru bakarak ve sırtınız düz bir şekilde, yavaşça uyluklarınız yere paralel olana kadar aşağı doğru çömelin. – Topuklarınızdan yukarı bastırarak, barı başlangıç pozisyonuna kaldırın. – Arzu edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_36">Smith Makinesi Geri Hamle</string>
+    <string name="ex_desc_36">Bar, üst göğüs yüksekliğindeyken, barı omuzların arka kısmına konumlandırın ve yanlardan barı kavrayın. Ayaklarınızı barın altına yerleştirin. Ağırlığın kaldırılması için bacaklarınızı düzleştirin. Barı ters döndürerek yerinden çıkarın. Bir ayağınızla geri adım atarken, destek olan diğer ayağınızla eğilin. Ayağınızın ön kısmını ta en geriye yere sabitleyin. Dizinizi ve destek olan bacağın kalçasını esneterek vücudunuzu alçaltın, bunu arkada duran bacağın dizi neredeyse yer ile temas edinceye kadar yapın. Kalçayı ve öndeki destek olan bacağın dizini uzatarak ve arkada duran bacağı destek olan bacağın yanına getirerek başlangıç pozisyonuna geri dönün. Hareketi ters bacakla, dönüşümlü olarak tekrar edin.</string>
+    <string name="ex_name_37">Bacak Basma</string>
+    <string name="ex_desc_37">Bacak basma makinesi kullanarak, makineye oturun ve bacaklarınızı önünüze orta derecede bir ayak duruşuyla (omuz açıklığında) doğrudan platforma yerleştirin. Not: Not: Bu egzersizin amacı için, genel gelişmeyi hedefleyen orta seviye duruşunu kullanacağız; ancak ayak duruşları kısmında belirtilen üç duruştan herhangi birini kullanmayı seçebilirsiniz. Ağırlık yüklü platformu tutan güvenlik barlarını kaldırın ve bacaklarınız önünüzde tamamen uzanacak şekilde platforma sonuna kadar basın. İpucu: Dizlerinizi kilitlememiş olduğunuzdan emin olun. Gövdeniz ve bacaklarınız mükemmel bir 90 derecelik açı oluşturmalıdır. Bu sizin başlangıç pozisyonunuz olacaktır: - Nefes alırken, platformu üst bacaklarınız ve alt bacaklarınız 90 derecelik bir açı oluşturana kadar yavaşça alçaltmaya başlayın. – Genel olarak ayak topuklarınızla iterek ve kuadrisepsinizi kullanarak nefes verirken başlangıç pozisyonunuza geri dönün. Tavsiye edilen tekrar sayısı kadar tekrar edin ve işiniz tamamlandığında güvenlik kilidini düzgün bir şekilde kilitlediğinizden emin olun. Tüm ağırlıklarla yüklü platformun üzerinize düşmesini istemezsiniz. Uyarı: Ağırlığı tekrar askıya aldığınızda, platformun güvenli bir şekilde olduğunu her zaman kontrol edin.</string>
+    <string name="ex_name_38">Hack Çömelme (Squat)</string>
+    <string name="ex_desc_38">Gövdenizin sırt kısmını makinenin sırt kısmına yerleştirin ve omuzlarınızı sağlanmış olan omuz yastıklarına yerleştirin. Bacaklarınızı orta seviyede bir duruşla omuz açıklığında, ayak parmak uçlarınız hafifçe ileri bakacak şekilde platforma konumlandırın. İpucu: Başınızı her zaman havada tutun ve sırtınız her zaman sırt yastığına yaslı olsun.  Kollarınızı makinenin yan tutmaçlarına yerleştirin ve güvenlik barlarını çıkarın (bu iş birçok makinede, ileri bakan güvenlik barlarının çapraz bir şekilde konumlandırılması olarak dizayn edilmiştir). Şimdi, dizlerinizi kilitlemeden bacaklarınızı düzleştirin.  Bu sizin başlangıç pozisyonunuz olacaktır: Not: Bu egzersizin amacı için, genel gelişmeyi hedefleyen orta seviye duruşunu kullanacağız; ancak ayak duruşları kısmında belirtilen üç duruştan herhangi birini kullanmayı seçebilirsiniz. – Dizlerinizi bükerek üniteyi yavaşça indirmeye başlayın, bunu yaparken de duruşunuz dik ve başınız yukarıda bir şekilde olsun (her zaman yastığa dayalı şekilde). Üst bacak ve baldırlar arasındaki açıklık 90-dereceden daha az bir dereceye (bu noktada, üst bacaklarınız yere paralel olmanın biraz aşağısındadır) gelene kadar indirmeye devam edin. - Hareketin bu kısmını yaparken nefes alın. İpucu: Eğer bu egzersizi düzgün gerçekleştirirseniz, dizlerinizin ön kısmı ve ön kısma dik bir şekilde duran parmak uçlarınız arasında düz hayali bir çizgi oluşturulmalıdır. Eğer dizleriniz bu hayali çizgiyi aşmışsa (eğer parmak uçlarınızı aşmışsa), o zaman dizinize gereksiz bir yük bindirmişsiniz ve egzersiz yanlış bir şekilde gerçekleştirilmiş demektir. – Nefes verirken, üniteyi genel olarak ayağınızın topuk kısmıyla iterek yükseltmeye başlayın ve bacaklarınızı tekrar düzleştirirken başlangıç pozisyonunuza geri dönün. Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_39">Oturarak Bacak Bükme</string>
+    <string name="ex_desc_39">Makine seviyesini boyunuza göre ayarlayın ve makineye sırt destek minderine sırtınızı yaslayacak şekilde oturun. Alt bacağınızın arka kısmını yastıklı kaldıraca yerleştirin (baldırların hemen 3-5 cm altına) ve kucak yastığını uyluklarınıza, dizlerinizin hemen üstüne gelecek şekilde yerleştirin. Daha sonra ayakuçlarınızı dışarı bakacak şekilde düzleştirirken makinenin yan kısımlarında bulunan tutmaçları tutun (veya diğer iki duruştan herhangi birini de kullanabilirsiniz) ve bacaklarınızın önünüzde tamamen düz olarak uzandığından emin olun. Bu sizin başlangıç pozisyonunuz olacaktır: - Nefes verirken, dizlerinizi bükerek makine kaldıracını elinizden geldiğince uzağa doğru çekin. – Gövdenizi her zaman sabit tutun. Kasılı pozisyonu bir saniyeliğine tutun. – Nefes alırken, yavaşça başlangıç pozisyonuna geri dönün. Tavsiye edilen tekrar sayısı kadar tekrar edin. Uyarı: Egzersizde sallamaya ve itelemeye, çekmeye neden olacak kadar bir ağırlığı asla kullanmayın, çünkü bu hem belinizin sakatlanmasına hem de diz ardı kirişinizin yırtılmasına neden olabilir.</string>
+    <string name="ex_name_40">Bacak Uzatma</string>
+    <string name="ex_desc_40">Bu egzersiz için, bir bacak uzatma makinesi kullanmanız gerekmektedir. Öncelikle ağırlığınızı seçin ve bacaklarınız minderin altında olacak şekilde (parmak uçlarınız ileriye bakacak şekilde) makineye oturun ve yan barları ellerinizle tutun. Bu sizin başlangıç pozisyonunuz olacaktır: İpucu: Minderi alt bacağınızın hemen üstüne (hemen ayağınızın üstüne) gelmesi için ayarlamanız gerekebilir. Ayrıca bacaklarınızın, üst bacağınız ve alt bacağınız arasında 90 derecelik bir açı oluşturmuş olduğundan emin olun. Eğer açı 90 dereceden düşükse, o zaman diziniz parmak uçlarınızın üzerinde demektir ve bu da diz eklemlerine fazla bir yük bindirdiğiniz anlamına gelmektedir. Eğer makine bu şekilde dizayn edildiyse; ya başka bir makine arayın veya egzersize başlarken 90 derecelik açıya ulaştığınızda daha ileri gitmediğinizden emin olun. – Kuadrisepleri kullanarak, nefes verirken bacaklarınızı maksimum seviyeye doğru uzatın. Vücudunuzun geri kalan kısmının koltukta sabit olduğundan emin olun. – Kasılı pozisyonda bir saniyeliğine duraklayın. –Nefes alırken, ağırlığı yavaşça orijinal pozisyonuna doğru geri indirmeye başlayın ve bunu yaparken de 90-derecelik açı limitini aşmadığınızdan emin olun. Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_41">Plie Çömelme (Squat)</string>
+    <string name="ex_desc_41">İki elinizle ağırlıkları tabanından tutun ve tam dik bir şekilde ayakta durun. Bacaklarınızı, omuz açıklığından biraz daha geniş olacak şekilde hareket ettirin ve dizleriniz hafif bükülü olsun. Parmak uçlarınız dışarı bakıyor olmalı. Bu sizin başlangıç pozisyonunuzdur: Not: Bu egzersizi gerçekleştirirken kollarınız sabit olmalı. – Uyluklarınız yere paralel olana kadar dizlerinizi yavaşça bükün ve bacaklarınızı alçaltın. Bu kısım egzersizin eksantrik kısmı olduğundan nefes alıyor olduğunuzdan emin olun. – Nefes verirken, genel olarak topuklarınızla iterek vücudunuzu başlangıç pozisyonuna geri getirin. Tavsiye edilen tekrar sayısı kadar tekrar edin. Uyarı: Sırtınızı dik tutmazsanız, beliniz sakatlanabilir.</string>
+    <string name="ex_name_42">Sumo Çömelme (Squat) – Yana Crunch</string>
+    <string name="ex_desc_42">Ayaklarınız kalça seviyesi açıklığından hafif geniş bir şekilde ayakta durun, ayakuçlarınız ve dizleriniz yaklaşık olarak 45 derece dönmüş ve elleriniz başınızın arkasında olsun. Dizlerinizi bükün ve sumo çömelmesine (dizlerin ileri veya geri fırlamasını önleyecek şekilde olabildiğince en düşük seviyeye kadar alçalma) doğru vücudunuzu indirin. Ayağa kalkmak için yere doğru basarken, sağ dizinizi sağ dirseğinize doğru kaldırın. Sağ ayağınızı yere basın ve anında sumo çömelişini tekrar edin ve sola doğru crunch yapın. Her seferinde bacak değiştirerek tekrar edin.</string>
+    <string name="ex_name_43">Yana Çömelme (Squat)</string>
+    <string name="ex_desc_43">Ayaklarınız bitişik şekilde ayakta durarak başlayın. Yarı yola kadar çömelin ve olabildiğince uzağa sağa doğru bir adım atın. Başlangıç pozisyonunuza geri dönerken, sağ bacağı sol bacağın yanına getirin. Her seferinde farklı yana adım atın.</string>
+    <string name="ex_name_44">Ağırlıklı Yürüyerek Hamle</string>
+    <string name="ex_desc_44">Ayaklarınız omuz açıklığı seviyesinde açık olarak ayakta durarak ve elleriniz başınızın üzerinde bir ağırlık tutarak harekete başlayın. Bir bacakla ileri bir adım atarken, dizlerinizi bükerek kalça seviyenize inin. Arkada duran diziniz neredeyse yere değene kadar alçalmaya devam edin. Duruşunuz dik olarak kalmalı ve öndeki diziniz önde duran ayağınızın üzerinde olmalıdır. Öndeki ayağınızın topuğuyla bastırarak ve iki dizinizi birden uzatarak kendinizi tekrar yukarı kaldırın. Arkadaki ayağınızı bir adım ileri atın, hamleyi diğer bacağı kullanarak tekrar edin.</string>
+    <string name="ex_name_45">Dambıllı Geri Hamle – Diz Yukarıda</string>
+    <string name="ex_desc_45">İki yanınızda iki dambıl tutarak, gövdeniz dik bir şekilde ayakta durun. Bu sizin başlangıç pozisyonunuz olacaktır: - Sağ bacağınızla, sol bacağınızın yaklaşık 60 cm gerisine bir adım atın ve gövdenizin üst kısmını aşağı indirin, bunu yaparken gövdeniz dik ve dengeyi sağlayacak bir şekilde durmalıdır. Aşağı inerken nefes alın. İpucu: Diğer egzersizlerde de olduğu gibi, aşağı doğru inerken dizinizin parmak uçlarınızın ilerisine gitmesine izin vermeyin, çünkü böyle yaparak diz eklemlerine fazla yük bindirmiş olursunuz. Kaval kemiğinizin ön kısmının yere paralel olduğundan emin olun. Hamle esnasında gövdenizi dik tutun; esnek kalça esnemeleri de ayrıca önemlidir. Uzun bir hamle Gluteus Maximus kalça kasınızı vurgularken; kısa bir hamle ise Kuadriseps vurgular. – Yukarı doğru bastırın ve başlangıç pozisyonunuza geri dönün ve nefes vererek, sırtınızı dik tutarak sağ dizinizi yukarı kaldırın. İpucu: Kuadrisepsi vurgulamak için, kendinizi yukarı doğru iterken ayaklarınızın ball kısmını kullanın. Kalça kaslarınızı vurgulamak için ise, topuklarınızla basın. Şimdi diğer bacakla tekrar edin.</string>
+    <string name="ex_name_46">Halterle Çapraz Geri Hamle</string>
+    <string name="ex_desc_46">Başlamak için, öncelikle barın yüksekliğini hemen omuz seviyesinin altına ayarlayın. Doğru yükseklik seçildikten sonra ve bar yüklendikten sonra, barın altına geçin ve omuzlarınızın arka kısmını (enseden hafif aşağısı) bara yerleştirin. Her iki yandan, iki kolunuzu da kullanarak barı tutun ve bacaklarınızla iterken ayna anda gövdenizi düzleştirerek barı askıdan kaldırın. Askıdan birkaç adım uzaklaşın ve sağ bacağınızı geri ve sola doğru atın ve sol diziniz vücudunuz dik konumunu ve gövdenizin dengesini korurken 90 derecelik bir eğilme oluşturacak şekilde bir hamle pozisyonuna alçalın. Aşağı alçalırken nefes alın. Not: aşağı inerken, dizinizin parmak uçlarınızı geçmesine izin vermeyin, çünkü bu diz eklemine fazla yük bindirmenize neden olacaktır. Genel olarak topuğunuzu kullanarak kendinizi yukarı başlangıç pozisyonunuza doğru itin ve bunu yaparken nefes verin. Hareketi tavsiye edilen tekrar sayısı kadar tekrar edin ve daha sonra hareketi sol bacağınızla gerçekleştirin.</string>
+    <string name="ex_name_47">Yana Uzanışlı Bacak Kaldırma</string>
+    <string name="ex_desc_47">Bacaklarınız üst üste ve başınız kolunuz üzerinde olacak şekilde yana doğru uzanın. Üst uyluğunuzun önündeki kası sıkılaştırın ve o bacağı havaya kaldırın. Bire kadar sayana kadar havada tutun, aşağıda duran bacağa değene kadar indirin ve daha sonra tekrar kaldırın. Ayrıca bilek ağırlıkları veya direnç bandı da kullanabilirsiniz.</string>
+    <string name="ex_name_48">Diz Kaldırmalı Merdivene Tırmanma</string>
+    <string name="ex_desc_48">Ayaklarınız bitişik bir şekilde, uygun yükseklikte bir bankın önünde ayakta durun. Bu sizin başlangıç pozisyonunuz olacaktır: - Harekete, bir adım ileri atarak ve sol ayağınızı bankın üzerine koyarak başlayın. – Kutunun üzerine çıkmak için önde duran bacağınızın kalçasından ve dizinden uzatın. – Kutunun üzerinde sol bacağınızla dururken, sağ diz ve kalçanızı kasarak dizinizi olabildiğince yükseğe kaldırın. Kutudan inmek için bu hareketin tersini uygulayın ve daha sonra bu dizeyi diğer bacakla tekrar edin.</string>
+    <string name="ex_name_49">Dambıllı Çömelme (Squat)</string>
+    <string name="ex_desc_49">Her iki elde bir dambıl tutarak dik olarak ayakta durun (avuç içleriniz bacaklarınızın yanlarına bakmalı). Omuz açıklığında orta seviyede bir duruşta parmak uçlarınız hafifçe dışarıya bakacak şekilde bacaklarınızı konumlandırın. Başınızı her zaman yukarıda tutun, aşağı bakmak dengenizi kaybetmenize neden olabilir. Ayrıca sırtınız düz olsun. Bu sizin başlangıç pozisyonunuz olacaktır: - Gövdenizi dizlerinizi bükerek yavaşça alçaltmaya başlayın ve bu esnada başınız yukarıda ve dik bir duruşunuz olsun. 90 dereceye ulaşana kadar alçalmaya devam edin. - Eğer bu egzersizi düzgün gerçekleştirirseniz, dizlerinizin ön kısmı ve ön kısma dik bir şekilde duran parmak uçlarınız arasında düz hayali bir çizgi oluşturulmalıdır. Eğer dizleriniz bu hayali çizgiyi aşmışsa (eğer parmak uçlarınızı aşmışsa), o zaman dizinize gereksiz bir yük bindirmişsiniz ve egzersiz yanlış bir şekilde gerçekleştirilmiş demektir. – Nefes verirken barı topuklarınızla iterek ve bacaklarınızı düzleştirerek kaldırmaya başlayarak başlangıç pozisyonuna geri dönün. Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_50">Tutulmuş Bacaklı Halterli Deadlift</string>
+    <string name="ex_desc_50">Barı yukarıdan aşağı inen bir tutuşla (avuç içleri yere bakacak şekilde) kavrayın. Eğer oldukça yüksek bir ağırlık kullanıyorsanız, bilek sargısına ihtiyacınız olabilir. Gövdeniz dik bir şekilde ayakta durun ve bacaklarınız omuz açıklığı veya bundan daha bir seviyede olsun. Dizler hafif bükülü olmalıdır. Bu sizin başlangıç pozisyonunuzdur: - Dizleri sabit tutarak, sırtınızı düz tutarak, kalçalardan eğilerek halteri ayaklarınızın üstüne kadar alçaltın. – Sanki yerden bir şey almak için uzanıyormuşsunuz gibi, diz ardı kirişlerinizde bir esneme hissedene kadar ileri gitmeye devam edin. Bu hareketi gerçekleştirirken nefes alın. – Kalçalarınızı uzatarak, başlangıç pozisyonunuza geri dönene kadar gövdenizi tekrar düz hale getirmeye başlayın. Bu hareketi gerçekleştirirken nefes verin. Tavsiye edilen tekrar sayısı kadar tekrar edin. Uyarı: Bu egzersiz alt bel sorunları olan kişiler için tavsiye edilmez. Ayrıca, gövdenizi alçaltırken, beli ileri yuvarlamamak için gereken önem çok dikkatli bir şekilde gösterilmelidir; sırtınız her zaman düz olmalıdır. Son olarak, ani hareketler veya aşırı fazla ağırlık kullanmak belinizin sakatlanmasına neden olabilir.</string>
+    <string name="ex_name_51">Sumo Tutulmuş-Bacaklı Deadlift</string>
+    <string name="ex_desc_51">Ellerinizde bir ağırlık levhasıyla başlayın. Ayaklar çok geniş bir biçimde yakalara yakın bir şekilde açılmalıdır. Bir nefes alın ve daha sonra başınız ileri bakacak ve göğsünüz yukarıda olacak şekilde kalçalarınızı indirin. Dizlerinizi sabit tutarak ve sırtınızı düz tutarak, kalçalardan eğilin ve halteri ayaklarınızın üzerine kadar indirin. Sanki yerden bir şey almak için uzanıyormuşsunuz gibi, diz ardı kirişlerinizde bir esneme hissedene kadar ileri gitmeye devam edin. Bu hareketi gerçekleştirirken nefes alın. Kalçalarınızı uzatarak, başlangıç pozisyonunuza geri dönene kadar gövdenizi tekrar düz hale getirmeye başlayın. Bu hareketi gerçekleştirirken nefes verin. Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_52">Tek Bacaklı Cable Yana Uzatma</string>
+    <string name="ex_desc_52">Makaranın alt kısmına deri bir ayak bileği kelepçesi bağlayın ve daha sonra kelepçeyi ayak bileğinize takın. Ağırlık yığınına yaklaşık 60 cm uzaklıkta dururken, destek için çelik çerçeveye tutunun. Dizlerinizi ve kalçalarınızı hafif eğilmiş ve karın kaslarınızı kasılı şekilde tutarak, çalışan ayağı nefes verirken rahat bir şekilde olabildiğince yana doğru yavaşça uzatırken kalça kaslarınızı kasın. İpucu: Tam uzatılmış pozisyonda, en yüksek seviyede kasılmaya ulaşmak için kalça kaslarınızı bir saniyeliğine kasın. Şimdi, yavaşça, kablodaki dirence mukavemet göstererek çalışan ayağınızı başlangıç pozisyonuna ulaşana kadar öne doğru getirin. Tavsiye edilen tekrar sayısı kadar tekrar edin. Bacakları değiştirin ve diğer bacak için hareketi tekrar edin. Varyasyonlar: Bu egzersizi, egzersiz bantlarıyla da gerçekleştirebilirsiniz.</string>
+    <string name="ex_name_53">Arnold Dambıl Basma</string>
+    <string name="ex_desc_53">Sırt destekli bir egzersiz bankına oturun ve önünüzde üst göğüs hizasında avuç içleriniz vücudunuza bakacak ve dirsekleriniz bükülü bir şekilde, iki dambıl tutun. İpucu: Kollarınız, gövdenizin yanında olmalıdır. Başlangıç pozisyonu, dambıl bükmenin kasılı kısmına benzemeli:- Şimdi hareketi gerçekleştirin; avuç içleriniz öne doğru bakana kadar bileklerinizi çevirerek dambılları kaldırın. – Kollarınız, üzerinizde tam uzanmış hale gelene kadar dambılları kaldırmaya devam edin. Hareketin bu kısmını gerçekleştirirken nefes verin. – En üstte bir saniyelik bir duraklamadan sonra, bileklerinizi kendinize doğru döndürerek dambılları orijinal pozisyonuna geri getirin. İpucu: Sol kol saat yönünün tersine dönerken, sağ kol ise saat yönünde döndürülecektir. Hareketin bu kısmını gerçekleştirirken nefes alın. Tavsiye edilen tekrar sayısı kadar tekrar edin. Varyasyonlar: Bu egzersizi ayakta da gerçekleştirebilirsiniz, ancak bu alt bel sorunları olan kişiler için tavsiye edilmemektedir.</string>
+    <string name="ex_name_54">Değişken Dambıl Basma</string>
+    <string name="ex_desc_54">İki dambılı omuzlarınıza kaldırın. Dambılları omuzlarınıza kaldırmak için, bacaklardan ve kalçalardan uzanın ve dambılları omuzlarınıza doğru çekin. Dambılların bir tanesini, avuç içiniz ileriye bakacak şekilde döndürerek dirsekten uzatarak doğrudan başınızın üzerine kaldırın, bu esnada diğer dambıl sabit kalsın. Basılan dambılı başlangıç pozisyonuna doğru alçaltın ve anında diğer kolunuzla basın.</string>
+    <string name="ex_name_55">Öne İki-Dambıllı Kaldırış</string>
+    <string name="ex_desc_55">Bir çift dambıl alın ve dambıllar bir kol mesafesinde uyluklarınızın önünde yer alacak şekilde ve avuç içleriniz uyluklarınıza bakacak şekilde dik olarak ayakta durun. Bu sizin başlangıç pozisyonunuz olacaktır: - Gövdenizi sabit tutarak (sallanmadan), dambılları dirsekten hafif bir bükme ile öne doğru kaldırın ve avuç içleriniz her zaman aşağı doğru bakıyor olsun. Kollarınız yere göre hafif paralel olmaktan yüksek olana kadar yukarı kaldırmaya devam edin. – Hareketin bu kısmını gerçekleştirirken nefes verin ve en üst noktada bir saniyeliğine duraklayın. – Nefes alırken, dambılları yavaşça başlangıç pozisyonuna doğru geri indirin. Tavsiye edilen tekrar sayısı kadar tekrar edin. Varyasyonlar: Bu egzersiz ayrıca elleri her seferinde değiştirerek de yapılabilir, yani bir tekrarı sağ kolunuzla yaptıktan sonra, diğer tekrarı sol kolunuzla yapabilir ve daha sonra sağ kol ve sol kol vs. şeklinde devam edebilirsiniz. Ayrıca, bu hareket için halter de kullanabilirsiniz.</string>
+    <string name="ex_name_56">Ayakta Alt-Makara Deltoid Kaldırışı</string>
+    <string name="ex_desc_56">Alt makara çekiş makinesinin sağ tarafında ayakta durarak başlayın. Sol elinizi gövdeye çapraz olacak şekilde kullanın ve alt makaranın tek bir tutmacını pronat bir kavrayış (avuç içleri yere bakacak şekilde) kullanarak tutun.  Kolunuz önünüzde dursun. Sağ eliniz ise daha iyi bir destek ve denge için makineye tutunuyor olmalıdır. Sırtınızın dik olduğundan ve ayaklarınızın birbirinden omuz açıklığı seviyesinde açık olduğundan emin olun. Bu başlangıç pozisyonudur: - Sol elinizi kullanmaya başlayın ve nefes verirken omuz yüksekliği seviyesine kadar yükselene kadar devam edin. – Hareketin en yüksek noktasında kasılmayı bir saniyeliğine hissedin ve nefes alırken tutmacı yavaşça başlangıç pozisyonuna doğru alçaltmaya başlayın. Tavsiye edilen tekrar sayısı kadar tekrar edin. Kolları değiştirin ve egzersizi tekrar edin.</string>
+    <string name="ex_name_57">Ön Cable Kaldırışı</string>
+    <string name="ex_desc_57">Ön cable kaldırışı, ön deltoid kaslarını izole etmek için harika bir egzersizdir. Alt makara makinesine halat bir kablo bağlayarak ve kullanmak istediğiniz ağırlığı seçerek bu hareket için hazırlığınızı yapın. Yüzünüzü makineye çevirerek ayakta durun ve halat kabloyu kavrayın. Gözleriniz ileri bakacak bir şekilde dik olarak ayakta durun ve halatı hemen uyluklarınızın dışında tutun. Bu sizin başlangıç pozisyonunuzdur: - Hareketi gerçekleştirmek için, kollarınızı düz ve vücudunuzu sabit bir şekilde tutarken, halatı yavaşça yaklaşık olarak omuz yüksekliğine kadar kaldırın. – Duraklayın ve daha sonra barı yavaşça başlangıç pozisyonuna doğru geri indirin. – Ağırlık yığınının düşmesine veya barın vücudunuza temas etmesine izin vermeyin.</string>
+    <string name="ex_name_58">Tek-Kollu Triseps Şınav</string>
+    <string name="ex_desc_58">Dizleriniz bükülü ve kalçalarınız üst üste gelecek şekilde sağ yanınıza doğru uzanın. Sağ kolunuzu omzunuzun çevresine dolayın ve sol elinizi önünüzdeki zemine yerleştirin. Vücudunuzu yerden yukarı ittirmek için triseplerinizi kasın ve sol kolunuzu elinizden geldiği kadar düzleştirin. Birkaç santim alçalın ve taraf değiştirmeden önce birkaç kez yukarı aşağı itmeye devam edin.</string>
+    <string name="ex_name_59">Ayakta Dambıllı Triseps Uzatma</string>
+    <string name="ex_desc_59">Başlamak için, iki elinizle bir dambılı tutarak ayakta durun. Ayaklarınız birbirinden omuz açıklığı mesafesinde açık olmalıdır.  Yavaşça, iki elinizi de kullanarak dambılı kavrayın ve her iki kolunuz da tamamen uzanana kadar başınızın üzerine doğru kaldırın. Direnç, avuç içlerinizde ve başparmaklarınız dambılın çevresine veriliyor olmalıdır.  Avuç içleriniz tavana doğru yukarı bakıyor olmalıdır. Bu sizin başlangıç pozisyonunuz olacaktır: - Üst kollarınızı başınıza yakın tutarak ve dirsekleriniz yere dik bir şekilde, ağırlığı yarım dairesel bir hareketle, ön kollarınız pazılarınıza (biseps) değene kadar başınızın arkasına doğru indirin. İpucu: Üst kollar sabit kalmalı ve yalnızca ön kollar hareket halinde olmalıdır. Bu adımı gerçekleştirirken nefes alın. – Triseplerinizi kullanarak dambılı kaldırın ve başlangıç pozisyonuna geri dönün. Bu adımı gerçekleştirirken nefes verin. Tavsiye edilen tekrar sayısı kadar tekrar edin.</string>
+    <string name="ex_name_60">Tek Bacak Bench Dips</string>
+    <string name="ex_desc_60">Elleriniz, avuç içleriniz yere basılı olacak şekilde bir bank üzerinde başlayın. Bir bacağınız uzatılmış olsun, diğer bacağınız ise yere basılı olsun. Ayağınız banka ne kadar yakın olursa, bu hareket de o kadar kolay olacaktır.  Hareketin yoğunluğunu artırmak için, ayağınızı gidebildiği kadar uzağa konumlandırın veya hareketi kolaylaştırmak için ayağınızı banka daha yakın bir yere yerleştirin. Dirseklerinizi bükün ve kalçanız yere değmeden gidebileceğiniz kadar aşağı dip hareketi uygulayın. Kollarınızı düzleştirin. Bacakları değiştirin ve tekrar edin.</string>
+    <string name="ex_name_61">Ayakta Bir-Kol-Üzerine-Eğili Dambıl Triseps Uzatma</string>
+    <string name="ex_desc_61">Bir elinizde bir dambılla ve avuç içiniz gövdenize bakacak şekilde, dizlerinizi hafif bükün ve gövdenizi neredeyse yere paralel olana kadar belden eğilerek ileri doğru çıkarın, bu esnada sırtınız tamamen düz olsun.  Başınızı yukarıda tuttuğunuzdan emin olun. Üst kolunuz gövdenize yakın ve zemine paralel olmalı; ön kolunuz ise eliniz ağırlığı tutarken zemine doğru bakmalıdır. İpucu: Ön kol ve üst kol arasında 90 derecelik bir açı olmalıdır. Bu sizin başlangıç pozisyonunuzdur: - Üst kolları sabit tutarak, nefes verirken ağırlıkları kaldırmak için triseplerinizi kullanın ve ön kollarınız yere paralel olana ve tüm kolunuz uzanmış olana kadar kaldırmaya devam edin. Diğer birçok kol hareketinde olduğu gibi, bunda da yalnızca ön kol hareket etmelidir. – Yukarıdaki kasılmayı bir saniyeliğine tuttuktan sonra, nefes alırken dambılı yavaşça başlangıç pozisyonuna doğru geri indirin. Hareketi, belirlenmiş tekrar sayısı kadar tekrar edin. Kolları değiştirin ve egzersizi tekrarlayın.</string>
+    <string name="ex_name_62">Cable Tek-Kolla Triseps Uzatma</string>
+    <string name="ex_desc_62">Sağ elinizle, supinat (avuç içleri yukarı bakacak şekilde) bir kavrayışla kablonun üst makarasına bağlanmış tek bir tutmacı tutun. Ağırlık yığınının tam olarak önünde ayakta duruyor olmalısınız. Şimdi, üst kolunuz ve dirseğiniz vücudunuzun yanında kilitlenmiş bir halde olana kadar tutmacı aşağı çekin.  Üst kolunuz ve ön kolunuz dar bir açı oluşturmalıdır (90 dereceden daha az). Daha iyi bir denge sağlamak için diğer kolunuzu belinizde tutabilir ve bir bacağınız önünüzde diğeri arkanızda olabilir. Bu sizin başlangıç pozisyonunuz olacaktır:- Triseplerinizi kasarken, kolunuz düz olana kadar tek tutmacı yanınızdan aşağı doğru indirin. Bu hareketi gerçekleştirirken nefes verin. İpucu: Yalnızca ön kollar hareket etmelidir. Üst kollarınız her zaman sabit bir şekilde kalmalıdır. – Trisepleri sıkıştırın ve bu kasılı pozisyonda bir saniyeliğine tutun. – Tutmacı yavaşça başlangıç pozisyonuna geri döndürün. Tavsiye edilen tekrar sayısı kadar tekrar edin ve daha sonra hareketi diğer kolla tekrar edin. Varyasyonlar: Bu egzersizi gerçekleştirmek için egzersiz bantları da kullanabilirsiniz.</string>
+    <string name="ex_name_63">Triseps Aşağı İtme</string>
+    <string name="ex_desc_63">Makaranın üst kısmına düz veya açılı bir bar takın ve yukarıdan aşağı inen bir kavrayışla (avuç içleri aşağı bakacak şekilde) omuz genişliğinde bir şekilde barı tutun. Gövdeniz düz bir şekilde dik olarak ayakta durarak ve öne doğru hafif bir eğime sahip olarak, üst kolları gövdenize yakın ve yere dik bir şekilde getirin. Ön kollar, barı tutarken makaraya doğru bakıyor olmalıdır. Bu sizin başlangıç pozisyonunuzdur: - Trisepleri kullanarak, barı uyluklarınızın önüne gelene kadar aşağı doğru çekin ve kollarınız tamamen uzatılmış bir şekilde yere dik bir açıda olsun. Üst kollar, gövdenizin yanında ve her zaman sabit olmalı ve yalnızca ön kollarınız hareket ediyor olmalıdır. Bu hareketi gerçekleştirirken nefes verin. – Kasılı pozisyonda bir saniyeliğine durakladıktan sonra, barı başlangıç pozisyonuna doğru yavaşça yukarı kaldırın. Bu hareketi gerçekleştirirken nefes alın. Tavsiye edilen tekrar sayısı kadar tekrar edin. Varyasyonlar: Bu hareketin birçok varyasyonu bulunmaktadır. Örneğin, bir E-Z barı veya başparmağınızın serçe parmağınıza nazaran daha yüksekte olmasını sağlayan V-açılı bir bar da kullanabilirsiniz Ayrıca makaraya halat da bağlayabilirsiniz ve bar egzersizleri için kullanılan kavrayışın tam tersini de kullanabilirsiniz.</string>
+
+    <string name="ex_name_5063">Squat Jacks</string>
+    <string name="ex_desc_5063">Kas Grubu. Kuadriseps \n\nAdım 1. Bir beysbol oyuncusu gibi alçak squat pozisyonuna geçin. \n\nAdım 2. Dirsekleriniz tavana doğru bakarken yukarı ve   ileriye doğru zıplayın. \n\nAdım 3. Yukarıya zıplayın ve bacaklarınızı ve kollarınızı aynı anda birleştirin.</string>
+
+    <string name="ex_name_5064">Plank</string>
+    <string name="ex_desc_5064">Kas. Rectus Abdominis \n\nAdım 1. Bacaklarınızı düz pozisyonda uzatın ve parmak uçlarınıza doğru yükselin. Sırtınızı dik tutarken ön kollarınızı zemin üzerine yerleştirin. \n\nAdım 2. Ön kollarınız, üst kollarınıza dik olmalıdır.  Bu pozisyonu mümkün olduğunca koruyun.</string>
+
+    <string name="ex_name_5065">Sirt Extension</string>
+    <string name="ex_desc_5065">Kas. Bel \n\nAdım 1. Yere sırt üstü uzanın. Ellerinizi doğrudan  önünüze uzatın. \n\nAdım 2. Bacaklarınızı ve üst vücudunuzu tavana doğru kaldırın ve olabildiğince esneyin. Bir saniye boyunca bu pozisyonu koruyun.  Başlangıç pozisyonuna dönün.</string>
+
+    <string name="ex_name_5066">Sirt Extension 2</string>
+    <string name="ex_desc_5066">Kas Grubu. Bel \n\nAdım 1. Ellerinizi vücudunuzun yanında olacak ve avuçlarınız yere bakacak şekilde yere sırtüstü uzanın. Karın kaslarınızı omurganıza yaklaştırıp kalça kaslarınızı sıkarak yine karın kaslarınızı çalıştırın. \n\nAdım 2. Yavaşça nefes verin ve göğsünüzü yerden kaldırırken kollarınızı yukarı ve kalçalarınıza doğru hareket ettirin. Hareketi yaparken başparmaklarınızı tavana doğru döndürün. \n\nAdım 3. Hareketi yaparken en üst pozisyonda iki saniye duraklayın ve ardından başlangıç pozisyonuna geri dönün.</string>
+
+    <string name="ex_name_5067">Bacak Dokunuşu</string>
+    <string name="ex_desc_5067">Kas. Rectus Abdominis \n\nAdım 1. Yere uzanın, bacaklardan bir tanesi yere dik olana kadar  kaldırın. Kollarınızı doğrudan  önünüze uzatın. \n\nAdım 2. Ellerinizle ayar parmaklarınıza uzanın. Başlangıç pozisyonuna dönmeden önce bir saniye boyunca bu pozisyonu koruyun.</string>
+
+    <string name="ex_name_5068">Tekmeli̇ Meki̇k</string>
+    <string name="ex_desc_5068">Kas. Rectus Abdominis \n\nAdım 1. Ayaklarınız omuz genişliğinde olacak şekilde dik durun. \n\nAdım 2. Bacaklarınızı olabildiğince yükseğe kaldırın ve her iki elinizle sol ayağınıza dokunun. \n\nAdım 3. ilk pozisyona dönün ve hareketi diğer tarafta tekrarlayın. \n\nAdım 4. Hızlı bir tempoda hareketleri set bitene kadar her iki tarafta tekrarlayın.</string>
+
+    <string name="ex_name_5069">Alttan Koşu</string>
+    <string name="ex_desc_5069">Kas. Rectus Abdominis \n\nAdım 1. Elleriniz omuzlarınızın altında olacak ve vücudunuz başınızdan topuklarınıza kadar düz bir çizgi oluşturacak şekilde şınav pozisyonuna geçin. \n\nAdım 2. Sağ ayağınızı yerden kaldırarak sağ dizinizi göğsünüze doğru çekin. Sağ ayağınızla yere dokunun ve başlangıç pozisyonuna dönün. \n\nAdım 3. Her adımda diğer bacağa geçin.</string>
+
+    <string name="ex_name_5070">Meki̇k</string>
+    <string name="ex_desc_5070">KAS. Rectus Abdominis \n\nAdım 1. Dizleriniz bükük ve ayaklarınız düz olacak şekilde yere yatın. Kollarınızı göğsünüzün üzerinde kavuşturun veya ellerinizi kulaklarınızın arkasında tutun. \n\nAdım 2. Belinizi sıkı bir şekilde yere bastırırken başınızı ve üst gövdenizi kaldırmak için karın kaslarınızı kullanın. \n\nAdım 3. Kürek kemikleri yerden birkaç santimetre yükseldiğinde duraklayın ve başlangıç pozisyonuna yavaş ve kontrollü şekilde geri dönün.</string>
+
+    <string name="ex_name_5071">İçe-Dişari Çeki̇ş</string>
+    <string name="ex_desc_5071">Kas. Rectus Abdominis \n\nAdım 1. Yere uzanın, her iki elinize de kalçanızın yanında tutun, bacaklarınızı tam olarak uzatın ve bunları hafifçe kaldırın. \n\nAdım 2. Bacaklarınızı üst gövdenize doğru bükün ve bir saniye boyunca bu pozisyonu koruyun.  Başlangıç pozisyonuna dönün.</string>
+
+    <string name="ex_name_5072">Alabora</string>
+    <string name="ex_desc_5072">Kas. Rectus Abdominis \n\nAdım 1. Elleriniz yanınızda ve bacaklarınız doğrudan tavana uzatılmış, vücudunuza dik olacak şekilde yere yatın . \n\nAdım 2. Göbeğinizi içe doğru çekin ve kalçalarınızı yerden birkaç santimetre kaldırırken kalça kaslarınızı sıkın. Ardından kalçalarınızı indirin.</string>
+
+    <string name="ex_name_5073">Kivrik Meki̇k</string>
+    <string name="ex_desc_5073">Kas. Rectus Abdominis \n\nAdım 1. Yere yatın, dizlerinizi bükün ve bacaklarınızı 40-50 cm mesafe olacak şekilde ayırın. Kollarınız vücudunuzun yanında olmalıdır. \n\nAdım 2. Gövdenizi ileri ve 5-6 santimetre yukarıya ve sağ tarafa doğru kaldırın ve sağ topuğunuza dokunup kasılma pozisyonunda bir saniye durun. Bu hareketi yaparken nefes verin. \n\nAdım 3. Nefes alırken yavaşça başlangıç pozisyonuna dönün. \n\nAdım 4. Şimdi, gövdenizi ileri ve 5-6 santimetre yukarıya ve sol tarafa doğru kaldırın ve sol topuğunuza dokunup kasılma pozisyonunda bir saniye durun. Bu hareketi yaparken nefes verin ve nefes alıp başlangıç pozisyonuna dönün. Her iki topuğunuza dokunmak bir tekrar anlamına gelir. Her iki tarafa dokunmaya devam edin.</string>
+
+    <string name="ex_name_5074">Rus Dönüşü</string>
+    <string name="ex_desc_5074">Kas. Oblikler \n\nAdım 1. Yan tarafınızda bir girya veya sağlık topu olacak şekilde yere oturun. Bacaklarınızı birleştirin ve dizlerinizi yaklaşık 90 derece  bükün. Göğsünüz yukarıda, sırtınız dik olsun. \n\nAdım 2. Sağlık topunu veya giryayı, daha iyi kontrol için ters tutarak kaldırın. Göğüs hizasında kaldırmalısınız. \n\nAdım 3. Sırtınızı bükmemeye dikkat ederek vücudunuzu hafifçe döndürün. Ayaklarınızı yerden kaldırın ancak dizlerinizi ayırmayın ve bacaklarınızı bükün.</string>
+
+    <string name="ex_name_5075">Bi̇si̇klet Meki̇kleri̇</string>
+    <string name="ex_desc_5075">Kas. Oblikler \n\nAdım 1. Sırt üstü yatın, omuzlarınızı ve bacaklarınızı kaldırın. \n\nAdım 2. Bir tarafa doğru mekik çekerek bir dizinizi ve diğer taraftaki bileğinizi yakınlaştırın ve diğer bacağı tam olarak uzatın. \n\nAdım 3. Başlangıç pozisyonuna dönün ve diğer tarafa doğru mekik çekin. \n\nAdım 4. Set bitene kadar tekrarlayın.</string>
+
+    <string name="ex_name_5076">Dansçi Yengeç</string>
+    <string name="ex_desc_5076">Kas. Rectus Abdominis \n\nAdım 1. Yere uzanın. Ellerinizi ve bacaklarınızı yere koyun. \n\nAdım 2. Vücudunuzun üst kısmını yukarıya doğru kaldırın. Sağ elinizle hızlı bir şekilde sol bacağınıza dokunun, ardından diğer tarafa geçin. Hızı arttırın, olabildiğince hızlı yapmaya çalışın.</string>
+
+    <string name="ex_name_5081">Kalça Geri̇ye Tekme 2</string>
+    <string name="ex_desc_5081">Kas. Kalçalar \n\nAdım 1. Bir mat üzerine veya zemine ellerinizi ve dizlerinizi koyun. Sırtınız gösterildiği şekilde zemine paralel ve kalkık olmalı. \n\nAdım 2. Kontrollü bir hareketle,  90 derecelik bükülme açısını korurken dizardı kirişleri sırtınızla hizalanana kadar bacağınızı kaldırın. Bacağınızı arkanızda tam olarak düz haldeyken kalça kaslarınızı sıktığınızdan emin olun. Hareketin sonunda bacağın üst kısmı yere paralel pozisyondayken baldır dik açıda durmalıdır. Başlangıç pozisyonuna dönün ve diğer bacakla tekrarlayın.</string>
+
+    <string name="ex_name_5082">YANA VURUŞLA KALÇA KASLARINI ÇALIŞTIRMA</string>
+    <string name="ex_desc_5082">Kas Grubu. Kalçalar \n\nAdım 1. Gösterildiği şekilde elinizi ve dizlerinizi yere koyun. Dizleriniz, kalçalarınızın altında durmalı ve bilekleriniz omuzlarınızın tam altında olmalıdır. \n\nAdım 2. Bir dizinizi yerden kaldırırken sırtınızı olabildiğince dik tutun. Dışa ve yan tarafa doğru kaldırırken dizinizi bükük pozisyonda tutun. \n\nAdım 3 Bu pozisyonu kısa bir süre boyunca sabit tutun ve ardından dizinizi yere indirin. Duraklayın ve tekrarlayın.</string>
+
+    <string name="ex_name_5083">Squat Yan Tekme</string>
+    <string name="ex_desc_5083">Kas Grubu. Kalçalar \n\nAdım 1. Kalçalarınız geride ve ayaklarınız omuz genişliğinde olacak şekilde bir squat pozisyonunda başlayın. \n\nAdım 2. Ayağa kalkarken ağırlığınızı sağ ayağınıza verin ve sol ayağınızı yan tarafa doğru kaldırın. \n\nAdım 3. Squat pozisyonuna geri dönün ve hareketi sağ ayakla tekrarlayın.</string>
+
+    <string name="ex_name_5084">Ters Lunge</string>
+    <string name="ex_desc_5084">Kas. Kalçalar \n\nAdım 1. Ayaklarınız omuz genişliğinde olacak ve ayak parmaklarınızı öne bakacak şekilde dik durun. \n\nAdım 2. Dominant ayağınızla mümkün olduğunca geriye adım atın ve o diz zemine dokununcaya kadar çömelin; gövdeniz mümkün olduğunca dik olmalıdır. \n\nAdım 3. Başlangıç pozisyonuna dönmek için ön bileğinizi itin ve ardından diğer ayakla geriye çömelin. Bu, bir tekrardır.</string>
+
+    <string name="ex_name_5085">Geri̇ Lunge</string>
+    <string name="ex_desc_5085">Kas. Kuadriseps \n\nAdım 1. Ayaklarınız omuz genişliğinde olacak ve ayak parmaklarınızı öne bakacak şekilde dik durun. \n\nAdım 2. Kalçalarınızı ve dizlerinizi vücudunuzu indirirken esneterek geriye adım atın. Yalnızca ayak parmaklarının ucuyla yere temas ederek diziniz yere dokunan kadar çömelin. \n\nAdım 3. Büktüğünüz ayağı başlangıç pozisyonuna doğru itin ve diğer ayağa geçerek hareketi tekrarlayın.</string>
+
+    <string name="ex_name_5086">Plank Bacak Dokunuşu</string>
+    <string name="ex_desc_5086">Kas. Bel \n\nAdım 1. Vücudunuz dik bir şekilde, dirsekleriniz omuzlarınızın altında bükük ve bacaklarınız kalça genişliğinde, düşük plank pozisyonunda başlayın. \n\nAdım 2. Sol bacağınızı 45 derecelik açıyla kaldırın ve ardından ayağınızı diğer ayak bileğinizin üzerine indirin. \n\nAdım 3. Başlangıç pozisyonuna dönün ve diğer bacakla tekrarlayın.</string>
+
+    <string name="ex_name_5087">Yatarak Kalça Extension</string>
+    <string name="ex_desc_5087">Kas. Kalçalar \n\nAdım 1. Yere yatın ve topuklarınızı zemine koyarak dizlerinizi hafifçe bükün ve kollarınızı vücudunuzun yanında tutun. \n\nAdım 2. Kalça kaslarınız ve dizardı kirişlerinizle iterek vücudunuz bir rampa şeklini alıncaya kadar ayaklarınızı aşağıya doğru bastırın ve kalçalarınızı kaldırın. Duraklayın ve yavaşça başlangıç pozisyonuna dönün.</string>
+
+    <string name="ex_name_5088">Sandalyeyle Yatarak Kalça Extension</string>
+    <string name="ex_desc_5088">Kas. Kalçalar \n\nAdım 1. Sırtınızı sandalye üzerine yatırın ve topuklarınızı zemine koyarak dizlerinizi hafifçe bükün ve kollarınızı vücudunuzun yanında tutun. \n\nAdım 2. Kalça kaslarınız ve dizardı kirişlerinizle iterek vücudunuz bir rampa şeklini alıncaya kadar ayaklarınızı aşağıya doğru bastırın ve kalçalarınızı kaldırın. Duraklayın ve yavaşça başlangıç pozisyonuna dönün.</string>
+
+    <string name="ex_name_5089">Bulgar Split Squat</string>
+    <string name="ex_desc_5089">KAS. Kuadriseps \n\nAdım 1. Bir ayağınızı, sandalyenin yaklaşık bir metre önüne koyun ve diğer ayağınızı arkanızdaki sandalyeye koyarak vücudunuzu dengeleyin. Ellerinizi göğsünüzün önünde tutun. \n\nAdım 2. Arka diziniz yerden birkaç santimetre yükseklikte ve ön bacağınız 90 derecelik açıda olana kadar dizlerinizi bükün, vücudunuzu aşağıya indirin ve ön ayağınızla dengeleyin. Vücudunuzun geri kalanı düz bir çizgi oluşturmalıdır. Başlangıç pozisyonuna dönün ve hareketi diğer bacakla tekrarlayın.</string>
+
+    <string name="ex_name_5090">Yukari Adim</string>
+    <string name="ex_desc_5090">Kas. Kalçalar \n\nAdım 1. Egzersiz sehpasına yakın durun. Sol ayağınızı yerde tutarken sağ ayağınızı sehpaya koyun. \n\nAdım 2. Sol dizinizi önünüzde kaldırın. \n\nAdım 3. Sol ayağınızla inin. Hareketi diğer ayağınızla tekrarlayın. Her iki bacakla tekrarlayın.</string>
+
+    <string name="ex_name_5091">Sehpada Geri̇ye Tekme</string>
+    <string name="ex_desc_5091">Kas. Kalçalar \n\nAdım 1. Bir sehpa üzerine ellerinizi ve dizlerinizi koyun. Sırtınız gösterildiği şekilde zemine paralel ve kalkık olmalı. \n\nAdım 2. Kontrollü bir şekilde bir ayağınızı sanki arkanızdan tavana tekme atarmışçasına geriye ve yukarıya doğru ittirin. Bacağınızı arkanızda tamamen düz haldeyken kalça kaslarınızı sıktığınızdan emin olun. Başlangıç pozisyonuna dönün ve diğer bacakla tekrarlayın.</string>
+
+    <string name="ex_name_5092">Kalça Tekmesi̇</string>
+    <string name="ex_desc_5092">Kas. Kuadriseps \n\nAdım 1. Dik durarak başlayın ve bir topuğunuzu yerden kaldırıp kalça kaslarınıza doğru çekin, ellerinizi göğsünüzün önünde tutun. \n\nAdım 2. Ardından diğer tarafa geçin.</string>
+
+    <string name="ex_name_5093">Squat Geri̇ye Tekme</string>
+    <string name="ex_desc_5093">Kas Grubu. Kalçalar \n\nAdım 1. Ayaklarınızı, squat pozisyonunda olduğundan biraz daha fazla açın. \n\nAdım 2. Ayağa kalktıkça ağırlığınızı tek bir bacağa verin ve diğer bacağınızla geriye tekme atın. \n\nAdım 3. Başlangıç pozisyonuna dönün ve diğer tarafta aynı hareketi uygulayın.</string>
+
+    <string name="ex_name_5095">Dokunmali Şinav</string>
+    <string name="ex_desc_5095">Kas. Göğüs Kasları \n\nAdım 1. Elleriniz yerde olacak şekilde sırt üstü uzanın.  Ellerinizi omuzlarınızın altına hizalayın, elleriniz arasındaki mesafe omuz genişliğinden daha dar olmalıdır; yalnızca elleriniz ve ayak parmaklarınız yere değecek şekilde kendinizi kaldırın. Sırtınızı düz tutun, elleriniz hafifçe dışa bakmalıdır. \n\nAdım 2. Dirseklerinizi bükerek, göğsünüz yerden birkaç santimetre yukarıda olacak şekilde kendinizi yere doğru indirin. Dirsekler ayaklarınıza doğru bükülmelidir.</string>
+
+    <string name="ex_name_5096">T Extension</string>
+    <string name="ex_desc_5096">Kas. Göğüs Kasları \n\nAdım 1. Klasik şınav pozisyonunda başlayın ancak kendinizi yukarıya doğru iterken gösterildiği şekilde sağ kolunuzu kaldırıp başınızın üzerinden uzatacak şekilde vücudunuzu döndürün. Kollarınız ve gövdeniz bir T harfi oluşturmalıdır. \n\nAdım 2. Başlangıç pozisyonuna önün, kendinizi indirin, şınavı çekin sol eliniz tavana bakana kadar dönün.</string>
+
+    <string name="ex_name_5115">Şinav</string>
+    <string name="ex_desc_5115">Kas. Göğüs Kasları \n\nAdım 1. Bacaklarınız geriye uzanmış şekilde, ellerinizi omzunuzun aşağısına yerleştirin ve omuz genişliğinden biraz daha açın. \n\nAdım 2. Dirseklerinizi bükerek başlayın ve göğsünüzü zeminin biraz üzerinde olana kadar indirin. \n\nAdım 3. Başlangıç pozisyonuna dönün. 1 saniyelik itme, 1 saniyelik duraklama ve 2 saniyelik alçalma temposu uygundur. \n\nAdım 4. Tekrarlayın.</string>
+
+    <string name="ex_name_5116">Tri̇seps Dips</string>
+    <string name="ex_desc_5116">Kas. Triseps Brachii \n\nAdım 1. Parmaklarınız öne bakacak şekilde ellerinizi arkanıza doğru bir sandalyenin üzerine koyun. \n\nAdım 2. Bacaklarınızı uzatın ve dirseklerinizi bükerek başlayın. \n\nAdım 3. Kollar 90 derecelik açıda olana kadar kendinizi yere doğru indirin. \n\nAdım 4. Kollarınız düz olacak şekilde kendinizi kaldırın.</string>
+
+    <string name="ex_name_5117">Tirtil</string>
+    <string name="ex_desc_5117">Kas Grubu. Kuadriseps \n\nAdım 1. Bacaklarınız omzu genişliğinde dik durun, parmak uçlarınız yere dokununcaya kadar eğilin. \n\nAdım 2. Bacaklarınızı düz tutarken ellerinizi olabildiğince ileriye yürütmeye çalışın ve duraklayın. Başlangıç pozisyonuna dönün ve set bitene kadar tekrarlayın.</string>
+
+    <string name="ex_name_5097">Sandalye Duruşu</string>
+    <string name="ex_desc_5097">Kaslar. Kuadriseps \n\nAdım 1. Dağ duruşunda başlayın ve nefes alırken ellerinizi avuçlar birbirine bakacak şekilde birleştirin. \n\nAdım 2. Nefes verirken dizlerinizi bükün ve geriye doğru oturun. \n\nAdım 3. 30 saniye - 60 saniye boyunca sandalye duruşunda kalın.</string>
+
+    <string name="ex_name_5098">Squat</string>
+    <string name="ex_desc_5098">Kas. Kalçalar \n\nAdım 1. Ayaklarınızı kalça genişliğinde açın. \n\nAdım 2. Uyluklarınız yere paralel olana kadar kalçanızı indirin. Vücudunuzu yukarı itin ve yeniden paralel pozisyona dönün. \n\nAdım 3. Tekrar duraklayın ve başlangıç pozisyonuna geri dönün.</string>
+
+    <string name="ex_name_5099">180 Ziplamali Squat</string>
+    <string name="ex_desc_5099">Kas Grubu. Kuadriseps \n\nAdım 1. Ayaklarınız omuz genişliğinden biraz daha açık olacak şekilde başlayın, ayak parmaklarınız hafifçe dışa dönmelidir; geriye doğru oturun. \n\nAdım 2. Zıplamak için topuklarınızdan itin ve sol tarafa 180 derece dönün. \n\nAdım 3. Dizleriniz hafifçe bükük olacak şekilde parmak uçlarınızın üzerine inin ve çömelin. \n\nAdım 4. Hızlı bir şekilde sağa dönerek zıplayın ve yeniden çömelme pozisyonuna dönün. Set bitene kadar tekrarlayın.</string>
+
+    <string name="ex_name_5100">Sumo Squat</string>
+    <string name="ex_desc_5100">Kas. Kuadriseps \n\nAdım 1. Ayaklarınız geniş açılmış ve ayak parmaklarınız yanlara bakacak şekilde ayakta durun. \n\nAdım 2. Dizlerinizi bükerek ve kalçalarınızı arka doğru iterek çömelin. \n\nAdım 3. Uyluklarınız yere paralel olana kadar kalçanızı indirin ve ardından doğrulun.</string>
+
+    <string name="ex_name_5101">Ziplamali Lunge</string>
+    <string name="ex_desc_5101">Kas Grubu. Kalçalar \n\nAdım 1. Geriye doğru uzun bir adım atın  ve arkadaki diziniz yerden hafifçe yukarıda oluncaya kadar kalçalarınızı indirin. Ön uyluğunuz yere paralel olmalıdır. \n\nAdım 2. Havaya zıplayın ve ayak pozisyonlarını değiştirin. \n\nAdım 3. Yeniden zıplayın ve başlangıç pozisyonuna geri dönün. \n\nAdım 4. Set tamamlanana kadar egzersizi tekrarlayın.</string>
+
+    <string name="ex_name_5102">Yukari İterek Squat</string>
+    <string name="ex_desc_5102">Kas Grubu. Deltoidler \n\nAdım 1. Dambıllar omuz hizasındayken topuklarınıza doğru çömelin ve squat pozisyonuna geçin. \n\nAdım 2. Topuklarınızı yere doğru ittirin ve ayağa kalkmak için kalçaları ileriye doğru itin. Yukarı kalkarken dambılları omuzlarınızdan yukarıya doğru itin.</string>
+
+    <string name="ex_name_5103">Burpee</string>
+    <string name="ex_desc_5103">Kas Grubu. Kuadriseps \n\nAdım 1. Ayaklarınız omuz genişliğinde olacak şekilde dik durun. \n\nAdım 2. Çömelin ve ellerinizi ayaklarınızın önüne yerleştirin \n\nAdım 3. Ayaklarınız tam olarak uzanana ve vücudunuz plank pozisyonunda olana kadar geri zıplayın. \n\nAdım 4. Bir şınav çekin, ileriye doğru zıplayın ve ardından başlangıç pozisyonuna dönmek için topuklarınıza doğru itin. \n\nAdım 5. Set bitene kadar tekrarlayın.</string>
+
+    <string name="ex_name_5104">Dambilla Summo Squat</string>
+    <string name="ex_desc_5104">Kas Grubu. Kalçalar \n\nAdım 1. Bacaklarınız arasındaki mesafe omuz genişliğinden iki kat daha geniş olmalı ve parmak uçlarınız dışa doğru bakmalıdır. Her iki elinizle birer dambıl tutun. \n\nAdım 2. Çömelin ve dambılı bacaklarınızın arasına alın. \n\nAdım 3. Dambılı aynı pozisyonda tutarak ayağa kalkın. \n\nAdım 4. Çömelme pozisyonuna geri dönün ve set boyunca tekrarlayın.</string>
+
+    <string name="ex_name_5105">Dambil Lateral Raise İle Yan Plank</string>
+    <string name="ex_desc_5105">Kas Grubu. Oblikler \n\nAdım 1. Üst bacağınızı uzatıp alt bacağınızı diziniz matta olacak şekilde bükerek modifiye edilmiş yan plank pozisyonunda başlayın. \n\nAdım 2. Üst bacağınızı olabildiğince yükseğe kaldırın ve aynı anda kolunuzu yukarıya doğru itip kolunuzu ve bacağınızı indirin. \n\nAdım 3. Tekrarlayın ve diğer tarafa geçin.</string>
+
+    <string name="ex_name_5106">Jumping Jacks</string>
+    <string name="ex_desc_5106">Kas Grubu. Kuadriseps \n\nAdım 1 Ayaklarınız yan yana ve elleriniz yanınızda dik durun. \n\nAdım 2. Zıplayın, ayaklarınızı açın ve her iki elinizi de başınızın üzerinde birleştirin. \n\nAdım 3. Yeniden zıplayın ve başlangıç pozisyonuna geri dönün. \n\nAdım 4. Set bitene kadar tekrarlayın.</string>
+
+    <string name="ex_name_5107">Yüksek Di̇zle Koşu</string>
+    <string name="ex_desc_5107">Kas Grubu. Kuadriseps \n\nADIM 1. Ayaklarınız omuz genişliğinde olacak şekilde dik durun. İleriye bakın ve göğsünüzü açın. \n\nAdım 2.  Dizlerinizi bel seviyesine doğru getirin ve ardından ayak parmak uçlarınız üzerinde yere inin. \n\nAdım 3. Set bitene kadar tekrarlayın.</string>
+
+    <string name="ex_name_5108">Kollar Yukarida Yeri̇nde Koşu</string>
+    <string name="ex_desc_5108">Kas. Kuadriseps \n\nAdım 1. Bacaklar ayrık şekilde kalça genişliğinde olacak şekilde dik durun ve kollarınızı uzatın. \n\nAdım 2. Zıplayarak bacaklarınızı ileri ve geri yöne değiştirin ve aynı anda ellerinizi kaldırın. \n\nAdım 3. Yerinizde koşmaya devam edin.</string>
+
+    <string name="ex_name_5109">Koşan Adam</string>
+    <string name="ex_desc_5109">Kas. Kuadriseps \n\nAdım 1. Ayaklarınız omuz genişliğinde olacak şekilde dik durun ve göğsünüzü açarak ileriye doğru bakın. \n\nAdım 2. Dizlerinizi yukarıya doğru çekip ayak uçlarınıza doğru inin. \n\nAdım 3. Set bitene kadar tekrarlayın.</string>
+
+    <string name="ex_name_5110">Yandan Yana Ziplama</string>
+    <string name="ex_desc_5110">Kas. Baldır \n\nAdım 1. Ayaklarınız kalça genişliğinde ve elleriniz yanınızda dik durun. \n\nAdım 2. Her iki ayağınızla ilk önce sağa ve sonra sola doğru hızlı bir şekilde zıplayın. \n\nAdım 3. Set bitene kadar tekrarlayın.</string>
+
+    <string name="ex_name_5111">Hizli İp</string>
+    <string name="ex_desc_5111">Kas. Baldır \n\nAdım 1. Ellerinizi belinize koyun ve dirsekler hafif bükük olacak şekilde kolunuzun üst kısmını vücudunuzun yanına yakın tutun. \n\nAdım 2. İp atlama hareketini taklit edercesine bileğinizi döndürün ve zıplayın. \n\nAdım 3. Her iki ayağınızla aynı anda zıplayın ve ayak uçlarınıza inin.</string>
+
+    <string name="ex_name_5112">Cross Jacks</string>
+    <string name="ex_desc_5112">Kas. Baldır \n\nAdım 1. Ayaklarınız omuz genişliğinde olacak şekilde dik durun ve kollarınızı yan tarafa doğru açın. \n\nAdım 2. Zıplayın ve sol ayağınızı sağ ayağınızın önüne ve sol kolunuzu sağ kolunuzun önüne geçirin. \n\nAdım 3. Yeniden zıplayın ve başlangıç pozisyonuna geri dönün. \n\nAdım 4. Tekrarlayın ve kollarınızın ve bacaklarınızın pozisyonunu tersine çevirin.</string>
+
+    <string name="ex_name_5113">Lunge Shoulder Press</string>
+    <string name="ex_desc_5113">Kas. Kuadriseps \n\nAdım 1. Ayaklarınız bel genişliğinde olacak şekilde dik durun ve her iki elinizde bir dambıl tutun. Dambılları omuz yüksekliğinde konumlandırın. \n\nAdım 2. Sol ayağınızla ileriye adım atın ve arka diziniz yere yaklaşana kadar dizlerinizi esnetin ve dambılları yukarı kaldırın. \n\nAdım 3. Setin tamamı boyunca bu hareketi tekrar edin ve diğer ayağa geçin.</string>
+
+    <string name="ex_name_5114">Tek Kolla Dambil Snatch</string>
+    <string name="ex_desc_5114">Kas. Deltoidler \n\nAdım 1. Sağ elinize bir dambıl alın, dizlerinizi bükün, kalçalarınızı arkaya itin ve dambılı ayaklarınızın arasına alın. \n\nAdım 2. Kalçalarınızı ve dizlerinizi uzatarak dambılı yukarıya doğru çekin ve dambıl omzunuza ulaştığında elinizi öne doğru döndürüp doğrudan yukarıya itin. \n\nAdım 3. Dambılı indirin ve ilk pozisyona geri dönün. \n\nAdım 4. Tekrarlayın ve diğer tarafa geçin.</string>
+
+    <string name="ex_name_5077">Dambil Geri̇ye Tekme Row</string>
+    <string name="ex_desc_5077">Kas. Triseps Brachii \n\nAdım 1. Bir çift dambıl alın, gövdenizi ileriye doğru hareket ettirin ve hafifçe dizlerinizi bükün. \n\nAdım 2. Üst kollarınız yere paralel olacak şekilde dirseklerinizi yukarıya kaldırın ve kollarınız tam olarak uzanana kadar geriye tekme atın. \n\nAdım 3. Ağırlıkları yavaşça başlangıç pozisyonuna indirin. \n\nAdım 4. Tekrarlayın.</string>
+
+    <string name="ex_name_5078">Good Morning</string>
+    <string name="ex_desc_5078">Kas. Bel \n\nAdım 1. Ayaklarınız omuz genişliğinde olacak şekilde dik durun. Halteri omzunuzun arkasına yerleştirin. Halteri avuç içi öne bakacak şeklide kavrayın. Elleriniz arasındaki mesafe omuz genişliğinden biraz daha fazla olmalıdır. Ayaklarınızı hafifçe dışa bakacak şekilde ayarlayın. \n\nAdım 2. Sırtınızı düz tutun ve üst gövdenizi yere paralel olana kadar eğin. Bir saniye boyunca bu pozisyonu koruyun.  Başlangıç pozisyonuna dönün.</string>
+
+    <string name="ex_name_5079">Tek Kolla Dambil Row 2</string>
+    <string name="ex_desc_5079">Kas. Triseps Brachii \n\nAdım 1. Baskın olmayan elinizle bir dambıl tutun ve baskın olan elinizi gösterildiği şekilde bir sehpaya yerleştirin. \n\nAdım 2. Kolunuz, omzunuzun önünde olacak şekilde dambılı yan tarafınızda indirirken sırtınızı düz tutun. \n\nAdım 3. Dirseğinizi vücudunuza yakın tutarken dambılı yukarıya ve kalçanıza doğru çekin.  Bu harekette üst sırt kaslarınızı kullanmaya odaklanın. Duraklayın ve yavaşça başlangıç pozisyonuna dönün.</string>
+
+    <string name="ex_name_5080">Deadlift</string>
+    <string name="ex_desc_5080">Kas. Kalçalar \n\nAdım 1. Ayaklarınız bel genişliğinde olacak şekilde dik durun ve ellerinizle birer dambıl tutun. \n\nAdım 2. Kalçalarınızı geriye doğru itin ve bacaklarınızı düz tutarken veya yalnızca hafifçe bükerken dambılları yere indirin. \n\nAdım 3. Başlangıç pozisyonuna dönün ve tekrarlayın.</string>
+
+    <string name="ex_name_5094">ZIPLAMA YILDIZI</string>
+    <string name="ex_desc_5094">Kas Grubu. Kuadriseps \n\n1. Adım. Ayaklarınız omuz genişliğiniz kadar açıklıkta ve kollarınız vücudunuza yakın rahat bir duruşla başlayın. \n\nS2. Adım. Harekete başlamak için, yarım çömelin ve mümkün olduğunca yükseğe zıplayın. Bacaklarınızı açıp, kollarınızı vücudunuzdan uzaklaştırarak vücudunuzu tamamen uzatın.</string>
+
+    <string name="extra_main_name">Egzersiz Programları</string>
+
+    <string name="day">Gün</string>
+    <string name="round">Tur</string>
+    <string name="day1">Haftada 2 gün</string>
+    <string name="day2">Haftada 3 gün</string>
+    <string name="day3">Haftada 4 gün</string>
+    <string name="restorePurchases">Satın Alınanları Geri Yükle</string>
+    <string name="textUpgrade">50 yeni egzersizi açmak ve  Reklamları kaldırmak için  Premium sürüme geçin</string>
+    <string name="one_day_ADS1">1 Gün boyunca REKLAMSIZ</string>
+    <string name="one_day_ADS2">SPONSORLU VİDEOYU GÖRÜNTÜLE</string>
+    <string name="upgrade">ŞİMDİ GEÇ</string>
+    <string name="free">ücretsiz</string>
+    <string name="tell_friend">Arkadaşına Bahset</string>
+    <string name="send_feedback">Geribildirim Gönder</string>
+    <string name="rate_app">Bizi Puanlayın</string>
+    <string name="facebook">Uygulamayı Facebook’ta paylaş</string>
+    <string name="twitter">"Uygulamayı Twitter’da paylaş "</string>
+    <string name="ic_googleplay">Diğer uygulamalarımız</string>
+    <string name="ic_settings_">Ayarlar</string>
+    <string name="social_follow">Kalın ile bağlantılı VGFIT</string>
+    <string name="reminder">Hatırlatma</string>
+    <string name="daily_reminder">Günlük hatırlatma</string>
+    <string name="frequency">Sıklık</string>
+    <string name="after_days">%1$s günlük hareketsizlik sonrası</string>
+    <string name="menu_bt">Menü butonu</string>
+    <string name="units">Birimler</string>
+    <string name="purch_restored">Uygulama içi satın almalar geri yüklendi</string>
+    <string name="success">Başarılı!</string>
+
+    <string name="ex_cat_1">Karın Kasları</string>
+    <string name="ex_cat_2">Geri</string>
+    <string name="ex_cat_3">Bisepler</string>
+    <string name="ex_cat_4">Kalçalar</string>
+    <string name="ex_cat_5">Göğüs</string>
+    <string name="ex_cat_6">Bacaklar</string>
+    <string name="ex_cat_7">Omuzlar</string>
+    <string name="ex_cat_8">Trisepler</string>
+    <string name="time_worout">Antrenman zamanı!</string>
+
+
+    <string name="cat_name6">Karın Kasları</string>
+    <string name="cat_name7">Kalça Egzersizi</string>
+    <string name="cat_name8">Bikini Vücudu</string>
+    <string name="cat_name9">Yağ Yakma</string>
+    <string name="cat_name10">Kol, Göğüs ve Sırt</string>
+    <string name="cat_name11">Yağsız Bacaklar</string>
+    <string name="cat_name12">Kardiyo ve Tüm Vücut</string>
+
+    <string name="extraDescription6">Bu yaratıcı karın yakıcı tur ile incelin ve baklavalarınızı çalıştırın.</string>
+    <string name="extraDescription7">Kalça kaslarına ve onları belirginleştirmeye odaklanan egzersiz.</string>
+    <string name="extraDescription8">Daha güçlü olmak ve belirgin hatlara sahip bir vücuda sahip olmak için mükemmel kombinasyon.</string>
+    <string name="extraDescription9">Yağsızlaşın ve bu canlı yağ yakma turunda terleyerek yağlarınızdan kurtulun.</string>
+    <string name="extraDescription10">Kol, göğüs ve sırt kaslarınıza odaklanan harika bir egzersiz.</string>
+    <string name="extraDescription11">Bacakların belirginleşmesine odaklanan harika bir egzersiz.</string>
+    <string name="extraDescription12">Yağ yakmaya ve tüm vücudun belirginleşmesine odaklanan bir egzersiz.</string>
+
+    <string name="Focus">Odak</string>
+    <string name="Goal">Amaç</string>
+    <string name="Skill_level">Beceri seviyesi</string>
+    <string name="Target_Group">Hedeflenen grup</string>
+    <string name="Place">Yer</string>
+    <string name="Equipment">Ekipman</string>
+
+    <string name="focus_1">Core bölge.</string>
+    <string name="focus_2">Kalça Kasları.</string>
+    <string name="focus_3">Tüm vücut kasları.</string>
+    <string name="focus_4">Kas tanımı ve yağ yakımı.</string>
+    <string name="focus_5">Biseps, Göğüs Kasları, Bel.</string>
+    <string name="focus_6">Kalça Kasları, Dizardı Kirişleri, Kuadriseps Kasları.</string>
+
+    <string name="goal_1">Karın kasları tanımı &amp; yağ yakımı.</string>
+    <string name="goal_2">Belirginlik ve hacim elde edin.</string>
+    <string name="goal_3">Vücut kondisyonu.</string>
+    <string name="goal_4">Tüm vücudun kardiyo rutini.</string>
+    <string name="goal_5">Güç ve nitelik kazanın.</string>
+
+    <string name="skill_level">Başlangıç Orta İleri</string>
+
+    <string name="target_group">Erkek ve Kadın</string>
+
+    <string name="equipment_1">Minder.</string>
+    <string name="equipment_2">Sehpa, Minder.</string>
+    <string name="equipment_3">Dambıl, Halter.</string>
+    <string name="equipment_4">Sehpa, Dambıl, Minder.</string>
+    <string name="place">Spor Salonu, Ev, Ofis.</string>
+
+    <string name="doneKey">Tamam</string>
+    <string name="editKey">Düzenle</string>
+    <string name="intervalsKey">Interval’ler</string>
+    <string name="myWorkoutsKey">Antrenmanlarım</string>
+    <string name="pauseKey">Duraklat</string>
+    <string name="resetKey">Sıfırla</string>
+    <string name="resumeKey">Devam Et</string>
+    <string name="roundsKey">Tur</string>
+    <string name="startKey">Başlat</string>
+    <string name="currentsetkey">Mevcut ayarlar</string>
+    <string name="worktimekey">Dinlenme süresi</string>
+    <string name="resttimekey">Egzersiz süresi</string>
+    <string name="minkey">Dak</string>
+    <string name="seckey">San</string>
+    <string name="sets_extra1">Dinlenme süresi olmadan 30 sn.</string>
+    <string name="sets_extra2">3 set ve 12/11/10 tekrar</string>
+    <string name="sets_extra3">35 sn egzersiz, 15 sn. dinlenme süresi</string>
+    <string name="sets_extra4">30 sn. egzersiz, 15 sn. dinlenme süresi</string>
+    <string name="sets_extra5">2 tur, 15 tekrar</string>
+
+    <string name="rep_extra1">30 sn. egzersiz, 15 sn. dinlenme süresi</string>
+    <string name="rep_extra2">30 saniye egzersiz, 15 saniye dinlenme süresi, 30 saniye diziler arasında dinlenme süresi</string>
+    <string name="rep_extra3">3 set ve 12/11/10 tekrar</string>
+
+    <string name="rep_extra1_how">Egzersiz süresi 30 saniye. Egzersiz arası dinlenme süresi 15 saniye.</string>
+    <string name="rep_extra2_how">Egzersiz süresi 30 saniye. Egzersiz arası dinlenme süresi 15 saniye. Turlar arasında dinlenme süresi 30 saniye.</string>
+    <string name="rep_extra3_how">Egzersiz arası dinlenme süresi 30 saniye. Setler arasında dinlenme süresi 45 saniye.</string>
+
+    <string name="enter_text">Metin mesajı girin</string>
+    <string name="main_work">Ağırlık kaldırmak ve kas ve güç kazanmak için tasarlanmış olan antrenmanlar.</string>
+
+    <string name="namemeal1_1">Çilek ve Yulaf Kreması</string>
+    <string name="ingredientMeal1_1">&#189; su bardağı yulaf ezmesi \n\n&#8531; su bardağı yağsız süt \n\n&#8531; su bardağı vanilyalı Ysüzme yoğurt \n\n&#189; su bardağı dilimlenmiş çilek \n\n2 yemek kaşığı vanilyalı yağsız süzme yoğurt \n\n1 yemek kaşığı kızarmış badem</string>
+    <string name="stepsMakeMeal1_1">Akşam yulaf ezmesi, süt ve &#8531; su bardağı yoğurdu iyice özdeşleşinceye kadar bir kavanoz veya kase içerisinde karıştırın. Üzerini kapayıp gece buzdolabında soğumaya bırakın. Afiyet olsun!</string>
+
+
+    <string name="namemeal1_2">Altın Işıltı İksiri</string>
+    <string name="ingredientMeal1_2">2 elma \n\n4 orta boy kabuğu soyulmuş portakal  \n\n1 kabuğu soyulmuş limon  \n\n6&#8211;7 cmlik kabuğu soyulmuş taze zencefil  \n\n5 cmlik kabuğu soyulmuş taze zerdeçal   \n\n2 su bardağı soğuk su  \n\n1 avuç buz</string>
+    <string name="stepsMakeMeal1_2">Yüksek hızlı blenderda, gerekirse ekstra su ekleyerek, pürüzsüz hale gelinceye dek tüm malzemeleri karıştırın. Yüksek güçlü iyi bir blender bu karışımı pürüzsüz bir içeceğe dönüştürecektir. Daha da pürüzsüz hale getirmek için malzemelerin suyunu sıkmayı tercih ederseniz, tüm lif ve besleyici öğeleri muhafaza edemeyecek olsanız da, malzemelerin suyunu sıkmak da yeterince iyi olacaktır. Afiyet olsun!</string>
+
+
+    <string name="namemeal1_3">Tso’nun Wokta Kızarmış Tavuğu</string>
+    <string name="ingredientMeal1_3">4 küp küp doğranmış tavuk göğsü  \n\n1 su bardağı un  \n\nbitkisel sıvıyağ \n\ntuz \n\ntaze toz karabiber  \n\n2 diş kıyılmış sarımsak  \n\n&#189; kutu tavuk suyu  \n\n3 yemek kaşığı bal \n\n4 yemek kaşığı soya sosu  \n\n2 yemek kaşığı misket limonu suyu  \n\n2 kutu brokolinin sadece çiçekçikleri  \n\n2 kutu pişmiş beyaz pirinç, servis için</string>
+    <string name="stepsMakeMeal1_3">Geniş bir kase içerisinde tavuğu hafifçe mısır nişastasına daldırın. Parçaları unla kaplı geniş bir kaseye alın ve una bulanması için kaseyi hafif sallayın ve bir kenara koyun. Geniş, derin bir tavayı &#189;  bitkisel sıvıyağla doldurun ve ocağı orta&#8211;yüksek ateşe ayarlayın. Tavuğu çeşnilendirip, suyunu süzün ve bir kenara koyun. 2 yemek kaşığı mısır nişastasını ekleyip, dağılması için karıştırın. Sosa brokoli ve havuçları ekleyin ve 5 dakika boyunca yumuşayıncaya kadar pişirin. Afiyet olsun!</string>
+
+
+    <string name="namemeal1_4">Bitki Çayı</string>
+    <string name="ingredientMeal1_4">1 su bardağı su  \n\n1 çay kaşığı rendelenmiş taze zencefil  \n\n1 çay kaşığı rendelenmiş limon kabuğu  \n\n1 çay kaşığı misket limonu suyu  \n\n3 taze nane yaprağı</string>
+    <string name="stepsMakeMeal1_4">Bir tencerede suyu kaynatıp, diğer malzemeleri ekleyip karıştırın. Çay demlenene kadar kaynatın ve karıştırın. Afiyet olsun!</string>
+
+
+    <string name="namemeal1_5">Limonlu Dijon Hardallı Izgara Tavuk But ve Roka Salatası</string>
+    <string name="ingredientMeal1_5">4 derisi ve kemikleri alınmış tavuk but  \n\n&#189; çay kaşığı tuz  \n\n&#188; çay kaşığı toz karabiber  \n\n2.5 yemek kaşığı zeytinyağı  \n\n2 çay kaşığı limon suyu  \n\n1 çay kaşığı kıyılmış sarımsak \n\npişirme spreyi  \n\n1 yemek kaşığı balzamik sirke  \n\n1 çay kaşığı bal \n\n1 su bardağı ikiye kesilmiş şeker domates  \n\n1 paket (140 gr) bebek roka</string>
+    <string name="stepsMakeMeal1_5">Tavuğun üzerine &#188; çay kaşığı tuz ve 1/8 çay kaşığı pul biber serpin. Bir kase içerisine tavuk, 1&#8211;1.5 çay kaşığı yağ, limon suyu, hardal ve sarımsağı ekleyip karışması için sallayın. 4 dakika boyunca bekletin. Izgara tavasını orta ateşte ısıtın. Pişirme spreyi sıkın. Tavuğu tavaya ekleyip, her bir yüzünü 5 dakika boyunca veya tamamen pişene kadar pişirin. Tavuğu 6 mm kalınlığında dilimler halinde kesin. Afiyet olsun!</string>
+
+
+    <string name="namemeal2_1">Süzme Peynirli Meyveli Çıtır</string>
+    <string name="ingredientMeal2_1">&#189; su bardağı %2 az yağlı sahip süzme peynir \n\n12 yemek kaşığı granola \n\n&#189; su bardağı dilimlenmiş muz \n\n&#189; su bardağı karışık meyve</string>
+    <string name="stepsMakeMeal2_1">Süzme peyniri kaşıkla küçük bir kasenin içine koyun. Diğer malzemelerle üzerini süsleyin. Afiyet olsun!</string>
+
+
+    <string name="namemeal2_2">Ananas Kivi</string>
+    <string name="ingredientMeal2_2">4 yemek kaşığı su \n\n&#189; su bardağı süt \n\n&#189; su bardağı yoğurt \n\n1.5 yemek kaşığı bal \n\n1 kabuğu soyulmuş kivi  \n\n1 su bardağı ananas parçaları  \n\n&#189; mango \n\n2 buz küpü</string>
+    <string name="stepsMakeMeal2_2">Tüm malzemeleri düşük hızda yoğun ve pürüzsüz hale gelinceye dek karıştırın. Afiyet olsun!</string>
+
+
+    <string name="namemeal2_3">Tavada Limonlu Tavuk</string>
+    <string name="ingredientMeal2_3">4 tavuk göğsü  \n\n&#188; su bardağı tereyağı \n\n2 yemek kaşığı zeytinyağı  \n\n1 limon \n\n1 dilimlenmiş limon  \n\n&#188; su bardağı beyaz şarap  \n\n1 çay kaşığı tuz \n\n1 çay kaşığı toz karabiber  \n\n&#189; çay kaşığı tatlı kırmızıbiber  \n\n&#189; çay kaşığı kurutulmuş maydanoz</string>
+    <string name="stepsMakeMeal2_3">Un, tuz, tatlı kırmızıbiber ve maydanozu sığ bir kase içerisinde karıştırın. Orta&#8211;yüksek ateşte yağı ve tereyağını ısıtın. Her bir tavuk göğsünü unlu karışımla kaplayın ve sıcak tavaya ekleyin. Tavaya limon suyu, beyaz şarap, limon kabuğu rendesi ve biberiyeyi ekleyin. Her iki tarafı da pişene dek tavuğu pişirin. Afiyet olsun!</string>
+
+
+    <string name="namemeal2_4">Kabaklı Kinoalı Kurabiye</string>
+    <string name="ingredientMeal2_4">&#189; su bardağı kremalı fıstık ezmesi  \n\n&#188; su bardağı bal \n\n1 muz  \n\n1 yumurta \n\n1 çay kaşığı vanilya özütü  \n\n&#189; su bardağı yulaf ezmesi  \n\n&#189; su bardağı kinoa gevreği  \n\n1 çay kaşığı tarçın \n\n&#188; çay kaşığı tuz  \n\n1 su bardağı küçük küçük kesilmiş ve ezilmiş kabak</string>
+    <string name="stepsMakeMeal2_4">Fırınınızı önceden 175 dereceye ayarlayığ ısıtın. Fıstık ezmesi, bal, muz, yumurta ve vanilyayı geniş bir kase içerisine koyup karıştırın. Yulaf, kinoa gevreği, kabartma tozu, baharatlar ve tuzu kaseye ekleyip karıştırın. Küçük küçük kesilmiş kabağı ve chia tohumlarını kıvırın. Hamuru fırın tepsisine kaşık yardımıyla koyun. Kurabiyeleri kenarları altın sarısı renge gelene dek 15&#8211;18 dakika boyunca fırının orta gözünde pişirin. Afiyet olsun!</string>
+
+
+    <string name="namemeal2_5">Taze Baharatlı Karides</string>
+    <string name="ingredientMeal2_5">450 gr büyük boy karides  \n\n2 acı kırmızı biber  \n\n1 ince dilimlenmiş pırasa  \n\n0.5&#8211;1 yemek kaşığı yıkanmış ve süzülmüş kapari  \n\n2 diş ince doğranmış sarımsak  \n\n&#189; su bardağı kalın doğranmış maydanoz  \n\n3 yemek kaşığı limon suyu \n\n2 yemek kaşığı zeytinyağı</string>
+    <string name="stepsMakeMeal2_5">Sote tavasını orta ateşe koyup, yağ ekleyin. Karides, biber, pırasa, kapari, sarımsak, tuz ve pul biberi ekleyip, karidesler pembeleşinceye kadar 4 dakika boyunca pişirip ocaktan alın. Limon suyu ekleyin, tavanın dibini kaşıklı sıyırın. Karidesleri üzerine maydanoz ve fesleğen serpiştirip servis edin. Afiyet olsun!</string>
+
+
+    <string name="namemeal3_1">Keten Tohumlu Yaban Mersinli Yulaf</string>
+    <string name="ingredientMeal3_1">3 su bardağı su \n\n2 su bardağı yulaf ezmesi  \n\n3 yemek kaşığı öğütülmüş keten tohumu \n\n1/8 çay kaşığı tuz \n\n&#188; su bardağı tam yağlı süt \n\n1 su bardağı yaban mersini  \n\n1 yemek kaşığı yaban mersini reçeli \n\n&#189; çay kaşığı rendelenmiş limon kabuğu \n\n1 yemek kaşığı limon suyu</string>
+    <string name="stepsMakeMeal3_1">3 su bardağı suyu kaynatın. Yulaf, keten tohumu ve tuzu ekleyip karıştırın. Ateşi kısıp orta ateşte sık sık karıştırarak yumuşayıncaya kadar pişirin. Süt ve tereyağını ekleyip karıştırın. Bu arada, yaban mersini ve sonraki 4 malzemeyi bir mikrodalga kasesine ekleyip, her 30 saniyede bir karıştırarak 1,5 dakika boyunca yüksek ayarda mikrodalgada pişirin. Yulafı 4 kaseye paylaştırın. Yaban mersini ve fındıkla üzerlerini süsleyin. Afiyet olsun!</string>
+
+
+    <string name="namemeal3_2">Yaban Mersinli Hindistan Cevizi Sütlü Smoothie</string>
+    <string name="ingredientMeal3_2">1 torba (280 gr) donmuş yaban mersini  \n\n3 olgunlaşmış muz  \n\n1 su bardağı sade yoğurt  \n\n1 su bardağı şekersiz hindistan cevizi sütü  \n\n2 yemek kaşığı bal</string>
+    <string name="stepsMakeMeal3_2">Blenderda yaban mersini, muz, yoğurt, hindistan cevizi sütü ve balı püre haline getirin. Afiyet olsun!</string>
+
+
+    <string name="namemeal3_3">Wokta Kızarmış Tavuk ve Kuşkonmaz</string>
+    <string name="ingredientMeal3_3">1 yemek kaşığı soya sosu  \n\n1 yemek kaşığı bal \n\n2 doğranmış tavuk göğsü  \n\n1 yemek kaşığı zeytinyağı  \n\n1 demet doğranmış kuşkonmaz  \n\n4 diş ince dilimlenmiş sarımsak  \n\n2 çay kaşığı kavrulmuş susam yağı</string>
+    <string name="stepsMakeMeal3_3">Kilitli bir poşet içerisinde soya sosu ve balı karıştırın. Tavuğu ekleyip, sosla kaplanması için karıştırın. Hazır olana dek buzdolabında bekletin. Bu arada, geniş bir tavayı orta ateşte ısıtın. Kuşkonmazı ayırıp bir kenara koyun. Üzerindeki terbiye sosunu giderdikten sonra tavuğu tavaya ekleyin. Ardından sarımsak, taze soğan ve bir kenara ayırdığınız terbiye sosunu tavaya ekleyin. Tavayı ateşten alın ve susam yağı ekleyip karıştırın. Afiyet olsun!</string>
+
+
+    <string name="namemeal3_4">Lavantalı ve Naneli Çay</string>
+    <string name="ingredientMeal3_4">&#188; su bardağı taze lavanta yaprağı  \n\n1 su bardağı taze nane yaprağı \n\n4 su bardağı su</string>
+    <string name="stepsMakeMeal3_4">Lavanta ve nane yapraklarını tencereye koyun, üzerine su dökün ve kaynatın. Ateşi düşürün ve çay arzu ettiğiniz deme ulaşıncaya dek 15&#8211;20 dakika kadar ağır ateşte kaynatın. Afiyet olsun!</string>
+
+
+    <string name="namemeal3_5">Çili Fajita</string>
+    <string name="ingredientMeal3_5">325 gr derisi alınmış tavuk göğsü  \n\n&#189; ince dilimlenmiş yeşil, kırmızı ve sarı dolmalık biber  \n\n&#8531; su bardağı su \n\n2 çay kaşığı soya sosu  \n\n1 tutam tuz  \n\n1 tutam karabiber \n\n2 yemek kaşığı zeytinyağı  \n\n1 ince doğranmış soğan</string>
+    <string name="stepsMakeMeal3_5">Tüm terbiye malzemelerini bir kap içerisinde tavukla karıştırıp, en az 2 saat boyunca buzdolabında bekletin. Eti terbiye karışımından çıkarıp, her iki yüzünü orta ateşte yaklaşık 4&#8211;5 dakika boyunca ızgarada pişirin. Eti ince şeritler halinde kesin. Sos için 2 yemek kaşığı su, 1 çay kaşığı soya sosu, &#188; çay kaşığı misket limonu suyunu, bir tutam tuz ve karabiber ile 1 yemek kaşığı zeytinyağını ekleyip karıştırın. Afiyet olsun!</string>
+
+
+    <string name="namemeal4_1">Sağlıklı Meyveli Yulaf</string>
+    <string name="ingredientMeal4_1">&#189; su bardağı yulaf \n\n1 su bardağı su \n\n1 yemek kaşığı bal \n\n1 yemek kaşığı vanilya özütü \n\n&#189; çay kaşığı toz tarçın  \n\n&#188; su bardağı yaban mersini \n\n4 dilimlenmiş çilek \n\n&#189; dilimlenmiş muz</string>
+    <string name="stepsMakeMeal4_1">Su ve yulafı mikrodalga kasesi içerisinde karıştırın. Su yulafları eminceye dek yüksek ayarda mikrodalgada pişirin. Bal, vanilya özütü ve toz tarçını ekleyip karıştırın. Yaban mersinlerini ekleyin ve üzerini muz ve çilek dilimleriyle süsleyin. Afiyet olsun!</string>
+
+
+    <string name="namemeal4_2">Kahveli Smoothie</string>
+    <string name="ingredientMeal4_2">1 çay kaşığı çözünebilir espresso kahve tozu  \n\n1 yemek kaşığı sıcak su  \n\n1 küçük soyulmuş, doğranmış ve dondurulmuş muz  \n\n&#188; su bardağı yağsız süt  \n\n1 yemek kaşığı bal \n\n&#189; su bardağı buz küpü \n\n toz tarçın</string>
+    <string name="stepsMakeMeal4_2">Blendera espresso tozu ve sıcak suyu ekleyip, bir dakika bekletin. Muz, süt ve balı ekleyin. Ağzını kapatıp pürüzsüz hale gelinceye dek karıştırın. Azar azar buz ekleyerek arzu edilen kıvama gelinceye dek karıştırın. Üzerine biraz tarçın serpin. Afiyet olsun!</string>
+
+
+    <string name="namemeal4_3">Wokta Kızarmış Tavuk ve Ananas</string>
+    <string name="ingredientMeal4_3">110 gr tavuk göğsü \n\n40 gr ananas  \n\n120 gr esmer pirinç \n\n&#8531; yemek kaşığı zeytinyağı  \n\n&#189; çay kaşığı kahverengi hardal  \n\n1/6 yemek kaşığı tütsülenmiş tatlı kırmızıbiber  \n\ndeniz tuzu \n\npul biber</string>
+    <string name="stepsMakeMeal4_3">Çiğ tavuk göğüslerini küçük parçalara doğrayın. Tavuk parçalarını tütsülenmiş tatlı kırmızıbiber ve kahverengi hardalla çeşnilendirin. Tavaya zeytinyağı ekleyin ve ardından tavuk göğsü parçalarını ekleyin. Tavuk yaklaşık %80 pişene kadar yaklaşık 4 dakika boyunca pişirin, ardından doğranmış dolmalık biberi ekleyin. Küp küp doğranmış ananası eklemeden önce 2&#8211;3 dakika kadar daha pişirin. Afiyet olsun!</string>
+
+
+    <string name="namemeal4_4">Çiğ Çikolata Topları</string>
+    <string name="ingredientMeal4_4">&#189; su bardağı ceviz, kaju ve geceden suya konmuş badem  \n\n3&#8211;4 yemek kaşığı badem sütü  \n\n&#188; su bardağı ayçekirdeği  \n\n&#188; su bardağı kabak çekirdeği  \n\n2 yemek kaşığı keçiboynuzu tozu \n\n3 yemek kaşığı hindistan cevizi gevreği</string>
+    <string name="stepsMakeMeal4_4">Hindistan cevizi gevreği hariç tüm malzemeleri blendera koyup karıştırın. Dondurma kepçesi ile karışımdan küçük toplar oluşturmaya başlayın. Her bir şekerlemeyi hindistan cevizi gevreğine bulayın. Soğuk servis edin. Afiyet olsun!</string>
+
+
+    <string name="namemeal4_5">Baked Salmon with Veggies</string>
+    <string name="ingredientMeal4_5">2 somon fileto  \n\n1 su bardağı doğranmış kabak  \n\n1 su bardağı brokoli \n\n&#189; su bardağı çeri domates  \n\ntuz  \n\npul biber  \n\nzeytinyağı</string>
+    <string name="stepsMakeMeal4_5">Fırınınızı önceden 190 derecede ısıtın. Sebzeleri geniş bir pişirme tepsisinde karıştırın. Sebzeleri tuz, pul biber ve zeytinyağıyla çeşnilendirin. Filetoları sebzelerin yanına koyup, somon pişene ve sebzeler yumuşayıncaya kadar 18&#8211;20 dakika boyunca pişirin. Afiyet olsun!</string>
+
+
+    <string name="namemeal5_1">Muzlu Cevizli Yulaf</string>
+    <string name="ingredientMeal5_1">&#189; su bardağı yulaf ezmesi \n\n1 su bardağı su \n\n1 dilimlenmiş muz \n\n1 yemek yaşığı kıyılmış ceviz \n\n1 çay kaşığı toz tarçın</string>
+    <string name="stepsMakeMeal5_1">Yulaf ve 1 su bardağı suyu küçük bir mikrodalga kasesi içerisine ekleyip karıştırın. 3 dakika boyunca yüksek ayarda mikrodalgada pişirin. Üzerini muz dilimleri, ceviz ve tarçınla süsleyin. Afiyet olsun!</string>
+
+
+    <string name="namemeal5_2">Pembe Güç</string>
+    <string name="ingredientMeal5_2">1.5 su bardağı küçük taze karnabahar çiçeği  \n\n2 su bardağı karpuz küpü (çekirdekleri ve kabuğu çıkarılmış)  \n\n1.5 su bardağı bütün çilek  \n\n1 kase (170 gr) çilekli süzme yoğurt  \n\n2 yemek kaşığı çilek reçeli (isteğe bağlı)</string>
+    <string name="stepsMakeMeal5_2">Küçük bir tencerede karnabaharı iyice yumuşayıncaya dek sıcak suda kaynatarak pişirin. Blenderda pişmiş karnabahar, karpuz, çilek, yoğurt ve arzu edilirse çilek reçelini karıştırın. Afiyet olsun!</string>
+
+
+    <string name="namemeal5_3">Kuşkonmazlı Barbekü Soslu Tavuk Sarması</string>
+    <string name="ingredientMeal5_3">2 ince kesilmiş tavuk göğsü, her biri 85 gr  \n\n12 dal kuşkonmaz  \n\n2 yemek kaşığı barbekü sos \n\n1 tutam tütsülenmiş tatlı kırmızıbiber  \n\n1 tutam sarımsak tozu  \n\n1 tutam pul biber</string>
+    <string name="stepsMakeMeal5_3">Fırınınızı 200 dereceye ayarlayın. Tavuğu bir tokmakla düzleştirin. Tavuk parçalarını birer yemek kaşığı barbekü sos ve dilediğiniz baharatlarla çeşnilendirin. Tavuğu aşağı bakacak şekilde ızgaraya yerleştirin. Fırında pişirin veya ızgarada yaklaşık 8&#8211;10 dakika kadar fümeleyin. Afiyet olsun!</string>
+
+
+    <string name="namemeal5_4">Zencefilli ve Zerdeçallı Bitki Çayı</string>
+    <string name="ingredientMeal5_4">2 su bardağı su  \n\n&#189; çay kaşığı doğranmış taze zencefil  \n\n&#189; çay kaşığı toz tarçın  \n\n1 yemek kaşığı bal  \n\n1 limon dilimi</string>
+    <string name="stepsMakeMeal5_4">Küçük bir tencerede suyu kaynatıp zerdeçal, zencefil ve tarçını ekleyin. Ateşin derecesini düşürün ve 10 dakika boyunca ağır ateşte kaynatın. Çayı büyük bir bardağa döküp bal ve limon ekleyin. Afiyet olsun!</string>
+
+
+    <string name="namemeal5_5">Izgara Karides ve Avokadolu Kebap</string>
+    <string name="ingredientMeal5_5">450 gr jumbo karides  \n\n1.5 avokado \n\n1 kırmızı dolmalık biber  \n\n1 turuncu dolmalık biber  \n\n1 sarı dolmalık biber  \n\n1 kırmızı soğan \n\n1 çay kaşığı sarımsak macunu  \n\n&#189; yemek kaşığı ekstra rafine zeytinyağı  \n\n1 misket limonu \n\ntuz, pul biber</string>
+    <string name="stepsMakeMeal5_5">Izgaranızı 200 dereceye ayarlayın. Kebap için sebzeleri ve avokadoyu iri parçalar halinde kesin. Karidesleri soyup, çeşnilendirin. Lifli sebzeler daha doyurucu olduğundan ve yoğun ateş altında kebap şişi üzerinde daha rahat dengede duracağından bu tarz sebzeleri tercih edin. Kebapları ızgaraya koyup yaklaşık 8&#8211;10 dakika kadar pişirin ve ters yüz edip bir 8&#8211;10 dakika kadar daha pişirin. Afiyet olsun!</string>
+
+
+    <string name="namemeal6_1">Sabah Parfesi</string>
+    <string name="ingredientMeal6_1">&#188; su bardağı kuru üzüm ve 1 çay kaşığı rendelenmiş portakal kabuğu \n\n1 çay kaşığı vanilya \n\nyarım paket yağı azaltılmış krem peynir (225 gram) \n\nekmek kırıntıları \n\n2 su bardağı taze ahududu, yaban mersini, dilimlenmiş çilek ve/veya doğranmış şeftali \n\n&#189; su bardağı az yağlı granola \n\nbal \n\nrendelenmiş portakal kabuğu</string>
+    <string name="stepsMakeMeal6_1">Ekmek kırıntılarını ve peyniri karıştırıp borcama dökün. Üzerine yağ serpin. 20&#8211;25 dakika kadar fırında pişirin. 4 su bardağına birer kat kremalı peynir karışımı ve birer kat granola koyun. Bardakların ağız kısmına kadar kat ekleme işlemini gerçekleştirin. Üzerlerine bal serpin ve ayrıca portakal kabuğuyla süsleyin. 4 porsiyonluktur. Afiyet olsun!</string>
+
+
+    <string name="namemeal6_2">Yeşil Çay Kivi ve Mango</string>
+    <string name="ingredientMeal6_2">2.5 su bardağı dondurulmuş küp küp doğranmış mango  \n\n3/4 su bardağı vanilyalı yoğurt \n\n2 yemek kaşığı bal \n\n2 yemek kaşığı su \n\n3 olgun kivi  \n\n2 su bardağı buz küpü  \n\n&#189; su bardağı bebek ıspanak  \n\n2 yemek kaşığı şişelenmiş yeşil çay</string>
+    <string name="stepsMakeMeal6_2">Mango, &#189; su bardağı yoğurt, 2 yemek kaşığı bal, 2 yemek kaşığı su ve misket limonu kabuğunu blenderda pürüzsüz hale gelinceye dek karıştırın. &#188; su bardağı yoğurt, 2 yemek kaşığı bal, kivi ve sonraki 3 malzemeyi pürüzsüz hale gelinceye dek blenderda karıştırın. Afiyet olsun!</string>
+
+
+    <string name="namemeal6_3">Wokta Kızarmış Narenciye Soslu Tavuk</string>
+    <string name="ingredientMeal6_3">140 gr küçük parçalara doğranmış tavuk göğsü   \n\n34 gr bebek brokoli   \n\n25 gr bebek portobello mantarı   \n\n&#188; kırmızı dolmalık biber  \n\n20 gr kırmızı soğan  \n\nhindistan cevizi yağı spreyi  \n\nsusam tohumları    \n\n&#188; çay kaşığı ararot nişastası  \n\n1/8 yemek kaşığı sarımsak macunu \n\n&#188; çay kaşığı zencefil macunu</string>
+    <string name="stepsMakeMeal6_3">Bir kase içerisinde wokta pişirilecek sosun tüm malzzemelerini karıştırın. Tavayı hindistan cevizi yağıyla spreyleyin ve ocağı orta ateşe ayarlayın. Tavuk parçalarını ekleyin ve yaklaşık %85 pişmiş hale gelinceye dek pişirin. Ardından sebzeleri ekleyin ve bir spatulayla karıştırın. Afiyet olsun!</string>
+
+
+    <string name="namemeal6_4">Kızarmış Meksika Mısırı</string>
+    <string name="ingredientMeal6_4">4 mısır başağı  \n\n1.5 su bardağı ekşi krema  \n\n1 su bardağı rendelenmiş parmesan peyniri  \n\n1 misket limonunun suyu  \n\nkırmızı toz biber  \n\n2 dilimlenmiş misket limonu, garnitür için</string>
+    <string name="stepsMakeMeal6_4">Birer kez döndürerek mısırı hafif közlenmeye başlayana kadar sıcak bir ızgarada pişirin. Küçük bir kase içerisinde mayonez, ekşi krema ve kişnişi karıştırın. Mısırın üzerine misket limonunun suyunu sıkın ve parmesan peyniriyle çeşnilendirin. Üzerine kırmızı toz bibe serpin. Afiyet olsun!</string>
+
+
+    <string name="namemeal6_5">Avokadolu Somon Burger</string>
+    <string name="ingredientMeal6_5">325 gr somon fileto  \n\n1 su bardağı ekmek kırıntısı  \n\n1 yumurta \n\n1 yemek kaşığı limon suyu  \n\ntuz ve pul biber  \n\nzeytinyağı \n\n1 doğranmış büyük avokado \n\n&#8531; su bardağı doğranmış kırmızı soğan  \n\n1 limmisket limonunun suyu</string>
+    <string name="stepsMakeMeal6_5">Somon filetoyu küçük parçalar halinde kesin ve bir karıştırma kasesine alın. Diğer malzemelerle birlikte nazikçe karıştırın. Karışımı 5&#8211;10 dakika kadar dinlendirin. Geniş bir ızgara tavasında orta ateşte bir miktar yağı ısıtın. Somon karışımından düzgün köfteler yapın. Köfteleri her iki yüzü kahverengileşinceye kadar yaklaşık 4er dakika kızartın. Afiyet olsun!</string>
+
+
+    <string name="namemeal7_1">Çilek, Muz, Ceviz ve Yulaflı Kek</string>
+    <string name="ingredientMeal7_1">150 gr pişmiş yulaf ezmesi  \n\n&#189; muz püresi \n\n50 gr çilek \n\n2 yemek kaşığı badem sütü \n\n1 yemek kaşığı vanilya özütü \n\n2 yemek kaşığı kıyılmış ceviz \n\nbir paket \"In The Raw\" marka stevia  \n\nLimon kabuğu rendesi \n\n1 yemek kaşığı süzme yoğurt (%2 yağlı) \n\n&#189; yemek kaşığı kıyılmış badem \n\nhaşhaş tohumları</string>
+    <string name="stepsMakeMeal7_1">Yulaf ezmesini talimatlara göre pişirin ve bir kenara koyun. Çilek hariç tüm malzemeleri bir kasenin içerisine koyun ve iyice karıştırın. Yulafın üzerini yeni doğranmış çileklerle süsleyin. Süzme yoğurdu, kıyılmış ceviz ve haşhaş tohumlarıyla çeşnilendirin. Afiyet olsun!</string>
+
+
+    <string name="namemeal7_2">Çilek Muz</string>
+    <string name="ingredientMeal7_2">2 su bardağı çilek  \n\n1 dilimlenmiş taze muz  \n\n1 su bardağı süt \n\n1 buz küpü  \n\n1 yemek kaşığı bal</string>
+    <string name="stepsMakeMeal7_2">Tüm malzemeleri blendera koyup, özdeşleşinceye dek karıştırın. Smoothie fazla yoğun kıvamlı olursa daha fazla süt ekleyin. Kıvamı yeterince yoğun olmazsa daha fazla meyve ve/veya buz ekleyin. Afiyet olsun!</string>
+
+
+    <string name="namemeal7_3">Baharatlı ve Hafif Kung Poa Tavuk Yemeği</string>
+    <string name="ingredientMeal7_3">150 gr tavuk göğsü  \n\n1/6 diş sarımsak   \n\n33 gr sultani bezelye  \n\n150 gr dolmalık biber  \n\n2/3 yemek kaşığı su  \n\n&#8531; yemek kaşığı domates sosu  \n\n1/6 yemek kaşığı taze zencefil  \n\n1/6 yemek kaşığı acı kırmızı biber sosu  \n\n1/6 yemek kaşığı pirinç sirkesi  \n\ndoğranmış yeşil soğan</string>
+    <string name="stepsMakeMeal7_3">Bir kase içerisine tüm sos malzemelerini ekleyip çırpın. Tavanın altını orta ateşe ayarlayıp, zeytinyağıyla spreyleyin. Tava ısındığında sarımsağı ekleyip yaklaşık 2 dakika boyunca kavurun. Ardından doğranmış tavuk göğsünü ekleyin. Tavuğun dışı kızara kadar yaklaşık 6&#8211;8 dakika kadar pişirin. Doğranmış dolmalık biberi ekleyin ve yaklaşık 3 dakika kadar kavurun. Yavaşça sosu ekleyin ve sık sık karıştırın. Afiyet olsun!</string>
+
+
+    <string name="namemeal7_4">Lavantalı ve Naneli Çay</string>
+    <string name="ingredientMeal7_4">&#188; su bardağı taze lavanta yaprağı  \n\n1 su bardağı taze nane yaprağı \n\n4 su bardağı su</string>
+    <string name="stepsMakeMeal7_4">Lavanta ve nane yapraklarını tencereye koyun, üzerine su dökün ve kaynatın. Ateşi düşürün ve çay arzu ettiğiniz deme ulaşıncaya dek 15&#8211;20 dakika kadar ağır ateşte kaynatın. Afiyet olsun!</string>
+
+
+    <string name="namemeal7_5">Ispanak ve Domatesli Folyoda Balık</string>
+    <string name="ingredientMeal7_5">1 demet kuşkonmaz  \n\n2 dilimlenmiş domates  \n\n2 tatlısu çipurası fileto \n\nzeytinyağı  \n\n&#189; çay kaşığı çili sarımsak sosu \n\ntuz  \n\n1 dilimlenmiş limon</string>
+    <string name="stepsMakeMeal7_5">Fırınınızı önceden 190 derecede ısıtın. Küçük bir kase içerisinde zeytinyağı, çili sos ve tuzu karıştırın. Aluminyum folyonun ortasına kuşkonmaz dallarını koyup, üzerlerine eşit bir şekilde domatesleri yerleştirin ve ardından çeşnilendirin. Her bir folyodaki domatesin üzerine bir balık filetosu koyun ve balığın üzerine zeytinyağı karışımından dökün. Balığın üstüne limon dilimlerini yerleştirin. Balığı 25&#8211;30 dakika boyunca fırında pişirin. Afiyet olsun!</string>
+    <string name="cat_name13">Beslenme Planı Ağırlığı</string>
+    <string name="focus_13">"7 günlük iyi beslenme planı "</string>
+    <string name="goal_13">Kilo verme metabolizmayı hızlandırma.</string>
+    <string name="extraDescription13">Olabileceğiniz en iyi şekle girin! Neleri yemeniz gerektiğini öğrenin, yağ yakan yemekleri keşfedin, metabolizmanızı hızlandırmak için lezzetli yemekler yiyin.</string>
+    <string name="meal">Öğün %1$d</string>
+    <string name="ingredients">Malzemeler</string>
+    <string name="steps">Adımlar</string>
+    <string name="titleDay1">"Hazırlaması ve denemesi kolay olan sağlıklı tarifler "</string>
+    <string name="descriptionDay1">Metabolizmanızı çalışır durumda tutmak için ilk öğününüzü kalktıktan 1 saat içerisinde yemeniz gerekiyor.</string>
+    <string name="titleDay2">"İyi beslenme, iyi sağlığın temelidir "</string>
+    <string name="descriptionDay2">Çözüm, metabolizmanızı harekete geçirmek için kalktıktan 1 saat içerisinde yemek yemektir.</string>
+    <string name="titleDay3">"Kahvaltınızı önceden planlayın "</string>
+    <string name="descriptionDay3">En hızlı yağ yakımı açısından kahvaltı, kilo vermeniz için çok önemlidir.</string>
+    <string name="titleDay4">"Karbonhidratlar vücuda enerji verir "</string>
+    <string name="descriptionDay4">Araştırmalar, günde 5 öğün yemek yemenin sağlıklı bir vücut ağırlığını korumak açısından önemli olduğunu göstermektedir.</string>
+    <string name="titleDay5">"Protein, büyüme ve gelişim için vazgeçilmez bir unsurdur "</string>
+    <string name="descriptionDay5">Beslenme, sağlıklı bir yaşam tarzı sürdürmede kilit bir rol oynar.</string>
+    <string name="titleDay6">"Yediğin neyse, osun "</string>
+    <string name="descriptionDay6">Vücudunuzun en iyi performansa sahip olmasını istiyorsanız bu gerçekten doğrudur.</string>
+    <string name="titleDay7">"Porsiyon boyutlarını kontrol etmek için daha küçük tabaklar kullanın "</string>
+    <string name="descriptionDay7">Aç kalbinizi iyileştirerek duygusal yeme alışkanlıklarınızı ortadan kaldırın.</string>
+    <string name="days_plan">%1$d günlük plan</string>
+    <string name="extra">Ekstra</string>
+    <string name="exercise">egzersiz</string>
+
+    <string name="timer">Kronometre</string>
+    <string name="ex_cat_88">Herşey</string>
+    <string name="muscle">Kas</string>
+
+    <string name="congrulation">Tebrikler!</string>
+    <string name="thnak_you">Teşekkür ederim!</string>
+    <string name="after_update">50 yeni egzersiz, 7 yeni egzersiz planı, 1 beslenme planı ve hiç reklamınız yok.</string>
+    <string name="first_restore">Premium sürümünüz var. 7 egzersiz planı ve 1 beslenme planı sizin için eklendi.</string>
+    <string name="upgrade_new">YÜKSELT</string>
+    <string name="description_upgrade">En iyi hocalar tarafından planlanan bütün yeni planların kilitlerini açın. Hedeflerinize daha kolay ulaşın.</string>
+    <string name="no_ads">REKLAMSIZ</string>
+    <string name="no_ads_description">TÜM ADS\'I ÇIKARIN. ADSİZ ÇALIŞMA OTURUMLARINIZI ZİYARET EDİNİZ</string>
+    <string name="noty_sound">Bildirimler sesi</string>
+    <string name="noty_sound_description">Herhangi bir şeyi kaçırmamak için bildirim için özel tonu seçin</string>
+    <string name="new_workouts">YENİ ÇALIŞMALAR</string>
+    <string name="new_workouts_desription">HER KAS GRUPU İÇİN ÖZELLEŞTİRİLEN YENİ ÇALIŞMA PLANLARI VE MAKSİMUM SONUÇLAR ÜZERİNDE UYGUNLUK İÇİN UYGUNLUK AMAÇLI.</string>
+    <string name="upgrade_header">Yeni 50 egzersizin, 10 egzersiz planının, 2 beslenme planının kilidini açmak ve reklamları kaldırmak için yükseltin.</string>
+    <string name="sound">Ses</string>
+    <string name="buy">Satın Alın</string>
+
+    <string name="one_time_payment">tek seferlik ödeme</string>
+    <string name="get_lifetime_access">YAŞAM BOYU ERİŞİM ELDE EDİN</string>
+    <string name="_3_days_for_free">7 gün ÜCRETSİZ</string>
+    <string name="get_workouts_courses_with_powerful_support">Güçlü destek ile 100% hazır antrenmanlara erişim sağlayın!</string>
+    <string name="only_now">Sadece şimdi</string>
+    <string name="start_your_positive_transformation_today">Pozitif dönüşümünüze \nbugün başlayın!</string>
+    <string name="try_it_now">Şimdi Deneyin</string>
+    <string name="_3_day_nfree_trial">3-günlük \nÜcretsiz deneme</string>
+    <string name="_7_day_nfree_trial">7-günlük \nÜcretsiz deneme</string>
+    <string name="new_workoutsN">Yeni \nantrenmanlar</string>
+    <string name="month">/ay</string>
+    <string name="year">/yıl</string>
+    <string name="monthly_slim">Aylık</string>
+    <string name="after">sonra</string>
+    <string name="nutritionPlanName2">KİLO VERME</string>
+    <string name="nutritionPlanName1">KAS YAPMA</string>
+    <string name="nutrition_plans">Beslenme planları</string>
+    <string name="title_11">Egzersizler</string>
+</resources>

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PRO Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">Egzersizler</string>
+    <string name="title_2">Antrenmanlar</string>
+    <string name="title_3">Kişiye Özel</string>
+    <string name="title_4">Geçmiş</string>
+    <string name="title_5">Daha</string>
+    <string name="done">Bitti</string>
+    <string name="back">Geri</string>
+    <string name="titles">Başlık:  </string>
+    <string name="downl_vid">Video indiriliyor</string>
+    <string name="please_wait">Lütfen bekleyin...</string>
+    <string name="cancel">İptal</string>
+    <string name="edit">Düzenle</string>
+    <string name="work">Antrenmanım</string>
+    <string name="create_plus">Yeni bir antrenman oluşturmak için +’ya basın</string>
+    <string name="save">Kaydet</string>
+    <string name="workout_name">Antrenman Adı:</string>
+    <string name="days_title">Gün Sayısı:</string>
+    <string name="delete">Sil</string>
+    <string name="work_title">Antrenman Başlığı:</string>
+    <string name="options">Seçenekler:</string>
+    <string name="camera">Kamera/Galeri</string>
+    <string name="ex_phot_title">Egzersizin Fotoğrafları</string>
+    <string name="name_desc">Adı, Tanımı</string>
+    <string name="ex_name">Egzersiz Adı:</string>
+    <string name="desc">Tanım:</string>
+
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+
+    <string name="blanck">Lütfen metin alanını doldurun</string>
+    <string name="okey">Tamam</string>
+    <string name="realy_cancel">İndirme işlemini iptal etmek istediğinizden emin misiniz? Tüm ilerleme kaybedilecektir!</string>
+    <string name="download_all">Tüm videoları indir</string>
+    <string name="unzip">Dosyalar Çıkartılıyor</string>
+    <string name="files">Dosyalar</string>
+    <string name="dow_video">Videolar İndiriliyor</string>
+    <string name="video_saved">Tüm videolar başarıyla kaydedildi!</string>
+    <string name="conn">Lütfen wifi ve mobil internet bağlantınızı kontrol ediniz!</string>
+
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+
+    <string name="start">Başlat</string>
+    <string name="weight">Ağırlık(kg)</string>
+    <string name="repetitions">Tekrarlar</string>
+    <string name="set_s">Saniyeyi Ayarla</string>
+    <string name="wei">Ağırlık</string>
+    <string name="rep">Tekrarlar</string>
+    <string name="wei_rep">Performans</string>
+    <string name="no_history">Henüz hiçbir egzersiz yapılmadı</string>
+    <string name="last_val">Son değerler</string>
+    <string name="send_f">Geribildirim Gönder</string>
+    <string name="rep_bug">Hata Bildir</string>
+    <string name="tel_fr">Arkadaşına Bahset</string>
+    <string name="rate_us">Bizi Puanlayın</string>
+    <string name="ad">Ekle</string>
+
+    <string name="exit">Emin misiniz ?</string>
+    <string name="sdcard">SDCard Yok!!</string>
+    <string name="post_to">Duvara gönder</string>
+    <string name="not_loged">Giriş Yapılmadı</string>
+    <string name="log_fail">Giriş Başarısız</string>
+    <string name="posting">Gönderiliyor </string>
+    <string name="posting_succes">Başarıyla Gönderildi</string>
+    <string name="email_sent">Eposta Gönderildi</string>
+    <string name="email_notsent">Eposta Gönderilmedi</string>
+
+
+    <string name="s1">4 set ve 15 tekrar</string>
+    <string name="s2">4 set ve 12/10/8/6 tekrar</string>
+    <string name="s3">5 set ve 3/3/3/2/1 tekrar</string>
+
+    <string name="dialog_future">Gelecek tarihler için veri girişi yapamazsınız!</string>
+
+    <string name="ex_guide_1">Sırt ve Göğüs</string>
+    <string name="ex_guide_2">Bacak ve Ön Kol</string>
+    <string name="ex_guide_3">Omuz, Arka Kol ve Pazu</string>
+    <string name="ex_guide_4">Sırt ve Arka Kol</string>
+    <string name="ex_guide_5">Sırt ve Pazu</string>
+    <string name="ex_guide_6">Bacak ve Omuz</string>
+    <string name="ex_guide_7">Pedal 1</string>
+    <string name="ex_guide_8">Pedal 2</string>
+    <string name="ex_guide_9">Pedal 3</string>
+    <string name="ex_guide_10">Pazu ve Arka Kol</string>
+    <string name="ex_guide_11">Bacak</string>
+    <string name="ex_guide_12">Sırt</string>
+    <string name="ex_guide_13">Pazu</string>
+    <string name="ex_guide_14">Göğüs</string>
+    <string name="ex_guide_15">Omuz</string>
+    <string name="ex_guide_16">Arka Kol</string>
+
+    <string name="ex_name_1">Havada Pedal Çevirme</string>
+    <string name="ex_desc_1">1. Beliniz yere bastırılmış vaziyette yere düz uzanın. Bu egzersiz için, ellerinizi başınızın arkasına koymanız gerekecek. Ancak egzersizi yaparken boynunuzu zorlamamaya dikkat edin. Şimdi omuzlarınızı crunch pozisyonuna kaldırın.\n\n2. Dizlerinizi yere dikey olacakları konuma getirin ve bacaklarınızı yere paralel şekilde alçaltın. Bu başlangıç pozisyonunuz olacak.\n\n3. Şimdi eş zamanlı olarak, sağ bacağınızla ileriye iterek ve sol bacağınızın dizini içe çekerek yavaşça pedal çevirme hareketine başlayın. Nefes verirken sağ dirseğinizi yana doğru dönerek sol dizinize yaklaştırın.\n\n4. Nefes alırken ilk pozisyonunuza geri dönün.\n Bacaklarınızla pedal çevirirken diğer yana doğru dönün ve sol dirseğinizi sağ dizinize yaklaştırın ve nefes verin.\n\n5. Her bir taraf için tavsiye edilen tekrar sayısı tamamlanıncaya tek bu şekilde yön değiştirerek devam edin.</string>
+
+    <string name="ex_name_2">Asılarak Bacak Kaldırma</string>
+    <string name="ex_desc_2">1. Her iki kolunuzu kol uzunluğu kadar yukarı uzatıp chin-up barfiksini geniş veya orta şekilde kavrayarak kendinizi sarkıtın. Pelvisiniz hafif geriye dönük vaziyette olmalı ve bacaklarınız dümdüz aşağıya doğru uzanmalıdır. Bu başlangıç pozisyonunuz olacak.\n\n2. Üst gövdeniz bacaklarınızla 90 derecelik bir açı yapana dek bacaklarınızı kaldırın. Bu hareketi yaparken nefes verin ve kasılmayı bir saniye kadar sürdürün.\n\n3. Nefes alırken yavaşça başlangıç pozisyonuna geri dönün.\n\n4. Tavsiye edilen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_3">Paralel Barlarda Diz ve Kalça Kaldırma</string>
+    <string name="ex_desc_3">1. Ön kollarınız üst gövdenizin yanında yastıklarınızın üzerinde olacak şekilde vücudunuzu dikey bacak kaldırma sehpası üzerinde konumlandırın ve tutacakları tutun. Kollarınız 90 derecelik bir açıyla bükülecektir.\n\n2. Üst gövdeniz düz, beliniz makinenin yastığına bastırılmış ve bacaklarınız yere işaret eder şekilde uzatılmış vaziyette olmalıdır. Bu başlangıç pozisyonunuz olacak.\n\n3. Şimdi nefes verirken bacaklarınızı uzatılmış vaziyette tutarak yukarı kaldırın. Bacaklarınız yere yaklaşık olarak paralel olana kadar bu harekete devam edin ve kasılmayı bir saniye boyunca sürdürün. İpucu: Bu egzersizi yaparken herhangi bir ivme veya dönüş yapmayın.\n\n4. Nefes alırken yavaşça başlangıç pozisyonuna geri dönün.\n\n5. Tavsiye edilen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_4">Aks Deadlift</string>
+    <string name="ex_desc_4">1. Duruşunuz yaklaşık olarak omuz genişliğinde olsun ve ayaklarınızı hafif dışa doğru ve ileriye işaret eder konuma getirin. \n\n2. Şimdi bacak kaslarınız yaklaşık olarak yere paralel olana kadar poponuzu alçaltmalısınız. Bar kavalkemiklerinizin hemen önünde olmalı. Şimdi tutuşunuz hafif bacaklarınızın dışında aralıklı olacak şekilde halteri her iki elinizle tutun. \n\n3. Belinizi kavislendirerek bacaklarınızla bastırın ve eş zamanlı olarak sırtınızı kaldırın; böylece bar dizlerinizi geçerek kalçalarınızın seviyesinde durabilsin. Tüm girişim boyunca omuzlarınız ve dizleriniz tamamen kitli ve kollarınız düz olmalıdır.</string>
+
+    <string name="ex_name_5">Eğilerek Halter Barı Çekme</string>
+    <string name="ex_desc_5">1. Dizlerinizi hafif kırarak ayakta durun. Sırtınızı dik tutarak üst gövdenizi yaklaşık 45 derecelik bir açıyla eğin. \n\n2. Ellerinizi omuz genişliğinden fazla açıklıkta tutarak ve kollarınızı omuzlarınızdan aşağıya doğru sallandırarak barı üstten kavrayın: \n\n3. Nefes alın, karın kaslarınızı izometrik olarak kasın ve barı göğsünüze değene kadar kaldırın. \n\n4. Nefes vererek başlangıç pozisyonuna dönün.</string>
+
+    <string name="ex_name_6">Eğilerek İki Dambıl Çekme</string>
+    <string name="ex_desc_6">1. Bir çift dambılı tutup kavrayın ve belinizden ileriye doğru tutun; fakat sırtınızı düz tutun. Avuç içleriniz birbirine bakacak şekilde kollarınızı düz bir şekilde aşağıya doğru uzatın.\n\n2. Dambılları göğsünüzün kenarlarına yukarı kaldırın ve sırtınızı stabil ve düz tutarak dambılları uzatılmış başlangıç pozisyonuna geri getirin.</string>
+
+    <string name="ex_name_7">Chin Up</string>
+    <string name="ex_desc_7">1. Avuç içleriniz ve parmaklarınız ileride, vücudunuzdan uzakta olacak şekilde barı tutun. Buna pronat tutuş adı verilmektedir. \n\n2. Kollarınızı düz tutun ve dönmeksizin dümdüz aşağı sarkın. Omuzlarınızı ve vücudunuzu gevşetin. \n\n3. Aniden değil, düzgün bir hareketle kendinizi yukarı çekin. Çene barın üstüne çıkmalı. Düzgünce başlangıç pozisyonuna geri alçalın.</string>
+
+    <string name="ex_name_8">Tek Kolla Dambıl Çekiş</string>
+    <string name="ex_desc_8">1. Sağ bacağınız yere sağlam bir şekilde basılı vaziyette sol dizinizi ve sol elinizi düz sehpaya yerleştirin. \n\n2. Sırtınız düz ve yere paralel olacak şekilde öne doğru eğilin. \n\n3. Sağ elinize bir dambıl alın, avuç içiniz vücudunuza dönük olsun ve dambılı dış göğüs kafesi bölgenize doğru yukarı kaldırın veya çekin. Başlangıç pozisyonuna dönün ve tekrarlayın.</string>
+
+    <string name="ex_name_9">Ters Tutuşla Eğilerek Çekişler</string>
+    <string name="ex_desc_9">1. Dizleriniz hafif esnetilmiş vaziyette ayakta durun. Sırtınızı düz tutarak üst gövdenizi yaklaşık 45 derecelik bir açıyla eğin. \n\n2. Elleriniz omuz genişliğinden daha fazla ayrık olacak ve kollarınız omuzlarınızdan aşağıya düz sarkacak şekilde barı alttan kavrayın: \n\n3. Nefes alın, karın kaslarınızı izometrik olarak kasın ve barı göğsünüze değene kadar düz bir şekilde yukarı doğru çekin. \n\n4. Nefes vererek başlangıç pozisyonuna dönün.</string>
+
+    <string name="ex_name_10">Oturarak Kablo Çekme</string>
+    <string name="ex_desc_10">1. Oturarak kablo çekme hareketine başlamak için, favori barınızın (gösterilen gibi bir bar olabilir) tutacaklarını tutun. \n\n2. Bacaklarınız bükülü ve ayaklarınızı metal bloğa karşı tutarken sırtınız düz olarak oturun. \n\n3. Lat kaslarınızın gerildiğini hissederek kollarınızı açın. Tutacaklar karın kaslarınıza değene kadar ağırlığı vücudunuzun arkasına itin.</string>
+
+    <string name="ex_name_11">Alttan Kablo Çekme</string>
+    <string name="ex_desc_11">1. Aşağı çekme makinesine uzun bir bar takın ve kalça yastıklarını oturduğunuz zaman dizleriniz doğru açılarda ve ayaklarınız yerde düz olacak şekilde ayarlayın. \n\n2. Geniş alttan tutuş ile barı kavrayın ve kalçalardan hafif arkaya doğru yaslanarak üst gövdenizin dik pozisyonunu koruyarak oturun. \n\n3. Yüzünüzün önündeki barı göğsünüzün üst kısmına çekin ve durun. Kollarınızı düzleştirerek yavaşça barı başlangıç pozisyonuna bırakın.</string>
+
+    <string name="ex_name_12">V - Bar Çekme</string>
+    <string name="ex_desc_12">1. Üst makaraya V-Bar takılı bir çekme makinesine oturun.\n\n2. Makinenin diz yastığını boyunuza uygun şekilde ayarlayın. Bu yastıklar vücudunuzun bardaki gerilim nedeniyle yükselmesini engelleyecektir.\n\n3. Avuç içleriniz birbirine dönük (nötr kavrama) şekilde V-barı kavrayın. Göğsünüzü dışarı çıkarın ve lat kaslarınızı daha iyi çalıştırmak için hafifçe (yaklaşık 30 derece) geriye uzanın. Bu başlangıç pozisyonunuz olacak.\n\n4. Lat kaslarınızı kullanarak, kürek kemiklerinizi sıkarken barı aşağı çekin. Göğsünüz neredeyse V.bara değene kadar devam edin. Bu hareketi yaparken nefes verin. İpucu: Hareket boyunca üst gövdenizi sabit tutun.\n\n5. Kasılı pozisyonu bir saniye tuttuktan sonra, nefes alırken barı yavaşça başlangıç pozisyonuna getirin.\n\n6. Belirtilen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_13">Geniş Tutuşla Lat Çekiş</string>
+    <string name="ex_desc_13">1. Lat aşağı çekme makinesine uzun bir bar takın ve kalça yastıklarını oturduğunuz zaman dizleriniz doğru açılarda ve ayaklarınız yerde düz olacak şekilde ayarlayın. \n\n2. Geniş üstten tutuş ile barı kavrayın ve kalçalardan hafif arkaya doğru yaslanarak üst gövdenizin dik pozisyonunu koruyarak oturun. \n\n3. Yüzünüzün önündeki barı göğsünüzün üst kısmına çekin ve durun. Kollarınızı düzleştirerek yavaşça barı başlangıç pozisyonuna bırakın.</string>
+
+    <string name="ex_name_14">Ters Tutuşla Halter Bükme</string>
+    <string name="ex_desc_14">1. Ayaklarınız hafif aralıklı, kollarınız düz bir şekilde ve üst tutuş (başparmaklar birbirine doğru) kullanarak ayakta durun.\n\n2. Nefes alın ve barı bükün. Hareketi tamamlarken nefes verin. \n\n3. Bu egzersiz bilek ve parmaklar kaslarınızı çalıştırır. Brakiyoradialisi ve daha az ölçüde pazuları çalıştırır.</string>
+
+    <string name="ex_name_15">Ayakta Durarak Halter Bükme</string>
+    <string name="ex_desc_15">1. Ayaklarınız hafif aralıklı, kollarınız düz bir şekilde ve alt tutuş (başparmaklar birbirinden farklı yönlere doğru olacak şekilde) kullanarak ayakta durun.\n\n2. Nefes alın ve barı bükün. Hareketi tamamlarken nefes verin. \n\n3. Bu egzersiz bilek ve parmaklar kaslarınızı çalıştırır. Brakiyoradialisi ve daha az ölçüde pazuları çalıştırır.</string>
+
+    <string name="ex_name_16">Ez-Neck ile Halter Bükme</string>
+    <string name="ex_desc_16">1. E-Z Curl Barı daha yakın olan iç tutacaktan tutarken üst gövdeniz dik olacak şekilde ayakta durun. Ellerinizin avuç içleri ileriye dönük olmalı ve barın şekline göre hafifçe içe doğru eğilmiş olmalıdır. Dirsekler üst gövdeye yakın olmalıdır. Bu başlangıç pozisyonunuz olacak.\n\n2. Üst kollarınızı sabit tutarken ağırlıkları ileriye bükün ve bu esnada nefes verirken pazularınızı sıkın. İpucu: Sadece üst kollarınız hareket etmelidir.\n\n3. Pazularınız tamamen kasılıncaya ve bar omuz seviyesinde olana kadar harekete devam edin. Kasılı pozisyonu bir saniye tutun ve pazularınızı güçlü bir şekilde sıkın.\n\n4. Nefes alırken yavaşça barı başlangıç pozisyonuna getirmeye başlayın.\n\n5. Tavsiye edilen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_17">Scott Sehpasında Halter</string>
+    <string name="ex_desc_17">1. Barı yaklaşık omuz genişliği açıklığında kavrayın. \n\n2. Ön kollarınız tavana işaret edene kadar (dikeyden biraz daha fazla) barı yavaşça yukarı bükün. \n\n3. Bir saniye durun ve barı başlangıç pozisyonuna alçaltın.</string>
+
+    <string name="ex_name_18">Alçak Blokta Bükme</string>
+    <string name="ex_desc_18">1. Kablo istasyonunun düşük makarasına düz bir bar takın. \n\n2. Ardından, barı omuz genişliğinde alttan kavrayın ve uyluklarınızın hemen önünde kol uzunluğunda tutun. Üst kollarınızın hareket etmesine izin vermeden barı göğsünüze doğru bükebildiğiniz kadar bükün.</string>
+
+    <string name="ex_name_19"> Simulator Scott’ta Bükme</string>
+    <string name="ex_desc_19">1. Oturarak simülatörün bir tutacağını (handle-grif) aşağıdan kavrayarak tutun ve dirseğinizi tahtanın üzerine koyun.\n\n2. Nefes alın ve handle-grifi kaldırırken kollarınızı bükün. \n\n3. Hareketin sonunda nefes verin.</string>
+
+    <string name="ex_name_20">Dambıl Çekici ile Bükme</string>
+    <string name="ex_desc_20">1. Avuç içleriniz ve ağırlıklarınız içe dönük vaziyette her iki elinizde birer dambıl tutun. \n\n2. Kollarınız 90 derecelik bir açı oluşturmalıdır. \n\n3. Dirseğinizi vücudunuza yakın tutarak ve sabit bir pozisyonda ağırlığı omzunuza doğru bükün. \n\n4. Ağırlıkları yavaşça başlangıç pozisyonuna alçaltın.</string>
+
+    <string name="ex_name_21">Otururak Dambıllarla Bükme</string>
+    <string name="ex_desc_21">1. Sırtınız dik vaziyette otururken dambılları alttan kavrayarak yanınızda asılı tutun. Kollarınızı düz tutun.\n\n2. Üst kollarınızı yerinde tutarak dambılları kaldırın. Hareket sırasında omuzlarınızı kullanmaktan kaçının. \n\n3. Bir saniye tutun ve ardından başlangıç pozisyonuna dönün.</string>
+
+    <string name="ex_name_22">Yukarı Eğimli Sehpada Oturarak Dambıllarla Bükme</string>
+    <string name="ex_desc_22">1. Her iki elinizde birer dambılı kollarınızın uzunluğunda tutarak düz konumda yukarı eğimli sehpaya oturun. Dirsekler üst gövdeye yakın olmalıdır.\n\n2. Ellerinizin avuç içlerini üst gövdenize dönük olacak şekilde döndürün. Bu başlangıç pozisyonunuz olacak.\n\n3. Üst kolunuzu sabit tutarken ağırlıkları bükün ve hareketin sonunda ellerinizin avuç içleri ileriye dönük olacak şekilde dambıllar uyluklarınız geçtiğinde bileklerinizi çevirmeye başlayın. Nefes verirken pazularınızı kastığınızdan ve sadece ön kollarınızın hareket ettiğinden emin olun. Pazularınız tamamen kasılana ve dambıllarınız omuz seviyesinde olana dek harekete devam edin. Pazularınızı sıkarken kasılı pozisyonu bir saniye boyunca sürdürün.\n\n4. Nefes alırken ve bileklerinizi nötr kavrayışa geri çevirirken yavaşça dambılları başlangıç pozisyonuna geri getirmeye başlayın.\n\n5. Tavsiye edilen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_23">Ayakta Dambıllarla Bükme</string>
+    <string name="ex_desc_23">1. Ayaklarınız kalça genişliği açıklığında olacak şekilde ayakta durun ve orta ayırlıkta dambılları uyluklarınızın önünde tutarken karın kaslarınızı devreye sokun. \n\n2. Pazularınızı sıkın ve ağırlıkları omuzlarınıza doğru yukarı bükerken kollarınızı bükün. Dirseklerinizi sabit tutun ve ağırlığı dirseklerinizi hareket ettirmeden olabildiğince yukarı kaldırın. \n\n3. Dirsekleri alt kısımda hafif bükerek (yani eklemleri kitlemeyin ve kastaki gerginliği tutmaya çalışın) yavaşça ağırlıkları alçaltın</string>
+
+    <string name="ex_name_24">Oturarak Baldır Kaldırma</string>
+    <string name="ex_desc_24">1. Kaval kemikleriniz düz ve yastık dizlerinizin üstünde olacak şekilde yastığı ayarlayın. \n\n2. Topuklarınızı ayak parmaklarınızın kökleriyle iterek ağırlığı kaldırın. \n\n3. Baldır kasınızın çalıştığını hissedene kadar yavaşça topuklarınızı indirin. İç ve dış baldırlar için ayak başparmaklarınızı sırasıyla içe ve dışa doğru uzatın.</string>
+
+    <string name="ex_name_25">Oturarak Smith Makinesinde Baldır Kaldırma</string>
+    <string name="ex_desc_25">1. Düz sehpanın önüne yaklaşık 30 cmlik bir blok yerleştirin.\n\n2. Sehpaya oturun ve ayak parmaklarınızın köklerini bloğun üstüne yerleştirin.\n\n3. Bir kişi smith halteri dizlerinizin yaklaşık 7 cm. yukarısında üst uyluklarınızın üzerine yerleştirsin ve \n halteri burada tutun. Bu başlangıç pozisyonunuz olacak.\n\n4. Baldırlarınızı sıkarken ve nefes verirken ayak başparmaklarınızı mümkün olduğu kadar yukarıya kaldırın.\n\n5. Bir saniye kasılı tuttuktan sonra, yavaşça başlangıç pozisyonuna geri gidin. İpucu: Maksimum fayda sağlamak için baldırlarınızı yapabildiğiniz kadar çok esnetin.\n\n6. Tavsiye edilen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_26">Ayakta Dambıl Baldır Kaldırma</string>
+    <string name="ex_desc_26">1. İki yanınızda ellerinizde birer dumbıl tutarak üst gövdeniz dik vaziyette ayakta durun. Topuklarınız uzanıp yere değerken ayak parmaklarınızın köklerini sağlam ve sabit (yaklaşık 5-7 cm uzunluğundaki) tahtaya yerleştirin. Bu başlangıç pozisyonunuz olacak.\n\n2. Ayak başparmaklarınız ister düz (tüm kısımlar eşit olacak şekilde), içe doğru (dış kafaya vurgu için) veya dışa doğru (iç kafaya vurgu için) işaret ederek, baldırlarınızı kasarak nefes verirken topuklarınızı yerden kaldırın. Üst kasılmayı bir saniye boyunca tutun.\n\n3. Nefes verirken yavaşça topuklarınızı alçaltarak başlangıç pozisyonuna geri dönün.\n\n4. Tavsiye edilen sayı kadar tekrarlayın.</string>
+
+    <string name="ex_name_27">Ayakta Smith Makinesinde Baldır Kaldırma</string>
+    <string name="ex_desc_27">1. Smith makinesinin üzerindeki barın altına bir blok veya ağırlık plakası yerleştirin. Barı boyunuza en iyi şekilde uyacak konuma getirin. Doğru uzunluk seçildikten ve bar yüklendikten sonra, ayak parmaklarınızın köklerinin üzerine adım atın ve barı omuzlarınızın arkasına yerleştirin.\n\n2. Barı her iki eliniz ileri dönük şekilde alın. Demirden kaldırmak için barı döndürün. Bu başlangıç pozisyonunuz olacak.\n\n3. Ayak parmaklarınızın köklerini iterek ve kasılmanın en üst seviyesinde baldırlarınızı esneterek topuklarınızı mümkün olduğunca yukarıya kaldırın. Dizleriniz uzatılmış vaziyette kalmalıdır. Geri aşağıya gitmeye başlamadan önce kasılı pozisyonu bir saniye tutun.\n\n4. Topuklarınızı alçaltırken nefes alarak yavaşça başlangıç pozisyonuna dönün.\n\n5. Tavsiye edilen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_28">Halterle Sehpada Pres</string>
+    <string name="ex_desc_28">1. Göğüs pres egzersizini düzgün bir şekilde yapabilmek için sehpa üzerine düz bir şekilde uzanmalı ve ayaklarınızın yerde düz olmasını sağlamalısınız. Demirden kaldırıldığında bar kafanızın hafif arkasında olacaktır. Özellikle de serbest bar veya dambıl kullanıyorsanız ağırlığı kendi üzerinize düşürme riskini ortadan kaldırmak için bir gözcünün bulunması önem taşımaktadır. \n\n2. Ağırlığı demirden kaldırdıktan sonra, bar doğrudan göğüs merkezinizin üstünde olacaktır. \n\n3. Hareketin tamamı boyunca kafanızı sehpanın üstünde tutun. Bar sabit hale geldiğinde eğer yapabiliyorsanız yavaşça barı göğüs hizasına alçaltın \n\n4. Bar alçalırken kollarınızın dışa doğru işaret etmesini sağlayın. Hareketin alt bölümüne ulaştıktan sonra, barı göğsünüz ve kollarınızla götürmeye odaklanarak barı uzatılmış bir pozisyona geri presleyin.</string>
+
+    <string name="ex_name_29">Geriye Eğimli Sehpada Dambıl Pres</string>
+    <string name="ex_desc_29">1. Bacaklarınızı geriye eğimli sehpanın sonunda sabitleyin ve her iki elinizde birer dambılı uyluklarınızın üstünde tutarak geriye uzanın. Ellerinizin avuç içleri birbirine dönük olacak.\n\n2. Geriye uzandığınızda, önünüzdeki dambılları omuz genişliğinde hareket ettirin.\n\n3. Omuz genişliğine ulaştığınızda, ellerinizin avuç içleri sizden diğer tarafa dönük olacak şekilde bileklerinizi ileri çevirin. Bu başlangıç pozisyonunuz olacak.\n\n4. Nefes verirken ağırlıkları yavaşça yan taraflarınıza aşağı getirin. Daima dambılları tam kontrol altında tutun. İpucu: Hareket boyunca, ön kollarınız yere dik olmalıdır.\n\n5. Nefes verirken, göğüs kaslarınızı kullanarak dambılları itin. Kollarınızı kasılı pozisyonda kilitleyin, göğsünüzü sıkın, bir saniye tutun ve ardından yavaşça geri aşağıya gelmeye başlayın. İpucu: Aşağıya gitmek yukarı çıkarmaya göre en az iki kat daha uzun sürmelidir.\n\n6. Hareketi idman programınızda öngörülen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_30">Geriye Eğimli Dambıl Fly</string>
+    <string name="ex_desc_30">1. Bacaklarınızı geriye eğimli sehpanın sonuna sabitleyin ve her iki elinizde birer dambılı uyluklarınızın üstünde tutarak geriye uzanın. Ellerinizin avuç içleri birbirine dönük olacak.\n\n2. Geriye uzandığınızda, önünüzdeki dambılları omuz genişliğinde hareket ettirin.\n\n3. Omuz genişliğine ulaştığınızda, ellerinizin avuç içleri sizden diğer tarafa dönük olacak şekilde bileklerinizi ileri çevirin. Bu başlangıç pozisyonunuz olacak.\n\n4. Nefes verirken ağırlıkları yavaşça yan taraflarınıza aşağı getirin. Daima dambılları tam kontrol altında tutun. İpucu: Hareket boyunca, ön kollarınız yere dik olmalıdır.\n\n5. Nefes verirken, göğüs kaslarınızı kullanarak dambılları itin. Kollarınızı kasılı pozisyonda kilitleyin, göğsünüzü sıkın, bir saniye tutun ve ardından yavaşça geri aşağıya gelmeye başlayın. İpucu: Aşağıya gitmek yukarı çıkarmaya göre en az iki kat daha uzun sürmelidir.\n\n6. Hareketi idman programınızda öngörülen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_31">Geriye Eğimli Pres</string>
+    <string name="ex_desc_31">1. Geriye eğimli sehpada arkanıza uzanın. Halteri üstten kavrayın. \n\n2. Dirseklerinizi vücudunuza yakın tutarak halteri göğsünüzün alt kısmına doğru alçaltın. Hareketin sonunda halter göğsünüze hafifçe değiyor olmalıdır.</string>
+
+    <string name="ex_name_32">Sehpada Dambıl Pres</string>
+    <string name="ex_desc_32">1. Sabitlik için ayaklarınız yerde, kollarınız yukarıya doğru uzanmış ve dambılları tuttuğunuz elleriniz birbirine dönük şekilde sehpa üzerinde düz uzanın.\n\n2. Nefes alın, dirseklerinizi bükerek ve ön kollarınızı pronation konumuna getirmek için çevirerek dambılları göğüs hizasına indirin. \n\n3. Dambılları geri yukarı presleyin ve göğüs kaslarınızdaki gerilimi izole etmek için izometrik kasılım yapın; hareketi tamamlarken nefes verin.</string>
+
+    <string name="ex_name_33">Dambıl Fly</string>
+    <string name="ex_desc_33">1. Dambıl fly hareketini yapmak için her bir elinize nispeten hafif birer ağırlık alın. Dambıl fly için ne kadar ağırlığın uygun olduğunu belirlemek için denemeler yapmanız gerekecektir. Daha hafif bir ağırlıkla başlayın ve ardından yavaşça ağırlıkları arttırın. \n\n2. Ağırlık sehpası üzerinde geri uzanın ve kollarınızı düz tutarak her iki dambılı doğrudan göğsünüzün üzerine kaldırın. Bu başlangıç pozisyonunuzdur. \n\n3. Kollarınız yan kısımlarınızda dışa doğru olacak şekilde geniş bir yay şeklinde her iki kolunuzu dışa doğru açın. Kollarınız hafif bükülü olabilir. Bu dambıl flyların fly kısmıdır. Uçuyormuş gibi göründüğünüz için buna fly adı verilmektedir. \n\n4. Dambıllar başlangıç pozisyonuna dönene dek aynı yayı geri takip edin. Bu dambıl flyın bir tekrarına tekabül etmektedir.</string>
+
+    <string name="ex_name_34">Yukarıya Eğimli Dambıl Fly</string>
+    <string name="ex_desc_34">1. Dambıl fly hareketini yapmak için her bir elinize nispeten hafif birer ağırlık alın. Dambıl fly için ne kadar ağırlığın uygun olduğunu belirlemek için denemeler yapmanız gerekecektir. Daha hafif bir ağırlıkla başlayın ve ardından yavaşça ağırlıkları arttırın. \n\n2. Ağırlık sehpası üzerinde geri uzanın ve kollarınızı düz tutarak her iki dambılı doğrudan göğsünüzün üzerine kaldırın. Bu başlangıç pozisyonunuzdur. \n\n3. Kollarınız yan kısımlarınızda dışa doğru olacak şekilde geniş bir yay şeklinde her iki kolunuzu dışa doğru açın. Kollarınız hafif bükülü olabilir. Bu dambıl flyların fly kısmıdır. Uçuyormuş gibi göründüğünüz için buna fly adı verilmektedir. \n\n4. Dambıllar başlangıç pozisyonuna dönene dek aynı yayı geri takip edin. Bu dambıl flyın bir tekrarına tekabül etmektedir.</string>
+
+    <string name="ex_name_35">Yukarı Eğimli Dambıl Pres</string>
+    <string name="ex_desc_35">1. Sehpaya oturarak, dambılları tutarak ve uyluklarınızın üzerinde durmalarını sağlayarak pozisyona girin. Sehpa üzerinde geri uzanmak için vücudunuzu geri götürürken, dambılları göğsünüze doğru yukarı itmenize yardımcı olması için uyluklarınızı kullanın. \n\n2. Ardından avuç içleriniz ileri dönük vaziyette kollarınızı (dirseklerinizi hafif bükülmüş şekilde tutarak) göğsünüzün üzerinde yukarı doğru uzatın. Ayaklarınızı yerde düz tutun ve sırtınızı normal (hafif bir yaydan fazlası olmamalı) pozisyonda tutun.\n\n3. Dirseklerinizi yan taraflarnıza bükerek dambılları alçaltın. Ardından dambılları yukarıda birbirine yaklaştırarak (ancak dokundurmadan ve hafif içe doğru açı yaptırarak geri yukarı itin. \n\n4. Dirseklerinizin hafif bükülü kalmasını sağlayın ve kilitlenmelerine izin vermeyin. Tekrarlarınızı tamamlayana dek tekrar edin. Ayağa kalkmak için dambılları göğsünüzde tutun, bacaklarınızı yukarı itin ve ardından oturabilmek için vücudunuza hareket vermek üzere bacaklarınızı ileri itin.</string>
+
+    <string name="ex_name_36">Yukarı Eğimli Pres</string>
+    <string name="ex_desc_36">1. Bu egzersiz, yukarı eğimli bir serbest ağırlıklı sehpa pres makinesi kullanmanız ve orta öğüs yerine üst göğsünüzdeki kas gruplarını çalıştıracak olmanız dışında, olağan sehpada halter prese çok benzemektedir. \n\n2. Halteri demirden kaldırın ve yavaşça köprücük kemiğinizin yaklaşık 7 cm yukarısına (Adem elmasının hemen altına) alçaltın ve ardından barı başlaçgıç pozisyonuna geri presleyin. \n\n3. BARI ÜST GÖĞSÜNÜZE DOKUNDURMAYIN (bu omuz eklemleriniz üzerinde gereksiz gerilime neden olur ve gerilimi çalışmasını arzu ettiğimiz üst göğüs kaslarınızdan alarak götürür). \n\n4. Barı alçaltırken bunu yavaş ve kontrollü bir biçimde yaptığınızdan emin olun. Aksine, barı yukarı preslerken, bunu şiddetli bir şekilde yapmalısınız.</string>
+
+    <string name="ex_name_37">Şınav</string>
+    <string name="ex_desc_37">1. Kollarınız düz, avuç içleriniz yerde düz ve elleriniz omuz genişliği kadar aralıklı (veya daha geniş aralıklı) olacak şekilde yüzüstü yatın. \n\n2. Ayaklarınızı birlikte veya çok hafif ayrık şekilde birlikte tutun. \n\n3. Nefes alın ve omurganızın aşırı uzamasını engelleyerek, üst gövdenizi yere doğru getirmek için dirseklerinizi bükün. \n\n4. Kendinizi kolların uzatılmış pozisyonuna geri itin ve hareketi tamamlarken nefes verin.</string>
+
+    <string name="ex_name_38">Sehpa Üzerinde Avuç İçleri Aşağıda Bilek Bükme</string>
+    <string name="ex_desc_38">1. Ön kollarınız uyluklarınızın üzerine veya bir sehpa üzerine koyarak oturun. \n\n2. Bilekleriniz pasif bir şekilde uzatılmış vaziyette barı alttan kavrayın. \n\n3. Nefes alın ve bileğinizi yukarı bükün.\n\n4. Hareketi tamamlarken nefes verin.</string>
+
+    <string name="ex_name_39">Sehpa Üzerinde Avuç İçleri Yukarı Halterle Bilek Bükme</string>
+    <string name="ex_desc_39">1. Ön kollarınız uyluklarınızın üzerine veya bir sehpa üzerine koyarak oturun. \n\n2. Bilekleriniz pasif bir şekilde uzatılmış vaziyette barı alttan kavrayın. \n\n3. Nefes alın ve bileğinizi yukarı bükün.\n\n4. Hareketi tamamlarken nefes verin.</string>
+
+    <string name="ex_name_40">Ayakta Avuç İçleri Yukarı Halterle Sırt Gerisinde Bilek Bükme</string>
+    <string name="ex_desc_40">1. Kollarınızı düz tutarken halteri alttan kavrayarak arkanızdan kaldırın. Halteri uzatılmış parmaklarınız üzerinde olacak şekilde asın.\n\n2. Halteri mümkün olduğunca yukarı kaldırmak için bileklerinizi esnetin.\n\n3. Halteri alçaltmak için hareketi tersine çevirin.</string>
+
+    <string name="ex_name_41">Halterle Hamle</string>
+    <string name="ex_desc_41">1. Halteri üst sırtınıza yerleştirerek başlayın ve omuzlarınızdan hafif daha geniş bir üstten tutuş kullanın.\n\n2. Ayak başparmaklarınız ileriye dönük vaziyette ayaklarınız yaklaşık 20 cm kadar açık olacak şekilde ayakta durun.\n\n3. Karın kaslarınızı içeri çekerek ve üst vücudunuzu düz tutarak ileriye bir adım (2-3 fit) atın.\n\n4. Yavaşça bir dizinizi diz çökermiş gibi alçaltın ve bu sırada diğer dizinizi 90 derecelik bir açıyla bükülü tutun; dizinizin yere değmesine izin vermeyin.\n\n5. Vücudunuzu yerin hemen yukarısına alçaltın ve başlangıç pozisyonuna dönmeden önce bir süre tutun. Diğer bacakla tekrarlayın.</string>
+
+    <string name="ex_name_42">Halterle Çömelme</string>
+    <string name="ex_desc_42">1. Bu hareket geleneksel çömelmeyle aynıdır; fakat bunda özellikle iç uyluklarınızı çalıştırmak üzere ayak başparmaklarınız dışarıya doğru işaret edecek şekilde ve bacaklarınız geniş bir şekilde açık olacaktır. \n\n2. Devreye giren kaslar: kuadriseps – tüm yaklaştırıcı kaslar – kalça kasları – harmstring grubu – tüm sakrospinalis kasları</string>
+
+    <string name="ex_name_43">Dambılla Hamle</string>
+    <string name="ex_desc_43">1. Dambıllar yan taraflara doğru tutulmuş şekilde ayakta durun. \n\n2. İlk bacakla ileri hamle yapın. Önce topuğunuz, ardından ön ayağınız üzerine basın. Arkadaki bacağınızın dizi neredeyse yerle temas edene dek öndeki bacağınızın dizini ve kalçasını esneterek vücudunuzu alçaltın. \n\n3. Öndeki bacağınızın kalçasını ve dizini güçlü bir şekilde uzatarak orijinal başlangıç pozisyonuna dönün. Hamleyi diğer bacakla değiştirerek tekrarlayın.</string>
+
+    <string name="ex_name_44">Halter Önde Çömelme</string>
+    <string name="ex_desc_44">1. Dambılı ön deltoid kaslarınız üzerinde konumlandırın, üst kollarınızı yere paralel şekilde tutun, dirseklerinizi bükün, barı tutun ve doğrudan ileriye bakın.\n\n2. Nefes alın ve çömelin.\n\n3. Başlangıç noktasına dönün ve hareketi tamamlarken nefes verin.</string>
+
+    <string name="ex_name_45">Günaydın</string>
+    <string name="ex_desc_45">1. Halteri üstten kavrayarak tutun ve ensenizde değil, sırtınızın üstünde olmasını sağlayın. Sırtınızı dik tutarak ayaklarınızı omuz genişliğinde ayrık konumlandırın ve dizlerinizi hafif bükün. \n\n2. Sırtınız alt kısmındaki yay şeklini muhafaza ederek ve alt göğsünüzü alçaltmak için kalçalarınızı kullanarak aşamalı olarak ileri bükülün. Başınızı yukarıda tutun ve dizlerinizle yaklaşık aynı açıda tutmaya devam edin.\n\n3. Üst vücudunuzu başlangıç pozisyonuna geri yukarı kaldırın.</string>
+
+    <string name="ex_name_46">Bacak Uzatma</string>
+    <string name="ex_desc_46">1. Her iki bacağınızı yukarıya doğru düz bir pozisyona gelecek şekilde uzatarak yavaşça ağırlığı kaldırın. Ağırlığı ani kaldırmayın. \n\n2. Bu pozisyonda bir saniye boyunca kalın. Ağırlığı yavaşça başlangıç pozisyonuna alçaltın. Hareketi tekrarlayın.</string>
+
+    <string name="ex_name_47">Bacak Pres</string>
+    <string name="ex_desc_47">1. Sırtınız ve kafanız yastıklı desteğe karşı olacak şekilde makineye oturun. Ayaklarınızı yaklaşık kalça genişliği kadar ayrık olacak şekilde ayak plakasına yerleştirin ve topuklarınzın düz olduğundan emin olun. \n\n2. Topuklar plakada düz kaldığı sürece herhangi bir yöne doğru ufak bir varyasyonla bacaklarınız 90 derecelik bir açı oluşturmalıdır. \n\n3. Dizleriniz ne içe, ne de dışa yay şeklinde değil, ayaklarınızla aynı hizada olmalıdır. Poponuz oturma platformundan kaldırılmamalıdır. \n\n4. Eğer kaldırılırsa ve bacaklar çok keskin bir açıda olursa, doğru pozisyonda olduğunuzdan emin olana dek oturağı ayarlamanız gerekir. Dizler gözlerinizin önünde göründüğünde ve sıkışık hissettiğinizde bu zayıf pozisyonun farkına varabilirsiniz. Destek tutacaklarını tutun.</string>
+
+    <string name="ex_name_48">Yatarak Bacak Bükme</string>
+    <string name="ex_desc_48">1. Makine kolunu boyunuza uyacak şekilde ayarlayın ve kol yastığının bacaklarınızın arkasında olmasını (baldırların sadece birkaç beş altı cm altında) sağlayarak bacak bükme makinesine yüzüstü uzanın. \n İpucu: Açılı bir pozisyon harmstringlerin güçlenmesi için daha etkili olduğundan, tercihen düz bir bacak bükme makinesindense açılı bir bacak bükme makinesi kullanın.\n\n2. Üst gövdenizi sehpa üzerinde düz tutun, bacaklarınızın tamamen esnetildiğinden emin olun ve makinenin kenar tutacaklarını tutun. Ayak başparmaklarınızı düz konumlandırın (veya ayak konumlandırma bölümünde tarif edilen diğer iki duruşun herhangi birini de kullanabilirsiniz). Bu başlangıç pozisyonunuz olacak.\n3. Nefes verirken, üst bacaklarınızı yastıktan kaldırmadan bacaklarınızı mümkün olduğu kadar bükün. Tamamen kasılı poziyona ulaştığınızda bir saniye boyunca bu pozisyonda kalın.\n4. Nefes alırken, bacakları ilk pozisyona geri getirin. Tavsiye edilen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_49">Romanian Deadlift</string>
+    <string name="ex_desc_49">1. Barı önünüzde kol uzunluğunda tutarak ayakta durarak başlayın. Hareketin menzilini arttırmak için kaldırılmış bir platform üzerinde durabilirsiniz.\n\n2. Dizlerinizi hafif esneterek başlayın ve ardından kalçanızı esnetin, poponuzu mümkün olduğunca geriye hareket ettirerek, üst gövdenizi esneklik izin verdiği ölçüde alçaltarak başlayın. Sırt daima mutlak uzunlukta kalmalı ve bar bacaklarla temas halinde olmalıdır. Doğru yapıldığı takdirde, harmstringlerde ciddi bir gerilim hissedilir.\n\n3. Başlangıç pozisyonuna dönmek için hareketi tersine çevirin.</string>
+
+    <string name="ex_name_50">Gergin Bacaklı Dambıl Deadlift </string>
+    <string name="ex_desc_50">1. Bir çift dambıl alın ve kol uzunluğunda yan taraflarınızda tutarak ayakta durun.\n\n2. Üst gövdeniz düz ve bacaklarınız omuz genişliği kadar aralıklı durarak veya daha dar bir duruşla ayakta durun. Dizler hafif bükülü olmalıdır. Bu başlangıç pozisyonunuzdur.\n\n3. Dizleri sabit tutarak, sırtınızı düz tutup belinizi bükerek dambılları ayaklarınızın üzerine alçaltın. Harmstringlerde esneme hissedene kadar yerden bir şey alacakmışsınız gibi ileri gitmeye devam edin. Bu hareketi yaparken nefes verin.\n\n4. Kalçalarınızı ve belinizi uzatarak başlangıç pozisyonuna gelene dek üst gövdenizi yukarı kaldırmaya başlayın. Bu hareketi yaparken nefes alın.\n\n5. Tavsiye edilen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_51">Arnold Dambıl Pres</string>
+    <string name="ex_desc_51">1.  Düz bir sehpaya oturun ve omuzlarınızın hizasında bir çift dambıl tutun. Avuç içleriniz içeri dönük olmalı ve dirsekleriniz yere işaret etmelidir.\n\n2. Avuç içleriniz sizden uzağa bakana dek her iki bileğinizi dışarı doğru çevirin. Aynı anda, kollarınızı başınızın üstüne tamamen uzatın. Bir saniye tutun. Başlangıç pozisyonuna dönün.</string>
+
+    <string name="ex_name_52">Eğilerek Dambıl Kaldırma</string>
+    <string name="ex_desc_52">1. Her iki elinizde birer dambıl tutarken ve yukarı eğimli bir sehpa önünüzdeyken düz bir şekilde ayakta durun.\n\n2. Sırtınızı dik tutarak ve sırtınızdaki doğal yay şeklini koruyarak, alnınız önünüzdeki sehpaya değene dek ileri uzanın. Kollarınızı yere dikey şekilde önünüzde sarkıtın. Ellerinizin avuç içleri birbirine dönük olmalı ve üst gövdeniz yere paralel olmalıdır. Bu başlangıç pozisyonunuz olacak.\n\n3. Üst gövdenizi ileride ve sabit tutarak ve kollarınızı dirseklerde hafif bir bükülmeyle düz tutarak, her iki kolunuz da yere paralel oluncaya dek dambılları doğrudan yana kaldırın. Ağırlıkları kaldırırken nefes verin. Dikkat: üst gövdenizi sallandırmamaya ve kollarınızı yan taraf yerine geriye götürmemeye dikkat edin.\n\n4. Yukarıda bir saniyelik kasılmanın ardından, dambılları yavaşça başlangıç pozisyonuna alçaltın.\n\n5. Tavsiye edilen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_53">Dambılla Omuz Pres</string>
+    <string name="ex_desc_53">1. Sırtınız yukarı doğru ve dik vaziyette kendinizi bir sehpa veya sandalye üzerinde konumlandırın. \n\n2. Her iki elinizde birer dambıl tutun ve başparmaklarınız birbirine dönük vaziyette dambılları her bir omzunuzun hemen dışında tutun. \n\n3. Tek yapmanız gereken dambılları kafanızın üstünde preslemek ve omuzlarınızın hemen dışında başlangıç pozisyonuna geri getirmektir.</string>
+
+    <string name="ex_name_54">Ön Dambıl</string>
+    <string name="ex_desc_54">1. Ayaklarınız hafif aralık olacak şekilde ayakta durun. \n\n2. Avuç içleriniz aşağıda (üstten kavrayarak) dambılları tutun ve uyluklarınızın üstüne veya hafif siderinize doğru yerleştirin.\n\n3. Nefes alın ve dambılları ileriye doğru omuz boyuna kaldırın.\n\n4. Hareketi tamamlarken nefes verin.</string>
+
+    <string name="ex_name_55">Yana Kaldırma</string>
+    <string name="ex_desc_55">1. Ayaklarınız hafif aralık olacak şekilde ayakta durun. \n\n2. Sırtınız dik, kollarınız yana sarkıtılmış ve her bir elinizde birer dambıl tutar şekilde ayakta durun. \n\n3. Dirseklerinizi hafif bükülü tutarak dambılı omuz hizasına kaldırın. \n\n4. Başlangıç pozisyonuna dönün.</string>
+
+    <string name="ex_name_56">Kafa Üstü Pres</string>
+    <string name="ex_desc_56">1. Ayakta dik dururken elleriniz omuz genişliği kadar ayrık, dirsekleriniz bükülü ve avuç içleriniz ileriye dönük şekilde halteri kafanızın arkasında omuz hizasında tutun.\n\n2. Kollarınızı tamamen uzatarak halteri kafa üstüne presleyin. Sırtınızı dik tutun ve hareketin tamamı boyunca dik kalın.</string>
+
+    <string name="ex_name_57">Peck Deck-Reverse Makinesinde Fly</string>
+    <string name="ex_desc_57">1. Pec deck makinesine arka desteğine dönük vaziyette ve kollarınız tutacağı kavrayarak dışa esnetilmiş şekilde oturun.\n\n2. Nefes alın vvve dirseklerinizi geriye zorlayın ve hareketin sonunda kürekkemiklerimizi birlikte presleyin. \n\n3. Hareketi tamamlarken nefes verin.</string>
+
+    <string name="ex_name_58">Ayakta Askeri Pres</string>
+    <string name="ex_desc_58">1. Ayakta dik dururken elleriniz omuz genişliği kadar ayrık, dirsekleriniz bükülü ve avuç içleriniz ileriye dönük şekilde halteri omuz yüksekliğinde üst göğsünüze bastırarak tutun.\n\n2. Kollarınızı tamamen uzatarak halteri kafa üstüne presleyin. Sırtınızı dik tutun ve hareketin tamamı boyunca dik kalın.  </string>
+
+    <string name="ex_name_59">Dik Halter Çekme</string>
+    <string name="ex_desc_59">1. Ayaklarınız hafif aralıklı olarak ayakta durun. Sırtınızı dik tutun. \n\n2. Elleriniz avuç içleri genişliği kadar veya biraz daha fazla ayrık olacak şekilde barı üstten kavrayın. \n\n3. Nefes alın ve halteri çenenize değene kadar düz bir şekilde yukarı itin. \n\n4. Hareketin tepe noktasında dirseklerinizi mümkün olduğu kadar yükseğe kaldırın. \n\n5. Nefes verin ve halteri yavaşça başlangıç noktasına doğru alçaltın.</string>
+
+    <string name="ex_name_60">Sehpada Yakın Tutuş Halter Pres </string>
+    <string name="ex_desc_60">1. Serbest ağırlıklı düz sehpa pres makinesi üzerinde pozisyon alın. \n\n2. Sırt üstü uzanın ve çok dar bir kavrayışla halteri üzerinizde tutun. \n\n3. Tutuşunuzun yaklaşık 15-20 cm genişliğinde olmasına odaklanın. Halteri demirden kaldırın ve yavaşça göğsünüzün yaklaşık 7cm üstüne alçaltın ve ardından barı başlangıç pozisyonuna presleyin. \n\n4. Hareketin tam menzili boyunca dirseklerinizi vücudunuza doğru tutmaya odaklandığınızdan emin olun.</string>
+
+    <string name="ex_name_61">Elmas Şınavı</string>
+    <string name="ex_desc_61">1. Standart şınav pozisyonuna geçin fakat işaret parmaklarınız ve başparmaklarınız ayrık açılmış ve temas halinde bir “elmas” oluşturacak şekilde ellerinizi doğrudan göğsünüzün altına yerleştirin.\n\n2. Göğsünüz neredeyse ellerinize değene dek vücudunuzu alçaltırken sırtınızı düz tutun.\n\n3. Durun ve ardından kendinizi başlangıç pozisyonuna geri yukarı itin.</string>
+
+    <string name="ex_name_62">Dips</string>
+    <string name="ex_desc_62">1. Başlangıç pozisyonuna geçmek için kollarınızı neredeyse barların üstünde kilitleyecek şekilde vücudunuzu kol uzunluğunda tutun.\n\n2. Şimdi nefes alın ve kendinizi yavaşça aşağıya doğru alçaltın. Üst gövdeniz dik kalmalı ve dirsekleriniz vücudunuza yakın durmalıdır. Bu, arka kol kaslarının devreye girmesine daha fazla odaklanılmasına yardımcı olmaktadır. Üst kolunuzla ön kolunuz arasında 90 derecelik bir açı oluşana dek alçalın.\n\n3. Ardından, vücudunuzu başlangıç pozisyonuna geri getirmek için arka kol kaslarınızı kullanarak üst gövdenizi geri yukarı itin.\n\n4. Hareketi öngörülen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_63">Ayakta Durarak Arka Kol Kaslarını Çalıştıran Dambıl Hareketi </string>
+    <string name="ex_desc_63">1. Dik durun ve her iki elinizle bir dambılı kavrayarak kol uzunluğunda tutun. İpucu: eğer çok ağırsa, başka bir kişinin dambılı size vermesi daha iyi bir yol olacaktır. Direnç, başparmaklarınız etrafındayken ellerinizin avuç içleri içerisinde olmalıdır. Elinizin avuç içi içe doğru bakmalıdır.\n\n2. Üst kollarınızı kafanıza yakın (dirsekler içeride) ve yere dikey tutarak, ön kollarınız pazularınıza değinceye dek direnci kafanızın arkasında yarı dairesel bir hareketle azaltın. Üst kollar sabit kalmalı ve yalnızca ön kollar hareket etmelidir. Bu adımı gerçekleştirirken nefes alın.\n3. Dambılı kaldırmak için arka kol kaslarınızı kullanarak başlangıç pozisyonuna geri dönün. Bu adımı gerçekleştirirken nefes verin.\n\n4. Tavsiye edilen tekrar sayısı kadar tekrarlayın.</string>
+
+    <string name="ex_name_64">EZ-Bar Kafatası Ezici Hareketi</string>
+    <string name="ex_desc_64">1. Kollarınız uzatılmış pozisyondayken barı gözlerinizin üzerinde konumlandırarak ve arka kol kaslarınızı belirli bir gerilim altında tutun. \n\n2. Şimdi, dirseklerinizi bükerken üst kollarınızı uzatılmış konumda sabit tutun ve kontrollü bir şekilde alnınıza doğru aşağı inin.</string>
+
+    <string name="ex_name_65">Oturarak EZ-Bar Kafa Ezici Hareketi</string>
+    <string name="ex_desc_65">1. Sehpaya oturun ve halteri tutun. Halteri avuç içleriniz birlikte içeri dönük olacak şekilde kol uzunluğunda kafanızın üzerinde tutun.\n\n2. Ön kollarınız yere paralel olana dek halteri kafanızın arkasından alçaltırken üst kollarınızı sabit tutun.\n\n3. Durun ve ardından dambılları başlangıç pozisyonuna geri getirmek için kollarınızı düzleştirin.</string>
+
+    <string name="ex_name_66">Ayakta EZ-Bar Kafa Ezici Hareketi</string>
+    <string name="ex_desc_66">1. Ayaklarınız omuz genişliğinde ayrık vaziyette ayakta durun ve halteri kavrayın. Halteri avuç içleriniz birlikte içeri dönük olacak şekilde kol uzunluğunda kafanızın üzerinde tutun.\n\n2. Ön kollarınız yere paralel olana dek halteri kafanızın arkasından alçaltırken üst kollarınızı sabit tutun.\n\n3. Durun ve ardından dambılları başlangıç pozisyonuna geri getirmek için kollarınızı düzleştirin.</string>
+
+    <string name="ex_name_67">Tersten Kavrayarak Arka Kolla Aşağı İtiş Hareketi</string>
+    <string name="ex_desc_67">1. Elleriniz barın üstünde ve dirsekleriniz siderinize karşı olacak şekilde makineye doğru durun.\n\n2. Nefes alın ve kollarınızı düzleştirin; fakat dirseklerinizi yan tarafınızdan ayırmayın. \n\n3. Hareketi tamamlarken nefes verin.</string>
+
+    <string name="ex_name_68">İple Arka Kolu Kafa Üstüne Uzatma</string>
+    <string name="ex_desc_68">1. Makaraya bir ip takın. Uygun ağırlığı seçtikten sonra, her iki elinizle ipi kavrayın ve yüzünüzü kablodan uzağa çevirin.\n\n2. Dirsekleriniz doğrudan yukarıya işaret edecek şekilde ellerinizi kafanızın arkasında konumlandırın. Dirsekleriniz başlangıçta esnek olmalıdır ve duruşunuzu derecelendirerek daha fazla sabitlik sağlamak için yavaşça makineden uzaklaşın. Bu başlangıç pozisyonunuz olacak.\n\n3. Hareketi yapmak için, üst kolunuzu pozisyonda tutarken dirseklerinizden uzanın ve ellerinizi kafanızın üstüne kaldırın.\n\n4. Arka kol kaslarınızı hareketin tepe noktasında sıkın ve yavaşça ağırlığı başlangıç pozisyonuna geri alçaltın.</string>
+
+    <string name="ex_name_69">Arka Kol Çekme</string>
+    <string name="ex_desc_69">1. Elleriniz barın üzerinde ve dirsekleriniz siderinize karşı olacak şekilde makineye doğru doğru. \n\n2. Nefes alın ve kollarınızı düzleştirin; ancak, dirseklerinizi yanlarınızdan ayırmayın. \n\n3. Hareketi tamamlarken nefes verin.</string>
+
+
+    <string name="Abs">Karın Kasları</string>
+    <string name="Back">Geri</string>
+    <string name="Biceps">Bisepsler</string>
+    <string name="Calf">Baldır</string>
+    <string name="Chest">Göğüs</string>
+    <string name="Forearms">Ön kollar</string>
+    <string name="Legs">Bacaklar</string>
+    <string name="Shoulders">Omuzlar</string>
+    <string name="Triceps">Trisepsler</string>
+
+
+    <string name="day">Gün</string>
+    <string name="round">Tur</string>
+    <string name="day1">Haftada 2 gün</string>
+    <string name="day2">Haftada 3 gün</string>
+    <string name="day3">Haftada 4 gün</string>
+    <string name="restorePurchases">Satın Alınanları Geri Yükle</string>
+    <string name="textUpgrade">50 yeni egzersizi açmak ve  Reklamları kaldırmak için  Premium sürüme geçin</string>
+    <string name="one_day_ADS1">1 Gün boyunca REKLAMSIZ</string>
+    <string name="one_day_ADS2">SPONSORLU VİDEOYU GÖRÜNTÜLE</string>
+    <string name="upgrade">ŞİMDİ GEÇ</string>
+    <string name="free">ücretsiz</string>
+    <string name="tell_friend">Arkadaşına Bahset</string>
+    <string name="send_feedback">Geribildirim Gönder</string>
+    <string name="rate_app">Bizi Puanlayın</string>
+    <string name="facebook">Uygulamayı Facebook’ta paylaş</string>
+    <string name="twitter">"Uygulamayı Twitter’da paylaş "</string>
+    <string name="ic_googleplay">Diğer uygulamalarımız</string>
+    <string name="ic_settings_">Ayarlar</string>
+    <string name="social_follow">Kalın ile bağlantılı VGFIT</string>
+    <string name="reminder">Hatırlatma</string>
+    <string name="daily_reminder">Günlük hatırlatma</string>
+    <string name="frequency">Sıklık</string>
+    <string name="after_days">%1$s günlük hareketsizlik sonrası</string>
+    <string name="menu_bt">Menü butonu</string>
+    <string name="units">Birimler</string>
+    <string name="purch_restored">Uygulama içi satın almalar geri yüklendi</string>
+    <string name="success">Başarılı!</string>
+
+    <string name="work_1">Yeni Başlayanlar için Fitness</string>
+    <string name="work_2">Vücut Dönüştürücü Fitness</string>
+    <string name="work_3">Genel Fitness</string>
+    <string name="work_4">Karşıt Etkili Kaslar</string>
+    <string name="work_5">Aynı Kas</string>
+    <string name="work_6">Üçlü Setler</string>
+    <string name="work_2header">Süpersetler</string>
+    <string name="work_1header">Antrenmanlar</string>
+
+    <string name="doneKey">Tamam</string>
+    <string name="editKey">Düzenle</string>
+    <string name="intervalsKey">Interval’ler</string>
+    <string name="myWorkoutsKey">Antrenmanlarım</string>
+    <string name="pauseKey">Duraklat</string>
+    <string name="resetKey">Sıfırla</string>
+    <string name="resumeKey">Devam Et</string>
+    <string name="roundsKey">Tur</string>
+    <string name="startKey">Başlat</string>
+    <string name="currentsetkey">Mevcut ayarlar</string>
+    <string name="worktimekey">Dinlenme süresi</string>
+    <string name="resttimekey">Egzersiz süresi</string>
+    <string name="minkey">Dak</string>
+    <string name="seckey">San</string>
+
+    <string name="one_time_payment">tek seferlik ödeme</string>
+    <string name="get_lifetime_access">YAŞAM BOYU ERİŞİM ELDE EDİN</string>
+    <string name="_3_days_for_free">7 gün ÜCRETSİZ</string>
+    <string name="get_workouts_courses_with_powerful_support">Güçlü destek ile 100% hazır antrenmanlara erişim sağlayın!</string>
+    <string name="only_now">Sadece şimdi</string>
+    <string name="start_your_positive_transformation_today">Pozitif dönüşümünüze \nbugün başlayın!</string>
+    <string name="try_it_now">Şimdi Deneyin</string>
+    <string name="_3_day_nfree_trial">3-günlük \nÜcretsiz deneme</string>
+    <string name="_7_day_nfree_trial">7-günlük \nÜcretsiz deneme</string>
+    <string name="new_workoutsN">Yeni \nantrenmanlar</string>
+    <string name="month">/ay</string>
+    <string name="year">/yıl</string>
+    <string name="monthly_slim">Aylık</string>
+    <string name="after">sonra</string>
+    <string name="nutritionPlanName2">KİLO VERME</string>
+    <string name="nutritionPlanName1">KAS YAPMA</string>
+    <string name="nutrition_plans">Beslenme planları</string>
+    <string name="title_11">Egzersizler</string>
+</resources>

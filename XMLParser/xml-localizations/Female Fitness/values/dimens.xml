@@ -1,0 +1,60 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="height_bar">55dp</dimen>
+    <dimen name="timer_txt_size">18sp</dimen>
+    <dimen name="timer_txt_size_cancel">22sp</dimen>
+    <dimen name="textsize_graph">8sp</dimen>
+    <dimen name="pading_menu_button">15dp</dimen>
+    <dimen name="height_menu_button">82dp</dimen>
+    <dimen name="shadow_pading">20dp</dimen>
+    <dimen name="size_text_desc_item">14sp</dimen>
+    <dimen name="size_arrow_item">25dp</dimen>
+    <dimen name="size_icon_left_menu">45dp</dimen>
+
+    <dimen name="padding_right_item_workout">0dp</dimen>
+    <dimen name="height_item_workout">150dp</dimen>
+    <dimen name="height_shadow_top_bar">5dp</dimen>
+    <dimen name="size_text_title_item">20sp</dimen>
+
+    <dimen name="refresh_header_height_twitter">20dp</dimen>
+
+    <dimen name="margin_left_backbt">15dp</dimen>
+    <dimen name="margin_left_backbt_text">30dp</dimen>
+
+    <dimen name="height_history_listview">125dp</dimen>
+    <dimen name="height_timer_expand">105dp</dimen>
+    <dimen name="height_write_list">73dp</dimen>
+    <dimen name="status_bar_height">24dp</dimen>
+    <dimen name="height_only_timer">90dp</dimen>
+    <dimen name="height_calendar_button">30dp</dimen>
+
+    <dimen name="height_image_purch">150dp</dimen>
+    <dimen name="size_igredients">8sp</dimen>
+
+    <dimen name="height_image_meal">200dp</dimen>
+
+    <dimen name="size_text_day">22sp</dimen>
+    <dimen name="size_text_title">18sp</dimen>
+    <dimen name="size_text_description">14sp</dimen>
+
+    <dimen name="size_container_meal_foto">100dp</dimen>
+
+    <dimen name="size_layout_icon_left_menu">80dp</dimen>
+
+
+    <dimen name="header_upgrade_height">310dp</dimen>
+    <dimen name="padding_upgrade_to_top">10dp</dimen>
+    <dimen name="padding_between_text_upgrade">0dp</dimen>
+    <dimen name="between_desc_upgrade">15dp</dimen>
+    <dimen name="beteween_recycle_preview">-10dp</dimen>
+    <dimen name="heigh_dialog_purchase">180dp</dimen>
+    <dimen name="width_dialog_purchase">240dp</dimen>
+    <dimen name="logo_vgfit_height">40dp</dimen>
+    <dimen name="size_text_subscribe_life">17sp</dimen>
+    <dimen name="size_text_subscribe_life_2">14sp</dimen>
+</resources>

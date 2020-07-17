@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="selected_item2">#8c88ff</color>
+    <color name="frag1_layout">#d667cd</color>
+    <color name="frag2_layout">#fc4883</color>
+    <color name="frag3_layout">#dd3f3f</color>
+    <color name="frag4_layout">#f69146</color>
+    <color name="frag5_layout">#fcc748</color>
+    <color name="frag6_layout">#f32883</color>
+    <color name="menu_layout">#48fca5</color>
+    <color name="exit_layout">#48e0fc</color>
+    <color name="switch_color">#a5fed2</color>
+    <color name="circle_foto_not">#808c88ff</color>
+    <color name="text_color_exercise">#B38c88ff</color>
+
+
+    <color name="grey_text">#CC747474</color>
+
+    <color name="white">#ffffff</color>
+    <color name="grey">#747474</color>
+    <color name="grey2">#b4b4b4</color>
+    <color name="red">#e46951</color>
+    <color name="blue">#3340cb</color>
+    <color name="red_bar">#e46951</color>
+    <color name="selected_item">#e46951</color>
+    <color name="timer_color_presed">#ffcb606a</color>
+    <color name="txt_menu_not_presed">#e5aeab</color>
+    <color name="color_circle_grey">#efefef</color>
+    <color name="cell_color_exercise">#66cb3f33</color>
+    <color name="text_color_hint">#80cb3f33</color>
+
+    <color name="grey_opacity">#4Db4b4b4</color>
+    <color name="redY_axis">#4Dcb3f33</color>
+
+    <color name="red_status_bar">#e46951</color>
+
+    <color name="shadow_left_menu">#99000000</color>
+    <color name="back_and_menu_pressed">#80ffffff</color>
+
+    <color name="red_transp">#80e46951</color>
+
+    <color name="red_native">#cb3f33</color>
+    <color name="red_separator">#26e46951</color>
+    <color name="line_cell_red">#f17a62</color>
+    <color name="line_shadow_red">#c4533d</color>
+    <color name="cell_red">#d25942</color>
+    <color name="background_history">#B30D0D0D</color>
+    <color name="line_history">#777777</color>
+    <color name="digits_history">#BBBBBB</color>
+    <color name="white_transparent">#80ffffff</color>
+    <color name="digits_interval">#494949</color>
+
+    <color name="day1Meal">#BF785fd3</color>
+    <color name="day2Meal">#bfb35ca1</color>
+    <color name="day3Meal">#bfd26464</color>
+    <color name="day4Meal">#bff14c5d</color>
+    <color name="day5Meal">#bfc9735b</color>
+    <color name="day6Meal">#bf93548f</color>
+    <color name="day7Meal">#bf4f81db</color>
+</resources>

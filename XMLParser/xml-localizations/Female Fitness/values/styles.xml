@@ -1,0 +1,86 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorPrimaryDark">@color/red</item>
+    </style>
+    <style name="AppThemeSplash" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item> <!-- For 2.x version  -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <!--<style name="AppTheme2" parent="AppBaseTheme"/>-->
+    <style name="ActivityDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="Animations" />
+    <style name="Animations.SmileWindow">
+
+        <item name="@android:windowEnterAnimation">@drawable/grow_from_bottom</item>
+        <!--  <item name="@android:windowExitAnimation">@drawable/grow_from_top</item> -->
+    </style>
+    <style name="box_sky_blue">
+        <item name="android:background">@color/red_bar</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="AppTheme_switch" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Active thumb color & Active track color(30% transparency) -->
+        <item name="colorControlActivated">@android:color/holo_red_light</item>
+        <!-- Inactive thumb color -->
+        <item name="colorSwitchThumbNormal">@android:color/white</item>
+        <!-- Inactive track color(30% transparency) -->
+        <item name="android:colorForeground">@android:color/darker_gray</item>
+    </style>
+
+    <style name="StyleButton_left">
+        <item name="android:paddingRight">30dp</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingTop">30dp</item>
+        <item name="android:paddingBottom">30dp</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="StyleButton_right">
+        <item name="android:paddingRight">15dp</item>
+        <item name="android:paddingLeft">30dp</item>
+        <item name="android:paddingTop">30dp</item>
+        <item name="android:paddingBottom">30dp</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="StyleButton_center">
+        <item name="android:paddingLeft">30dp</item>
+        <item name="android:paddingTop">30dp</item>
+        <item name="android:paddingBottom">30dp</item>
+        <item name="android:paddingRight">30dp</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+        <item name="android:duration">100</item>
+    </style>
+
+    <style name="ripple_background__border_less">
+        <item name="android:src">@drawable/bg_press_icon</item>
+    </style>
+
+    <style name="AppTheme_checkbox" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Active thumb color & Active track color(30% transparency) -->
+        <item name="colorControlActivated">@color/red</item>
+        <!-- Inactive thumb color -->
+        <item name="colorSwitchThumbNormal">@android:color/white</item>
+        <!-- Inactive track color(30% transparency) -->
+        <item name="android:colorForeground">@android:color/darker_gray</item>
+    </style>
+</resources>

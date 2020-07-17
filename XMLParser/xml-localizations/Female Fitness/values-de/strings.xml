@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Frauen Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">Übungen</string>
+    <string name="title_2">Fitnesstraining</string>
+    <string name="title_3">Maßgeschneidert</string>
+    <string name="title_4">Verlauf</string>
+    <string name="title_5">Weiteres</string>
+    <string name="done">Fertig</string>
+    <string name="back">Zurück</string>
+    <string name="titles">Titel:  </string>
+    <string name="downl_vid">Video herunterladen</string>
+    <string name="please_wait">Bitte warten...</string>
+    <string name="cancel">Stornieren</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="work">Mein Training</string>
+    <string name="create_plus">Um neues Training zu kreieren bitte + drücken</string>
+    <string name="save">Speichern</string>
+    <string name="workout_name">Name des Trainings:</string>
+    <string name="days_title">Nummer der Tage:</string>
+    <string name="delete">Löschen</string>
+    <string name="work_title">Titel des Trainings:</string>
+    <string name="options">Möglichkeiten:</string>
+    <string name="camera">Kamera/Atelier</string>
+    <string name="ex_phot_title">Fotos der Übungen</string>
+    <string name="name_desc">Name, Beschreibung</string>
+    <string name="ex_name">Name der Übung:</string>
+    <string name="desc">Beschreibung:</string>
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+    <string name="blanck">Bitte füllen Sie das Textfeld!</string>
+    <string name="okey">Ok</string>
+    <string name="realy_cancel">Möchten Sie das Herunterladen wirklich stornieren? Der ganze Verlauf geht verloren!</string>
+    <string name="download_all">Alle videos herunterladen</string>
+    <string name="unzip">Dateien auspacken</string>
+    <string name="files">Dateien</string>
+    <string name="dow_video">Videos herunterladen</string>
+    <string name="video_saved">Alle Videos wurden erfolgreich gespeichert!</string>
+    <string name="conn">Bitte überprüfen Sie Ihre Wi-Fi oder mobile Internetverbindung!</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+    <string name="start">Start</string>
+    <string name="weight">Gewicht(Kg)</string>
+    <string name="repetitions">Wiederholungen</string>
+    <string name="set_s">Eingestellte Sekunden</string>
+    <string name="wei">Gewicht</string>
+    <string name="rep">Wiederholungen</string>
+    <string name="wei_rep">Leistung</string>
+    <string name="no_history">Es wurden noch keine Übungen gemacht</string>
+    <string name="last_val">Letzte Werte</string>
+    <string name="send_f">Feedback senden</string>
+    <string name="rep_bug">Einen Fehler melden</string>
+    <string name="tel_fr">Empfehlen</string>
+    <string name="rate_us">Bewerten Sie uns</string>
+    <string name="ad">Fügen</string>
+    <string name="exit">Sind Sie sicher ?</string>
+    <string name="sdcard">Keine SD-Karte!!</string>
+    <string name="post_to">Auf Pinnwand schreiben</string>
+    <string name="not_loged">Nicht angemeldet</string>
+    <string name="log_fail">Fehler bei Anmeldung</string>
+    <string name="posting">Beitrag </string>
+    <string name="posting_succes">Beitrag erfolgreich</string>
+    <string name="email_sent">E-Mail gesendet</string>
+    <string name="email_notsent">E-Mail nicht gesendet</string>
+
+    <string name="reps1">3 Sets und  12/12/12 Wiederholungen</string>
+    <string name="reps2">3 Sets und 15/15/15 Wiederholungen</string>
+    <string name="reps3">3 Sets und 20/20/20 Wiederholungen</string>
+    <string name="reps4">3 Sets und 30/30/30 Wiederholungen</string>
+
+    <string name="app_name_fast">Fitness &amp; Bodybuilding</string>
+    <string name="wk1">Sie neigen dazu, übermäßiges Körperfett in der Taille, den Armen und Brüsten zu haben und weniger in der unteren Körperhälfte. Bringen Sie sich mit intensiven kombinierten Übungen für den Oberkörper schnell in Form.</string>
+    <string name="wk2">Sie sind stockgerade mit sehr wenigen Kurven. Geben Sie Ihrer Taille mehr Form und formen Sie Ihr Gesäß mit diesem Übungsplan für Bananen- Körperformen.</string>
+    <string name="wk3">Ihre Büste und Hüften sind im Vergleich größer als Ihre Taille. Fügen Sie Ganzkörpermuskelspannung hinzu und formen Sie Ihre Arme und Beine mit dieser kurvenfreundlichen Übung.</string>
+    <string name="wk4">Sie haben breite Schultern und schmale Hüften. Stärken Sie Ihre Mitte, und geben Sie Ihrem Hintern und Ihren Oberschenkeln etwas Form mit dieser Übung für umgekehrte Dreieck-Körperformen.</string>
+    <string name="wk5">Sie sind unten etwas breiter als oben. Kräftigen Sie Ihre Arme und Schultern, und stärken Sie sich überall mit unserer birnenfreundlichen Übung.</string>
+    <string name="dialog_future">Sie können keine Angaben für spätere Daten eingeben!</string>
+    <string name="info">Wähle deine aktuelle Figur.</string>
+
+    <string name="ex_guide_1">Apfel</string>
+    <string name="ex_guide_2">Banane</string>
+    <string name="ex_guide_3">Sanduhr</string>
+    <string name="ex_guide_4">Umgekehrtes Dreieck</string>
+    <string name="ex_guide_5">Birne</string>
+    <string name="ex_name_1">Fitball Drehung</string>
+    <string name="ex_desc_1">Vorbereitung: Setzen Sie sich auf den Gymnastikball. Gehen Sie auf dem Ball vorwärts, legen Sie sich auf dem Ball hin, lassen Sie Ihre Schultern und Ihren Kopf herunterhängen und biegen Sie Ihre Knie und Hüften. Überstrecken Sie sich langsam zurück zur Kontur des Balls. Halten Sie die Scheibe mit beiden Händen hinter Ihrem Nacken, auf der Brust oder benutzen Sie gar kein Gewicht. Spannen Sie Ihre Taille an, um den Oberkörper zu heben. Gehen Sie zur Anfangsposition zurück. Wiederholen.</string>
+    <string name="ex_name_2">Gymnastikball Plankenhechte</string>
+    <string name="ex_desc_2">Legen Sie einen Gymnastikball hin, und legen Sie sich mit Ihren Händen schulterbreit auseinander auf den Boden in Liegestützenposition vor ihn. Legen Sie jetzt Ihre unteren Schienbeine oben auf den Ball. Tipp: An dieser Stelle sollten Ihre Beine mit den Schienbeinen oben auf dem Ball voll ausgestreckt und Ihr Oberkörper in einer liegestützartigen Position unterstützt durch Ihre beiden ausgestreckten Arme vor Ihnen sein. Dies wird Ihre Anfangsposition sein: - Während Sie Ihren Rücken völlig gerade und den Oberkörper feststehend halten, heben Sie Ihr Gesäß zur Decke und drücken Ihre Bauchmuskeln fest, um die Distanz zwischen Ihrem Brustkorb und Ihren Hüften zu schließen. Das Endresultat ist, daß Sie sich in einer hohen Brückenposition befinden. - Atmen Sie während diesem Teil der Bewegung aus. - Lassen Sie den unteren Rückenbereich langsam herab zu Ihrer Anfangsposition während Sie einatmen. Tipp: Lassen Sie Ihren Rücken nicht nach unten durchhängen. Machen Sie die empfohlene Anzahl an Wiederholungen.</string>
+    <string name="ex_name_3">Zehengrapscher</string>
+    <string name="ex_desc_3">Zuerst legen Sie sich mit dem Rücken fest am Boden oder auf einer Übungsmatte hin. Ihre Arme sollten an Ihren Seiten mit Handflächen nach unten liegen. Ihre Beine sollten einander berühren. Heben Sie Ihre Beine langsam in die Luft bis sie sich fast senkrecht zum Boden befinden und biegen Sie Ihre Knie in einem 90 Grad Winkel an. Lassen Sie Ihren Rücken fest am Boden gedrückt, heben Sie Ihren Oberkörper langsam hoch und benutzen Sie Ihre Hände, um zu versuchen, Ihre Zehen zu berühren.Denken Sie bei diesem Teil der Übung an das Ausatmen. Lassen Sie Ihren Oberkörper und Ihre Arme langsam herab zur Anfangsposition während Sie einatmen. Denken Sie daran, Ihre Arme gerade ausgestreckt zu lassen und sie zu Ihren Zehen zu weisen. Machen Sie die empfohlene Anzahl an Wiederholungen.</string>
+    <string name="ex_name_4">Beineinziehen</string>
+    <string name="ex_desc_4">Legen Sie sich auf eine Übungsmatte mit ausgestreckten Beinen, Handflächen nach unten und neben Ihnen. Dies wird Ihre Anfangsposition sein: - Heben Sie Ihren Oberkörper langsam hoch, wobei Ihr Rücken fest am Boden gedrückt bleibt. Denken Sie bei diesem Teil der Übung an das Ausatmen. - Biegen Sie Ihre Knie und ziehen Sie Ihre Oberschenkel zur Körpermitte während Sie ausatmen. Machen Sie mit dieser Bewegung weiter bis Ihre Knie zu Brusthöhe sind. - Ziehen Sie Ihre Bauchmuskeln bei der Ausführung dieser Bewegung zusammen, und halten Sie oben für eine Sekunde inne. Tipp: Während Sie diese Bewegung ausführen sollten die unteren Beine (Waden) immer parallel zum Boden bleiben. - Gehen Sie während dem Einatmen zur Anfangsposition zurück. Machen Sie die empfohlene Anzahl an Wiederholungen.</string>
+    <string name="ex_name_5">Planke &amp; Liegestütze (Aufwärts-Abwärts Planke)</string>
+    <string name="ex_desc_5">Beginnen Sie diese Übung in hoher Planke beim Höhepunkt einer Liegestützenposition. Gehen Sie sicher, daß sich Ihre Hände direkt unter Ihren Schultern befinden, daß Ihre Beine gerade sind &amp; daß Ihre Mitte angespannt ist (Position 1). Halten Sie diese Position für 15 Sekunden. Lassen Sie sich zu Ihren Unterarmen herab ohne auf Ihre Knie zu fallen. Bringen Sie die Unterarme nacheinander zur Matte herunter, zur unteren Planke. Halten Sie diese Position (Position 2) mit parallelen Unterarmen für 15 Sekunden. Gehen Sie anschließend zur Hochplankenposition mit geraden Armen zurück.</string>
+    <string name="ex_name_6">Bergsteiger</string>
+    <string name="ex_desc_6">Gehen Sie mit völlig geraden Armen in die Liegestützeposition. Ihr Körper sollte von Ihrem Kopf bis zu Ihren Fußgelenken eine gerade Linie bilden [A]. Heben Sie Ihren rechten Fuß vom Boden ohne Ihre Unterrückenhaltung zu verändern, und bewegen Sie Ihr rechtes Knie langsam zu Ihrer Brust [B]. Gehen Sie zur Anfangsposition zurück und wiederholen Sie mit Ihrem linken Bein. Wechseln Sie während des Sets hin und her.</string>
+    <string name="ex_name_7">Liegende Seitendrehung</string>
+    <string name="ex_desc_7">Legen Sie sich mit der linken Hand an der Seite des Kopfs und leicht angehobenen Beinen links über rechts auf Ihre rechte Seite hin. Dann heben Sie Ihren Oberkörper hoch und wieder herunter, benutzen Sie Ihren rechten Ellenbogen zur Unterstützung. Machen Sie eine Pause, und gehen Sie dann in die Anfangsposition zurück.</string>
+    <string name="ex_name_8">V-Nach Oben</string>
+    <string name="ex_desc_8">Legen Sie sich flach auf Ihren Rücken, und strecken Sie Ihre Arme über Ihren Kopf. Bei dieser Übung müssen Sie Ihre Hände nicht zusammen halten. Heben Sie gleichzeitig Ihre Arme und Beine langsam und kontrolliert an, damit sie sich in der Mitte Ihres Oberkörpers treffen. Strecken Sie sich mit einer langsamen, kontrollierten Bewegung zurück zur Anfangsposition. Halten Sie Ihren Blick auf die Zimmerdecke.</string>
+    <string name="ex_name_9">Bankspringen</string>
+    <string name="ex_desc_9">Stellen Sie einen Karton oder eine Bank einen halben Meter vor Ihnen hin. Lassen Sie Ihre Füße schulterbreit auseinander stehen. Dies wird Ihre Anfangsposition sein: - Gehen Sie kurz als Vorbereitung für den Sprung in die Hocke und schwingen Sie Ihre Arme nach hinten. - Kommen Sie aus dieser Position heraus, erweitern Sie sich durch Ihre Hüften, Knie und Fußgelenke, um so hoch wie möglich zu springen. - Schwingen Sie Ihre Arme nach vorne und nach oben. - Springen Sie über die Bank und landen Sie mit gebeugten Knien, damit der Aufprall durch die Beine abgefangen wird. - Drehen Sie sich um in die andere Richtung, und springen Sie dann zurück über die Bank.</string>
+    <string name="ex_name_10">Sitzendes Kabelrudern</string>
+    <string name="ex_desc_10">Für diese Übung brauchen Sie Zugang zu einer Rudermaschine mit unterem Seilzug und einer V-Stange. Anmerkung: Die V-Stange erlaubt Ihnen dort einen neutralen Griff zu haben, wo Ihre Handflächen einander zugewandt sind. Um in die Anfangsposition zu kommen, setzen Sie sich zuerst auf die Maschine und stellen Ihre Füße auf die vorderste Plattform oder vorhandene Querstange, und gehen Sie sicher, daß Ihre Knie leicht gebeugt und nicht gesperrt sind. Lehnen Sie nach vorne, wobei Sie die natürliche Ausrichtung Ihres Rückens behalten, und greifen Sie nach den Griffen der V-Stange. Ziehen Sie mit Ihren ausgestreckten Armen zurück bis Ihr Oberkörper sich in einem 90 Grad Winkel zu Ihren Beinen befindet. Ihr Rücken sollte leicht gewölbt sein, und Ihre Brust sollte hervorstehen. Sie sollten während Sie die Stange vor sich halten eine gute Spannung auf Ihren Lats fühlen. Dies ist die Anfangsposition dieser Übung: - Halten Sie Ihren Oberkörper still, ziehen Sie die Griffe zu Ihrem Oberkörper, und lassen Sie Ihre Arme nah an ihm, bis Sie Ihre Bauchmuskeln berühren.  - Atmen Sie bei dieser Bewegung aus. An dieser Stelle sollten Sie Ihre Rückenmuskeln fest zusammenziehen. - Halten Sie diese Kontraktion für eine Sekunde und gehen Sie langsam zur Ausgangsposition zurück wähend Sie einatmen. Machen Sie die empfohlene Anzahl an Wiederholungen. Achtung: Vermeiden Sie das Hin- und Herschwingen des Oberkörpers, da Sie sich damit eine Verletzung im unteren Rücken zuziehen können.</string>
+    <string name="ex_name_11">Latziehen Mit Weitem Griff</string>
+    <string name="ex_desc_11">Setzen Sie sich an eine Maschine zum Herunterziehen und mit einer weiten Stange an der oberen Rolle. Gehen Sie sicher, daß Sie das Kniepolster der Maschine passend zu Ihrer Größe einstellen. Diese Polster halten Ihren Körper davon ab, von dem Widerstand der Stange hochgehoben zu werden. Greifen Sie die Stange mit nach vorne zeigenden Handflächen wie beim beschriebenen Griff. Anmerkung zu den Griffen: Für einen weiten Griff sollten Ihre Hände mehr als Schulterbreite auseinander sein. Für einen mittleren Griff sollten Ihre Hände gleich zur Schulterbreite sein, und für einen engen Griff sollte die Distanz kleiner sein als Schulterbreite. Während Sie beide Arme vor Ihnen ausgestreckt haben, und die Stange mit gewünschter Breite festhalten, bringen Sie Ihren Oberkörper in ungefähr 30 Grad zurück, indem Sie eine Krümmung in Ihrem unteren Rücken kreieren und Ihre Brust herausstrecken. Dies ist Ihre Anfangsposition: - Bringen Sie beim Ausatmen die Stange so weit hinunter, bis Sie Ihre obere Brust berührt, indem Sie die Schultern und Oberarme herunter und zurück ziehen. Tipp: Konzentrieren Sie sich auf das Anspannen der Rückenmuskeln, sobald Sie die volle Spannungsposition erreicht haben. - Der Oberkörper sollte feststehend bleiben, und nur die Arme sollten sich bewegen. - Die Unterarme sollten außer die Stange festzuhalten keine Arbeit leisten; versuchen Sie deshalb nicht, mit den Unterarmen die Stange herunterzuziehen. Nach einer Sekunde in der Spannungsposition drücken Sie die Schulterblätter zusammen und erhöhen Sie die Stange langsam zurück zur Anfangsposition, wenn Ihre Arme und Lats voll ausgestreckt sind. - Atmen Sie während diesem Teil der Bewegung ein. Machen Sie die empfohlene Anzahl an Wiederholungen für diese Bewegung.</string>
+    <string name="ex_name_12">Überstreckungen (Rückendehnungen)</string>
+    <string name="ex_desc_12">Legen Sie sich auf eine Überstreckungsbank, und stecken Sie Ihre Fußgelenke fest unter die Fußpolster. Passen Sie das obere Polster nach Möglichkeit an, damit Ihre Oberschenkel flach auf dem weiten Polster liegen und Ihnen ohne Einschränkung genug Platz zum Biegen der Taille geben. Kreuzen Sie mit geradem Körper Ihre Arme vor sich oder hinter Ihrem Kopf. Dies wird Ihre Anfangsposition sein: Tipp: Sie können außerdem eine Hantelscheibe für zusätzlichen Widerstand vor sich unter Ihren gekreuzten Armen halten. - Fangen Sie an, sich langsam und soweit Sie können mit der Taille nach vorne zu lehnen, während Sie Ihren Rücken flach halten. - Atmen Sie bei dieser Bewegung ein. - Bewegen Sie sich so lange weiter, bis Sie ein gutes Dehnen in der Kniesehne spüren, und Sie nicht mehr weitermachen können ohne Ihren Rücken abzurunden. Tipp: Runden Sie während dieser Übung nie den Rücken ab. Des weiteren können manche Leute weiter gehen als andere. Die Hauptsache ist, daß Sie soweit gehen, wie es Ihnen Ihr Körper erlaubt ohne den Rücken abzurunden. - Heben Sie Ihren Oberkörper zurück zur Anfangsposition während Sie einatmen. Tipp: Vermeiden Sie die Versuchung, Ihren Rücken weiter als eine gerade Linie zu krümmen. Sie sollten außerdem jederzeit das Schwingen des Oberkörpers vermeiden, damit der Rücken nicht verletzt wird. Machen Sie die empfohlene Anzahl an Wiederholungen.</string>
+    <string name="ex_name_13">Unterstützte Klimmzüge</string>
+    <string name="ex_desc_13">Treten Sie hoch und greifen Sie die Stange im Obergriff. Treten Sie nach unten auf die Unterstützungsebene oder Plattform. Manche unterstützenden Maschinen verlangen, daß Sie sich auf die Plattfom knien. Wenn man keine unterstützende Maschine am benutzen ist, helfen Sie nach Bedarf, indem Sie dem Trainingspartner erlauben, die Füße hinter Ihre Beine zu ziehen, oder drücken Sie sich selbst mit den Beinen auf der Erhebung ab. Bewegungsbereich wird reduziert wenn der Griff zu weit ist.</string>
+    <string name="ex_name_14">Verbogenes Zwei-Kurzhantel-Rudern</string>
+    <string name="ex_desc_14">Mit einer Hantel in jeder Hand (Handflächen zum Oberkörper) beugen Sie Ihre Knie leicht und bringen Ihren Oberkörper nach vorne, indem Sie Ihre Taille biegen; gehen Sie sicher, daß Sie während dem Beugen Ihren Rücken gerade halten, so daß er fast parallel zum Boden ist. Tipp: Halten Sie den Kopf hoch. Die Gewichte sollten direkt vor Ihnen baumeln, und Ihre Arme hängen senkrecht zum Boden und Ihrem Oberkörper. Dies ist Ihre Anfangsposition: - Während Sie Ihren Oberkörper feststehend lassen, heben Sie die Hanteln zu Ihrer Seite (Sie atmen aus), die Ellenbogen bleiben nah am Körper (benutzen Sie von den Unterarmen keine Kraft außer das Halten der Hanteln). - Auf der Spitze der zusammengezogenen Position spannen Sie Ihre Rückenmuskeln an, und halten Sie für eine Sekunde inne. - Bringen Sie das Gewicht wieder zur Anfangsposition zurück, während Sie einatmen. Machen Sie die empfohlene Anzahl an Wiederholungen. Achtung: Diese Übung ist für Menschen mit Rückenproblemen nicht empfohlen. Unteres Seilzug Rudern ist für Menschen mit Rückenproblemen eine bessere Wahl. Gewährleisten Sie perfekte Form, und runden Sie nie den Rücken, da dies Rückenverletzungen fördern kann. Seien Sie mit dem Gewicht vorsichtig; bei Zweifeln benutzen Sie eher weniger als mehr.</string>
+    <string name="ex_name_15">Steifbein Langhantel</string>
+    <string name="ex_desc_15">Diese Übung ist als Sicherheitsmaßnahme am besten in einem Kniebeugenständer durchgeführt. Um anzufangen legen Sie eine Stange, die Ihrer Größe am besten paßt, auf einen Ständer. Wenn die richtige Höhe ausgewählt und die Stange geladen ist, stellen Sie sich unter die Stange und platzieren Sie die Rückseite Ihrer Schultern (etwas unter dem Nacken) über sie. Halten Sie sich mit beiden Armen an jeder Seite fest und heben Sie sie von dem Ständer, indem Sie zuerst mit den Beinen abstoßen und gleichzeitig Ihren Oberkörper strecken. Gehen Sie vom Ständer weg und platzieren Sie Ihre Beine in Schulterbreite und mittlerer Stellung. Halten Sie Ihren Kopf die ganze Zeit nach oben, da das Herunterschauen sie aus dem Gleichgewicht bringt, und halten Sie außerdem den Rücken gerade. Dies wird Ihre Anfangsposition sein: - Lassen Sie Ihre Beine fest stehen, bewegen Sie Ihren Oberkörper nach vorne, indem Sie Ihre Hüften während dem Einatmen biegen. - Lassen Sie Ihren Oberkörper herab, bis er zum Boden parallel ist. - Fangen Sie an, die Stange während dem Ausatmen zu erheben, indem Sie Ihren Oberkörper zurück zur Anfangsposition bringen. Machen Sie die empfohlene Anzahl der Wiederholungen. Achtung: Diese Übung sollte nicht leicht genommen werden. Seien Sie mit dem Gewicht vorsichtig; bei Zweifeln benutzen Sie eher weniger Gewicht als mehr. Die Langhantel Für Steifes Bein Guten Morgen ist eine sichere Übung, aber nur, wenn sie richtig durchgeführt wird.</string>
+    <string name="ex_name_16">Umgekehrte Fliegen</string>
+    <string name="ex_desc_16">Um anzufangen legen Sie sich auf eine Schrägbank mit der Brust und dem Bauch gegen die Schräge gedrückt. Halten Sie die Kurzhanteln in jeder Hand, die Handflächen einander zugewandt (neutraler Griff). Strecken Sie die Arme vor sich aus, so daß sie senkrecht zum Winkel der Bank sind. Die Beine sollten fest stehen bleiben, während Sie Druck mit dem Ballen Ihrer Zehen ausüben. Dies ist die Anfangsposition: - Halten Sie Ihre Ellenbogen leicht gebeugt, bewegen Sie die Gewichte weg von einander in einer Bogenbewegung (zur Seite) während Sie ausatmen. Tipp: Versuchen Sie, Ihre Schulterblätter zusammenzudrücken, um das beste Ergebnis von dieser Übung zu bekommen. - Die Arme sollten erhöht werden, bis sie parallel zum Boden sind. - Fühlen Sie die Kontraktion, und lassen Sie die Gewichte langsam wieder zur Anfangsposition zurückkommen während Sie einatmen. Machen Sie die empfohlene Anzahl an Wiederholungen.</string>
+    <string name="ex_name_17">Einarmiges Kurzhantelrudern</string>
+    <string name="ex_desc_17">Wählen Sie eine Flachbank und platzieren Sie eine Hantel auf jede Seite. Legen Sie das rechte Bein oben auf das Ende der Bank, beugen Sie Ihren Oberkörper von der Taille nach vorne bis Ihr Oberkörper parallel zum Boden ist, und platzieren Sie Ihre rechte Hand zur Unterstützung auf das andere Ende der Bank. Benutzen Sie die linke Hand, um die Hantel auf dem Boden aufzuheben, und halten Sie das Gewicht, während Sie Ihren unteren Rücken gerade halten. Die Fläche der Hand sollte zu Ihrem Oberkörper weisen. Dies wird Ihre Anfangsposition sein: - Ziehen Sie den Widerstand gerade zur Seite Ihrer Brust nach oben, lassen Sie Ihren Oberarm nah an Ihrer Seite, und lassen Sie den Oberkörper feststehend. Atmen Sie bei diesem Schritt aus. Tipp: Konzentrieren Sie sich auf das Zusammendrücken der Rückenmuskeln wenn Sie die volle Spannungsposition erreicht haben. Gehen Sie außerdem sicher, daß die Kraft von den Rückenmuskeln kommt und nicht von den Armen. Zum Schluß sollte der Oberkörper feststehend bleiben, und nur die Arme sollten sich bewegen. Die Unterarme sollten außer dem Festhalten der Hantel keine weitere Arbeit leisten; versuchen Sie deshalb nicht, die Hantel mit den Unterarmen hochzuziehen. - Lassen Sie den Widerstand gerade herunter zur Anfangsposition. Atmen Sie während diesem Schritt ein. Machen Sie die Bewegung mit der angegebenen Anzahl an Wiederholungen. Wechseln Sie Seiten, und wiederholen Sie noch einmal mit dem anderen Arm. Einarmiges Rudern kann auch mit einer hohen oder unteren Umlenkrolle anstelle einer Hantel durchgeführt werden.</string>
+    <string name="ex_name_18">Bizeps Hantelübung</string>
+    <string name="ex_desc_18">Stellen Sie sich gerade hin, und halten Sie in jeder Hand in Armlänge eine Hantel. Lassen Sie Ihre Ellenbogen nah an Ihrem Oberkörper, und rotieren Sie Ihre Handflächen, bis sie nach vorne zeigen. Dies wird Ihre Anfangsposition sein: - Jetzt lassen Sie Ihre Arme feststehend, atmen Sie aus, und rotieren Sie die Gewichte während Sie Ihre Bizeps zusammenziehen. - Heben Sie die Gewichte weiter an, bis Ihre Bizeps völlig zusammengezogen und die Hanteln in Schulterhöhe sind. - Halten Sie diese Position für eine kurze Pause, während Sie Ihre Bizeps zusammenziehen. - Danach atmen Sie ein und fangen langsam an, die Hanteln zu ihrer Anfangsposition zurückzubringen. Machen Sie die empfohlene Anzahl an Wiederholungen.</string>
+    <string name="ex_name_19">Langhantelübung</string>
+    <string name="ex_desc_19">Stellen Sie sich mit geradem Oberkörper hin, und halten Sie eine Langhantel mit einem schulterbreiten Griff. Ihre Handflächen sollten nach vorne zeigen, und Ihre Ellenbogen sollten nah am Körper sein. Dies wird Ihre Anfangsposition sein: - Lassen Sie Ihre Arme feststehend, und bewegen Sie die Gewichte nach vorne, während Sie beim Ausatmen die Bizeps zusammenziehen. Tipp: Nur die Unterarme sollten sich bewegen. - Machen Sie die Bewegung weiter, bis Ihre Bizeps völlig zusammengezogen sind, und die Stange bei Schulterhöhe angekommen ist. - Halten Sie die Spannungsposition für eine Sekunde, und ziehen Sie die Bizeps fest an. - Bringen Sie die Stange wieder langsam zur Anfangsposition zurück, während Sie einatmen. Machen Sie die empfohlene Anzahl an Wiederholungen.</string>
+    <string name="ex_name_20">Sitzende Langhantelübung</string>
+    <string name="ex_desc_20">Fassen Sie mit einem Untergriff (Handflächen nach vorne) in Schulterbreite nach einer Langhantel, und setzen Sie sich mit der Hantel auf Ihren Oberschenkeln auf das Ende einer Flachbank. Ihr Rücken sollte gerade sein, Ihr Kopf guckt nach vorne, und die Füße sind fest auf dem Boden. Dies wird Ihre Anfangsposition für die Sitzende Langhantelübung sein: - Lassen Sie Ihre Oberarme feststehend und nah an Ihrem Körper, atmen Sie ein, und fangen Sie an, die Gewichte nach oben und nach vorne zu bewegen, bis Sie die volle Spannungsposition erreicht haben. - Halten Sie für eine Sekunde inne, ziehen Sie Ihre Bizeps an, und lassen Sie das Gewicht in einer kontrollierten Bewegung wieder zur Anfangsposition zurück.</string>
+    <string name="ex_name_21">Schrägliegende Langhantelübung</string>
+    <string name="ex_desc_21">Legen Sie sich gegen eine Schrägbank, Ihre Arme halten eine Langhantel und hängen in einer horizontalen Linie nach unten. Dies wird Ihre Anfangsposition sein: - Lassen Sie Ihre Arme feststehend, bewegen Sie das Gewicht so weit wie möglich nach oben, und ziehen Sie die Bizeps an. Atmen Sie bei diesem Teil der Bewegung aus. Tipp: Nur die Unterarme sollten sich bewegen. Die Arme nicht schwingen. - Nach einer sekundenlangen Anspannung gehen Sie wieder zur Anfangsposition zurück, und atmen Sie ein. Tipp: Seien Sie sicher, daß Sie ganz nach unten gehen. Machen Sie die empfohlene Anzahl an Wiederholungen. Variationen: Sie können diese Übung mit einer E-Z Stange oder Kurzhantel durchführen.</string>
+    <string name="ex_name_22">Stehende Bizeps Kabelübung</string>
+    <string name="ex_desc_22">Stellen Sie sich mit geradem Oberkörper hin, und halten Sie eine Kabelübungsstange fest, die an einer unteren Seilrolle befestigt ist. Greifen Sie die Kabelstange in Schultebreite, und lassen Sie die Ellenbogen nah an Ihrem Oberkörper. Ihre Handflächen sollten nach oben zeigen (Untergriff). Dies wird Ihre Anfangsposition sein: - Lassen Sie Ihre Oberarme feststehend, und bewegen Sie die Gewichte während Sie Ihre Bizeps zusammenziehen und ausatmen. Nur die Unterarme sollten sich bewegen. Machen Sie mit dieser Bewegung weiter, bis Ihre Bizeps völlig zusammengezogen sind, und die Stange bei Schulterhöhe ist. Halten Sie die Spannungsposition für eine Sekunde, während Sie den Muskel zusammenziehen. - Bringen Sie die Kabelstange langsam zur Anfangsposition zurück, während Sie einatmen. Machen Sie die empfohlene Anzahl an Wiederholungen. Variation: Sie können diese Bewegung auch mit einem E-Z Hantelaufsatz oder einzelnen Griffen durchführen.</string>
+    <string name="ex_name_23">Gesäß Rücktritt</string>
+    <string name="ex_desc_23">Knien Sie sich auf den Boden oder eine Trainingsmatte, und biegen Sie sich mit Ihren Armen vor sich ausgestreckt (senkrecht zum Oberkörper) von der Taille an, um in eine kniende Liegestützenposition zu gehen, aber die Arme sollten schulterbreit auseinander sein. Ihr Kopf sollte nach vorne schauen, und das Biegen der Knie sollte zwischen der Kniesehne und den Waden einen 90 Grad Winkel bilden. Dies wird Ihre Anfangsposition sein: - Atmen Sie aus, und heben Sie Ihr rechtes Bein, bis die Kniesehne mit dem Rücken eine Linie bildet, und Sie den 90 Grad Winkel beibehalten. - Ziehen Sie die Gesäßmuskeln durch diese Bewegung an, und halten Sie diese Spannung am Höhepunkt für eine Sekunde. Tipp: Am Ende dieser Bewegung sollte das obere Bein parallel zum Boden sein, und die Wade senkrecht. - Gehen Sie beim Einatmen zur Anfangsposition zurück, und wiederholen Sie alles mit dem linken Bein. - Wechseln Sie mit den Beinen ab, bis alle empfohlenen Wiederholungen gemacht sind. Variationen: Bei dieser Übung können Sie auch zuerst alle Wiederholungen mit einem Bein machen und dann mit dem anderen. Sie können außerdem zusätzlich Fußgewichte hinzufügen.</string>
+    <string name="ex_name_24">Einbeiniges Steifbein Kreuzheben</string>
+    <string name="ex_desc_24">Stellen Sie sich hin, Füße zusammen und Hände vor Ihren Oberschenkeln. Heben Sie Ihr Bein nur so hoch an, bis Ihr Fuß vom Boden ist. Gehen Sie mit Ihrem Oberkörper nach vorne und herunter, und heben Sie das angehobene Bein nach hinten. Halten Sie Ihren Rücken gerade und das Knie des unterstützenden Beins etwas gebeugt. Lassen Sie die Hüfte und das Knie des angehobenen Beins während der Bewegung ausgestreckt. Sobald Sie das Strecken spüren, oder die Hände den Boden berühren, gehen Sie zur Anfangsposition zurück, indem Sie den Oberkörper hochheben und das angehobene Bein herunterlassen. Strecken Sie das Knie des unterstützenden Bein, wenn der Oberkörper nach oben geht. Wiederholen Sie.</string>
+    <string name="ex_name_25">Einbeiniges Steifbein Kreuzheben</string>
+    <string name="ex_desc_25">Stellen Sie sich hin, Füße zusammen und Hände vor Ihren Oberschenkeln. Heben Sie Ihr Bein nur so hoch an, bis Ihr Fuß vom Boden ist. Gehen Sie mit Ihrem Oberkörper nach vorne und herunter, und heben Sie das angehobene Bein nach hinten. Halten Sie Ihren Rücken gerade und das Knie des unterstützenden Beins etwas gebeugt. Lassen Sie die Hüfte und das Knie des angehobenen Beins während der Bewegung ausgestreckt. Sobald Sie das Strecken spüren, oder die Hände den Boden berühren, gehen Sie zur Anfangsposition zurück, indem Sie den Oberkörper hochheben und das angehobene Bein herunterlassen. Strecken Sie das Knie des unterstützenden Bein, wenn der Oberkörper nach oben geht. Wiederholen Sie.</string>
+    <string name="ex_name_26">Einbeiniger Kabelrücktritt</string>
+    <string name="ex_desc_26">Haken Sie eine Leder Knöchelmanschette an eine untere Seilrolle, und befestigen Sie dann die Manschette and Ihr Fußgelenk. Wenden Sie sich dem Gewichtsstapel aus einer Distanz von ungefähr einem halben Meter zu, und halten Sie sich an dem Stahlrahmen als Unterstützung fest. Lassen Sie Ihre Knie und Hüften leicht gebeugt, Ihre Bauchmuskeln fest zusammen, und ziehen Sie Ihre Gesäßmuskeln zusammen, um das arbeitende Bein langsam in einem Halbkreisbogen so hoch, wie es möglich und bequem ist, zu treten, während Sie ausatmen. Tipp: Ziehen Sie Ihre Gesäßmuskeln bei der vollen Ausdehnung für eine Sekunde zusammen, um maximale Spannung zu erreichen. Bringen Sie Ihr arbeitendes Bein langsam nach vorne, und halten Sie dem Zug des Kabels Stand, bis Sie wieder an der Anfangsposition sind. Machen Sie die empfohlene Anzahl an Wiederholungen. Wechseln Sie die Beine, und wiederholen Sie die Bewegung mit der anderen Seite. Variationen: Sie können diese Übung mit Übungsbändern durchführen.</string>
+    <string name="ex_name_27">Schrägbankdrücken Mit Der Smith Maschine</string>
+    <string name="ex_desc_27">Stellen Sie eine Schrägbank unter die Smith Maschine. Platzieren Sie die Hantel auf eine Höhe, die Sie erreichen können, wenn Sie sich hinlegen und Ihre Arme fast ganz ausgestreckt haben. Nachdem Sie das gewünschte Gewicht ausgewählt haben, legen Sie sich auf die Schrägbank hin, und gehen Sie sicher, daß Ihr oberer Brustbereich mit der Hantel auf einer Linie ist. Entriegeln Sie die Stange mit einem proniertem Griff (Handflächen nach vorne), der breiter als Schulterbreite ist, und halten Sie sie mit gesperrten Armen gerade über sich. Dies wird Ihre Anfangsposition sein: - Kommen Sie während dem Einatmen langsam herunter, bis Sie die Stange auf Ihrem oberen Brustbereich spüren. - Nach einer sekundenlangen Pause bringen Sie die Stange zur Anfangsposition zurück, Sie atmen aus und drücken die Stange mit Ihren Brustmuskeln. Sperren Sie Ihre Arme in der zusammengezogenen Position, halten Sie für eine Sekunde inne, und kommen Sie dann langsam wieder herunter. Tipp: Es sollte mindestens zweimal so lange dauern, herunter zu gehen, als hochzukommen. - Machen Sie die empfohlene Anzahl an Wiederholungen. Wenn Sie fertig sind, platzieren Sie die Stange wieder in den Ständer. Achtung: Wenn diese Übung neu für Sie ist, raten wir Ihnen, einen Partner zu benutzen, da diese Übung etwas schwierig sein kann. Wenn kein Partner zur Verfügung steht, dann sollten Sie mit dem Gewicht eher konservativ sein.</string>
+    <string name="ex_name_28">Liegestützen - Nahe Trizeps Position</string>
+    <string name="ex_desc_28">Legen Sie sich mit dem Gesicht nach unten auf den Boden, und platzieren Sie Ihre Hände enger als Schulterbreite für eine hautnahe Position. Gehen Sie sicher, daß Sie Ihren Oberkörper auf Armlänge halten. Lassen Sie sich herab, bis Ihre Brust fast den Boden berührt, und atmen Sie ein. Drücken Sie Ihren oberen Körper wieder zur Anfangsposition zurück, indem Sie Ihre Trizeps und einige Ihrer Brustmuskeln benutzen, und spannen Sie Ihre Brust an. Atmen Sie bei diesem Schritt aus. Nach einer sekundenlangen Pause in dieser angespannten Position wiederholen Sie diese Bewegung so oft wie empfohlen. Variationen: - Wenn diese Übung neu für sie ist, und Sie haben die Kraft nicht, sie durchzuführen, können Sie entweder Ihre Beine an den Knien beugen, um Widerstand wegzunehmen, oder die Übung gegen der Wand anstelle des Bodens machen. - Die fortgeschrittensten Heber können Ihre Füße auf eine hohe Oberfläche platzieren, z.B. eine Bank, um den Widerstand zu erhöhen.</string>
+    <string name="ex_name_29">Schräges Kurzhanteldrücken</string>
+    <string name="ex_desc_29">Legen Sie sich auf eine Schrägbank mit einer Hantel in jeder Hand und auf Ihren Oberschenkeln. Ihre Handflächen sind einander zugewandt. Drücken Sie dann mit Ihren Oberschenkeln die Hanteln nach oben, wobei Sie die Hanteln nacheinander heben, damit Sie sie auf Schulterhöhe halten können. Wenn Sie die Hanteln bis Schulterhöhe gehoben haben, rotieren Sie Ihre Handgelenke nach vorne, damit die Handflächen von Ihnen weg weisen. Dies wird Ihre Anfangsposition sein: - Gehen Sie sicher, daß Sie die ganze Zeit volle Kontrolle über die Hanteln haben. Atmen Sie aus, und drücken Sie die Hanteln mit Ihrer Brust. - Sperren Sie Ihre Arme oben, halten Sie für eine Sekunde inne, und lassen Sie dann das Gewicht langsam herab. Tipp: Idealerweise sollte das Herablassen der Gewichte zweimal so lange dauern wie das Hochziehen. Wiederholen Sie die Bewegung so oft wie empfohlen. Wenn Sie fertig sind, platzieren Sie die Hanteln wieder auf Ihre Oberschenkel und dann auf den Boden. Das ist die sicherste Art, die Hanteln loszulassen.</string>
+    <string name="ex_name_30">Schräge Hantelfliegen</string>
+    <string name="ex_desc_30">Halten Sie in jeder Hand eine Hantel, und legen Sie sich auf eine Schrägbank, bei der die Schräge nicht mehr als 30 Grad beträgt. Strecken Sie mit leicht gebeugten Ellenbogen Ihre Arme über sich aus. Jetzt rotieren Sie Ihre Handgelenke so, daß die Handflächen auf Sie weisen. Tipp: Die kleinen Finger sollten nebeneinander liegen. Dies wird Ihre Anfangsposition sein: - Beim Einatmen lassen Sie Ihre Arme langsam zur Seite hinunter, lassen Sie sie ausgestreckt, und rotieren Sie die Handgelenke, bis die Handflächen sich gegenüber liegen. Tipp: Am Ende dieser Bewegung sind die Arme an Ihrer Seite, und die Handflächen zeigen zur Zimmerdecke. - Beim Ausatmen bringen Sie die Kurzhanteln wieder zur Anfangsposition zurück, indem Sie die Bewegung umgedreht machen und Ihre Hände so rotieren, daß Ihre kleinen Finger wieder nebeneinander liegen. Tipp: Denken Sie daran, daß die Bewegung nur im Schultergelenk und dem Handgelenk passiert. Im Ellenbogengelenk gibt es keine Bewegung. Wiederholen Sie die Bewegung so oft wie empfohlen.</string>
+    <string name="ex_name_31">Schräge Schweizer Ball Kurzhantelbrustpresse</string>
+    <string name="ex_desc_31">Platzieren Sie sich mit Ihrem Rücken so auf einen Schweizer Ball, daß Ihr Oberkörper in einem 45 Grad Winkel zum Boden ist. Halten Sie die Hanteln mit geraden Armen direkt über Ihrem Kinn. Halten Sie Ihre Mitte verspannt und Ihre Füße flach auf dem Boden.</string>
+    <string name="ex_name_32">Langhantel Bankpresse</string>
+    <string name="ex_desc_32">Legen Sie sich auf eine Flachbank. Mit einem mittleren Griff (ein Griff, der in der Mitte der Bewegung einen 90 Grad Winkel zwischen den Unter- und Oberarmen kreiert) heben Sie die Stange aus dem Ständer, und halten Sie sie mit gesperrten Armen gerade über sich. Dies wird Ihre Anfangsposition sein: - In der Anfangsposition atmen Sie ein, und kommen Sie langsam herunter, bis die Stange die Mitte Ihrer Brust berührt. - Nach einer kurzen Pause drücken Sie die Stange zurück zur Anfangsposition, während Sie ausatmen. Konzentrieren Sie sich auf das Drücken der Stange mit Ihren Brustmuskeln. - Sperren Sie Ihre Arme, und ziehen Sie Ihre Brust in die angespannte Position auf dem Höhepunkt der Bewegung, halten Sie für eine Sekunde inne, und kommen Sie dann langsam wieder herunter. Tipp: Idealerweise sollte das Herunterlassen des Gewichts zweimal so lange dauern wie das Hochheben. Wiederholen Sie die Bewegung so oft wie empfohlen. Wenn Sie fertig sind, legen Sie die Stange wieder zurück in den Ständer. Achtung: Wenn diese Übung Ihnen neu ist, schlagen wir vor, daß Sie einen Partner benutzen. Wenn kein Partner vorhanden ist, sollten Sie mit dem benutzten Gewicht eher konservativ sein.</string>
+    <string name="ex_name_33">Kurzhantel Überzug Mit Gestrecktem Arm</string>
+    <string name="ex_desc_33">Stellen Sie eine Kurzhantel aufrecht auf eine Flachbank. Achten Sie darauf, daß die Hantel sicher oben auf der Bank liegen bleibt, und legen Sie sich senkrecht zur Bank (Oberkörper über sie, als wenn man ein Kreuz formt), aber nur Ihre Schultern liegen auf der Oberfläche. Die Hüften sollten unterhalb der Bank sein,die Beine sollten gebeugt sein, und die Füße stehen fest auf dem Boden. Der Kopf ist auch weg von der Bank. Greifen Sie die Hantel mit beiden Händen, und halten Sie sie in Armlänge über ihre Brust. Die Handflächen sollten beide gegen die Unterseite der Hantelseiten drücken. Dies wird Ihre Anfangsposition sein: Achtung: Achten Sie bei dieser Übung immer darauf, daß die Hantel gesichert ist. Das Benutzen einer Hantel mit losen Scheiben kann dazu führen, daß die Hantel auseinander fällt und auf Ihr Gesicht fällt. - Halten Sie Ihre Arme gerade, lassen Sie das Gewicht langsam in einem Bogen hinter Ihrem Kopf herunter, und atmen Sie ein, bis Sie auf der Brust ein Dehnen spüren. - An diesem Punkt bringen Sie die Hantel zurück zur Anfangsposition, indem Sie den Bogen benutzen, in dem das Gewicht heruntergelassen wurde, und atmen Sie bei der Durchführung dieser Bewegung aus. Halten Sie das Gewicht bei der Anfangsposition für eine Sekunde, und wiederholen Sie die Bewegung so oft wie empfohlen. Achtung: Wenn Ihnen diese Bewegung neu ist, lassen Sie sich das Gewicht lieber von einem Partner geben. Wenn nicht, achten Sie bitte darauf, daß die Hantel nicht auf Sie fällt, während Sie Ihren Oberkörper für diese Übung auf der Bank vorbereiten. Ich möchte hier nocheinmal betonen, daß Sie sicher gehen müssen, daß die benutzte Hantel in einwandfreiem Zustand ist. Alte Hanteln, die geschweißt werden müssen sollten nie benutzt werden, um diese Übung durchzuführen.</string>
+    <string name="ex_name_34">Smith Maschinen Kniebeuge</string>
+    <string name="ex_desc_34">Um anzufangen, stellen Sie die Stange so ein, daß Sie Ihrer Größe am besten paßt. Wenn die richtige Größe eingestellt und die Stange geladen ist, stellen Sie sich unter sie und platzieren die Rückseite Ihrer Schultern (etwas unterhalb Ihres Nackens) über sie. Halten Sie sich mit beiden Armen an beiden Seiten fest (Handflächen nach vorne), entsperren Sie sie, und heben Sie sie aus dem Ständer, indem Sie zuerst mit den Beinen abstoßen und gleichzeitig Ihren Oberkörper aufrichten. Stellen Sie Ihre Beine schulterbreit in mittlerer Haltung und den Zehen leicht nach außen gehalten hin. Halten Sie Ihren Kopf die ganze Zeit nach oben, und lassen Sie Ihren Rücken außerdem gerade. Dies wird Ihre Anfangsposition sein: Anmerkung: Zum Zweck dieser Diskussion benutzen wir die mittlere Haltung, die generelle Entwicklung anstrebt; Sie können jedoch jede der drei Haltungen auswählen, die in dem Fußhaltungsbereich besprochen wurden. - Fangen Sie langsam an, die Stange herabzulassen, indem Sie die Knie beugen und eine gerade Haltung mit erhobenem Kopf bewahren. Gehen Sie weiter herunter, bis der Winkel zwischen dem Oberbein und den Waden etwas weniger als 90 Grad ist (das ist der Punkt, wo die Oberbeine unten parallel zum Boden sind). - Atmen Sie bei diesem Teil der Bewegung ein. Tipp: Wenn Sie diese Übung richtig durchgeführt haben, sollte vor den Knien eine imaginäre Linie mit den Zehen bestehen, die senkrecht zu den Knien ist. Wenn Ihre Knie über diese Linie hinausgehen (wenn sie weiter geht als Ihre Zehen), üben Sie unnötigen Stress auf Ihr Knie aus, und die Übung wurde falsch durchgeführt. - Fangen Sie  beim Ausatmen an, die Stange hochzuheben, und drücken Sie mit der Ferse Ihres Fußes auf den Boden, während Sie Ihre Beine wieder strecken und zurück zur Anfangsposition gehen. - Machen Sie die empfohlene Anzahl an Wiederholungen.</string>
+    <string name="ex_name_35">Weite Smith Maschinen Kniebeuge</string>
+    <string name="ex_desc_35">Bereiten Sie sich für die Weite Smith Maschinen Hocke vor, indem Sie die Stange in ungefähr Schulterhöhe einstellen und das Gewicht, daß Sie an der Smith Maschine benutzen wollen, laden. Stellen Sie sich mit Ihren Beinen in weiter Haltung und Ihren Zehen leicht nach außen weisend unter die Stange. Greifen Sie die Stange mit einem weiten Griff, und platzieren Sie die Mitte der Stange oben auf Ihre Rückenmuskeln. Die Stange sollte nicht auf Ihrem Nacken liegen! Halten Sie Ihren Rücken gerade, die Augen schauen nach vorne, und heben Sie das Gewicht von der Stange: - Machen Sie einen kleinen Schritt nach vorne. - Nach vorne schauend und mit einem geraden Rücken gehen Sie langsam in die Hocke, bis Ihre Oberschenkel parallel zum Boden sind. - Drücken Sie durch die Fersen, und heben Sie die Stange zurück zur Anfangsposition. - Machen Sie gewünschte Wiederholungen.</string>
+    <string name="ex_name_36">Smith Maschinen Rücktritt</string>
+    <string name="ex_desc_36">Mit der Stange auf oberer Brusthöhe platzieren Sie sie auf die Rückseite Ihrer Schultern und greifen Sie sie zu den Seiten. Stellen Sie die Füße unter die Stange. Strecken Sie Ihre Beine, damit das Gewicht hochgehoben wird. Lösen Sie die Stange, indem Sie sie zurückrotieren. Treten Sie mit einem Bein zurück, und biegen Sie das unterstützende Bein. Stellen Sie den Vorderfuß weit zurück auf den Boden. Lassen Sie den Körper herab, indem Sie das Knie und die Hüfte des unterstützenden Beins biegen, bis das Knie des hinteren Beins fast Kontakt mit dem Boden hat. Gehen Sie zum ursprünglichen Stand zurück, indem Sie die Hüfte und das Knie des vorderen Beins ausstrecken und das hintere Bein neben das unterstützende Bein zurückstellen. Wiederholen Sie die Bewegung mit umgekehrten Beinen, und wechseln Sie die Seiten.</string>
+    <string name="ex_name_37">Beinpresse</string>
+    <string name="ex_desc_37">Beim Benutzen einer Beinpresse setzen Sie sich auf die Maschine, und stellen Sie Ihre Beine auf die Plattform direkt vor sich in mittlerer Haltung (Schulterbreite). Anmerkung: Zum Zweck dieser Diskussion benutzen wir die mittlere Haltung, die oben beschrieben ist und generelle Entwicklung anstrebt; Sie können jedoch jede der drei Haltungen auswählen, die in dem Fußhaltungsbereich besprochen wurden. Lassen Sie die Sicherheitsbügel, die die Plattform in Position halten, herab, und drücken Sie die Plattform ganz nach oben, bis Ihre Beine vollkommen for Ihnen ausgestreckt sind.Tipp: Gehen Sie sicher, daß Sie Ihre Knie nicht sperren. Ihr Oberkörper und Ihre Beine sollten einen perfekten 90 Grad Winkel bilden. Dies wird Ihre Anfangsposition sein: - Beim Einatmen lassen Sie die Plattform langsam hinunter, bis Ihre Ober- und Unterbeine einen 90 Grad Winkel bilden. - Drücken Sie hauptsächlich mit den Fersen Ihrer Füße ab, benutzen Sie die Quadrizeps, atmen Sie aus, und gehen Sie zur Anfangsposition zurück. Machen Sie die empfohlene Anzahl an Wiederholungen, und gehen Sie sicher, daß die Sicherheitsstifte wieder richtig eingerastet sind, wenn Sie fertig sind. Sie wollen auf keinen Fall, daß die Plattform voll geladen auf Sie fällt. Achtung: Überprüfen Sie beim Zurücklegen des Gewichts immer, daß die Plattform sicher verriegelt ist.</string>
+    <string name="ex_name_38">Hacken Kniebeuge</string>
+    <string name="ex_desc_38">Platzieren Sie die Rückseite Ihres Oberkörpers gegen das Rückenpolster der Maschine, und haken Sie Ihre Schultern unter die vorhandenen Schulterpolster. Stellen Sie Ihre Beine in mittlerer Schulterbreite in die Plattform, und Ihre Zehen sollten leicht nach außen zeigen. Tipp: Halten Sie Ihren Kopf die ganze Zeit nach oben, und lassen Sie den Rücken dauernd an dem Polster. Platzieren Sie Ihre Arme an die Seitengriffe der Maschine, und lösen Sie die Sicherheitsstangen (bei den meisten Ausführungen wird das gemacht, indem man die Seitengriffe von der vorderen Position zu einer diagonalen Position bewegt). Jetzt strecken Sie Ihre Beine ohne Ihre Knie zu sperren. Dies wird Ihre Anfangsposition sein: Anmerkung: Zum Zweck dieser Diskussion benutzen wir die mittlere Haltung, die oben beschrieben ist und generelle Entwicklung anstrebt; Sie können allerdings jede der drei Haltungen benutzen, die in dem Fußhaltungsbereich besprochen wurden. - Fangen Sie langsam an, die Einheit hinunter zu lassen, indem Sie Ihre Knie biegen, eine aufrechte Körperhaltung beibehalten und Ihren Kopf nach oben halten (der Rücken bleibt die ganze Zeit an dem Polster). Gehen Sie weiter hinunter, bis der Winkel zwischen dem oberen Bein und den Waden etwas weninger als 90 Grad beträgt (das ist der Punkt an dem die Oberbeine unten parallel zum Boden sind). Atmen Sie bei diesem Teil der Bewegung ein. Tipp: Wenn Sie diese Übung richtig durchgeführt haben, sollten die Knie vorne mit den Zehen eine imaginäre Linie bilden, die senkrecht zu den Kien ist. Wenn Ihre Knie weiter hinausgehen als diese imaginäre Linie (wenn sie weiter vorstehen als Ihre Zehen), dann üben Sie unnötigen Stress auf das Knie aus, und die Übung wurde falsch durchgeführt. - Heben Sie die Einheit nach oben, atmen Sie aus, und drücken Sie hauptsächlich mit der Ferse Ihres Fußes vom Boden ab, während Sie die Beine wieder strecken, und gehen Sie dann zur Anfangsposition zurück. Machen Sie die empfohlene Anzahl an Wiederholungen.</string>
+    <string name="ex_name_39">Sitzende Beinübung</string>
+    <string name="ex_desc_39">Stellen Sie den Maschinenhebel für Ihre Größe ein, und setzen Sie sich mit dem Rücken gegen das Rückenstützenpolster auf die Maschine. Platzieren Sie die Rückseite des Unterbeins auf den gepolsterten Hebel (nur ein paar Zentimeter unter den Waden), und sichern Sie das Schoßpolster gegen Ihre Oberschenkel, kurz über den Knien. Dann fassen Sie die Seitengriffe an der Maschine, richten Sie Ihre Zehen nach vorne (oder Sie könnnen eine der anderen zwei Haltungen benutzen), und gehen Sie sicher, daß die Beine gerade gestreckt vor Ihnen sind. Dies wird Ihre Anfangsposition sein: - Beim Ausatmen ziehen Sie den Maschinenhebel so weit wie möglich zu der Rückseite Ihrer Oberschenkel, indem Sie die Knie biegen. - Lassen Sie Ihren Oberkörper die ganze Zeit feststehend. Halten Sie die angespannte Position für eine Sekunde. - Gehen Sie beim Einatmen wieder langsam zur Anfangsposition zurück. Machen Sie die empfohlene Anzahl an Wiederholungen. Achtung: Benutzen Sie niemals so viel Gewicht, daß Sie anfangen, zu schwingen oder zu zucken, da Sie damit eine untere Rückenverletzung und außerdem einen Muskelfaserriss riskieren können.</string>
+    <string name="ex_name_40">Beinstrecken</string>
+    <string name="ex_desc_40">Für diese Maschine müssen Sie einen Beinstrecker benutzen. Wählen Sie zuerst Ihr Gewicht aus, setzen Sie sich dann mit den Füßen unter dem Polster (Füße nach vorne gezeigt) auf die Maschine, und Ihre Hände halten die Seitenstangen fest. Dies wird Ihre Anfangsposition sein: Tipp: Sie müssen das Polster so einstellen, daß es auf Ihr Unterbein fällt (gerade über Ihren Füßen). Gehen Sie außerdem sicher, daß Ihre Beine zwischen dem Unter- und Oberbein einen 90 Grad Winkel bilden. Wenn der Winkel weniger als 90 Grad ist, dann heißt das, daß das Knie über den Zehen ist, was wiederum unnötigen Stress am Kniegelenk kreieren kann. Wenn die Maschine so entworfen ist, gucken Sie nach einer anderen Maschine, oder gehen Sie einfach sicher, daß Sie beim Anfang der Übungsdurchführung aufhören, hinunter zu gehen, sobald Sie den 90 Grad Winkel erreicht haben. -Mit Ihren Quadrizeps strecken Sie Ihre Beine bis zum Maximum, und atmen Sie aus. Gewährleisten Sie, daß der Rest Ihres Körpers fest auf dem Sitz bleibt. - Halten Sie in der angespannten Position eine Sekunde inne. - Lassen Sie das Gewicht beim Einatmen langsam wieder zur ursprünglichen Position zurück, und gehen Sie sicher, daß Sie das 90 Grad Winkellimit nicht überschreiten. Machen Sie die empfohlenen Wiederholungen.</string>
+    <string name="ex_name_41">Zusammengeklappte Kniebeuge</string>
+    <string name="ex_desc_41">Halten Sie mit beiden Händen ein paar Gewichte an der Basis, und stellen Sie sich gerade hin. Stellen Sie Ihre Beine so hin, daß sie schulterweit auseinander sind, und biegen Sie Ihre Knie leicht. Ihre Zehen sollten nach außen zeigen. Dies ist Ihre Anfangsposition: Anmerkung: Sie sollten Ihre Arme bei dieser Übung ruhig halten. - Biegen Sie langsam Ihre Knie, und lassen Sie Ihre Beine langsam herunter, bis Ihre Oberschenkel parallel zum Boden sind. Gehen Sie sicher, daß Sie einatmen, da das der exzentrische Teil dieser Übung ist. - Drücken Sie hauptsächlich mit der Ferse des Fußes ab, um den Körper zurück zur Anfangsposition zu bringen, während Sie ausatmen. Machen Sie die empfohlene Anzahl an Wiederholungen. Achtung: Wenn Sie Ihren Rücken nicht gerade halten, riskieren Sie eine Rückenverletzung.</string>
+    <string name="ex_name_42">Sumo Kniebeuge Zu Seitendehnung</string>
+    <string name="ex_desc_42">Stellen Sie sich aufrecht hin, Ihre Füße sind etwas weiter auseinander als Hüftweite, Zehen und Knie sind ungefähr in einem 45 Grad Winkel nach außen gedreht, die Hände sind hinter Ihrem Kopf. Biegen Sie Ihre Knie, und lassen Sie sich in eine Sumo Kniebeuge herab (die Hüften so weit wie möglich hinunter lassen, ohne die Knie nach vorne oder nach hinten zu bewegen). Beim Wiederaufstehen heben Sie Ihr rechtes Knie und Ihren rechten Ellenbogen. Stellen Sie Ihren rechten Fuß hinunter, und wiederholen Sie die Sumo Kniebeuge und Dehnung auf der linken Seite. Wiederholen Sie, und wechseln Sie jedes Mal die Seite.</string>
+    <string name="ex_name_43">Seitenkniebeuge</string>
+    <string name="ex_desc_43">Ihre Füße stehen zusammen. Hocken Sie sich halb hinunter, und machen Sie so weit wie es geht nach rechts einen Schritt. Bringen Sie das rechte Bein nach links, und gehen Sie zur Anfangsposition zurück. Treten Sie jedes Mal auf eine andere Seite.</string>
+    <string name="ex_name_44">Wandelnde Gewichtsschritte</string>
+    <string name="ex_desc_44">Ihre Füße stehen schulterweit auseinander, Ihre Hände sind gestreckt und halten über Ihrem Kopf ein Gewicht. Machen Sie mit einem Bein einen Schritt nach vorne, und beugen Sie die Knie, um Ihre Hüften zu senken. Gehen Sie soweit hinunter, bis Ihr hinteres Knie fast den Boden berührt. Ihre Haltung sollte gerade bleiben, und Ihr vorderes Knie sollte vor dem vorderen Fuß bleiben. Drücken Sie durch die Ferse Ihres leitenden Fußes, und strecken Sie beide Knie, um sich selbst wieder hochzuheben. Schreiten Sie mit Ihrem hinteren Fuß nach vorne, und wiederholen Sie den Tritt auf dem anderen Bein.</string>
+    <string name="ex_name_45">Kurzhantel Rücktritt Mit Hochgezogenem Knie</string>
+    <string name="ex_desc_45">Stellen Sie sich mit geradem Oberkörper hin, und halten Sie zwei Kurzhanteln an Ihren Seiten. Dies wird Ihre Anfangsposition sein: - Treten Sie mit Ihrem rechten Bein ungefähr einen halben Meter oder so von dem linken Fuß zurück, und lassen Sie Ihren Oberkörper hinab, während Sie ihn  und Ihre Balance gerade halten. Atmen Sie beim Heruntergehen ein. Tipp: Genau wie bei den anderen Übungen sollten Sie auch hier Ihrem Knie nicht erlauben, weiter als Ihre Zehen zu gehen, da dies unnötigen Stress auf das Kniegelenk ausüben wird. Gehen Sie sicher, daß Sie Ihr vorderes Schienbein senkrecht zum Boden halten. Halten Sie den Oberkörper während des Schritts aufrecht; flexible Hüftbeugemuskeln sind wichtig. Ein langer Schritt betont den Gesäßmuskel; ein kurzer Schritt betont den Quadrizeps. - Drücken Sie nach oben, gehen Sie zur Anfangsposition zurück, und atmen Sie aus, während Sie Ihr rechtes Knie anheben und Ihren Rücken gerade halten. Tipp: Benutzen Sie den Ball Ihrer Füße zum Drücken, um den Quadrizeps zu betonen. Um sich auf die Gesäßmuskeln zu konzentrieren, drücken Sie mit den Fersen ab. Jetzt wiederholen Sie mit dem anderen Bein.</string>
+    <string name="ex_name_46">Langhantel Querrücktritt</string>
+    <string name="ex_desc_46">Am Anfang legen Sie die Stange etwas unter Schulterhöhe auf den Ständer. Wenn die richtige Größe ausgewählt und die Stange geladen ist, stellen Sie sich unter sie und platzieren die Rückseite Ihrer Schultern (etwas unterhalb des Nacken) über sie. Halten Sie die Stange mit beiden Armen an jeder Seite fest, und heben Sie sie von dem Ständer, indem Sie zuerst mit Ihren Beinen abdrücken und gleichzeitig Ihren Oberkörper strecken. Treten Sie von dem Ständer weg und mit dem rechten Fuß nach links, und lassen Sie sich in eine Hocke hinab, so daß das linke Knie zu einem ungefähr 90 Grad Winkel gebeugt ist, während Sie Ihren Oberkörper und Ihre Balance gerade halten. Atmen Sie beim Hinabgehen ein. Anmerkung: Erlauben Sie Ihrem Knie beim Hinabgehen nicht über Ihre Zehen hinauszugehen, da dies unnötigen Stress auf Ihr Kniegelenk ausübt. Benutzen Sie hauptsächlich die Ferse Ihres Fußes, drücken Sie ab, und gehen Sie während dem Ausatmen wieder zur Anfangsposition zurück. Machen Sie die empfohlene Anzahl an Wiederholungen, und führen Sie die Übung anschließlich mit dem linken Bein durch.</string>
+    <string name="ex_name_47">Seitenlage-Beinheben</string>
+    <string name="ex_desc_47">Legen Sie sich mit den Beinen aufeinander auf Ihre Seite, und legen Sie Ihren Kopf auf Ihren Arm. Spannen Sie den vorderen Muskel des oberen Oberschenkel an, und heben Sie das Bein in die Luft. Halten Sie für ein Zählen inne, lassen Sie es hinunter, bis es das untere Bein berührt, und heben Sie es noch einmal. Sie können außerdem Fußgewichte oder ein Fitneßband benutzen.</string>
+    <string name="ex_name_48">Steigendes Knieheben</string>
+    <string name="ex_desc_48">Stellen Sie sich vor eine Bank, die Ihrer Größe entspricht, und lassen Sie Ihre Füße zusammen. Dies wird Ihre Anfangsposition sein: - Beginnen Sie die Bewegung, indem Sie Ihren linken Fuß oben auf die Bank stellen. - Strecken Sie durch die Hüfte und das Knie des vorderen Beins, um sich oben auf die Bank zu stellen. - Während Sie mit Ihrem linken Bein auf der Bank stehen, beugen Sie Ihre rechtes Knie und Ihre rechte Hüfte, und bringen Sie Ihr Knie so hoch wie es geht. Drehen Sie diese Bewegung um, um von der Bank abzusteigen, und wiederholen Sie die Reihenfolge mit dem anderen Bein.</string>
+    <string name="ex_name_49">Kurzhantel Kniebeuge</string>
+    <string name="ex_desc_49">Stellen Sie sich gerade hin, und halten Sie eine Kurzhantel in jeder Hand (die Handflächen zeigen auf die Seite Ihrer Beine). Platzieren Sie Ihre Beine in mittlerer Schulterbreite mit den Zehen leicht nach außen gestellt. Halten Sie Ihren Kopf die ganze Zeit gerade, da das Herunterschauen Sie aus der Balance bringt, und lassen Sie Ihren Rücken außerdem gerade. Dies wird Ihre Anfangsposition sein: - Lassen Sie Ihren Oberkörper langsam hinunter, indem Sie Ihre Knie beugen, und halten Sie sich gerade mit dem Kopf nach oben. Gehen Sie weiter hinunter, bis Sie 90 Grad erreicht haben. - Atmen Sie bei diesem Teil der Bewegung ein. Tipp: Wenn Sie diese Übung richtig durchgeführt haben, sollten die Knie vorne mit den Zehen eine imaginäre Linie bilden, die vorne senkrecht ist. Wenn Ihre Knie weiter sind als diese imaginäre Linie (wenn sie weiter sind als Ihre Zehen), dann üben Sie unnötigen Stress auf das Knie aus, und die Übung wurde nicht richtig durchgeführt. - Fangen Sie beim Ausatmen an, die Stange hochzuheben, indem Sie hauptsächlich mit der Ferse Ihres Fußes abdrücken, Sie Ihre Beine wieder gerade strecken und zurück zur Anfangsposition gehen. Machen Sie die empfohlene Anzahl an Wiederholungen.</string>
+    <string name="ex_name_50">Steifbeiniges Langhantelkreuzheben</string>
+    <string name="ex_desc_50">Fassen Sie mit einem Obergriff (Handflächen nach unten) nach einer Stange. Es kann sein, daß Sie Handgelenkbandagen brauchen, wenn Sie ein beachtliches Gewicht benutzen. Sie stehen mit geradem Oberkörper, und Ihre Beine sind schulterweit oder enger auseinander. Die Knie sollten leicht gebeugt sein. Dies ist Ihre Anfangsposition: - Halten Sie die Knie ruhig, lassen Sie die Langhantel zu der Oberseite Ihrer Füße herunter, indem Sie Ihre Hüften beugen, aber Ihren Rücken gerade halten. - Bewegen Sie sich weiter nach vorne, als wenn Sie etwas vom Boden aufheben, bis Sie in Ihrer Kniesehne ein Dehnen spüren. Atmen Sie bei dieser Bewegung ein. - Fangen Sie an, Ihren Oberkörper wieder gerade nach oben zu bringen, indem Sie Ihre Hüften strecken, bis Sie wieder bei der Anfangsposition sind. Atmen Sie bei diesem Teil der Bewegung aus. Machen Sie die empfohlene Anzahl an Wiederholungen. Achtung: Diese Übung ist nicht für Menschen empfohlen, die Probleme mit Ihrem Unterrücken haben. Man sollte außerdem größten Respekt vor ihr haben und besonders darauf achten, daß der Rücken nicht nach vorne gebeugt wird, während Sie den Oberkörper nach unten bewegen; der Rücken sollte immer gerade sein. Zusätzlich können ruckartige Bewegungen oder das Benutzen von zu viel Gewicht Ihren Rücken verletzen.</string>
+    <string name="ex_name_51">Steifbeiniges Sumo Langhantelkreuzheben</string>
+    <string name="ex_desc_51">Fangen Sie mit einer Scheibe in Ihrer Hand an. Ihre Füße sollten sehr weit auseinander sein. Atmen Sie ein, lassen Sie Ihre Hüften hinab, und gucken Sie mit gehobenem Kopf und herausgestreckter Brust nach vorne. Halten Sie Ihre Knie ruhig, lassen Sie die Langhantel bis über Ihre Füße hinunter, indem Sie Ihre Hüften beugen und Ihren Rücken gerade halten. Bewegen Sie sich weiter nach vorne, als heben Sie etwas auf, bis Sie in der Kniesehne ein Dehnen spüren. Atmen Sie bei dieser Bewegun ein. Bringen Sie Ihren Oberkörper wieder gerade nach oben, indem Sie Ihre Hüften strecken, bis Sie wieder bei der Anfangsposition sind. Atmen Sie bei dieser Bewegung aus. Machen Sie die empfohlene Anzahl an Wiederholungen.</string>
+    <string name="ex_name_52">Einbeinige Kabelseitenverlängerung</string>
+    <string name="ex_desc_52">Haken Sie eine Leder Knöchelmanschette an eine untere Seilrolle, und befestigen Sie die Manschette dann an Ihrem Fußgelenk. Stellen Sie sich an die Seite des Gewichtstapels mit einem Abstand von ungefähr einem halben Meter, und halten Sie sich an dem Stahlrahmen zur Unterstützung fest. Lassen Sie Ihre Knie und Hüften leicht gebeugt, Ihre Bauchmuskeln fest, und spannen Sie Ihre Gesäßmuskeln an, um das arbeitende Bein so hoch wie es geht zur Seite zu strecken, während Sie ausatmen. Tipp: Nach dem vollen Ausstrecken spannen Sie Ihre Gesäßmuskeln für eine Sekunde an, um maximale Spannung zu erreichen. Bringen Sie jetzt langsam das arbeitende Bein wieder nach vorne, und leisten Sie dem Kabel Widerstand, bis Sie wieder an der Anfangsposition angekommen sind. Machen Sie die empfohlene Anzahl an Wiederholungen. Wechseln Sie die Beine, und wiederholen Sie die Bewegung mit der anderen Seite. Variationen: Sie können diese Übung mit Übungsbändern durchführen.</string>
+    <string name="ex_name_53">Arnold Kurzhanteldrücken</string>
+    <string name="ex_desc_53">Setzen Sie sich auf eine Trainingsbank mit Rückenunterstützung, und halten Sie auf ungefähr oberer Brusthöhe, mit Ihren Handflächen auf Ihren Körper weisend und gebogenen Ellenbogen zwei Hanteln vor sich. Tipp: Ihre Arme sollten neben Ihrem Oberkörper sein. Die Anfangsposition sollte aussehen, wie der angespannte Teil einer Kurzhantelübung: - Um die Bewegung nun durchzuführen heben Sie die Kurzhanteln nach oben, während Sie Ihre Handflächen rotieren, bis sie nach vorne zeigen. - Heben Sie die Hanteln weiter an, bis Ihre Arme über Ihnen in einer gestreckten Armposition ausgestreckt sind. Atmen Sie bei diesem Teil der Bewegung aus. - Nach einer sekundenlangen Pause an der Spitze fangen Sie langsam an, die Hanteln zu der Anfangsposition zurückzubringen, indem Sie Ihre Handflächen zu sich weisen. Tipp: Der linke Arm wird gegen den Uhrzeigersinn rotiert, während der rechte im Uhrzeiger rotiert wird. Atmen Sie bei diesem Teil der Bewegung ein. Machen Sie die empfohlene Anzahl an Wiederholungen. Variationen: Sie können diese Übung im Stehen durchführen, aber das ist für Menschen mit Unterrückenproblemen nicht empfohlen.</string>
+    <string name="ex_name_54">Wechselndes Kurzhanteldrücken</string>
+    <string name="ex_desc_54">Halten Sie zwei Hanteln an Ihren Schultern. Halten Sie die Hanteln, indem Sie durch die Beine und Hüften ausdehnen, während Sie die Hanteln zu Ihren Schultern ziehen. Drücken Sie eine direkt über den Kopf, indem Sie den Ellenbogen strecken, und sie so drehen, daß die Handfläche nach vorne zeigt, während die andere Hantel ruhig gehalten wird. Lassen Sie die gedrückte Hantel hinunter zu der Anfangsposition, und drücken Sie umgehend mit dem anderen Arm.</string>
+    <string name="ex_name_55">Vorderes Zwei-Kurzhantelheben</string>
+    <string name="ex_desc_55">Wählen Sie zwei Kurzhanteln, stellen Sie sich mit geradem Oberkörper hin, und halten Sie die Hanteln mit den Handflächen auf die Oberschenkel gezeigt in Armlänge vor Ihre Oberschenkel. Dies wird Ihre Anfangsposition sein: - Während Sie Ihren Oberkörper ruhig halten (kein Schwingen), heben Sie die Kurzhanteln mit leicht gebeugtem Ellenbogen nach vorne, und die Handflächen zeigen nach unten. Gehen Sie weiter nach oben, bis Ihre Arme etwas mehr als parallel zum Boden sind. Atmen Sie bei diesem Teil der Bewegung aus, und halten Sie für eine Sekunde an der Spitze inne. - Beim Einatmen lassen Sie die Hanteln langsam wieder zu der Anfangsposition hinunter. Machen Sie die empfohlene Anzahl an Wiederholungen. Variationen: Diese Übung kann auch mit wechselnden Händen durchgeführt werden, daß heißt, daß man eine Wiederholung mit dem rechten Arm macht und dann eine mit dem linken, wieder zurück zum rechte, etc. Sie könnten außerdem auch eine Langhantel benutzen.</string>
+    <string name="ex_name_56">Stehende Deltamuskeldehnung Am Unteren Seilzug</string>
+    <string name="ex_desc_56">Stellen Sie sich an die rechte Seite einer unteren Seilzugzeile. Benutzen Sie Ihre linke Hand, um über Ihren Körper mit einem pronierten Griff (Handflächen nach unten) einen einzelnen Griff des unteren Seilzugs zu fassen. Lassen Sie Ihren Arm vor Ihnen ruhen. Ihre rechte Hand sollte zur Unterstützung und Balance die Maschine ergreifen. Gehen Sie sicher, daß Ihr Rücken aufrecht ist und Ihre Füße schulterbreit von einander auseinander stehen. Dies ist Ihre Anfangsposition: - Fangen Sie an, die linke Hand zu benutzen, kommen Sie über Ihren Körper, bis Sie an Schulterhöhe angelangt sind, während Sie ausatmen. - Fühlen Sie die Anspannung an der Spitze für eine Sekunde, und fangen Sie langsam an, den Griff wieder hinunter zu der Anfangsposition zu bringen, während Sie einatmen. Machen Sie die empfohlene Anzahl an Wiederholungen. Wechseln Sie Arme und wiederholen Sie die Übung.</string>
+    <string name="ex_name_57">Vorderes Kabelheben</string>
+    <string name="ex_desc_57">Das vordere Kabelheben ist eine tolle Übung zum Absondern der vorderen Deltamuskeln. Bereiten Sie sich auf die Übung vor, indem Sie ein Kabelseil an eine Kabelmaschine mit unterer Seilrolle befestiegen und das Gewicht auswählen, daß Sie benutzen möchten. Stellen Sie sich von der Maschine abgewandt hin, und greifen Sie das Kabelseil. Stellen Sie sich mit den Augen nach vorne hin, und halten Sie das Seil etwas über Ihren Oberschenkeln. Dies ist die Anfangsposition: - Zum Durchführen heben Sie das Seil langsam hoch zu ungefähr Schulterhöhe, während Sie Ihre Arme gerade und Ihren Körper fixiert lassen. - Machen Sie eine Pause, und lassen Sie die Stange dann langsam wieder zur Anfangsposition zurück. - Lassen Sie den Stapel nicht fallen oder die Stange Ihren Körper berühren.</string>
+    <string name="ex_name_58">Einarmige Trizeps Liegestütze</string>
+    <string name="ex_desc_58">Legen Sie sich mit gebeugten Knien und geschichteten Hüften auf Ihre rechte Seite. Halten Sie den rechten Arm über die Schulter, und platzieren Sie die linke Hand vor sich auf den Boden. Spannen Sie den Trizeps an, um den Körper hoch und vom Boden zu drücken, indem Sie den Arm so viel wie möglich strecken. Gehen Sie ein paar Zentimeter nach unten, und drücken Sie weiter nach oben und unten, bevor Sie die Seiten wechseln.</string>
+    <string name="ex_name_59">Stehende Kurzhantel Trizeps Verlängerung</string>
+    <string name="ex_desc_59">Um anzufangen stellen Sie sich hin und halten mit beiden Händen eine Kurzhantel fest. Ihre Füße sollten ungefähr schulterbreit auseinander stehen. Benutzen Sie langsam beide Hände, um die Hantel zu ergreifen und sie über Ihren Kopf zu heben, bis beide Arme vollständig ausgestreckt sind. Das Gewicht sollte mit Ihren Daumen um es herum in Ihren Handflächen ruhen. Die Handflächen sollten nach oben zur Zimmerdecke zeigen. Dies wird Ihre Anfangsposition sein: - Halten Sie Ihre Oberarme nah an Ihrem Kopf, die Ellenbogen nach innen und senkrecht zum Boden, und lassen Sie das Gewicht in einer halbkreisförmigen Bewegung hinter Ihrem Kopf hinunter, bis Ihre Unterarme Ihren Trizeps berühren. Tip: Die Oberarme sollten ruhig bleiben, und nur die Unterarme sollten sich bewegen. Atmen Sie bei diesem Schritt ein. - Gehen Sie zu der Anfangsposition zurück, indem Sie den Trizeps benutzen, um die Hantel hochzuheben. Atmen Sie bei diesem Schritt aus. Machen Sie die empfohlene Anzahl an Wiederholungen.</string>
+    <string name="ex_name_60">Einbeinige Bankneigung</string>
+    <string name="ex_desc_60">Sie fangen an, indem Sie Ihre Handflächen nach unten auf eine Bank legen. Lassen Sie ein Bein herausgestreckt und das andere bleibt fest auf dem Boden. Je näher Ihr Fuß an der Bank ist, desto leichter wird dies. Drehen Sie die Intensität hoch, indem Sie Ihren Fuß soweit wie es geht hinausstellen, oder halten Sie es einfach, indem Sie Ihren Fuß nah an die Bank hinstellen. Biegen Sie Ihre Ellenbogen, und neigen Sie sich hinunter, so weit wie Sie können, ohne daß Ihr Hintern tatsächlich den Boden berührt. Strecken Sie Ihre Arme. Wechseln Sie die Bein und wiederholen Sie.</string>
+    <string name="ex_name_61">Verbogene Einarmige Kurzhantel Trizepsverlängerung Im Stehen</string>
+    <string name="ex_desc_61">Mit einer Kurzhantel in einer Hand und der Handfläche auf den Körper gerichtet, biegen Sie Ihre Knie leicht, und bringen Sie Ihren Oberkörper nach vorne, indem Sie die Taille verbiegen, während Sie Ihren Rücken gerade halten, bis er fast parallel zum Boden ist. Gehen Sie sicher, daß Sie Ihren Kopf gerade halten. Der Oberarm sollte nah an Ihrem Oberkörper und parallel zum Boden sein, während der Unterarm zum Boden zeigt, und die Hand das Gewicht hält. Tipp: Es sollte zwischen dem Unter- und dem Oberarm ein 90 Grad Winkel bestehen. Dies ist Ihre Anfangsposition: - Halten Sie Ihre Oberarme ruhig, benutzen Sie den Trizeps, um das Gewicht zu heben, und atmen Sie aus, bis Ihre Unterarme parallel zum Boden sind und der gesamte Arm gestreckt ist. Wie bei vielen anderen Übungen bewegen sich nur die Unterarme. - Nach einer sekundenlangen Anspannung an der Spitze lassen Sie beim Einatmen die Kurzhantel wieder langsam zu der Anfangspositon zurück. Machen Sie die empfohlene Anzahl an Wiederholungen. Wechseln Sie die Arme und wiederholen Sie die Übung.</string>
+    <string name="ex_name_62">Einarmige Kabel Trizepsverlängerung</string>
+    <string name="ex_desc_62">Fassen Sie mit Ihrer rechten Hand mit einem supinierten Griff (Unterhand, Handflächen nach oben) nach einem Einzelgriff, der an der hohen Seilrolle befestigt ist. Sie sollten direkt vor dem Gewichtsspapel stehen. Ziehen Sie den Griff jetzt so hinunter, daß Ihr Oberarm und Ihr Ellenbogen an die Seite Ihres Körpers eingesperrt sind. Ihr Ober- und Unterarm sollten einen akuten Winkel bilden (weniger als 90 Grad). Sie können den anderen Arm an der Taille lassen, und Sie können ein Bein vor Ihnen und das andere hinter Ihnen für besseres Gleichgewicht halten. Dies wird Ihre Anfangsposition sein: - Bewegen Sie während dem Anspannen des Trizeps den Einzelgriff hinuner zu Ihrer Seite, bis Ihr Arm gerade ist. Atmen Sie bei dieser Bewegung aus. Tipp: Nur die Unterarme sollten sich bewegen. Ihre Oberarme sollten die ganze Zeit ruhig gehalten werden. - Lassen Sie den Griff wieder langsam zu der Anfangsposition zurück. Machen Sie die empfohlene Anzahl an Wiederholungen, und machen Sie dann die gleiche Bewegung mit dem anderen Arm. Variationen: Sie können Übungsbänder benutzen, um diese Übung durchzuführen.</string>
+    <string name="ex_name_63">Trizeps Hinunterdrücken</string>
+    <string name="ex_desc_63">Befestigen Sie eine gerade oder eine abgewinkelte Stange an eine hohe Seilrolle, und fassen Sie sie mit einem Übergriff (Handflächen nach unten) in Schulterbreite. Stellen Sie sich mit geradem Oberkörper und einer kleinen Neigung nach vorne hin, und bringen Sie Ihre Oberarme nah an Ihren Körper und senkrecht zum Boden. Die Unterame sollten nach oben zur der Rolle zeigen, während sie die Stange festhalten. Dies ist Ihre Anfangsposition: - Bringen Sie mit Ihrem Trizeps die Stange soweit hinunter, bis Sie Ihre Oberschenkel vorne berührt und Ihre Arme voll ausgestreckt senkrecht zum Boden sind. Die Oberarme sollten immer ruhig neben Ihrem Oberkörper bleiben, und nur die Unterarme sollten sich bewegen. Atmen Sie beim Durchführen dieser Bewegung aus. Bringen Sie die Stange nach einem sekundenlangem Halten wieder hoch zum Anfangspunkt. Atmen Sie bei diesem Schritt ein. Machen Sie die empfohlene Anzahl an Wiederholungen. Variationen: Für diese Bewegung gibt es viele Variationen. Sie können zum Beispiel eine E-Z Stangenbefestigung sowie eine V-gewinkelte Stange, die dem Daumen erlaubt, höher zu sein als der kleine Finger, benutzen. Sie können außerdem ein Seil an die Rolle befestigen, sowie einen umgekehrten Griff bei den Stangenübungen benutzen.</string>
+
+    <string name="ex_name_5063">Kniebeugen-Hampelmann</string>
+    <string name="ex_desc_5063">Muskelgruppe. Quadrizeps \n\nSchritt 1. Machen Sie in eine niedrige Kniebeuge, als ob Sie ein Baseballfänger wären. \n\nSchritt 2. Springen Sie nach oben &amp; außen, während Sie Ihre Ellbogen Richtung Decke richten. \n\nSchritt 3. Springen Sie nach oben und bringen Sie Ihre Beine wieder zusammen und gleichzeitig Ihre Arme wieder nach unten.</string>
+
+    <string name="ex_name_5064">Planke</string>
+    <string name="ex_desc_5064">Muskel. Rectus Abdominis \n\nSchritt 1. Strecken Sie Ihre Beine und stellen Sie sich auf Ihre Zehen. Halten Sie den Rücken gerade und geben Sie Ihre Unterarme auf den Boden. \n\nSchritt 2. Ihre Unterarme sollten senkrecht zu Ihren Oberarmen stehen. Halten Sie die Position so lange wie möglich.</string>
+
+    <string name="ex_name_5065">Rückenverlängerung</string>
+    <string name="ex_desc_5065">Muskel. Unterer Rücken \n\nSchritt 1. Legen Sie sich mit dem Gesicht nach unten auf den Boden. Strecken Sie die Arme nach vorne aus. \n\nSchritt 2. Heben Sie Ihre Beine und Ihren Oberkörper in Richtung Decke, und strecken Sie sich so gut Sie können. Für eine Sekunde halten. Zurück in die Ausgangsposition.</string>
+
+    <string name="ex_name_5066">Rückenverlängerung 2</string>
+    <string name="ex_desc_5066">Muskelgruppe. Unterer Rücken \n\nSchritt 1. Legen Sie sich mit dem Gesicht nach unten auf den Boden mit Ihren Armen neben Ihren Hüften und Ihren Handflächen nach unten. Aktivieren Sie Ihre Rumpfmuskulatur, indem Sie Ihre Bauchmuskeln in Richtung Ihrer Wirbelsäule ziehen und Ihre Gesäßmuskulatur anspannen. \n\nSchritt 2. Atmen Sie langsam aus und heben Sie Ihre Brust vom Boden und Ihre Arme nach oben und zurück in Richtung Ihrer Hüften. Drehen Sie Ihre Daumen in Richtung der Decke, während Sie die Bewegung ausführen. \n\nSchritt 3. Pause bei der Bewegung oben für zwei Sekunden, dann wieder zurück in die Ausgangsposition.</string>
+
+    <string name="ex_name_5067">Bein Berühren</string>
+    <string name="ex_desc_5067">Muskel. Rectus Abdominis \n\nSchritt 1. Legen Sie sich auf den Boden, heben Sie die Beine, bis ein Bein senkrecht zum Boden steht. Strecken Sie Ihren Arm vollständig nach vorne aus. \n\nSchritt 2. Berühren Sie mit Ihren Händen Ihre Zehen. Für eine Sekunde halten und dann zurück in die Ausgangsposition.</string>
+
+    <string name="ex_name_5068">Kick Crunch</string>
+    <string name="ex_desc_5068">Muskel. Rectus Abdominis \n\nSchritt 1. Stehen Sie gerade, die Füße schulterbreit auseinander. \n\nSchritt 2. Heben Sie Ihr linkes Bein so hoch Sie können und berühren Sie Ihren linken Fuß mit beiden Händen. \n\nSchritt 3. Zurück in die Ausgangsposition und mit der anderen Seite wiederholen. \n\nSchritt 4. Machen Sie alternierend mit beiden Seiten mit schnellen Bewegungen weiter, bis der Satz abgeschlossen ist.</string>
+
+    <string name="ex_name_5069">Liegend Laufen</string>
+    <string name="ex_desc_5069">Muskel. Rectus Abdominis \n\nSchritt 1. Nehmen Sie eine Liegestützeposition ein, mit beiden Händen unter Ihren Schultern und Ihrem Körper in einer geraden Linie vom Kopf bis zu den Fersen. \n\nSchritt 2. Heben Sie Ihren rechten Fuß vom Boden und bewegen Sie Ihr rechtes Knie in Richtung Ihrer Brust. Berühren Sie den Boden mit Ihrem rechten Fuß und dann zurück in die Ausgangsposition. \n\nSchritt 3. Wechseln Sie die Beine bei jeder Wiederholung ab.</string>
+
+    <string name="ex_name_5070">Crunch</string>
+    <string name="ex_desc_5070">MUSKEL. Rectus Abdominis \n\nSchritt 1. Legen Sie sich mit angewinkelten Knien flach auf den Boden. Verschränken Sie die Arme über Ihrer Brust oder geben Sie Ihre Hände hinter Ihre Ohren. \n\nSchritt 2. Setzen Sie Ihre Bauchmuskeln ein, um Ihren Kopf und Ihren Oberkörper zu heben, während Ihr unterer Rücken fest auf dem Boden bleibt. \n\nSchritt 3. Pausieren Sie, wenn Ihre Schulterblätter einige Zentimeter über dem Boden sind, dann langsam und mit einer kontrollierten Bewegung zurück in die Ausgangsposition.</string>
+
+    <string name="ex_name_5071">Beinheben Und-Strecken</string>
+    <string name="ex_desc_5071">Muskel. Rectus Abdominis \n\nSchritt 1. Legen Sie sich auf den Boden, geben Sie beide Hände unter Ihre Hüften, strecken Sie Ihre Beine vollständig aus und heben Sie sie leicht an. \n\nSchritt 2. Beugen Sie Ihre Beine in Richtung Ihres Oberkörpers, für eine Sekunde halten. Zurück in die Ausgangsposition.</string>
+
+    <string name="ex_name_5072">Gesässheben</string>
+    <string name="ex_desc_5072">Muskel. Rectus Abdominis \n\nSchritt 1. Legen Sie sich auf den Rücken mit den Händen an Ihren Seiten und Ihre Beine gerade zur Decke zeigend, senkrecht zu Ihrem Körper. \n\nSchritt 2. Ziehen Sie Ihren Bauch ein und spannen Sie Ihr Gesäß an, während Sie Ihre Hüften wenige Zentimeter vom Boden heben. Dann die Hüften wieder senken.</string>
+
+    <string name="ex_name_5073">Squirm Crunch</string>
+    <string name="ex_desc_5073">Muskel. Rectus Abdominis \n\nSchritt 1. Legen Sie sich auf den Boden, beugen Sie Ihre Knie und halten Sie Ihre Füße 30 – 50 cm auseinander. Ihre Arme sollten seitlich ausgestreckt liegen. \n\nSchritt 2. Heben Sie Ihren Körper nach vorne und nach oben, ungefähr 10 – 15 cm nach rechts und berühren Sie Ihre rechte Ferse, während Sie die Kontraktion eine Sekunde lang halten. Atmen Sie während dieser Bewegung aus. \n\nSchritt 3. Gehen Sie langsam zurück in die Ausgangsposition, während Sie einatmen. \n\nSchritt 4. Heben Sie nun Ihren Körper ungefähr 10 – 15 cm nach vorne und nach oben auf die linke Seite und berühren Sie Ihre linke Ferse, während Sie die Kontraktion für eine Sekunde lang halten. Atmen Sie während dieser Bewegung aus und gehen Sie dann zurück in die Ausgangsposition. Wenn Sie beide Fersen berührt haben, zählt das als 1 Wiederholung. Machen Sie abwechselnd mit beiden Seiten weiter..</string>
+
+    <string name="ex_name_5074">Russische Drehung</string>
+    <string name="ex_desc_5074">Muskel. Seitliche Bauchmuskulatur \n\nSchritt 1. Setzen Sie sich mit einem Kettleball oder einem Medizinball seitlich von Ihnen auf den Boden. Geben Sie Ihre Beine zusammen und beugen Sie die Knie ungefähr in einem 90-Grad-Winkel. Halten Sie Ihre Brust oben und Ihren Rücken gerade. \n\nSchritt 2. Nehmen Sie den Medizinball oder den Kettleball auf und halten Sie ihn für eine bessere Kontrolle von unten nach oben. Er sollte auf Brusthöhe sein. \n\nSchritt 3. Drehen Sie Ihren Körper leicht, achten Sie aber darauf, Ihren Rücken nicht zu krümmen. Heben Sie Ihre Füße vom Boden, lassen Sie aber Ihre Knie zusammen und die Beine gebeugt.</string>
+
+    <string name="ex_name_5075">Fahrrad-Crunches</string>
+    <string name="ex_desc_5075">Muskel. Seitliche Bauchmuskulatur \n\nSchritt 1. Legen Sie sich auf den Rücken, heben Sie Ihre Schultern von der Matte und heben Sie Ihre Beine. \n\nSchritt 2. Führen Sie ein Knie und das gegenüberliegende Knie zusammen, indem Sie einen Crunch auf eine Seite machen, strecken Sie das andere Bein vollständig aus. \n\nSchritt 3. Gehen Sie zurück in die Ausgangsposition und machen Sie den Crunch dann auf der anderen Seite. \n\nSchritt 4. Wiederholen, bis der Satz abgeschlossen ist.</string>
+
+    <string name="ex_name_5076">Tanzende Krabbe</string>
+    <string name="ex_desc_5076">Muskel. Rectus Abdominis \n\nSchritt 1. Legen Sie sich auf den Boden. Geben Sie Ihre Hände und Beine auf den Boden. \n\nSchritt 2. Heben Sie Ihren Oberkörper nach oben. Tippen Sie mit Ihrer rechten Hand schnell auf Ihr linkes Bein, wechseln Sie die Seite. Vergrößern Sie die Geschwindigkeit und führen Sie die Übung so schnell wie möglich aus.</string>
+
+    <string name="ex_name_5081">Gesäss-Kickback 2</string>
+    <string name="ex_desc_5081">Muskel. Gesäßmuskulatur \n\nSchritt 1. Knien Sie sich mit den Händen auf einer Matte auf den Boden. Ihr Rücken sollte wie im Bild zu sehen parallel zum Boden und in der Höhe sein. \n\nSchritt 2. Heben Sie mit einer kontrollierten Bewegung Ihr Bein, bis Ihr Oberschenkel eine Linie mit Ihrem Rücken bildet, während Sie den 90-Grad-Winkel beibehalten. Spannen Sie dabei Ihre Gesäßmuskulatur an, wenn Ihr Bein hinter Ihnen vollständig ausgestreckt ist. Am Ende der Bewegung sollte der Oberschenkel parallel zum Boden sein, während der Unterschenkel senkrecht nach oben zeigt. Zurück in die Ausgangsposition und mit dem anderen Bein wiederholen.</string>
+
+    <string name="ex_name_5082">SEITWÄRTS-GLUTEUS</string>
+    <string name="ex_desc_5082">Muskelgruppe. Gesäßmuskulatur \n\nSchritt 1. Beginnen Sie, indem Sie sich auf den Boden knien wie im Bild. Ihre Knie sollten unter Ihren Hüften sein, und Ihre Handgelenke direkt unter Ihren Schultern. \n\nSchritt 2. Halten Sie Ihren Rücken gerade, während Sie ein Knie vom Boden heben. Lassen Sie das Knie gebeugt, während Sie es nach außen und auf die Seite nach oben heben. \n\nSchritt 3. Halten Sie kurz diese Position und senken Sie dann das Knie wieder auf den Boden. Pause und dann wiederholen.</string>
+
+    <string name="ex_name_5083">Kniebeugen-Seitenkick</string>
+    <string name="ex_desc_5083">Muskelgruppe. Gesäßmuskulatur \n\nSchritt 1. Beginnen Sie in einer Kniebeugen-Position, mit Ihren Hüften nach hinten und Ihren Füßen schulterbreit auseinander. \n\nSchritt 2. Verlagern Sie, während Sie aufstehen, Ihr Gewicht auf das rechte Bein und heben Sie Ihr linkes Bein auf die Seite. \n\nSchritt 3. Zurück in die Kniebeugen-Position und mit dem rechten Bein wiederholen.</string>
+
+    <string name="ex_name_5084">Umgekehrter Ausfallschritt</string>
+    <string name="ex_desc_5084">Muskel. Gesäßmuskulatur \n\nSchritt 1. Stehen Sie mit Ihren Füßen schulterbreit auseinander, Zehen zeigen nach vorne. \n\nSchritt 2. Machen Sie mit Ihrem dominanten Bein so weit wie möglich einen Schritt nach hinten und gehen Sie nach unten, bis Ihr Knie den Boden berührt, während Sie Ihren Oberkörper so gerade wie möglich halten. \n\nSchritt 3. Stoßen Sie sich über Ihre vordere Ferse zurück in die Ausgangsposition und machen Sie dann sofort mit diesem Bein einen Ausfallschritt nach hinten. Das ist eine Wiederholung.</string>
+
+    <string name="ex_name_5085">Ausfallschritt Nach Hinten</string>
+    <string name="ex_desc_5085">Muskel. Quadrizeps \n\nSchritt 1. Stehen Sie gerade, Beine schulterbreit auseinander, Zehen zeigen nach vorne. \n\nSchritt 2. Machen Sie einen Schritt nach hinten und senken Sie Ihren Körper, indem Sie Ihre Hüften und Knie beugen. Ihr hinteres Bein steht lediglich mit dem Fußballen auf dem Boden, gehen Sie nach unten, bis Ihr Knie fast den Boden berührt. \n\nSchritt 3. Stoßen Sie Ihren gebeugten Fuß in die Ausgangsposition und wiederholen Sie die Übung, indem Sie die Beine wechseln.</string>
+
+    <string name="ex_name_5086">Planke Mit Beinberührung</string>
+    <string name="ex_desc_5086">Muskel. Unterer Rücken \n\nSchritt 1. Starten Sie in einer Plankenposition mit Ihrem Körper in einer geraden Linie, gebeugten Ellbogen und unter Ihren Schultern und den Füßen hüftbreit auseinander. \n\nSchritt 2. Heben Sie Ihr Bein in einen 45-Grad-Winkel und berühren Sie dann mit Ihrem Fuß das andere Fußgelenk. \n\nSchritt 3. Gehen Sie zurück in die Ausgangsposition und wiederholen Sie die Übung mit dem anderen Bein.</string>
+
+    <string name="ex_name_5087">Hüfte Heben Liegend</string>
+    <string name="ex_desc_5087">Muskel. Gesäßmuskulatur \n\nSchritt 1. Legen Sie sich auf den Boden und geben Sie Ihre Fersen auf den Boden, während Sie Ihre Knie etwas beugen und Ihre Arme seitlich platzieren. \n\nSchritt 2. Spannen Sie Ihre Gesäßmuskulatur und die hintere Oberschenkelmuskulatur an, belasten Sie die Fersen und heben Sie Ihre Hüften, bis Ihr Körper eine Rampe formt. Pause und langsam zurück in die Ausgangsposition.</string>
+
+    <string name="ex_name_5088">Hüfte Heben Liegend Bank</string>
+    <string name="ex_desc_5088">Muskel. Gesäßmuskulatur \n\nSchritt 1. Legen Sie sich mit Ihrem Rücken auf die Bank und geben Sie Ihre Fersen auf den Boden, halten Sie Ihre Knie leicht gebeugt und platzieren Sie Ihre Arme seitlich. \n\nSchritt 2. Spannen Sie Ihre Gesäßmuskulatur und die hintere Oberschenkelmuskulatur an, belasten Sie die Fersen und heben Sie Ihre Hüften, bis Ihr Körper eine Brücke formt. Pause und langsam zurück in die Ausgangsposition.</string>
+
+    <string name="ex_name_5089">Bulgarische Split-Kniebeuge</string>
+    <string name="ex_desc_5089">MUSKEL. Quadrizeps \n\nSchritt 1. Geben Sie einen Fuß auf den Boden, ungefähr 90 cm vor einer Bank, und den anderen Fuß auf eine Bank oder einen Stuhl hinter Ihnen. Platzieren Sie Ihre Hände vor Ihrer Brust. \n\nSchritt 2. Nutzen Sie Ihren vorderen Fuß für das Gleichgewicht, während Sie beide Knie beugen, um Ihren Körper gerade nach unten zu senken, bis Ihr hinteres Knie nur wenige Zentimeter vom Boden entfernt und Ihr vorderes Bein in einem 90-Grad-Winkel gebeugt ist. Der Rest Ihres Körpers sollte eine gerade Linie bilden. Gehen Sie zurück in die Ausgangsposition und wechseln Sie die Beine.</string>
+
+    <string name="ex_name_5090">Aufsteigen</string>
+    <string name="ex_desc_5090">Muskel. Gesäßmuskulatur \n\nSchritt 1. Stehen Sie nahe an der Übungsbank. Steigen Sie mit Ihrem rechten Fuß auf die Bank, während Sie das linke Bein auf dem Boden lassen. \n\nSchritt 2. Heben Sie Ihr linkes Knie nach vorne. \n\nSchritt 3. Steigen Sie mit Ihrem linken Bein nach unten. Übung mit dem anderen Bein wiederholen. Wechseln Sie jeweils mit beiden Seiten ab.</string>
+
+    <string name="ex_name_5091">Kickback Auf Bank</string>
+    <string name="ex_desc_5091">Muskel. Gesäßmuskulatur \n\nSchritt 1. Knien Sie sich auf eine Bank und stützen Sie sich mit Ihren Händen ab. Ihr Rücken sollte parallel zum Boden und durchgestreckt sein, wie im Bild zu sehen. \n\nSchritt 2. Bewegen Sie kontrolliert eines Ihrer Beine nach hinten und nach oben, als ob Sie die Decke hinter Ihnen berühren wollten. Spannen Sie dabei Ihre Gesäßmuskulatur an, wenn Ihr Bein hinter Ihnen vollständig ausgestreckt ist. Gehen Sie zurück in die Ausgangsposition und wiederholen Sie die Übung mit dem anderen Bein.</string>
+
+    <string name="ex_name_5092">Gesäss-Kick</string>
+    <string name="ex_desc_5092">Muskel. Quadrizeps \n\nSchritt 1. Stehen Sie gerade und heben Sie eine Ferse vom Boden in Richtung Ihres Gesäßes, geben Sie die Hände vor Ihre Brust. \n\nSchritt 2. Wechseln Sie dann auf die andere Seite.</string>
+
+    <string name="ex_name_5093">Kniebeugen-Kickback</string>
+    <string name="ex_desc_5093">Muskelgruppe. Gesäßmuskulatur \n\nSchritt 1. Stehen Sie gerade mit Ihren Füßen etwas breiter als schulterbreit und machen Sie eine Kniebeuge. \n\nSchritt 2. Verlagern Sie während des Aufstehens Ihr Gewicht auf ein Bein und machen Sie mit dem anderen Bein einen Kick nach hinten. \n\nSchritt 3. Gehen Sie zurück in die Ausgangsposition und wiederholen Sie die Übung mit der anderen Seite.</string>
+
+    <string name="ex_name_5095">Liegestütze Mit Berührung</string>
+    <string name="ex_desc_5095">Muskel. Pectoralis \n\nSchritt 1. Legen Sie sich mit dem Gesicht nach unten mit den Händen auf den Boden. Geben Sie Ihre Hände unter Ihre Schultern, der Abstand zwischen Ihren Händen sollte etwas weniger als schulterbreit sein. Drücken Sie sich dann mit Ihren Armen so nach oben, dass nur noch Ihre Hände und Zehen den Boden berühren. Achten Sie auf einen geraden Rücken, die Hände zeigen etwas nach außen. \n\nSchritt 2. Beugen Sie Ihre Ellbogen und gehen Sie nach unten, bis Ihre Brust wenige Zentimeter vom Boden entfernt ist. Die Ellbogen sollten in Richtung Ihrer Füße gebeugt werden.</string>
+
+    <string name="ex_name_5096">T-Liegestütze</string>
+    <string name="ex_desc_5096">Muskel. Pectoralis \n\nSchritt 1. Beginnen Sie in der klassischen Liegestütze-Position, drehen Sie Ihren Körper jedoch während der Bewegung so nach oben, dass Ihr rechter Arm nach oben und über Ihren Kopf zeigt wie in der Abbildung zu sehen. Ihre Arme und Ihr Körper sollten ein „T“ formen. \n\nSchritt 2. Gehen Sie zurück in die Ausgangsposition, gehen Sie nach unten und drücken Sie sich dann nach oben, bis Ihre linke Hand in Richtung Decke zeigt.</string>
+
+    <string name="ex_name_5115">Liegestütze</string>
+    <string name="ex_desc_5115">Muskel. Pectoralis \n\nSchritt 1. Strecken Sie die Beine nach hinten, platzieren Sie die Hände unter Ihren Schultern, etwas breiter als schulterbreit. \n\nSchritt 2. Beugen Sie Ihre Ellbogen und senken Sie Ihre Brust nach unten, bis sie direkt etwas über dem Boden ist. \n\nSchritt 3. Drücken Sie sich zurück in die Ausgangsposition. Die Zählweise 1 Sekunde Push, 1 Sekunde Pause, 2 Sekunden nach unten ist ideal. \n\nSchritt 4. Wiederholen.</string>
+
+    <string name="ex_name_5116">Trizeps-Dips</string>
+    <string name="ex_desc_5116">Muskel. Trizeps Brachii \n\nSchritt 1. Geben Sie Ihre Hände hinter Ihnen so auf einen Stuhl, dass Ihre Finger nach vorne zeigen. \n\nSchritt 2. Strecken Sie Ihre Beine aus und beginnen Sie, Ihre Ellbogen zu beugen. \n\nSchritt 3. Senken Sie sich nach unten, bis Ihre Arme einen 90-Grad-Winkel bilden. \n\nSchritt 4. Drücken Sie sich wieder so nach oben, dass Ihre Arme wieder gerade sind und wiederholen Sie dann die Übung.</string>
+
+    <string name="ex_name_5117">Raupe</string>
+    <string name="ex_desc_5117">Muskelgruppe. Quadrizeps \n\nSchritt 1. Stehen Sie gerade mit Ihren Füßen schulterbreit auseinander und beugen Sie sich nach vorne, bis Ihre Fingerspitzen den Boden berühren. \n\nSchritt 2. “Gehen” Sie so schnell Sie können mit Ihren Händen nach vorne, während Ihre Beine gerade bleiben, und machen Sie dann eine Pause. „Gehen“ Sie zurück in die Ausgangsposition und wiederholen Sie die Übung, bis der Satz abgeschlossen ist.</string>
+
+    <string name="ex_name_5097">Stuhlpose</string>
+    <string name="ex_desc_5097">Muskeln. Quadrizeps \n\nSchritt 1. Beginnen Sie aufrecht und heben Sie während des Einatmens Ihre Arme nach oben, die Handflächen zeigen zueinander. \n\nSchritt 2. Atmen Sie aus und beugen Sie Ihre Knie und setzen Sie sich zurück. \n\nSchritt 3. Bleiben Sie für 30 Sekunden bis 1 Minute in der Stuhlpose.</string>
+
+    <string name="ex_name_5098">Kniebeugen</string>
+    <string name="ex_desc_5098">Muskel. Gesäßmuskulatur \n\nSchritt 1. Stehen Sie gerade, die Füße hüftbreit auseinander. \n\nSchritt 2. Senken Sie Ihre Hüfte, bis Ihre Oberschenkel parallel zum Boden sind. Gehen Sie wieder zurück in die Ausgangsposition, machen Sie eine kurze Pause und senken Sie Ihre Hüfte dann wieder nach unten. \n\nSchritt 3. Machen Sie erneut eine Pause und gehen Sie dann zurück in die Ausgangsposition.</string>
+
+    <string name="ex_name_5099">180 Sprungkniebeuge</string>
+    <string name="ex_desc_5099">Muskelgruppe. Quadrizeps \n\nSchritt 1. Stehen Sie gerade, mit den Füßen etwas breiter als schulterbreit auseinander, Ihre Zehen zeigen etwas nach außen, und setzen Sie sich dann nach hinten. \n\nSchritt 2. Springen Sie über die Fersen nach oben und drehen Sie sich 180 Grad nach links. \n\nSchritt 3. Landen Sie auf Ihren Zehen, mit Ihren Knien leicht gebeugt, und machen Sie eine Kniebeuge. \n\nSchritt 4. Springen Sie rasch nach oben, drehen Sie sich nach rechts und gehen Sie zurück in die Kniebeugenposition. Wiederholen, bis der Satz abgeschlossen ist.</string>
+
+    <string name="ex_name_5100">Sumo-Kniebeuge</string>
+    <string name="ex_desc_5100">Muskel. Quadrizeps \n\nSchritt 1. Stellen Sie sich breitbeinig hin, Ihre Zehen zeigen nach außen. \n\nSchritt 2. Gehen Sie nach unten, indem Sie Ihre Knie beugen und drücken Sie Ihre Hüften nach hinten. \n\nSchritt 3. Wenn Ihre Oberschenkel parallel zum Boden stehen, gehen Sie zurück in die Ausgangsposition und wiederholen Sie die Übung.</string>
+
+    <string name="ex_name_5101">Sprung-Ausfallschritt</string>
+    <string name="ex_desc_5101">Muskelgruppe. Gesäßmuskulatur \n\nSchritt 1. Machen Sie einen großen Schritt nach hinten und senken Sie Ihre Hüften so, dass Ihr hinteres Knie nur wenig über dem Boden ist und Ihr vorderer Oberschenkel parallel zum Boden. \n\nSchritt 2. Springen Sie in die Luft und wechseln Sie die Beinposition. \n\nSchritt 3. Springen Sie erneut und gehen Sie zurück in die Ausgangsposition. \n\nSchritt 4. Wiederholen Sie die Übung, bis der Satz abgeschlossen ist.</string>
+
+    <string name="ex_name_5102">Kniebeuge Presse Nach Oben</string>
+    <string name="ex_desc_5102">Muskelgruppe. Deltoiden \n\nSchritt 1. Setzen Sie sich mit Kurzhanteln auf Schulterhöhe auf Ihre Fersen und machen Sie eine Kniebeuge. \n\nSchritt 2. Drücken Sie Ihre Fersen auf den Boden und Ihre Hüften nach vorne in den Stand, stoßen Sie die Hanteln über Ihre Schulter nach oben.</string>
+
+    <string name="ex_name_5103">Liegestützsprung</string>
+    <string name="ex_desc_5103">Muskelgruppe. Quadrizeps \n\nSchritt 1. Stehen Sie gerade mit Ihren Füßen schulterbreit auseinander. \n\nSchritt 2. Machen Sie eine Kniebeuge und platzieren Sie Ihre Hände vor Ihren Füßen. \n\nSchritt 3. Springen Sie zurück, bis Ihre Beine vollständig gerade sind und Ihr Körper in einer Planken-Position. \n\nSchritt 4. Machen Sie eine Liegestütze, springen Sie nach vorne und dann über Ihre Fersen zurück in die Ausgangsposition. \n\nSchritt 5. Wiederholen Sie die Übung, bis der Satz abgeschlossen ist.</string>
+
+    <string name="ex_name_5104">Sumo-Kniebeuge Mit Hantel</string>
+    <string name="ex_desc_5104">Muskelgruppe. Gesäßmuskulatur \n\nSchritt 1. Stellen Sie sich breitbeinig (etwa doppelte Schulterbreite) hin, Ihre Zehen zeigen nach außen, und halten Sie eine Kurzhantel mit beiden Händen. \n\nSchritt 2. Machen Sie eine Kniebeuge und bringen Sie die Hantel zwischen Ihre Beine. \n\nSchritt 3. Stehen Sie auf, während Sie die Kurzhantel mit Ihren Händen in der gleichen Position belassen. \n\nSchritt 4. Gehen Sie zurück in die Kniebeugen-Position und wiederholen Sie die Übung, bis der Satz abgeschlossen ist.</string>
+
+    <string name="ex_name_5105">Seitliche Planke Mit Lateralem Kurzhantelheben</string>
+    <string name="ex_desc_5105">Muskelgruppe. Seitliche Bauchmuskulatur \n\nSchritt 1. Beginnen Sie in einer modifizierten Planken-Position, mit Ihrem oberen Bein ausgestreckt und Ihrem unteren Bein gebeugt nach hinten, Knie auf der Matte. \n\nSchritt 2. Heben Sie Ihr oberes Bein so weit wie möglich und drücken Sie Ihren Arm gleichzeitig nach oben, dann wieder nach unten bewegen. \n\nSchritt 3. Wiederholen und dann Seiten wechseln.</string>
+
+    <string name="ex_name_5106">Hampelmann</string>
+    <string name="ex_desc_5106">Muskelgruppe. Quadrizeps \n\nSchritt 1. Stehen Sie gerade mit Ihren Füßen zusammen und Ihre Hände an Ihren Seiten. \n\nSchritt 2. Springen Sie nach oben, spreizen Sie Ihre Füße und klatschen Sie mit beiden Händen über Ihrem Kopf zusammen. \n\nSchritt 3. Springen Sie erneut und gehen Sie zurück in die Ausgangsposition. \n\nSchritt 4. Wiederholen, bis der Satz abgeschlossen ist.</string>
+
+    <string name="ex_name_5107">Laufen Mit Hohen Knien</string>
+    <string name="ex_desc_5107">Muskelgruppe. Quadrizeps \n\nSCHRITT 1. Stehen Sie gerade mit Ihren Füßen schulterbreit auseinander. Ihr Gesicht schaut nach vorne, öffnen Sie Ihren Oberkörper. \n\nSchritt 2.  Bringen Sie Ihre Knie auf Hüfthöhe und landen Sie dann langsam auf Ihren Fußballen. \n\nSchritt 3.  Wiederholen, bis der Satz abgeschlossen ist.</string>
+
+    <string name="ex_name_5108">Im Stand Mit Armen Nach Oben Laufen</string>
+    <string name="ex_desc_5108">Muskel. Quadrizeps \n\nSchritt 1. Stehen Sie mit den Beinen auseinander, ein Bein nach vorne, eines nach hinten, und heben Sie Ihre Arme nach oben. \n\nSchritt 2. Springen Sie abwechselnd mit Ihren Beinen von vorne nach hinten, während Sie gleichzeitig Ihre Hände heben. \n\nSchritt 3. Machen Sie mit diesem Laufen am Platz weiter.</string>
+
+    <string name="ex_name_5109">Running Man</string>
+    <string name="ex_desc_5109">Muskel. Quadrizeps \n\nSchritt 1. Stehen Sie gerade mit Ihren Füßen schulterbreit auseinander, Ihr Gesicht schaut nach vorne, öffnen Sie Ihren Oberkörper. \n\nSchritt 2. Beginnen Sie, Ihre Knie nach oben zu heben und landen Sie langsam auf Ihren Fußballen. \n\nSchritt 3. Wiederholen, bis der Satz abgeschlossen ist.</string>
+
+    <string name="ex_name_5110">Seithüpfen</string>
+    <string name="ex_desc_5110">Muskel. Waden \n\nSchritt 1. Stehen Sie gerade mit Ihren Händen an Ihren Seiten und Ihren Füßen hüftbreit auseinander. \n\nSchritt 2. Springen Sie mit beiden Füßen in einer schnellen Wiederholungsbewegung von links nach rechts. \n\nSchritt 3. Wiederholen bis der Satz abgeschlossen ist.</string>
+
+    <string name="ex_name_5111">Schnellseilhüpfen</string>
+    <string name="ex_desc_5111">Muskel. Waden \n\nSchritt 1. Beugen Sie Ihre Ellbogen und platzieren Sie Ihre Hände ca. hüfthoch, während Ihre Oberarme nahe am Körper seitlich bleiben. \n\nSchritt 2. Drehen Sie Ihre Handgelenke, um das Seil zu simulieren und springen Sie dabei. \n\nSchritt 3. Springen Sie mit beiden Füßen gleichzeitig und landen Sie auf Ihren Fußballen.</string>
+
+    <string name="ex_name_5112">Kreuzhampelmann</string>
+    <string name="ex_desc_5112">Muskel. Waden \n\nSchritt 1. Stehen Sie gerade mit Ihren Füßen schulterbreit auseinander und strecken Sie Ihre Arme seitlich nach oben. \n\nSchritt 2. Springen Sie hoch und kreuzen Sie Ihr linkes Bein über Ihr rechtes Bein und Ihren linken Arm über Ihren rechten Arm. \n\nSchritt 3. Springen Sie erneut und gehen Sie zurück in die Ausgangsposition. \n\nSchritt 4. Wiederholen und dann die Position Ihrer Arme und Beine abwechseln.</string>
+
+    <string name="ex_name_5113">Schulterpresse Mit Ausfallschritt</string>
+    <string name="ex_desc_5113">Muskel. Quadrizeps \n\nSchritt 1. Stehen Sie gerade mit Ihren Füßen hüftbreit auseinander und halten Sie in jeder Hand eine Kurzhantel. Bringen Sie die Hanteln auf Schulterhöhe. \n\nSchritt 2. Machen Sie mit Ihrem linken Bein einen Schritt nach vorne und beugen Sie Ihre Knie, bis das hintere Knie etwas über dem Boden ist, drücken Sie die Kurzhanteln nach oben. \n\nSchritt 3. Wiederholen Sie während des gesamten Satzes diese Bewegung und wechseln Sie dann die Beine.</string>
+
+    <string name="ex_name_5114">Kurzhantelstossen Mit Einem Arm</string>
+    <string name="ex_desc_5114">Muskel. Deltoiden \n\nSchritt 1. Halten Sie eine Kurzhantel in Ihrer rechten Hand, beugen Sie Ihre Knie, drücken Sie Ihre Hüften nach hinten und bringen Sie die Hantel zwischen Ihre Füße. \n\nSchritt 2. Heben Sie die Kurzhantel hoch, indem Sie Ihre Hüften und Knie ausstrecken und drehen Sie, wenn die Hantel Ihre Schulter erreicht, Ihre Hand nach vorne und stoßen Sie gerade nach oben. \n\nSchritt 3. Senken Sie die Hantel und gehen Sie in die Ausgangsposition zurück. \n\nSchritt 4. Wiederholen und dann Seiten wechseln.</string>
+
+    <string name="ex_name_5077">Kurzhantelrudern Mit Kickback</string>
+    <string name="ex_desc_5077">Muskel. Trizeps Brachii \n\nSchritt 1. Nehmen Sie einen Satz Kurzhanteln, bringen Sie Ihren Körper nach vorne und beugen Sie leicht die Knie. \n\nSchritt 2. Bringen Sie Ihre Ellbogen so nach oben, dass Ihre Oberarme parallel zum Boden sind und drücken Sie sie nach hinten, bis Ihre Arme vollständig ausgestreckt sind. \n\nSchritt 3. Senken Sie die Gewichte langsam in die Ausgangsposition zurück. \n\nSchritt 4. Wiederholen.</string>
+
+    <string name="ex_name_5078">Guten Morgen</string>
+    <string name="ex_desc_5078">Muskel. Unterer Rücken \n\nSchritt 1. Stehen Sie gerade mit Ihren Füßen schulterbreit auseinander. Platzieren Sie eine Langhantel auf Ihren Schultern. Halten Sie die Hantel mit einem Überhandgriff. Der Abstand zwischen Ihren Händen sollte etwas breiter als schulterbreit sein. Ihre Füße sollten etwas nach außen zeigen. \n\nSchritt 2. Halten Sie den Rücken gerade und beugen Sie den Oberkörper so, bis er parallel zum Boden ist. Für eine Sekunde halten. Zurück in die Ausgangsposition.</string>
+
+    <string name="ex_name_5079">Kurzhantelrudern Einarmig 2</string>
+    <string name="ex_desc_5079">Muskel. Trizeps Brachii \n\nSchritt 1. Halten Sie mit Ihrer nicht-dominanten Hand eine Kurzhantel, während Sie Ihre dominante Hand und das Knie wie im Bild zu sehen auf eine Bank geben. \n\nSchritt 2. Halten Sie Ihren Rücken gerade, während Sie die Hantel seitlich so herunterhängen lassen, dass Ihr Arm direkt vor Ihrer Schulter ist. \n\nSchritt 3. Heben Sie die Kurzhantel nach oben und nach hinten zu Ihrer Hüfte, während Ihr Ellbogen nahe Ihres Körpers bleibt. Konzentrieren Sie sich darauf, bei dieser Bewegung Ihre obere Rückenmuskulatur zu nutzen. Pause, dann langsam zurück in die Ausgangsposition.</string>
+
+    <string name="ex_name_5080">Kreuzheben</string>
+    <string name="ex_desc_5080">Muskel. Gesäßmuskulatur \n\nSchritt 1. Stehen Sie gerade mit Ihren Füßen schulterbreit auseinander und halten Sie in jeder Hand eine Kurzhantel. \n\nSchritt 2. Drücken Sie Ihre Hüften nach hinten und senken Sie die Kurzhanteln, während Ihre Beine gerade und nur leicht gebeugt bleiben. \n\nSchritt 3. Zurück in die Ausgangsposition und dann wiederholen.</string>
+
+    <string name="ex_name_5094">Sprung-Star</string>
+    <string name="ex_desc_5094">Muskelgruppe: Quadriceps \n\nSchritt 1. Mit einem entspannten Stand beginnen, Füße schulterbreit auseinander und Hände am Körper. \n\nSchritt 2. Halb in die Kniebeuge gehen und so hoch wie möglich nach oben explosive wegspringen. Strecken Sie Ihren Körper ganz durch, spreizen Sie dabei Ihre Beine und Ihre Ame vom Körper weg.</string>
+
+    <string name="extra_main_name">Trainingspläne</string>
+
+
+    <string name="day">Tag</string>
+    <string name="round">Runde</string>
+    <string name="day1">2 tage pro woche</string>
+    <string name="day2">3 tage pro woche</string>
+    <string name="day3">4 tage pro woche</string>
+    <string name="restorePurchases">Käufe wiedergeben</string>
+    <string name="textUpgrade">Führen Sie ein Upgrade auf die Premium-Version durch, um 50 neue Übungen freizuschalten und die Werbung zu entfernen.</string>
+    <string name="one_day_ADS1">1-Tag OHNE WERBUNG</string>
+    <string name="one_day_ADS2">SEHEN SIE DAS SPONSOR-VIDEO AN</string>
+    <string name="upgrade">JETZT UPGRADEN</string>
+    <string name="free">Kostenlos</string>
+    <string name="tell_friend">Empfehlen</string>
+    <string name="rate_app">Bewerten Sie uns</string>
+    <string name="send_feedback">Feedback senden</string>
+    <string name="facebook">App auf Facebook teilen</string>
+    <string name="twitter">App auf Twitter zeigen</string>
+    <string name="ic_googleplay">Unsere anderen Apps</string>
+    <string name="ic_settings_">Einstellungen</string>
+    <string name="social_follow">Bleiben Sie mit verbunden VGFIT</string>
+    <string name="reminder">Erinnerung</string>
+    <string name="daily_reminder">Tägliche Erinnerung</string>
+    <string name="frequency">Häufigkeit</string>
+    <string name="after_days">Nach %1$s Tagen Inaktivität</string>
+    <string name="menu_bt">Menütaste</string>
+    <string name="units">Einheiten</string>
+    <string name="purch_restored">In-App Käufe wurden wiederhergestellt</string>
+    <string name="success">Erfolg</string>
+
+    <string name="ex_cat_1">Bauch</string>
+    <string name="ex_cat_2">Rücken</string>
+    <string name="ex_cat_3">Bizeps</string>
+    <string name="ex_cat_4">Gesäß</string>
+    <string name="ex_cat_5">Brust</string>
+    <string name="ex_cat_6">Beine</string>
+    <string name="ex_cat_7">Schultern</string>
+    <string name="ex_cat_8">Trizeps</string>
+    <string name="time_worout">Es ist Zeit für ein Training!</string>
+
+
+    <string name="cat_name6">Bauchmuskulatur</string>
+    <string name="cat_name7">Gesäßtraining</string>
+    <string name="cat_name8">Bikini-Körper</string>
+    <string name="cat_name9">Fettverbrennung</string>
+    <string name="cat_name10">Arme, Brust und Rücken</string>
+    <string name="cat_name11">Schlanke Beine</string>
+    <string name="cat_name12">Kardio und Ganzkörper</string>
+
+    <string name="extraDescription6">Werden Sie schlank und arbeiten Sie an Ihrem Waschrettbauch mit diesem Bauchmuskelverbrenner inspirierten Kreislauf.</string>
+    <string name="extraDescription7">Training mit Schwerpunkt auf Gluteusmuskel und Definition.</string>
+    <string name="extraDescription8">Die perfekte Übungskombination für stärkere Gesamtkörperdefinition.</string>
+    <string name="extraDescription9">Werden Sie schlank und schwitzen Sie es mit diesem inspirierenden Fettverbrennungszirkel heraus.</string>
+    <string name="extraDescription10">Großartiges Training mit Schwerpunkt auf Ihre Arme, Brust und Rückenmuskulatur.</string>
+    <string name="extraDescription11">Großartiges Training mit Schwerpunkt auf die Beindefinition.</string>
+    <string name="extraDescription12">Training für die Fettverbrennung und Gesamtkörperdefinition.</string>
+
+
+    <string name="Focus">Fokus</string>
+    <string name="Goal">Ziel</string>
+    <string name="Skill_level">Fähigkeitslevel</string>
+    <string name="Target_Group">Zielgruppe</string>
+    <string name="Place">Ort</string>
+    <string name="Equipment">Ausstattung</string>
+
+    <string name="focus_1">Kernzone</string>
+    <string name="focus_2">Gesäßmuskulatur.</string>
+    <string name="focus_3">Gesamtkörper-Muskeln.</string>
+    <string name="focus_4">Muskeldefinition und Fettverbrennung</string>
+    <string name="focus_5">Bizeps, Trizeps, Brustmuskulatur, unterer Rücken.</string>
+    <string name="focus_6">Gesäß-, hintere Oberschenkel-, Quadrizepsmuskulatur.</string>
+
+    <string name="goal_1">Definition der Bauchmuskeln &amp; Fettverbrennung</string>
+    <string name="goal_2">Definieren Sie Ihre Muskeln und gewinnen Sie an Maße.</string>
+    <string name="goal_3">Körpertraining.</string>
+    <string name="goal_4">Cardio-Routine des ganzen Körpers</string>
+    <string name="goal_5">Kraft und Definition bekommen </string>
+
+    <string name="skill_level">Anfänger Mittlere Ebene Fortgeschritten</string>
+
+    <string name="target_group">Männer und Frauen</string>
+
+    <string name="equipment_1">Matte</string>
+    <string name="equipment_2">Bank, Matte</string>
+    <string name="equipment_3">Kurzhantel, Langhantel.</string>
+    <string name="equipment_4">Bank, Kurzhantel, Matte</string>
+    <string name="place">Fitnessstudio, Zuhause, Büro</string>
+
+
+    <string name="doneKey">Fertig</string>
+    <string name="editKey">Bearbeiten</string>
+    <string name="intervalsKey">Intervalle</string>
+    <string name="myWorkoutsKey">Meine Trainings</string>
+    <string name="pauseKey">Pause</string>
+    <string name="resetKey">Zurücksetzen</string>
+    <string name="resumeKey">Weiter</string>
+    <string name="startKey">Start</string>
+    <string name="roundsKey">Runden</string>
+    <string name="currentsetkey">Aktuelle Einstellungen</string>
+    <string name="resttimekey">Ruhezeit</string>
+    <string name="worktimekey">Arbeitszeit</string>
+    <string name="minkey">Min</string>
+    <string name="seckey">Sek</string>
+    <string name="sets_extra1">30 Sek. ohne Ruhe</string>
+    <string name="sets_extra2">3 Sets und 12/11/10 Wiederholungen</string>
+    <string name="sets_extra3">35 S. Arbeitszeit 15 S. Ruhe</string>
+    <string name="sets_extra4">30 S. Arbeitszeit 15 S. Ruhe</string>
+    <string name="sets_extra5">2 Runden 15 Wiederholungen</string>
+
+    <string name="rep_extra1">30 s Übungszeit, 15 s Pause</string>
+    <string name="rep_extra2">30 s Übungszeit, 15 s Pause, 30 s Pause zwischen Runden</string>
+    <string name="rep_extra3">3 Sets und 12/11/10 Wiederholungen</string>
+
+    <string name="rep_extra1_how">Trainingszeit 30 Sek., 15 Sek. Pause zwischen den Übungen</string>
+    <string name="rep_extra2_how">Trainingszeit 30 Sek., Pause zwischen den Übungen 15 Sek., Pause zwischen den Runden 30 Sek.</string>
+    <string name="rep_extra3_how">Pause zwischen den Übungen 30 Sek., Pause zwischen den Sätzen 45 Sek.</string>
+
+    <string name="enter_text">Textnachricht eingeben</string>
+    <string name="main_work">Übungen für Gewichtheben und Muskelaufbau und Kraft.</string>
+
+    <string name="namemeal1_1">Erdbeeren und Creme&#8211;Haferflocken</string>
+    <string name="ingredientMeal1_1">&#189; Tasse Haferflocken \n\n&#8531; Tasse Magermilch \n\n&#8531; Tasse Vanille griechischer Joghurt \n\n&#189; Tasse geschnittene Erdbeeren \n\n2 EL griechischer Vanille&#8211;Joghurt \n\n1 EL geröstete Mandeln</string>
+    <string name="stepsMakeMeal1_1">Verrühren Sie am Abend die Haferflocken, die Milch und &#8531; Tasse Joghurt in einem Glas oder einer Schüssel. Abdecken und über Nacht im Kühlschrank kühlen. Guten Appetit!</string>
+
+
+    <string name="namemeal1_2">Golden&#8211;Glow&#8211;Elixier</string>
+    <string name="ingredientMeal1_2">2 Äpfel \n\n4 mittlere geschälte Orangen \n\n1 geschälte Zitrone \n\n5 – 7 cm langer geschälter frischer Ingwer \n\n5 cm lange frische geschälte Kurkuma, \n\n2 Tassen kaltes Wasser \n\n1 Handvoll Eis</string>
+    <string name="stepsMakeMeal1_2">In einem High&#8211;Speed&#8211;Mixer alle Zutaten zu einem Smoothie pürieren, geben Sie wenn nötig noch etwas Wasser dazu. Ein hochleistungsfähiger Mixer macht daraus einen cremigen Saft. Wenn Sie statt einem Smoothie lieber einen Saft daraus machen möchten, dann können Sie das gerne tun, die Ballast&#8211; und Nährstoffe bleiben erhalten. Guten Appetit!</string>
+
+
+    <string name="namemeal1_3">Tso\'s gebratenes Hähnchen</string>
+    <string name="ingredientMeal1_3">4 gewürfelte Hühnerbrüste \n\n1 Tasse Mehl \n\nPflanzenöl \n\nSalz \n\nfrisch gemahlener schwarzer Pfeffer \n\n2 gehackte Knoblauchzehen \n\n&#189; Dose Hühnerbrühe \n\n3 EL Honig \n\n4 EL Sojasoße \n\n2 EL Limettensaft \n\n2 Dosen Brokkoli, nur Rosen \n\n2 Dosen gekochter weißer Reis als Beilage</string>
+    <string name="stepsMakeMeal1_3">In einer großen Schüssel Hähnchen leicht in Maisstärke wenden. Die Stücke in eine große, mit Mehl gefüllte Schüssel geben und leicht zum Bedecken schütteln, dann auf die Seite geben. Eine große, tiefe Pfanne zur Hälfte mit Pflanzenöl bei mittlerer Hitze füllen. Das Hühnchen würzen, dann abtropfen lassen und beiseite legen. 2 Esslöffel Maisstärke hinzugeben und umrühren. Geben Sie Brokkoli und Karotten in die Sauce, 5 Minuten kochen bis weich. Guten Appetit!</string>
+
+
+    <string name="namemeal1_4">Kräutertee</string>
+    <string name="ingredientMeal1_4">1 Tasse Wasser \n\n1 Teelöffel geriebener frischer Ingwer \n\n1 Teelöffel geriebene Zitronenschale \n\n1 Teelöffel Limettensaft \n\n3 Blätter frische Minze</string>
+    <string name="stepsMakeMeal1_4">Bringen Sie Wasser in einem Topf zum Kochen und geben Sie die restlichen Zutaten dazu. Kochen und rühren, bis der Tee infundiert ist. Guten Appetit!</string>
+
+
+    <string name="namemeal1_5">Gegrillte Zitrone&#8211;Dijon&#8211;Hähnchenschenkel mit Rucola&#8211;Salat</string>
+    <string name="ingredientMeal1_5">4 (110 g) hautlose, knochenlose Hähnchenschenkel \n\n&#189; TL Salz \n\n&#188; TL gemahlener schwarzer Pfeffer \n\n2,5 EL Olivenöl \n\n2 TL Zitronensaft \n\n1 TL gehackter Knoblauch \n\nKochspray \n\n1 EL Balsamico&#8211;Essig \n\n1 TL Honig \n\n1 Tasse Traubentomaten, halbiert \n\n1 (150 g) Paket Baby&#8211;Rucola</string>
+    <string name="stepsMakeMeal1_5">Hühnchen mit &#188; Teelöffel Salz und 1/8 Teelöffel Pfeffer bestreuen. Mischen Sie das Hähnchen mit 1 &#8211; 1,5 Teelöffel Öl, Zitronensaft, Senf und Knoblauch in einer Schüssel, gut darin marinieren. 4 Minuten stehen lassen. Eine Grillpfanne bei mittlerer Hitze erhitzen. Pfanne mit Kochspray einsprühen. Hühnchen in die Pfanne geben, für 5 Minuten oder bis durch auf jeder Seite braten. Hähnchen in ½ cm dicke Scheiben schneiden. Guten Appetit!</string>
+
+
+    <string name="namemeal2_1">Hütten&#8211;Beeren&#8211;Crunch</string>
+    <string name="ingredientMeal2_1">&#189; Tasse 2% fettarmer Hüttenkäse \n\n2 EL Müsli \n\n&#189; Tasse geschnittene Bananen \n\n&#189; Tasse sortierte gemischte Beeren</string>
+    <string name="stepsMakeMeal2_1">Den Hüttenkäse in eine kleine Schüssel geben. Restliche Zutaten darüber geben. Guten Appetit!</string>
+
+
+    <string name="namemeal2_2">Ananas&#8211;Kiwi</string>
+    <string name="ingredientMeal2_2">4 EL Wasser \n\n&#189; Tasse Milch \n\n&#189; Tasse Joghurt \n\n1,5 EL Honig \n\n1 Kiwi&#8211;Frucht, geschält \n\n1 Tasse Ananasstücke \n\n&#189; Mango \n\n2 Eiswürfel</string>
+    <string name="stepsMakeMeal2_2">Alle Zutaten bei niedriger Geschwindigkeit mixen, bis alles dick und glatt ist. Guten Appetit!</string>
+
+
+    <string name="namemeal2_3">Zitronen&#8211;Hähnchen&#8211;Pfanne</string>
+    <string name="ingredientMeal2_3">4 Hühnerbrüste \n\n&#188; Tasse Butter \n\n2 EL Olivenöl \n\n1 Zitrone \n\n1 Zitrone in Scheiben geschnitten \n\n&#188; Tasse Weißwein \n\n1 TL Salz \n\n1 TL gemahlener schwarzer Pfeffer \n\n&#189; TL Paprika \n\n&#189; TL getrocknete Petersilie</string>
+    <string name="stepsMakeMeal2_3">Mehl, Salz, Pfeffer, Paprika und Petersilie in eine flache Schüssel geben. Öl und Butter bei mittlerer Hitze erhitzen. Jede Hähnchenbrust in der Mehlmischung wenden und in die heiße Pfanne geben. Fügen Sie Zitronensaft, Weißwein, Zitronenschale und Rosmarin zur Pfanne hinzu. Hühnchen auf jeder Seite durchkochen. Guten Appetit!</string>
+
+
+    <string name="namemeal2_4">Zucchini&#8211;Quinoa&#8211;Kekse</string>
+    <string name="ingredientMeal2_4">&#189; Tasse cremige Erdnussbutter \n\n&#188; Tasse Honig \n\n1 Banane \n\n1 Ei \n\n1 TL Vanille&#8211;Extrakt \n\n&#189; Tasse Haferflocken \n\n&#189; Tasse Quinoa&#8211;Flocken \n\n1 TL Zimt \n\n&#188; TL Salz \n\n1 Tasse zerkleinerte, gepresste Zucchini</string>
+    <string name="stepsMakeMeal2_4">Backofen auf 350 °C vorheizen. Erdnussbutter, Honig, Banane, Ei und Vanille in eine große Schüssel geben und umrühren. Haferflocken, Quinoa&#8211;Flocken, Backpulver, Gewürze und Salz in die Schüssel geben und verrühren. Zerkleinerte Zucchini und Chia&#8211;Samen darunterziehen. Den Teig mit einem Löffel auf eine Backform geben. Kekse auf dem mittleren Backblech für 15 &#8211; 18 Minuten backen, bis die Ecken goldbraun sind. Guten Appetit!</string>
+
+
+    <string name="namemeal2_5">Gebratene Garnelen mit frischen Kräutern</string>
+    <string name="ingredientMeal2_5">1 Pfund große Garnelen \n\n2 rote Paprika \n\nLauch, dünn geschnitten \n\n0,5&#8211;1 EL Kapern, gespült und entwässert \n\nKnoblauchzehen, dünn geschnitten \n\n&#189; Tasse grob gehackte Petersilie \n\n3 EL Zitronensaft \n\n2 EL Olivenöl</string>
+    <string name="stepsMakeMeal2_5">Setzen Sie eine Pfanne auf mittlere Hitze und fügen Sie Öl hinzu. Garnelen, Paprika, Lauch, Kapern, Knoblauch, Salz und Pfeffer hineingeben und für 4 Minuten anbraten, bis die Garnelen rosa sind. Von der Hitze entfernen. Fügen Sie Zitronensaft hinzu und schaben Sie den Boden der Pfanne mit einem Löffel. Garnelen mit frischer Petersilie und Basilikum bestreuen und servieren. Guten Appetit!</string>
+
+
+    <string name="namemeal3_1">Leinsamen&#8211;Hafermehl mit Heidelbeeren</string>
+    <string name="ingredientMeal3_1">3 Tassen Wasser \n\n2 Tassen Haferflocken \n\n3 EL Boden Leinsamen \n\n1/8 TL Salz \n\n&#188; Tasse Vollmilch \n\n1 Tasse Heidelbeeren \n\n1 EL Heidelbeerkonserven \n\n&#189; TL geriebene Zitronenschale \n\n1 EL Zitronensaft</string>
+    <string name="stepsMakeMeal3_1">Bringen Sie 3 Tassen Wasser zum Kochen. Rühren Sie die Haferflocken ein und fügen Sie die Leinsamen und Salz hinzu. Reduzieren Sie die Hitze auf mittel&#8211;niedrig, weich kochen bei häufigem Umrühren. Milch und Butter einrühren. Geben Sie inzwischen die Blaubeeren und nächsten 4 Zutaten in eine Mikrowellenschüssel, bei hoher Wattzahl für 1,5 Minuten in die Mikrowelle geben, alle 30 Sekunden umrühren. Die Haferflocken auf 4 Schüsseln aufteilen, mit Heidelbeeren und Pekannüssen garnieren. Guten Appetit!</string>
+
+
+    <string name="namemeal3_2">Kokosmilch&#8211;Smoothie mit Heidelbeeren</string>
+    <string name="ingredientMeal3_2">1 Beutel gefrorene Heidelbeeren, (300 g) \n\n3 reife Bananen \n\n1 Tasse einfacher Joghurt \n\n1 Tasse ungesüßte Kokosmilch \n\n2 EL Honig</string>
+    <string name="stepsMakeMeal3_2">In einem Mixer die Heidelbeeren, Bananen, Joghurt, Kokosmilch und Honig pürieren. Guten Appetit!</string>
+
+
+    <string name="namemeal3_3">Gebratenes Huhn mit Spargel</string>
+    <string name="ingredientMeal3_3">1 EL Sojasoße \n\n1 EL Honig \n\n2 in Stücke geschnittene Hähnchenbrüste \n\n1 EL Olivenöl \n\n1 Bund Spargel, in Stücke geschnitten \n\n4 Knoblauchzehen, dünn geschnitten \n\n2 TL geröstetes Sesamöl</string>
+    <string name="stepsMakeMeal3_3">Sojasauce und Honig in einen Reißverschlussbeutel geben. Hühnchen dazugeben und zum Abdecken gut schütteln. In den Kühlschrank stellen bis fertig. Mittlerweile Öl in einer großen Pfanne bei mittlerer Hitze erhitzen. Den Spargel entfernen und beiseite stellen. Hähnchen aus der Marinade entfernen und in die Pfanne geben. Dann Knoblauch, Schalotten und die übrige Marinade in die Pfanne geben. Von der Hitze entfernen und in Sesamöl braten. Guten Appetit!</string>
+
+
+    <string name="namemeal3_4">Lavendel&#8211;Minze&#8211;Tee</string>
+    <string name="ingredientMeal3_4">&#188; Tasse frische Lavendelblüten \n\n1 Tasse frische Minzeblätter \n\n4 Tassen Wasser</string>
+    <string name="stepsMakeMeal3_4">Lavendelblüten und Minze in einen Topf geben, Wasser dazu gießen und zum Kochen bringen. Hitze zurückdrehen und den Tee 15 bis 20 Minuten bis zur gewünschten Stärke kochen. Guten Appetit!</string>
+
+
+    <string name="namemeal3_5">Chili Fajitas</string>
+    <string name="ingredientMeal3_5">1 Pfund hautlose Hühnerbrust \n\n&#189; grüner, roter und gelber Paprika, dünn geschnitten \n\n&#8531; Tasse Wasser \n\n2 TL Sojasoße \n\n1 Prise Salz \n\n1 Prise schwarzer Pfeffer \n\n2 EL Olivenöl \n\n1 große Zwiebel, dünn geschnitten</string>
+    <string name="stepsMakeMeal3_5">Alle Zutaten für die Marinade sowie das Huhn in einen Behälter geben und mindestens 2 Stunden kühlen. Das Fleisch aus der Marinade nehmen und bei mittlerer Flamme für 4 – 5 Minuten auf jeder Seite grillen. Fleisch in dünne Streifen schneiden. Für die Sauce 2 EL Wasser, 1 TL Sojasoße, &#188; TL Limettensaft, eine Prise Salz, eine Prise schwarzer Pfeffer und 1 EL Olivenöl vermengen. Guten Appetit!</string>
+
+
+    <string name="namemeal4_1">Gesunde fruchtige Haferflocken</string>
+    <string name="ingredientMeal4_1">&#189; Tasse Hafer \n\n1 Tasse Wasser \n\n1 EL Honig \n\n1 EL Vanilleextrakt \n\n&#189; TL gemahlener Zimt \n\n&#188; Tasse Heidelbeeren \n\n4 geschnittene Erdbeeren \n\n&#189; Banane, in Scheiben geschnitten</string>
+    <string name="stepsMakeMeal4_1">Wasser und Hafer in einer Mikrowellenschüssel verrühren. Mikrowelle auf Hoch, bis die Haferflocken das Wasser absorbiert haben. Honig, Vanilleextrakt und gemahlenen Zimt einrühren. Geben Sie die Blaubeeren dazu, mit Bananen&#8211; und Erdbeerscheiben garnieren. Guten Appetit!</string>
+
+
+    <string name="namemeal4_2">Kaffee&#8211;Smoothie</string>
+    <string name="ingredientMeal4_2">1 TL Instant&#8211;Espresso&#8211;Kaffeepulver \n\n1 EL warmes Wasser \n\n1 kleine Banane, geschält, geschnitten und gefroren \n\n&#188; Tasse fettfreie Milch \n\n1 EL Honig \n\n&#189; Tasse Eiswürfel \n\nZimt</string>
+    <string name="stepsMakeMeal4_2">Kombinieren Sie in einem Mixer das Espressopulver und heißes Wasser, eine Minute ruhen lassen. Banane, Milch und Honig dazugeben. Zudecken und zu einem Smoothie mixen. Geben Sie schrittweise Eis dazu, bis Sie die gewünschte Konsistenz erreichen. Mit Zimt leicht bestreuen. Guten Appetit!</string>
+
+
+    <string name="namemeal4_3">Gebratenes Huhn &amp; Ananas</string>
+    <string name="ingredientMeal4_3">110 g Hühnerbrust, 4 \n\n40 g Ananas \n\n120 g brauner Reis \n\n&#8531; EL Olivenöl \n\n&#189; TL brauner Senf \n\n1/6 EL geräucherter Paprika \n\nMeersalz \n\nPfeffer</string>
+    <string name="stepsMakeMeal4_3">Die rohen Hühnerbrüste in kleine Stücke hacken. Die Hühnerstücke mit geräuchertem Paprika und braunem Senf würzen. Olivenöl in eine Pfanne geben und Hühnerbruststücke dazu geben. Für ca. 4 Minuten anbraten, bis Huhn zu 80 % durch ist, dann gehackte Paprika hinzufügen. Weitere 2 – 3 Minuten braten und dann die gewürfelte Ananas hinzufügen. Guten Appetit!</string>
+
+
+    <string name="namemeal4_4">Rohe Schokolade&#8211;Trüffel</string>
+    <string name="ingredientMeal4_4">&#189; Tasse Walnüsse, Cashewnüsse und Mandeln, über Nacht im Wasser \n\n3&#8211;4 EL Mandelmilch \n\n&#188; Tasse Sonnenblumenkerne \n\n&#188; Tasse Kürbiskerne \n\n2 EL Karottenpulver \n\n3 EL Kokosflocken</string>
+    <string name="stepsMakeMeal4_4">Geben Sie alles mit Ausnahme der Kokosflocken in den Mixer und pürieren. Machen Sie mit einer Eiskugelzange kleine Kugeln aus der Mischung. Jede Praline in Kokosflocken rollen. Kalt servieren. Guten Appetit!</string>
+
+
+    <string name="namemeal4_5">Gebackener Lachs mit Gemüse</string>
+    <string name="ingredientMeal4_5">2 Lachsfilets \n\n1 Tasse geschnittene Zucchini \n\n1 Tasse Brokkoli \n\n&#189; Tasse Kirschtomaten \n\nSalz \n\nPfeffer \n\nOlivenöl</string>
+    <string name="stepsMakeMeal4_5">Ofen auf 375 Grad °F vorheizen. Kombinieren Sie das Gemüse in einer großen Pfanne. Das Gemüse mit Salz, Pfeffer und Olivenöl würzen. Legen Sie die Filets neben das Gemüse und braten Sie alles für 18 &#8211; 20 Minuten oder bis der Lachs durch und das Gemüse zart ist. Guten Appetit!</string>
+
+
+    <string name="namemeal5_1">Bananen&#8211;Nuss&#8211;Haferflocken</string>
+    <string name="ingredientMeal5_1">&#189; Tasse Haferflocken \n\n1 Tasse Wasser \n\n1 geschnittene Banane \n\n1 EL gehackte Walnüsse \n\n1 TL gemahlener Zimt</string>
+    <string name="stepsMakeMeal5_1">Mischen Sie die Haferflocken und 1 Tasse Wasser in einer kleinen Mikrowellenschüssel. Bei hoher Temperatur für 3 Minuten in die Mikrowelle geben. Mit Bananenscheiben, Walnüssen und Zimt garnieren. Guten Appetit!</string>
+
+
+    <string name="namemeal5_2">Rosa Macht</string>
+    <string name="ingredientMeal5_2">1,5 Tassen kleine frische Blumenkohlblüten \n\n2 Tassen Wassermelonenwürfel (Samen und Rinden entfernt) \n\n1,5 Tassen ganze Erdbeeren \n\n1 Becher (6 Unzen) griechischer Erdbeerjoghurt  \n\n2 EL Erdbeer&#8211;Konserven (optional)</string>
+    <string name="stepsMakeMeal5_2">In einem kleinen Kochtopf Blumenkohl kochen, mit kochendem Wasser bedecken, bis er sehr weich ist. In einem Mixer gekochten Blumenkohl, Wassermelone, Erdbeeren, Joghurt und nach Wunsch Erdbeer&#8211;Konserven mixen. Guten Appetit!</string>
+
+
+    <string name="namemeal5_3">BBQ Hühnchen mit Spargel umhüllt</string>
+    <string name="ingredientMeal5_3">2 Hühnerbrüste dünn geschnitten, je 100 g. \n\n12 Spargelspitzen  \n\n2 EL BBQ&#8211;Sauce \n\n1 Prise geräucherter Paprika \n\n1 Prise Knoblauchpulver \n\n1 Prise Pfeffer</string>
+    <string name="stepsMakeMeal5_3">Backofen auf 400 °F/200 °C vorheizen. Das Hühnchen mit einem Schlägel flachklopfen. Hähnchenschnitzel mit 1 EL BBQ&#8211;Sauce (für jedes Stück) und Gewürzen nach Wunsch würzen. Hühnchen nach oben auf den Grill geben. Im Ofen backen oder auf einem Grill ca. 8 bis 10 Minuten räuchern. Guten Appetit!</string>
+
+
+    <string name="namemeal5_4">Ingwer&#8211;Kurkuma&#8211;Kräutertee</string>
+    <string name="ingredientMeal5_4">2 Tassen Wasser \n\n&#189; Teelöffel gehackter frischer Ingwer \n\n&#189; Teelöffel gemahlener Zimt \n\n1 Esslöffel Honig \n\n1 Zitronenschnitz</string>
+    <string name="stepsMakeMeal5_4">Wasser in einem kleinen Topf zum Kochen bringen, Kurkuma, Ingwer und Zimt dazu geben. Hitze auf niedrig stellen und für 10 Minuten kochen. Gießen Sie den Tee in ein großes Glas, fügen Sie Honig und Zitrone hinzu. Guten Appetit!</string>
+
+
+    <string name="namemeal5_5">Gegrillte Garnelen&#8211; &amp; Avocado&#8211;Spieße</string>
+    <string name="ingredientMeal5_5">450 g Jumbo&#8211;Garnelen \n\n1,5 Avocados \n\n1 roter Paprika \n\n1 orange Paprika \n\n1 gelber Paprika \n\n1 rote Zwiebel \n\n1 TL Knoblauchpaste \n\n&#189; EL extra natives Olivenöl \n\n1 Limette \n\nSalz, Pfeffer</string>
+    <string name="stepsMakeMeal5_5">Stellen Sie Ihren Grill auf ca. 400 °F/ 200 °C. Hacken Sie das Gemüse und die Avocado in große Stücke für die Spieße. Garnelen schälen und würzen. Wählen Sie faseriges Gemüse, da es satter macht und eher gut auf einem Spieß bei intensiver Hitze hält. Legen Sie die Spieße auf den Grill und braten Sie sie für ca. 8&#8211;10 Minuten, dann umdrehen und weitere 8 bis 10 Minuten braten. Guten Appetit!</string>
+
+
+    <string name="namemeal6_1">Morgen&#8211;Parfait</string>
+    <string name="ingredientMeal6_1">&#188; Tasse Rosinen und 1 TL fein zerkleinerte Orangenschalen \n\n1 TL Vanille \n\nHalbe Packung fettreduzierten Neuchâtel&#8211;Frischkäse (250 g) \n\nSemmelbrösel \n\n2 Tassen frische Himbeeren, Heidelbeeren, geschnittene Erdbeeren und/oder geschnittene Pfirsiche \n\n&#189; Tasse fettarmes Müsli \n\nHonig \n\nzerkleinerte Orangenschalen</string>
+    <string name="stepsMakeMeal6_1">Mischen Sie die Semmelbrösel unter den Käse, in die Backform geben. Mit Öl bestäuben. 10 bis 25 Minuten backen. In vier Gläser legen Sie eine Schicht aus der Frischkäse&#8211;Mischung, eine Schicht Obst und eine Schicht Müsli. Wiederholen Sie diese Schichten bis zur Oberseite Schüssel. Honig darüber geben und mit zusätzlichen Orangenschalen garnieren. Ergibt 4 Portionen. Guten Appetit!</string>
+
+
+    <string name="namemeal6_2">Grüner Tee Kiwi und Mango</string>
+    <string name="ingredientMeal6_2">2,5 Tassen gefrorene gewürfelte Mango \n\n3/4 Tasse Vanille&#8211;Joghurt \n\n2 EL Honig \n\n2 EL Wasser \n\n3 reife Kiwi \n\n2 Tassen Eiswürfel \n\n&#189; Tasse Babyspinat \n\n2 EL abgefüllter grüner Tee</string>
+    <string name="stepsMakeMeal6_2">Mango, &#189; Tasse Joghurt, 2 Esslöffel Honig, 2 Esslöffel Wasser und Limettenschale in einem Mixer cremig pürieren. &#188; Tasse Joghurt, 2 Esslöffel Honig, Kiwis und die nächsten 3 Zutaten in einem Mixer cremig schlagen. Guten Appetit!</string>
+
+
+    <string name="namemeal6_3">Gebratenes Zitronen&#8211;Hähnchen</string>
+    <string name="ingredientMeal6_3">140 g Hühnerbrust in kleinen Stücken  \n\n34 g Broccolini \n\n25 g Baby Portobello Pilz \n\n&#188; rote Paprika \n\n20 g rote Zwiebel \n\nKokosölspray \n\nSesamsamen \n\n&#188; TL Pfeilwurzelstärke \n\n1/8 EL Knoblauchpaste \n\n&#188; TL Ingwerpaste</string>
+    <string name="stepsMakeMeal6_3">In einer Schüssel alle Zutaten für die Bratsauce mischen. Eine Pfanne mit Kokosöl einsprühen und auf mittlere Hitze erhitzen. Hühnerstücke dazugeben und braten, bis sie ca. 85 % durch sind. Dann Gemüse dazugeben und mit einem Spatel umrühren. Guten Appetit!</string>
+
+
+    <string name="namemeal6_4">Gegrillter mexikanischer Mais</string>
+    <string name="ingredientMeal6_4">4 Maiskolben \n\n1,5 Tassen saure Sahne \n\n1 Tasse geriebener Parmesan \n\n1 Limetten, Saft \n\nrotes Chilipulver \n\n2 in Keile geschnittene Limetten zum Garnieren</string>
+    <string name="stepsMakeMeal6_4">Den Mais auf einem heißen Grill bei einmal Umdrehen grillen, bis er leicht verkohlt. In einer kleinen Schüssel die Mayonnaise, Sauerrahm und Koriander mischen. Limettensaft über dem Mais auspressen und mit Parmesan würzen. Mit Chili&#8211;Pulver bestreuen. Guten Appetit!</string>
+
+
+    <string name="namemeal6_5">Lachs&#8211;Burger mit Avocado</string>
+    <string name="ingredientMeal6_5">1 Pfund Lachsfilet \n\n1 Tasse Paniermehl \n\n1 Ei \n\n1 EL Zitronensaft \n\nSalz und Pfeffer \n\nOlivenöl \n\n1 große Avocado, gehackt \n\n&#8531; Tasse gehackte rote Zwiebeln \n\n1 Limettensaft</string>
+    <string name="stepsMakeMeal6_5">Das Lachsfilet in kleine Stücke schneiden und in eine Rührschüssel geben. Den Rest der Zutaten vorsichtig einrühren. Lassen Sie die Mischung 5 &#8211; 10 Minuten ruhen. Ein wenig Öl in einer großen Grillpfanne bei mittlerer Hitze erhitzen. Aus der Lachsmischung ordentliche Frikadellen formen. Braten Sie die Frikadellen etwa 4 Minuten auf jeder Seite, bis sie auf beiden Seiten gut gebräunt sind. Guten Appetit!</string>
+
+
+    <string name="namemeal7_1">Erdbeer&#8211;Bananen&#8211;Nuss&#8211;Brot&#8211;Haferflocken</string>
+    <string name="ingredientMeal7_1">150 g Haferflocken (gekocht) \n\n&#189; zerkleinerte Banane \n\n50 g Erdbeeren \n\n2 EL Mandelmilch \n\n1 EL Vanilleextrakt \n\n2 EL gehackte Walnüsse \n\n1 Paket Stevia der Marke \"In The Raw\" \n\nZitronenschalengarnitur \n\n1 EL griechischer Joghurt (2% Fett) \n\n&#189; EL gehackte Walnüsse \n\nMohn</string>
+    <string name="stepsMakeMeal7_1">Kochen Sie die Haferflocken nach Anleitung, dann beiseite legen. Geben Sie alle Zutaten mit Ausnahme der Erdbeeren in eine Schüssel und mischen Sie sie gründlich. Haferflocken mit frisch gehackten Erdbeeren dazugeben. Mit griechischem Joghurt, gehackten Walnüssen und Mohn garnieren. Guten Appetit!</string>
+
+
+    <string name="namemeal7_2">Erdbeer – Banane</string>
+    <string name="ingredientMeal7_2">2 Tassen Erdbeeren \n\n1 frisch geschälte Banane \n\n1 Tasse Milch \n\n1 Eiswürfel \n\n1 EL Honig</string>
+    <string name="stepsMakeMeal7_2">Alle Zutaten in einen Mixer geben und mixen. Wenn der Smoothie etwas zu dick ist, geben Sie mehr Milch hinzu. Wenn er zu dünn ist, geben Sie noch Obst und/oder Eis dazu. Guten Appetit!</string>
+
+
+    <string name="namemeal7_3">Würzige &amp; leichte Kung Pao Hühnchen&#8211;Mahlzeit</string>
+    <string name="ingredientMeal7_3">150 g Hühnerbrust \n\n1/6 Knoblauchzehe \n\n33 g gefrorene Erbsen \n\n150 g Paprika \n\n2/3 EL Wasser \n\n&#8531; EL Tomatensoße \n\n1/6 EL frischer Ingwer \n\n1/6 EL rote Paprikapfeffersoße \n\n1/6 EL Reisessig \n\ngehackte grüne Zwiebel</string>
+    <string name="stepsMakeMeal7_3">Zutaten für die Soße in eine Schüssel geben und mit einem Schneebesen verrühren. Eine Pfanne auf mittlere Hitze erhitzen und mit Olivenöl besprühen. Wenn die Pfanne heiß ist, geben Sie Knoblauch dazu und braten ihn für ca. 2 Minuten an. Dann gehackte Hähnchenbrust hinzufügen. Hähnchen braten, bis die Außenseite braun ist, ca. 6 bis 8 Minuten. Gehackte Paprika dazu geben und für ca. 3 Minuten anbraten. Langsam in die Sauce gießen und häufig umrühren. Guten Appetit!</string>
+
+
+    <string name="namemeal7_4">Lavendel&#8211;Minze&#8211;Tee</string>
+    <string name="ingredientMeal7_4">&#188; Tasse frische Lavendelblüten \n\n1 Tasse frische Minzeblätter \n\n4 Tassen Wasser</string>
+    <string name="stepsMakeMeal7_4">Lavendelblüten und Minze in einen Topf geben, Wasser dazu gießen und zum Kochen bringen. Hitze zurückdrehen und den Tee 15 bis 20 Minuten bis zur gewünschten Stärke kochen. Guten Appetit!</string>
+
+
+    <string name="namemeal7_5">Folien&#8211;Fischpakete mit Spinat und Tomate</string>
+    <string name="ingredientMeal7_5">1 Bund Spargel \n\n2 geschnittene Tomaten \n\n2 Tilapia&#8211;Filets \n\nOlivenöl \n\n&#189; TL Chili&#8211;Knoblauchsauce \n\nSalz \n\n1 geschnittene Zitrone</string>
+    <string name="stepsMakeMeal7_5">Backofen auf 190 °C vorheizen. In einer kleinen Schüssel mischen Sie Olivenöl, Chili&#8211;Sauce und Salz. Geben Sie die Spargelspitzen in die Mitte auf ein Stück Aluminium&#8211;Folie und legen Sie die Tomatenscheiben gleichmäßig darauf, dann alles würzen. Legen Sie ein Fischfilet auf die Tomaten in jedem Paket, und bestreichen Sie den Fisch mit der Olivenöl&#8211;Mischung. Zitronenscheiben über den Fisch anordnen. Den Fisch im Ofen für 25 &#8211; 30 Minuten backen. Guten Appetit!</string>
+    <string name="titleDay1">Großartige, gesunde Rezepte für die Zubereitung und zum Ausprobieren</string>
+    <string name="cat_name13">Ernährungs Gewichtsplan</string>
+    <string name="descriptionDay1">Um Ihren Stoffwechsel aufrecht zu erhalten, müssen Sie Ihre erste Mahlzeit innerhalb von 1 Stunde nach dem Aufstehen zu sich nehmen.</string>
+    <string name="titleDay2">Eine gute Ernährung ist die Grundlage für eine gute Gesundheit</string>
+    <string name="descriptionDay2">Die Lösung ist, innerhalb von 1 Stunde nach dem Aufwachen zu essen, so dass Sie Ihren Stoffwechsel in Schwung bringen.</string>
+    <string name="titleDay3">Planen Sie Ihr Frühstück im Voraus</string>
+    <string name="descriptionDay3">To the highest fat burning speed breakfast is so important to your weight-loss success.</string>
+    <string name="titleDay4">Kohlenhydrate versorgen den Körper mit Energie</string>
+    <string name="descriptionDay4">Studies show that 5 meals a day are important in maintaining a healthy body weight.</string>
+    <string name="titleDay5">Eiweiß ist essentiell für das Wachstum und die Entwicklung</string>
+    <string name="descriptionDay5">Die Ernährung spielt eine Schlüsselrolle bei der Aufrechterhaltung eines gesunden Lebensstils.</string>
+    <string name="titleDay6">Sie sind, was Sie essen</string>
+    <string name="descriptionDay6">Das ist im wahrsten Sinne des Wortes wahr, wenn Sie möchten, dass Ihr Körper Spitzenleistungen erbringt.</string>
+    <string name="titleDay7">Kontrollieren Sie die Portionsgrößen mit kleineren Tellern</string>
+    <string name="descriptionDay7">Eliminieren Sie Frustessen, indem Sie Ihr hungriges Herz heilen.</string>
+    <string name="meal">Mahlzeit %1$d</string>
+    <string name="ingredients">Zutaten</string>
+    <string name="steps">Schritte</string>
+    <string name="focus_13">Reiner 7 Tage-Ernährungsplan</string>
+    <string name="goal_13">Gewichtsverlust beschleunigt den Stoffwechsel.</string>
+    <string name="days_plan">%1$d Tage Plan</string>
+    <string name="extraDescription13">Kommen Sie in Bestform! Erfahren Sie, was Sie essen, entdecken Sie fettverbrennende Lebensmittel, essen Sie leckere Mahlzeiten, um Ihren Stoffwechsel zu beschleunigen.</string>
+    <string name="extra">Extra</string>
+    <string name="exercise">ÜBUNG</string>
+
+    <string name="timer">Timer</string>
+    <string name="ex_cat_88">Аlle</string>
+    <string name="muscle">Muskel</string>
+
+    <string name="congrulation">Glückwunsch !</string>
+    <string name="thnak_you">Danke!</string>
+    <string name="after_update">Du hast 50 neue Übungen, 7 neue Trainingspläne, 1 Ernährungspläne und keine Werbung.</string>
+    <string name="first_restore">Sie haben Premium-Version. 7 Trainingspläne und 1 Ernährungspläne wurden für dich hinzugefügt.</string>
+    <string name="upgrade_new">AKTUALISIERUNG</string>
+    <string name="description_upgrade">Entsperre alle Routinen, die von Top-Coaches entwickelt wurden. Erreiche leichter deine Ziele.</string>
+    <string name="no_ads">KEINE WERBUNG</string>
+    <string name="no_ads_description">BEFREIEN SIE SICH VON ALLEN ADS. GENIEßEN SIE IHRE TRAININGSEINHEITEN MIT ADS FREE</string>
+    <string name="noty_sound">Benachrichtigungen klingen</string>
+    <string name="noty_sound_description">Wählen Sie Ihren speziellen Ton für Benachrichtigungen, um nichts zu verpassen</string>
+    <string name="new_workouts">NEUE TRAININGSEINHEITEN</string>
+    <string name="new_workouts_desription">7 NEUE TRAININGSPLÄNE FÜR JEDE MUSKELGRUPPE UND FITNESS ZIELEN AUF MAXIMALE ERGEBNISSE FOKUSSIEREN.</string>
+    <string name="upgrade_header">Upgrade, um neue 50 Übungen, 10 Trainingspläne, 2 Ernährungspläne freizuschalten und Werbung zu entfernen.</string>
+    <string name="sound">Sound</string>
+    <string name="buy">Kaufen</string>
+
+    <string name="nutrition">Ernährung</string>
+
+    <string name="one_time_payment">einmalige Zahlung</string>
+    <string name="get_lifetime_access">ERHALTEN SIE UNLIMITIERTEN ZUGANG</string>
+    <string name="_3_days_for_free">7 Tage KOSTENLOS</string>
+    <string name="get_workouts_courses_with_powerful_support">Holen Sie sich 100% ausgearbeitete Workout-Kurse mit starkem Support!</string>
+    <string name="only_now">" Nur jetzt "</string>
+    <string name="start_your_positive_transformation_today">Beginnen Sie Ihre positive\nTransformation heute!</string>
+    <string name="try_it_now">Jetzt testen</string>
+    <string name="_3_day_nfree_trial">3-Tage \nTestversion</string>
+    <string name="_7_day_nfree_trial">7-Tage \nTestversion</string>
+    <string name="new_workoutsN">Neue \nWorkouts</string>
+    <string name="month">/Monat</string>
+    <string name="year">/Jahr</string>
+    <string name="monthly_slim">Мonatlich</string>
+    <string name="after">nach</string>
+    <string name="nutritionPlanName2">GEWICHTSVERLUST</string>
+    <string name="nutritionPlanName1">MUSKELAUFBAU</string>
+    <string name="nutrition_plans">Ernährungs pläne</string>
+
+    <string name="title_11">Übungen</string>
+</resources>

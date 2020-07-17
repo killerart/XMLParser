@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PRO Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">Esercizi</string>
+    <string name="title_2">Allenamento</string>
+    <string name="title_3">Personalizzato</string>
+    <string name="title_4">Cronologia</string>
+    <string name="title_5">Altro</string>
+    <string name="done">Fatto</string>
+    <string name="back">Indietro</string>
+    <string name="titles">Titolo:  </string>
+    <string name="downl_vid">Download del video</string>
+    <string name="please_wait">Attendi, per favore...</string>
+    <string name="cancel">Annulla</string>
+    <string name="edit">Modifica</string>
+    <string name="work">Il mio allenamento</string>
+    <string name="create_plus">Per creare un nuovo allenamento, premi +</string>
+    <string name="save">Salva</string>
+    <string name="workout_name">Nome allenamento:</string>
+    <string name="days_title">Numero giorno:</string>
+    <string name="delete">Cancella</string>
+    <string name="work_title">Titolo allenamento:</string>
+    <string name="options">Opzioni:</string>
+    <string name="camera">Fotocamera/Galleria</string>
+    <string name="ex_phot_title">Foto dell’esercizio</string>
+    <string name="name_desc">Nome, descrizione</string>
+    <string name="ex_name">Nome dell’esercizio:</string>
+    <string name="desc">Descrizione:</string>
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+    <string name="blanck">Riempi il campo di testo!</string>
+    <string name="okey">Ok</string>
+    <string name="realy_cancel">Vuoi cancellare il processo di download? Tutti i progressi verranno persi!</string>
+    <string name="download_all">Scarica tutti i video</string>
+    <string name="unzip">Decompressione file</string>
+    <string name="files">File</string>
+    <string name="dow_video">Download dei video</string>
+    <string name="video_saved">Tutti i video sono stati salvati con successo!</string>
+    <string name="conn">Controlla la tua connessione Wi-Fi o quella del tuo telefono!</string>
+
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+
+    <string name="start">Avvia</string>
+    <string name="weight">Peso (kg)</string>
+    <string name="repetitions">Ripetizioni</string>
+    <string name="set_s">Imposta i secondi</string>
+    <string name="wei">Peso</string>
+    <string name="rep">Ripetizioni</string>
+    <string name="wei_rep">Prestazioni</string>
+    <string name="no_history">Non è stato fatto ancora nessun esercizio</string>
+    <string name="last_val">Ultimi valori</string>
+    <string name="send_f">Invia feedback</string>
+    <string name="rep_bug">Segnala un Bug</string>
+    <string name="tel_fr">Dillo a un amico</string>
+    <string name="rate_us">Valutaci</string>
+    <string name="ad">Aggiungi</string>
+
+    <string name="exit">Sei sicuro?</string>
+    <string name="sdcard">Nessuna scheda SD!</string>
+    <string name="post_to">Pubblica sulla bacheca</string>
+    <string name="not_loged">Non connesso</string>
+    <string name="log_fail">Accesso non riuscito</string>
+    <string name="posting">Pubblicazione </string>
+    <string name="posting_succes">Pubblicazione avvenuta con successo</string>
+    <string name="email_sent">E-mail inviata</string>
+    <string name="email_notsent">E-mail non inviata</string>
+
+
+    <string name="s1">4 serie e 15 ripetizioni</string>
+    <string name="s2">4 serie e 12/10/8/6 ripetizioni</string>
+    <string name="s3">5 serie e 3/3/3/2/1 ripetizioni</string>
+
+    <string name="dialog_future">Non puoi inserire dati per le date future!</string>
+
+    <string name="ex_guide_1">Schiena e petto</string>
+    <string name="ex_guide_2">Gambe e avambraccia</string>
+    <string name="ex_guide_3">Spalle, tricipiti e bicipiti</string>
+    <string name="ex_guide_4">Schiena e tricipiti</string>
+    <string name="ex_guide_5">Petto e bicipiti</string>
+    <string name="ex_guide_6">Gambe e spalle</string>
+    <string name="ex_guide_7">Ciclo 1</string>
+    <string name="ex_guide_8">Ciclo 2</string>
+    <string name="ex_guide_9">Ciclo 3</string>
+    <string name="ex_guide_10">Bicipiti e tricipiti</string>
+    <string name="ex_guide_11">Gambe</string>
+    <string name="ex_guide_12">Schiena</string>
+    <string name="ex_guide_13">Bicipiti</string>
+    <string name="ex_guide_14">Petto</string>
+    <string name="ex_guide_15">Spalle</string>
+    <string name="ex_guide_16">Tricipiti</string>
+     
+    <string name="ex_name_1">Bicicletta in aria</string>
+    <string name="ex_desc_1">1.Stenditi sul pavimento con la parte bassa della schiena premuta a terra. Per questo esercizio, devi mettere le mani accanto alla testa. Fai attenzione però a non sforzare il collo durante l\'esecuzione. Ora solleva le spalle in posizione crunch.\n\n2. Porta le ginocchia fino a quando sono perpendicolari al pavimento, con le gambe parallele al pavimento. Questa sarà la tua posizione di partenza.\n\n3. Ora, fai lentamente un movimento come se stessi pedalando in avanti con la gamba destra e portando contemporaneamente il ginocchio della gamma sinistra verso di te. Porta il gomito destro vicino al ginocchio sinistro con un crunch laterale, mentre espiri.\n\n4. Ritorna nella posizione iniziale mentre inspiri.\nEsegui un crunch verso il lato opposto, mentre pedali con le gambe e avvicini il gomito sinistro al ginocchio destro ed espiri.\n\n5. Continua alternando in questo modo fino a quando avrai completato tutte le ripetizioni consigliate per ciascun lato. </string>
+     
+    <string name="ex_name_2">Sollevamento gambe da appesi</string>
+    <string name="ex_desc_2">1.Appenditi a una sbarra con entrambe le braccia estese in lunghezza sopra di te utilizzando una presa larga o media. Le gambe devono essere dritte verso il basso con il bacino leggermente all\'indietro. Questa sarà la tua posizione di partenza.\n\n2. Solleva le gambe fino a quando il busto fa un angolo di 90 gradi con le gambe. Espira mentre esegui questo movimento e tieni la contrazione per un secondo o poco più.\n\n3. Torna lentamente alla posizione di partenza, mentre inspiri.\n\n4. Ripeti l\'operazione per il numero di ripetizioni consigliato.</string>
+     
+    <string name="ex_name_3">Ginocchio: Sollevamento fianchi su parallele simmetriche</string>
+    <string name="ex_desc_3">1.Posiziona il corpo sulla panca verticale per il sollevamento delle gambe in modo che gli avambracci siano appoggiati ai cuscino di fianco al busto e tieniti alle maniglie. Le braccia saranno piegate e formeranno un angolo di 90 gradi.\n\n2. Il busto deve essere diritto, con la parte bassa della schiena premuta contro il cuscino dell\'attrezzo e le gambe distese verso il pavimento. Questa sarà la tua posizione di partenza.\n\n3. Ora, mentre espiri, solleva le gambe tenendole estese. Continua questo movimento fino a quando le gambe saranno più o meno parallele al pavimento e poi tieni la contrazione per un secondo. Suggerimento: Non ricorrere a slanci e non oscillare, mentre esegui questo esercizio.\n\n4. Ritorna lentamente alla posizione di partenza, mentre inspiri.\n\n5. Ripeti l\'operazione per il numero di ripetizioni consigliato.</string>
+     
+    <string name="ex_name_4">Axle Deadlift</string>
+    <string name="ex_desc_4">1.La presa è circa della larghezza delle spalle, con i piedi puntati in avanti, leggermente al di fuori.\n\n2. Ora abbassa il sedere fino a quando i quadricipiti sono grosso modo paralleli al pavimento. La barra deve trovarsi proprio davanti ai tuoi stinchi. Ora afferra il bilanciere con entrambe le mani in modo che la presa sia leggermente esterna alle gambe.\n\ n3. Con un arco lombare sulla schiena, spingi con le gambe e contemporaneamente solleva con la schiena in modo che la barra passi le ginocchia e si fermi ai fianchi. Le spalle e le ginocchia devono essere completamente bloccate e le braccia devono essere dritte durante l\'intera esecuzione.</string>
+     
+    <string name="ex_name_5">Piegato con bilanciere</string>
+    <string name="ex_desc_5">1.Stai in piedi con le ginocchia leggermente flesse. Piega il busto formando un angolo di circa 45 gradi, mantenendo la schiena diritta.\n\n2. Prendi la sbarra con le mani da sopra, tenendo le mani stesse più larghe rispetto alle spalle e le braccia diritte verso il basso dalle spalle:\n\n3. Inspira, contrai gli addominali isometricamente e tira la barra verso l\'alto fino a toccare il petto.\n\n4. Ritorna alla posizione di partenza, mentre inspiri.</string>
+     
+    <string name="ex_name_6">Piegato con due manubri</string>
+    <string name="ex_desc_6">1.Prendi un paio di manubri e tienili davanti alla tua vita, ma assicurati di avere la schiena piatta. Stendi le braccia verso il basso con i palmi l\'uno rivolto verso l\'altro.\n\n2. Solleva i manubri fino ai lati del petto e ritorna poi alla posizione iniziale con le braccia estese, mantenendo la schiena stabile e diritta.</string>
+     
+    <string name="ex_name_7">Chin up</string>
+    <string name="ex_desc_7">1.Afferra la sbarra con palmi e dita in avanti, lontano dal corpo. Si chiama presa prona.\n\n2. Tieni le braccia diritte e appenditi verso il basso, senza oscillare. Rilassa le spalle e il corpo.\n\n3. Tirati su con un movimento regolare, senza muoverti a scatti. Il mento dovrebbe andare sopra la sbarra. Lentamente, abbassati di nuovo fino a ritornare alla posizione di partenza.</string>
+     
+    <string name="ex_name_8">Rematore con manubrio</string>
+    <string name="ex_desc_8">1.Posiziona il ginocchio sinistro e la mano sinistra su una panca piana con la gamba destra piantata saldamente sul pavimento.\n\n2. Piegati in avanti in modo che la schiena sia piatta e parallela al pavimento.\n\n3. Afferra un manubrio con la mano destra con il palmo rivolto verso il corpo e sollevare il manubrio fino alla tua gabbia toracica. Ritorna alla posizione di partenza e ripeti.</string>
+     
+    <string name="ex_name_9">Piegato su bilanciere presa inversa</string>
+    <string name="ex_desc_9">1.Stai in piedi con le ginocchia leggermente flesse. Piega il busto formando un angolo di circa 45 gradi, mantenendo la schiena diritta.\n\n2. Prendi la sbarra con le mani da sotto, tenendo le mani stesse più larghe rispetto alle spalle e le braccia diritte verso il basso dalle spalle:\n\n3. Inspira, contrai gli addominali isometricamente e tira la barra verso l\'alto fino a toccare il petto.\n\n4. Ritorna alla posizione di partenza, mentre inspiri.</string>
+     
+    <string name="ex_name_10">Cavi da seduto</string>
+    <string name="ex_desc_10">1.Per iniziare l\'esercizio, afferra le maniglie della tua impugnatura preferita (che può essere come quella mostrata).\n\n2. Siediti con la schiena dritta, tenendo le gambe piegate e i piedi contro il blocco di metallo.\n\n3. Estendi le braccia sentendo tirare il grande dorsale. Tira il peso verso il tuo corpo fino a quando l\'impugnatura non toccherà l\'addome.</string>
+     
+    <string name="ex_name_11">Sollevamenti con cavo con presa dal basso</string>
+    <string name="ex_desc_11">1.Fissa una lunga sbarra alla lat pulldown machine e regolare i cuscini di fissaggio in modo che, quando si è seduti, le ginocchia siano ad angolo retto e i piedi appoggiati a terra.\n\n2. Afferra la barra con una presa larga dal basso e stai seduto tenendo la parte superiore del corpo in posizione verticale, leggermente indietro rispetto alle anche.\n\n3. Spingi la sbarra di fronte al viso fino alla parte superiore del petto e fermati. Rilascia lentamente la sbarra fino a farla ritornare alla posizione di partenza, distendendo le braccia.</string>
+     
+    <string name="ex_name_12">V - Pull Down con sbarra</string>
+    <string name="ex_desc_12">1.Siediti su una pull-down machine con una barra a V attaccata al pulley superiore.\n\n2. Regola la ginocchiera della macchina adattandola alla tua altezza. Questi cuscini eviteranno che il corpo si sollevi dalla resistenza collegata alla barra.\n\n3. Afferra la barra a V con i palmi l\'uno rivolto verso l\'altro (presa neutra). Porta il petto in fuori e piegati leggermente indietro (di circa 30 gradi), per coinvolgere meglio i dorsali. Questa sarà la tua posizione di partenza.\n\n4. Usando i dorsali, tirare la barra verso il basso, schiacciando le scapole. Continua fino a quando la barra a V non sarà praticamente a contatto del petto. Espira mentre esegui questo movimento. Suggerimento: tieni fermo il torso durante tutto il movimento.\n\n5. Dopo un secondo in cui rimani in posizione contratta, riporta lentamente la sbarra alla posizione di partenza, mentre inspiri.\n\n6. Ripeti per il numero di ripetizioni consigliato.</string>
+     
+    <string name="ex_name_13">Lat Pulldown presa larga</string>
+    <string name="ex_desc_13">1.Fissa una lunga sbarra alla lat pulldown machine e regolare i cuscini di fissaggio in modo che, quando si è seduti, le ginocchia siano ad angolo retto e i piedi appoggiati a terra.\n\n2. Afferra la barra con una presa larga dall\'alto e stai seduto tenendo la parte superiore del corpo in posizione verticale, leggermente indietro rispetto alle anche.\n\n3. Spingi la sbarra di fronte al viso fino alla parte superiore del petto e fermati. Rilascia lentamente la sbarra fino a farla ritornare alla posizione di partenza, distendendo le braccia.</string>
+     
+    <string name="ex_name_14">Curl al bilanciere presa inversa</string>
+    <string name="ex_desc_14">1.Stai in piedi con i piedi leggermente divaricati e le braccia diritte, prendendo l\'attrezzo con una presa inversa (i pollici devono essere vicini).\n\n2. Inspira e solleva il bilanciere. Espira mentre completi il movimento.\n\n3. Questo esercizio fa lavorare gli estensori del polso e delle dita. Fa lavorare anche il muscolo brachioradiale e, in misura minore, il bicipite.</string>
+     
+    <string name="ex_name_15">Curl al bilancere in piedi</string>
+    <string name="ex_desc_15">1.Stai in piedi con i piedi leggermente divaricati e le braccia diritte, prendendo l\'attrezzo con una presa dal basso (i pollici devono guardare in posizioni opposte).\n\n2. Inspira e solleva il bilanciere. Espira mentre completi il movimento.\n\n3. Questo esercizio fa lavorare gli estensori del polso e delle dita. Fa lavorare anche il muscolo brachioradiale e, in misura minore, il bicipite.</string>
+     
+    <string name="ex_name_16">Curl al bilanciere EZ</string>
+    <string name="ex_desc_16">1.Stai in piedi con il busto in posizione verticale mentre tieni un bilanciere EZ sull\'impugnatura interna più vicina. Il palmo delle mani deve essere rivolto in avanti e dovrebbe essere leggermente inclinato verso l\'interno per la forma della sbarra. I gomiti devono essere vicino al tronco. Questa sarà la tua posizione di partenza.\n\n2. Tenendo le braccia ferme, solleva i pesi contraendo il bicipite mentre espiri. Suggerimento: devono muoversi solo gli avambracci.\n\n3. Continua questo movimento fino a quando i bicipiti saranno del tutto contratti e la sbarra si troverà al livello delle spalle. Tieni la posizione contratta per un secondo e fai lavorare al massimo il bicipite.\n\n4. Inizia lentamente a riportare la sbarra alla posizione di partenza, mentre inspiri.\n\n5. Ripeti l\'operazione per il numero di ripetizioni consigliato.</string>
+     
+    <string name="ex_name_17">Bilanciere su panca Scott</string>
+    <string name="ex_desc_17">1.Afferra la sbarra all\'incirca alla larghezza delle spalle.\n\n2. Solleva lentamente la sbarra fino a quando gli avambracci non saranno rivolti verso il soffitto (poco più di verticale).\n\n3. Stai fermo per un secondo e abbassa la sbarra ritornando nella posizione di partenza.</string>
+     
+    <string name="ex_name_18">Curl blocco inferiore</string>
+    <string name="ex_desc_18">1.Attacca una sbarra diritta al pulley in basso dei cavi.\n\n2. Poi, afferra la sbarra con una presa a larghezza spalle dal basso e tienila a distanza di un braccio proprio di fronte alle tue cosce.\n\n3. Le ginocchia devono essere leggermente piegate. Porta la sbarra verso il petto, fino a quanto ti è possibile, senza far muovere la parte superiore delle braccia.</string>
+     
+    <string name="ex_name_19">Curl su Scott</string>
+    <string name="ex_desc_19">1.Stando seduto, afferra una maniglia della macchina con la presa in basso, mettendo il gomito sulla tavola.\n\n2. Inspira e piega le braccia, sollevando la maniglia;\n\n3. Espira alla fine del movimento.</string>
+     
+    <string name="ex_name_20">Curl con un manubrio a martello</string>
+    <string name="ex_desc_20">1.Tieni un manubrio in ogni mano con i palmi delle mani e i pesi rivolti verso l’interno.\n\n2. Le braccia devono formare un angolo di 90 gradi.\n\n3. Tenendo il gomito vicino al corpo e in una posizione stabile, solleva il peso verso la spalla.\n\n4. Riporta lentamente i pesi alla posizione di partenza.</string>
+     
+    <string name="ex_name_21">Curl con manubri seduto</string>
+    <string name="ex_desc_21">1.Da seduto con la schiena dritta, afferra i manubri accanto a te con una presa dal basso. Tieni le braccia diritte.\n\n2. Solleva i manubri, mantenendo le braccia al proprio posto. Evita di utilizzare le spalle durante il movimento.\n\n3. Attendi per un secondo, poi ritorna alla posizione di partenza.</string>
+     
+    <string name="ex_name_22">Curl con manubri seduto su panca inclinata</string>
+    <string name="ex_desc_22">1.Siediti su una panca inclinata piatta con un manubrio in ogni mano tenuto a distanza di un braccio. I gomiti devono essere vicino al torso.\n\n2. Ruota i palmi delle mani in modo che si trovino di fronte al busto. Questa sarà la tua posizione di partenza.\n\n3. Tenendo fermo il braccio, solleva i pesi e inizia a ruotare i polsi una volta che i manubri passano le cosce, in modo che i palmi delle mani siano rivolti in avanti alla fine del movimento. Assicurati di contrarre i bicipiti mentre espiri e assicurati che si muovano solo gli avambracci. Continua questo movimento fino a quando i bicipiti saranno del tutto contratti e i manubri si troveranno al livello delle spalle. Tieni la posizione contratta per un secondo e fai lavorare al massimo il bicipite.\n\n4. Inizia lentamente a riportare i manubri alla posizione di partenza, mentre inspiri.\n\n5. Ripeti l\'operazione per il numero di ripetizioni consigliato.</string>
+     
+    <string name="ex_name_23">Curl con manubri in piedi</string>
+    <string name="ex_desc_23">1.Stai in piedi con i piedi al livello dei fianchi, addominali contratti, mentre tieni manubri medio-pesanti davanti alle cosce.\n\n2. Contrai i bicipiti e piega le braccia, portando i pesi verso le spalle. Tieni fermi i gomiti e porta il peso più in alto possibile senza spostare i gomiti.\n\n3. Abbassa lentamente il peso, piegando leggermente il gomito in basso (ad esempio, non bloccare le articolazioni e cerca di mantenere il muscolo in tensione).</string>
+     
+    <string name="ex_name_24">Calf raise da seduto</string>
+    <string name="ex_desc_24">1.Regola il cuscino in modo che gli stinchi siano rivolti verso l\'alto e il cuscino sia proprio sopra le ginocchia.\n\n2. Solleva il peso spingendo i talloni con le punte dei piedi.\n\n3. Abbassa lentamente i talloni fino a quando sentirai il muscolo del polpaccio in tensione. Per sollecitare i polpacci interni ed esterni, punta le dita dei piedi, rispettivamente, verso l\'interno e verso l\'esterno.</string>
+     
+    <string name="ex_name_25">Calf raise da seduto alla Smith machine</string>
+    <string name="ex_desc_25">1.Posiziona un blocco di circa 30 centimetri davanti a una panca piana.\n\n2. Siediti su una panca e metti l\'avampiede sul blocco.\n\n3. Chiedi a qualcuno di posizionare il bilanciere della macchina sopra le cosce, a circa 10 centimetri sopra le ginocchia e \ndi tenerlo. Questa sarà la tua posizione di partenza.\n\n4. Alza le dita dei piedi più in alto possibile, mentre contrai i polpacci ed espiri.\n\n5. Dopo una seconda contrazione, ritorna lentamente alla posizione di partenza. Suggerimento: per avere risultati migliori, allunga più che puoi i polpacci.\n\n6. Ripeti l\'operazione per il numero di ripetizioni consigliato.</string>
+     
+    <string name="ex_name_26">Calf raise in piedi con manubri</string>
+    <string name="ex_desc_26">1.Stai in piedi con il busto in posizione verticale tenendo in mano due manubri lungo i fianchi. Metti l\'avampiede su una tavola di legno robusto e stabile (alto circa 5-7 centimetri), mentre i talloni sporgono fuori e toccano il pavimento. Questa sarà la tua posizione di partenza.\n\n2. Con le dita rivolte in avanti (per allenare tutte le parti ugualmente), verso l\'interno (per concentrarsi sulla zona esterna) o verso l\'esterno (per una maggiore stimolazione sulla parte interna), solleva i talloni da terra mentre espiri contraendo i polpacci. Mantieni la contrazione superiore per un secondo.\n\n3. Mentre inspiri, torna alla posizione di partenza abbassando lentamente i talloni.\n\n4. Ripeti l\'operazione per il numero di ripetizioni consigliato.</string>
+     
+    <string name="ex_name_27">Calf raise alla Smith machine in piedi</string>
+    <string name="ex_desc_27">1.Posiziona un blocco o una piastra sotto la sbarra sulla Smith machine. Metti la sbarra nella posizione che ti è più comoda in base alla tua altezza. Una volta che avrai individuato l\'altezza giusta e la sbarra sarà stata caricata, mettiti sulle piastre con gli avampiedi e posizionare la sbarra sulla parte posteriore delle spalle.\n\n2. Prendi la sbarra con entrambe le mani rivolte in avanti. Ruotare la barra per toglierla dal supporto. Questa sarà la tua posizione di partenza.\n\n3. Solleva i talloni il più in alto possibile, spingendo dagli avampiedi, flettendo il polpaccio nella parte superiore della contrazione. Le ginocchia devono rimanere estese. Tieni la posizione contratta per un secondo prima di iniziare a tornare giù.\n\n4. Ritorna lentamente alla posizione di partenza, mentre inspiri.\n\n5. Ripeti l\'operazione per il numero di ripetizioni consigliato.</string>
+     
+    <string name="ex_name_28">Distensioni su panca con bilanciere</string>
+    <string name="ex_desc_28">1.Per eseguire correttamente le distensioni panca, è necessario sdraiarsi su una panca con i piedi sul pavimento. La sbarra, quando è appoggiata sul supporto, deve trovarsi leggermente dietro la tua testa. È importante che, per questo esercizio, ci sia qualcuno ad assistere, soprattutto se si utilizza una sbarra libera o dei manubri, per eliminare la possibilità che il peso cada su di te.\n\n2. Dopo aver sollevato il peso fuori dal supporto, la sbarra si troverà direttamente sopra il centro del petto.\n\n3. Tieni la testa sulla panca in qualsiasi momento durante il movimento. Una volta che la sbarra è stabile, abbassala lentamente più o meno al livello del torace, se riesci.\n\n4. Tieni le braccia puntate verso l\'esterno mentre scende la sbarra. Dopo aver completato movimento, spingi la sbarra di nuovo fino a una posizione estesa, concentrandoti a guidare la sbarra stessa verso l\'alto con il petto e le braccia.</string>
+     
+    <string name="ex_name_29">Distensioni su panca reclinata con manubri</string>
+    <string name="ex_desc_29">1.Metti le gambe all\'estremità della panca reclinata e sdraiati con un manubrio in ogni mano sulla parte superiore delle cosce. I palmi delle mani saranno l\'uno rivolto verso l\'altro.\n\n2. Una volta sdraiato, sposta i manubri di fronte a te alla larghezza delle spalle.\n\n3. Una volta alla larghezza delle spalle, ruota i polsi in avanti in modo che i palmi delle mani guardino dalla parte opposta rispetto a te. Questa sarà la tua posizione di partenza.\n\n4. Abbassa lentamente i pesi portandoli al tuo fianco mentre espiri. Mantieni il completo controllo dei manubri in ogni momento. Suggerimento: durante tutto il movimento, gli avambracci devono essere sempre perpendicolari rispetto al piano.\n\n5. Mentre espiri, spingi i manubri con i muscoli pettorali. Blocca le braccia in posizione contratta, sforza il petto, tieni la posizione per un secondo e poi inizia lentamente a scendere. Suggerimento: ci dovresti mettere il doppio del tempo a scendere rispetto a quello per salire.\n\n6. Ripeti il movimento per il numero di ripetizioni indicato dal tuo programma di allenamento.</string>
+     
+    <string name="ex_name_30">Croci con manubri su panca reclinata</string>
+    <string name="ex_desc_30">1.Metti le gambe all\'estremità della panca reclinata e sdraiati con un manubrio in ogni mano sulla parte superiore delle cosce. I palmi delle mani saranno l\'uno rivolto verso l\'altro.\n\n2. Una volta sdraiato, sposta i manubri di fronte a te alla larghezza delle spalle.\n\n3. Una volta alla larghezza delle spalle, ruota i polsi in avanti in modo che i palmi delle mani guardino dalla parte opposta rispetto a te. Questa sarà la tua posizione di partenza.\n\n4. Abbassa lentamente i pesi portandoli al tuo fianco mentre espiri. Mantieni il completo controllo dei manubri in ogni momento. Suggerimento: durante tutto il movimento, gli avambracci devono essere sempre perpendicolari rispetto al piano.\n\n5. Mentre espiri, spingi i manubri con i muscoli pettorali. Blocca le braccia in posizione contratta, sforza il petto, tieni la posizione per un secondo e poi inizia lentamente a scendere. Suggerimento: ci dovresti mettere il doppio del tempo a scendere rispetto a quello per salire.\n\n6. Ripeti il movimento per il numero di ripetizioni indicato dal tuo programma di allenamento.</string>
+     
+    <string name="ex_name_31">Press su panca reclinata</string>
+    <string name="ex_desc_31">1.Sdraiati sulla panca reclinata. Afferra il bilanciere con una presa dall\'alto.\n\n2. Abbassa il bilanciere verso il petto inferiore mantenendo i gomiti vicini al corpo. Il bilanciere dovrebbe toccare leggermente il petto alla fine del movimento.</string>
+     
+    <string name="ex_name_32">Press su panca con manubri</string>
+    <string name="ex_desc_32">1.Sdraiati sulla panca con i piedi sul pavimento per avere stabilità, le braccia estese verso l\'alto e le mani con i manubri l\'una verso l\'altra.\n\n2. Inspira e abbassa i manubri a livello del torace, piegando i gomiti e ruotando gli avambracci per portare la mano in pronazione.\n\n3. Riporta i manubri nuovamente in su e fai una contrazione isometrica per isolare le sollecitazioni sui pettorali; espira mentre completi il movimento.</string>
+     
+    <string name="ex_name_33">Croci con manubri</string>
+    <string name="ex_desc_33">1.Per eseguire le croci con manubri prendi in mano un peso relativamente leggero. Devi fare delle prove per individuare il peso giusto per eseguire le croci con manubri. Inizia con un peso più leggero quindi aumenta progressivamente.\n\n2. Sdraiati su una panca e solleva entrambi i manubri verso l\'alto sopra il petto con le braccia diritte. Questa sarà la tua posizione di partenza.\n\n3. Stendi entrambe le braccia verso l\'esterno in un ampio arco fino a quando le braccia saranno al livello dei tuoi fianchi. Le braccia possono essere leggermente piegate. Questa è la parte di esercizio in cui sembra che si sbattano le ali. In inglese, infatti, le croci sono denominate "flies".\n\n4. Segui lo stesso arco mentre ritorni indietro, fino a quando i manubri non saranno nuovamente alla posizione di partenza. Questa è una ripetizione delle croci con manubrio.</string>
+     
+    <string name="ex_name_34">Croci con manubrio su panca inclinata</string>
+    <string name="ex_desc_34">1.Per eseguire le croci con manubri prendi in mano un peso relativamente leggero. Devi fare delle prove per individuare il peso giusto per eseguire le croci con manubri. Inizia con un peso più leggero quindi aumenta progressivamente.\n\n2. Sdraiati su una panca inclinata e solleva entrambi i manubri verso l\'alto sopra il petto con le braccia diritte. Questa sarà la tua posizione di partenza.\n\n3. Stendi entrambe le braccia verso l\'esterno in un ampio arco fino a quando le braccia saranno al livello dei tuoi fianchi. Le braccia possono essere leggermente piegate. Questa è la parte di esercizio in cui sembra che si sbattano le ali. In inglese, infatti, le croci sono denominate "flies".\n\n4. Segui lo stesso arco mentre ritorni indietro, fino a quando i manubri non saranno nuovamente alla posizione di partenza. Questa è una ripetizione delle croci con manubrio.</string>
+     
+    <string name="ex_name_35">Press con manubri su panca inclinata</string>
+    <string name="ex_desc_35">1.Mettiti in posizione sedendoti sulla panca, tieni in mano i manubri e lasciali appoggiati sulle cosce. Mentre ti sdrai sulla panca, usa le cosce per aiutarti a spingere i manubri fino al petto.\n\n2. Poi raddrizza le braccia sopra il petto (mantenendo una leggera piegatura in corrispondenza del gomito), con i palmi rivolti in avanti. Tieni i piedi sul pavimento e la schiena in posizione neutra (non più di un leggero arco).\n\n3. Abbassa i manubri piegando i gomiti ai lati. Continua fino a quando i gomiti non saranno appena sotto le spalle. Quindi solleva nuovamente i manubri, avvicinandoli quando sono in alto (senza farli toccare), con un angolo leggermente verso l\'interno.\n\n4. Fai in modo che ci sia una leggera piegatura in corrispondenza dei gomiti, non farli bloccare. Ripeti fino a quando non avrai terminato le ripetizioni. Per alzarti, tieni i manubri vicino al petto, calcia in alto con le gambe e poi in avanti per darti lo slancio per metterti a sedere.</string>
+     
+    <string name="ex_name_36">Press su panca inclinata</string>
+    <string name="ex_desc_36">1.Questo esercizio è molto simile al normale press su panca con bilanciere, con la differenza che qui si prevede l\'utilizzo di una press machine con panca inclinata a peso libero e che a lavorare sarà la parte superiore del pettorale e non quella a metà.\n\n2. Solleva il bilanciere fuori dal supporto e abbassalo lentamente, portandolo a circa 7 centimetri sopra la clavicola (appena sotto il pomo d\'Adamo) e poi spingi la sbarra per farla tornare alla posizione di partenza.\n\n3. NON FAR TOCCARE LA SBARRA ALLA PARTE SUPERIORE DEL TORACE (questo provoca sollecitazioni non necessarie alle articolazioni delle spalle e rimuove la tensione da muscoli pettorali superiori, ossia quelli che vogliamo far lavorare!).\n\n4. Assicurati di abbassare la sbarra in modo lento e controllato. Al contrario, quando spingi la sbarra verso l\'alto, devi assicurarti di farlo in modo esplosivo.</string>
+     
+    <string name="ex_name_37">Flessioni</string>
+    <string name="ex_desc_37">1.Mettiti a pancia in giù con le braccia tese, i palmi delle mani sul pavimento e le mani alla larghezza delle spalle (o più ampie).\n\n2. Tieni i piedi uniti o leggermente allargati. \n\n3. Inspira e piega i gomiti per portare il busto vicino al pavimento, evitando estrema iperestensione della colonna vertebrale. \n\n4. Riportati nuovamente alla posizione di partenza con le braccia tese, espirando mentre completi il movimento.</string>
+     
+    <string name="ex_name_38">Curl di polso su panca con palmo in giù</string>
+    <string name="ex_desc_38">1.Siediti con gli avambracci appoggiati sulle cosce o su una panca. \n\n2. Prendi la sbarra con una presa dall\'alto con i polsi passivamente estesi. \n\n3. Inspira e solleva la sbarra con il polso. \n\n4. Espira mentre completi il movimento.</string>
+     
+    <string name="ex_name_39">Curl di polso su panca con bilanciere con palmo in su</string>
+    <string name="ex_desc_39">1.Siediti con gli avambracci appoggiati sulle cosce o su una panca. \n\n2. Prendi la sbarra con una presa dal basso con i polsi passivamente estesi. \n\n3. Inspira e solleva la sbarra con il polso. \n\n4. Espira mentre completi il movimento.</string>
+     
+    <string name="ex_name_40">Curl di polso in piedi con bilanciere dietro la schiena con palmo in su</string>
+    <string name="ex_desc_40">1.Prendi un bilanciere da dietro con una presa dal basso, mantenendo le braccia diritte. Appoggia il bilanciere in modo che poggi sulle dita estese. \n\n2. Fletti i polsi per sollevare il bilanciere il più in alto possibile. \n\n3. Inverti il movimento per abbassare il bilanciere.</string>
+     
+    <string name="ex_name_41">Affondi con bilanciere</string>
+    <string name="ex_desc_41">1.Inizia posizionando un bilanciere sulla parte superiore della schiena, utilizzando una presa dall\'alto leggermente più ampia rispetto le spalle.\n\n2. Stai in piedi con i piedi a distanza di circa 20 centimetri, le dita dei piedi rivolte in avanti.\n\n3. Fai un passo in avanti (60-90 centimetri) contraendo gli addominali e tenendo diritta la parte superiore del corpo.\n\n4. Abbassta lentamente il ginocchio, come se ti stessi inginocchiando, tenendo piegato l\'altro ginocchio con un angolo di 90 gradi; non lasciare che il ginocchio tocchi terra.\n\n5. Abbassa il corpo fino a che non sarà appena sopra il pavimento e attendi per un attimo prima di tornare alla posizione di partenza. Ripeti con l\'altra gamba.</string>
+     
+    <string name="ex_name_42">Squat con bilanciere</string>
+    <string name="ex_desc_42">1.Questo movimento è lo stesso degli squat tradizionali, ma le gambe sono piuttosto larghe con le dita dei piedi puntate verso l\'esterno. In particolare, vengono specificamente sollecitate le cosce interne. \n\n2. I muscoli coinvolti sono: - il quadricipite - tutti gli adduttori - i glutei - il gruppo dei muscoli ischiocrurali - tutti i muscoli sacrospinali.</string>
+     
+    <string name="ex_name_43">Affondi con manubri</string>
+    <string name="ex_desc_43">1.Stai in piedi con i manubri ai lati. \n\n2. Fai un affondo in avanti con la prima gamba. Atterra sul tallone poi sull\'avampiede. Abbassa il corpo flettendo il ginocchio e l\'anca della gamba anteriore fino a quando il ginocchio della gamba posteriore sarà quasi a contatto con il pavimento. \n\n3. Ritorna alla posizione di partenza in piedi, estendendo energicamente anca e ginocchio della gamba in avanti. Ripeti alternando l\'affondo con la gamba opposta.</string>
+     
+    <string name="ex_name_44">Squat frontale con bilanciere</string>
+    <string name="ex_desc_44">1.Posiziona il manubrio lungo i tuoi deltoidi anteriori, tieni le braccia parallele al pavimento, piega i gomiti, incrocia le dita, afferrare la sbarra, e guarda dritto.\n\n2. Inspira ed esegui lo squat.\n\n3. Ritorna al punto di partenza, espira mentre completi il movimento.</string>
+     
+    <string name="ex_name_45">Esercizio del buongiorno</string>
+    <string name="ex_desc_45">1.Tieni un bilanciere con una presa dall\'alto in modo che poggi sulla parte superiore della schiena e non sul collo. Metti i piedi alla larghezza delle spalle e piega leggermente le ginocchia, mantenendo la schiena diritta. \n\n2. Piegati in avanti a poco a poco utilizzando i fianchi per abbassare il petto, mantenendo allo stesso tempo un arco naturale nella parte bassa della schiena. Tieni su la testa e mantieni all\'incirca lo stesso angolo delle ginocchia.\n\n3. Solleva la parte superiore del corpo per ritornare alla posizione di partenza.</string>
+     
+    <string name="ex_name_46">Estensione delle gambe</string>
+    <string name="ex_desc_46">1.Solleva lentamente il peso estendendo entrambe le gambe verso l\'alto fino a che non saranno completamente protese. Non sollevare a scatti il peso. \n\n2. Mantieni questa posizione per un secondo. Abbassa lentamente il peso fino alla posizione di partenza. Ripeti il movimento.</string>
+     
+    <string name="ex_name_47">Leg press</string>
+    <string name="ex_desc_47">1.Siediti sulla macchina con la schiena e la testa contro il supporto imbottito. Posiziona i piedi sulla pedana a circa la larghezza dell\'anca, assicurandoti che i talloni siano piatti. \n\n2. Le gambe devono formare un angolo di circa 90 gradi con il ginocchio, con una piccola variante, in aumento o in diminuzione, fintanto che i talloni sono piatti sulla piastra. \n\n3. Le ginocchia devono essere in linea con i piedi e non devono essere piegate né verso l\'interno, né verso l\'esterno. Il sedere non deve essere sollevato dal sedile. \n\n4. Se invece è così e, inoltre, le gambe formano un angolo troppo stretto, allora dovrai regolare il sedile fino a quando non avrai trovato la posizione corretta. Potrai capire di non avere una posizione corretta quando le ginocchia sembrano essere davanti ai tuoi occhi e ti senti troppo schiacciato. Afferra le maniglie per aiutarti.</string>
+     
+    <string name="ex_name_48">Curl alle gambe da seduto</string>
+    <string name="ex_desc_48">1.Regola la leva della macchina adattando l\'attrezzo alla tua altezza e mettiti a pancia in giù sulla macchina per le parte gambe (solo pochi centimetri sotto i polpacci). \nSuggerimento: usa preferibilmente una macchina per le gambe che è inclinata, piuttosto che una che è piatta, dato che una posizione inclinata è migliore per sollecitare gli ischiocrurali. \n\n2. Tenendo il busto piatto sulla panca, assicurati che le gambe siano completamente distese e afferra le maniglie laterali della macchina. Metti in posizione diritta le dita dei piedi (oppure puoi anche usare una delle altre due posizioni descritte nella sezione posizionamento del piede). Questa sarà la tua posizione di partenza.\n3. Mentre espiri, solleva le gambe fino a quanto riesci, senza sollevare le gambe superiori dal cuscino. Una volta che avrai raggiunto la posizione completamente contratta, rimani fermo per un secondo. \n4. Mentre inspiri, riporta le gambe nella posizione iniziale. Ripeti l\'operazione per il numero di ripetizioni consigliato.</string>
+     
+    <string name="ex_name_49">Stacco rumeno</string>
+    <string name="ex_desc_49">1.Inizia in piedi mentre tieni una sbarra a lunghezza del braccio di fronte a te. Puoi stare su una piattaforma rialzata per aumentare il raggio di movimento.\n\n2. Inizia flettendo leggermente le ginocchia, e poi fletti l\'anca, spostando il sedere indietro, fino a quanto riesci, abbassando il busto quanto più ti è possibile. La schiena deve rimanere in estensione assoluta in ogni momento, e la sbarra deve rimanere a contatto con le gambe. Se fatto correttamente, dovresti sentire una forte tensione pesante nei muscoli posteriori della coscia.\n\n3. Inverti il movimento per ritornare alla posizione di partenza.</string>
+     
+    <string name="ex_name_50">Stacco con manubri a gambe ferme</string>
+    <string name="ex_desc_50">1.Afferra un paio di manubri tenendoli al tuo fianco a distanza di un braccio.\n\n2. Stai in piedi con il tuo busto diritto e le gambe distanziate alla larghezza delle spalle o a una distanza inferiore. Le ginocchia devono essere leggermente piegate. Questa sarà la tua posizione di partenza.\n\n3. Tenendo ferme le ginocchia, abbassa i manubri fino a sopra la parte superiore dei piedi piegandoti in corrispondenza della vita, mantenendo la schiena dritta. Continua ad andare avanti come stessi andando a raccogliere qualcosa da terra fino a quando non senti tensione sui muscoli posteriori della coscia. Espira mentre esegui questo movimento\n\n4. Inizia a portare nuovamente il busto in posizione eretta estendendo fianchi e vita fino a tornare alla posizione di partenza. Inspira mentre esegui questo movimento.\n\n5. Ripeti l\'operazione per il numero di ripetizioni consigliato.</string>
+     
+    <string name="ex_name_51">Arnold press con manubrio</string>
+    <string name="ex_desc_51">1.Siediti su una panca piana e tieni in mano un paio di manubri al livello delle spalle. I palmi delle mani devono essere rivolti verso l\'interno, e i gomiti devono puntare verso il pavimento.\n\n2. Ruota entrambi i polsi verso l\'esterno fino a quando i palmi delle mani non saranno rivolti dalla parte opposta rispetto a te. Allo stesso tempo, estendi completamente le braccia sopra la tua testa. Mantieni questa posizione per un secondo. Ritorna alla posizione di partenza.</string>
+     
+    <string name="ex_name_52">Piegato con manubri posteriore</string>
+    <string name="ex_desc_52">1.Stai in piedi mentre tieni un manubrio in ogni mano e con una panca inclinata di fronte a te.\n\n2. Tenendo la schiena dritta e mantenendo l\'arco naturale della schiena, piegati in avanti fino a quando la fronte non toccherà la panca di fronte a te. Lasciate che le braccia pendano di fronte a te perpendicolarmente al suolo. I palmi delle mani dovrebbero trovarsi l\'uno di fronte all\'altro e il busto dovrebbe essere parallelo al pavimento. Questa sarà la tua posizione di partenza.\n\n3. Mantenendo il busto in avanti e fermo, e le braccia tese con una leggera curva in corrispondenza del gomito, solleva i manubri di lato fino a quando entrambe le braccia non saranno parallele al pavimento. Espirare mentre sollevi i pesi. Attenzione: evita di muovere il busto o di portare le braccia indietro invece che a lato.\n\n4. Dopo una contrazione di un secondo al punto di elevazione massimo, abbassa lentamente i manubri riportandoli alla posizione di partenza.\n\n5. Ripeti l\'operazione per il numero di ripetizioni consigliato.</string>
+     
+    <string name="ex_name_53">Shoulder press con manubri</string>
+    <string name="ex_desc_53">1.Posizionati su una panchina o una sedia con la schiena dritta e in posizione verticale.\n\n2. Afferra un manubrio in ogni mano e tienili ad un\'ampiezza appena maggiore delle spalle, con i pollici rivolti l\'uno verso l\'altro. \n\n3. Spingi semplicemente i manubri sopra la testa e ritorna alla posizione di partenza, ad un\'ampiezza appena maggiore delle spalle.</string>
+     
+    <string name="ex_name_54">Manubri frontali</string>
+    <string name="ex_desc_54">1.Stai in piedi con i piedi leggermente divaricati. \n\n2. Tieni i manubri con i palmi verso il basso (presa dall\'alto), lasciando appoggiati i manubri sulle cosce o leggermente a lato.\n\n3. Inspira e solleva i manubri in avanti all\'altezza delle spalle.\n\n4. Espira mentre completi il movimento.</string>
+     
+    <string name="ex_name_55">Sollevamento laterale</string>
+    <string name="ex_desc_55">1.Stai in piedi con i piedi leggermente divaricati.\n\n2. Tieni la schiena diritta, le braccia lungo i fianchi, con un manubrio in ogni mano.\n\n3. Solleva il manubrio al livello della spalla, mantenendo i gomiti leggermente piegati. \n\n4. Ritorna alla posizione di partenza.</string>
+     
+    <string name="ex_name_56">Press sopra la testa</string>
+    <string name="ex_desc_56">1.In piedi, tieni un bilanciere dietro la testa all\'altezza delle spalle con le mani alla larghezza delle spalle, gomiti piegati, e i palmi rivolti in avanti.\n\n2 Solleva il bilanciere sopra la testa, estendendo completamente le braccia. Tieni la schiena dritta e resta in piedi per tutto il movimento.</string>
+     
+    <string name="ex_name_57">Croci al pectoral machine inverso</string>
+    <string name="ex_desc_57">1.Siediti ad un pectoral machine inverso rivolto verso il sostegno per la schiena con le braccia tese che afferrano la maniglia.\n\n2. Inspira e spingi indietro i gomiti, stringendo le tue scapole alla fine del movimento. \n\n3 Espira mentre completi il movimento.</string>
+     
+    <string name="ex_name_58">Military press in piedi</string>
+    <string name="ex_desc_58">1.In piedi, tieni un bilanciere contro la parte superiore del petto con le mani alla larghezza delle spalle, gomiti piegati, e i palmi rivolti in avanti.\n\n2 Solleva il bilanciere sopra la testa, estendendo completamente le braccia. Tieni la schiena dritta e resta in piedi per tutto il movimento.</string>
+     
+    <string name="ex_name_59">Tirate al mento con bilanciere</string>
+    <string name="ex_desc_59">1.Stai in piedi con i piedi leggermente divaricati. Tieni la schiena diritta.\n\n2. Prendi la sbarra con le mani da sopra, tenendo le mani stesse ad una spanna l\'una dall\'altra o leggermente più ampie:\n\n3. Inspira e tira su il bilanciere verso l\'alto fino a che non si troverà a contatto con il ​​mento. \n\n4. Solleva i gomiti il più in alto possibile al punto massimo del movimento. \n\n5. Espira e abbassa lentamente il bilanciere ritornando al punto di partenza.</string>
+     
+    <string name="ex_name_60">Press su panca con bilanciere presa stretta</string>
+    <string name="ex_desc_60">1.Posizionati su un normale press machine con panca piana libera da pesi. \n\n2. Sdraiati sulla schiena e afferra il bilanciere sopra di te con una presa molto stretta. \n\n3. Ricordati di avere una presa larga 15-20 centimetri. Solleva il bilanciere fuori dal supporto e abbassalo lentamente fino a circa 7 centimetri sopra il petto e poi spingi la sbarra fino alla posizione di partenza. \n\n4. Assicurati di concentrarti su come tenere i gomiti verso il tuo corpo per tutto il movimento completo.</string>
+     
+    <string name="ex_name_61">Piegamenti a diamante</string>
+    <string name="ex_desc_61">1.Mettiti nella ​​posizione standard per i piegamenti, ma con le mani posizionate direttamente sotto il petto con le dita indice e pollice allargate e che si toccano, in modo da formare un "diamante".\n\n2. Tieni la schiena piatta mentre abbassi il corpo fino a quando il torace sarà quasi a contatto con le mani.\n\n3. Fermati, poi spingiti nuovamente fino alla posizione di partenza.</string>
+     
+    <string name="ex_name_62">Dip</string>
+    <string name="ex_desc_62">1.Per mettersi nella posizione di partenza, tieni il corpo a distanza di un braccio con le braccia quasi bloccate sopra le sbarre.\n\n2. Ora, inspira e abbassati lentamente verso il basso. Il busto deve rimanere in posizione eretta e i gomiti devono rimanere vicini al corpo. Questo ti aiuta a concentrarti meglio sul coinvolgimento del tricipite. Abbassati finché non si sarà formato un angolo di 90 gradi tra la parte superiore del braccio e dell\'avambraccio.\n\n3. Quindi, espira e solleva nuovamente il busto utilizzando i tricipiti per riportare il corpo alla posizione di partenza.\n\n4. Ripeti il movimentoper il numero di ripetizioni indicato.</string>
+     
+    <string name="ex_name_63">Estensione dei tricipiti in piedi con manubrio</string>
+    <string name="ex_desc_63">1.Stai fermo in piedi e afferra un manubrio con entrambe le mani e tienilo sopra la testa a distanza di un braccio. Suggerimento: è meglio se qualcun altro te lo consegna, soprattutto se è molto pesante. La resistenza dovrebbe trovarsi sui palmi delle mani con i pollici intorno ad essa. Il palmo della mano deve essere rivolto verso l\'interno. Questa sarà la tua posizione di partenza.\n\n2. Tenendo le braccia vicine alla testa (gomiti tesi) e perpendicolari al pavimento, abbassa la resistenza in un movimento semicircolare dietro la testa fino a quando gli avambracci non toccheranno i bicipiti. Suggerimento: le braccia devono rimanere ferme e solo gli avambracci devono muoversi. Inspira mentre esegui questa operazione.\n3. Torna alla posizione di partenza utilizzando il tricipite per sollevare il manubrio. Espira mentre esegui questa operazione.\n\n4. Ripeti l\'operazione per il numero di ripetizioni consigliato.</string>
+     
+    <string name="ex_name_64">French press con bilanciere EZ</string>
+    <string name="ex_desc_64">1.Posiziona la sbarra sopra gli occhi, tenendo i tricipiti sotto una certa tensione, con le braccia sono distese. \n\n2. Ora, tieni le braccia fisse nella posizione distesa, mentre pieghi i gomiti e consenti al peso di scendere, sotto controllo, verso la fronte.</string>
+     
+    <string name="ex_name_65">French press con bilanciere EZ da seduto</string>
+    <string name="ex_desc_65">1.Siediti su una panca e afferra un bilanciere. Tienilo in modo che si trovi alla distanza di un braccio sopra la testa con entrambi i palmi rivolti verso l\'interno.\n\n2. Tieni stabili le braccia mentre abbassi il bilanciere dietro la testa fino a quando gli avambracci saranno appena paralleli al pavimento.\n\n3. Fermati, poi raddrizzare le braccia per far ritornare i manubri alla posizione di partenza.</string>
+     
+    <string name="ex_name_66">French press con bilanciere EZ in piedi</string>
+    <string name="ex_desc_66">1.Stai in piedi con i piedi divaricati alla larghezza delle spalle e afferra un bilanciere. Tienilo in modo che si trovi alla distanza di un braccio sopra la testa con entrambi i palmi rivolti verso l\'interno.\n\n2. Tieni stabili le braccia mentre abbassi il bilanciere dietro la testa fino a quando gli avambracci saranno appena paralleli al pavimento.\n\n3. Fermati, poi raddrizzare le braccia per far ritornare i manubri alla posizione di partenza.</string>
+     
+    <string name="ex_name_67">Pushdown tricipiti con presa inversa</string>
+    <string name="ex_desc_67">1.Stai in piedi di fronte alla macchina con le mani sulla sbarra e i gomiti contro i tuoi fianchi.\n\n2. Inspira e raddrizza le braccia, ma non staccare i gomiti dal fianco. \n\n3. Espira mentre completi il movimento.</string>
+     
+    <string name="ex_name_68">Estensione tricipiti sopra la testa con cavo</string>
+    <string name="ex_desc_68">1.Fissa un cavo a un pulley basso. Dopo aver selezionato un peso appropriato, afferra la corda con entrambe le mani e guarda dalla parte opposta rispetto al cavo.\n\n2. Posiziona le mani dietro la testa con i gomiti che puntano verso l\'alto. I gomiti devono iniziare in posizione flessa, e poi potrai regolare la tua posizione e sbilanciarsi delicatamente dalla parte opposta della macchina per avere una maggiore stabilità. Questa sarà la tua posizione di partenza.\n\n3. Per eseguire il movimento, estendi le braccia attraverso i gomiti, mantenendo in posizione la parte superiore del braccio, alzando le mani sopra la testa.\n\n4. Fai lavorare i tricipiti alla fine del movimento e abbassa lentamente il peso indietro ritornando alla posizione di partenza.</string>
+     
+    <string name="ex_name_69">Pushdown tricipiti</string>
+    <string name="ex_desc_69">1.Stai in piedi di fronte alla macchina con le mani sulla sbarra e i gomiti contro i tuoi fianchi. \n\n2. Inspira e raddrizza le braccia, ma non staccare i gomiti dal fianco. \n\n3. Espira mentre completi il movimento.</string>
+
+    <string name="Abs">Addominali</string>
+    <string name="Back">Dorso</string>
+    <string name="Biceps">Bicipiti</string>
+    <string name="Calf">Polpacci</string>
+    <string name="Chest">Petto</string>
+    <string name="Forearms">Avambracci</string>
+    <string name="Legs">Gambe</string>
+    <string name="Shoulders">Spalle</string>
+    <string name="Triceps">Tricipiti</string>
+
+    <string name="day">Giorno</string>
+    <string name="round">Turno</string>
+    <string name="day1">2 giorni alla settimana</string>
+    <string name="day2">3 giorni alla settimana</string>
+    <string name="day3">4 giorni alla settimana</string>
+    <string name="restorePurchases">Ripristina l\'acquisto</string>
+    <string name="textUpgrade">Fai l’upgrade alla versione Premium per sbloccare 50 nuovi esercizi e rimuovere gli annunci.</string>
+    <string name="one_day_ADS1">1 giorno SENZA ANNUNCI</string>
+    <string name="one_day_ADS2">GUARDA VIDEO SPONSORIZZATO</string>
+    <string name="upgrade">FAI L’UPGRADE ORA</string>
+    <string name="free">Gratuito</string>
+    <string name="tell_friend">Dillo a un amico</string>
+    <string name="send_feedback">Invia feedback</string>
+    <string name="rate_app">Valutaci</string>
+    <string name="facebook">Condividi l\'applicazione su Facebook</string>
+    <string name="twitter">Condividi app su Twitter</string>
+    <string name="ic_googleplay">Le nostre altre app</string>
+    <string name="ic_settings_">Impostazioni</string>
+    <string name="social_follow">Rimani connesso con VGFIT</string>
+    <string name="reminder">Promemoria</string>
+    <string name="daily_reminder">Promemoria giornaliero</string>
+    <string name="frequency">Frequenza</string>
+    <string name="after_days">Dopo %1$s giorni di inattività</string>
+    <string name="menu_bt">Pulsante Menu</string>
+    <string name="units">unità</string>
+    <string name="purch_restored">Gli acquisti in-app sono stati ripristinati</string>
+    <string name="success">Successo!</string>
+
+    <string name="work_1">Fitness per principianti</string>
+    <string name="work_2">Fitness per la trasformazione del corpo</string>
+    <string name="work_3">Fitness generale</string>
+    <string name="work_4">Muscoli antagonisti</string>
+    <string name="work_5">tessi muscoli</string>
+    <string name="work_6">Triserie</string>
+    <string name="work_2header">Supersets</string>
+    <string name="work_1header">Allenamento</string>
+
+    <string name="doneKey">Fatto</string>
+    <string name="editKey">Modifica</string>
+    <string name="intervalsKey">Intervalli</string>
+    <string name="myWorkoutsKey">I miei workout</string>
+    <string name="pauseKey">Pausa</string>
+    <string name="resetKey">Reset</string>
+    <string name="resumeKey">Riprendi</string>
+    <string name="roundsKey">Round</string>
+    <string name="startKey">Avvia</string>
+    <string name="currentsetkey">Impostazioni attuali</string>
+    <string name="resttimekey">Tempo di riposo</string>
+    <string name="worktimekey">Tempo di allenamento</string>
+    <string name="minkey">Min</string>
+    <string name="seckey">Sec</string>
+
+    <string name="one_time_payment">pagamento unico</string>
+    <string name="get_lifetime_access">OTTIENI ACCESSO ILLIMITATO</string>
+    <string name="_3_days_for_free">7 giorni GRATUITI</string>
+    <string name="get_workouts_courses_with_powerful_support">Ottieni allenamenti pronti al 100% con una solida assistenza!</string>
+    <string name="only_now">Solo ora</string>
+    <string name="start_your_positive_transformation_today">Inizia oggi \nla tua trasformazione!</string>
+    <string name="try_it_now">Provalo ora</string>
+    <string name="_3_day_nfree_trial">3-giorni \nProva gratuita</string>
+    <string name="_7_day_nfree_trial">7-giorni \nProva gratuita</string>
+    <string name="new_workoutsN">Nuovi \nallenamenti</string>
+    <string name="month">/mese</string>
+    <string name="year">/anno</string>
+    <string name="monthly_slim">Мensile</string>
+    <string name="after">dopo</string>
+    <string name="nutritionPlanName2">PERDITA PESO</string>
+    <string name="nutritionPlanName1">AUMENTO MUSCOLATURA</string>
+    <string name="nutrition_plans">Programmi nutrizionali</string>
+    <string name="title_11">Esercizi</string>
+</resources>

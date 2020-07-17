@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="name1">Gegrillte Zitrone–Dijon–Hähnchenschenkel mit Rucola–Salat</string>
+    <string name="ingredients1">4 (110 g) hautlose, knochenlose Hähnchenschenkel \n\n½ TL Salz \n\n¼ TL gemahlener schwarzer Pfeffer \n\n2,5 EL Olivenöl \n\n2 TL Zitronensaft \n\n1 TL gehackter Knoblauch \n\nKochspray \n\n1 EL Balsamico–Essig \n\n1 TL Honig \n\n1 Tasse Traubentomaten, halbiert \n\n1 (150 g) Paket Baby–Rucola</string>
+    <string name="steps1">Hühnchen mit ¼ Teelöffel Salz und 1/8 Teelöffel Pfeffer bestreuen. Mischen Sie das Hähnchen mit 1 – 1,5 Teelöffel Öl, Zitronensaft, Senf und Knoblauch in einer Schüssel, gut darin marinieren. 4 Minuten stehen lassen. Eine Grillpfanne bei mittlerer Hitze erhitzen. Pfanne mit Kochspray einsprühen. Hühnchen in die Pfanne geben, für 5 Minuten oder bis durch auf jeder Seite braten. Hähnchen in ½ cm dicke Scheiben schneiden. Guten Appetit!</string>
+
+
+    <string name="name3">Orange–Honig–Sriracha–Huhn</string>
+    <string name="ingredients3">0,1 kg/0,25 Pfund Hühnerbrust \n\n1/8 EL Sesamöl \n\n12,5 g Srirachasoße \n\nSalz \n\nPfeffer</string>
+    <string name="steps3">Stellen Sie Ihren Grill oder Backofen auf 375 °F/190 °C. In einer verschließbaren Plastiktüte den Inhalt für die Marinade geben und gut vermengen. Marinade abschmecken und nach Wunsch würzen. Geben Sie das Huhn in die Marinade und legen Sie es mindestens 30 Minuten in den Kühlschrank. Dann nehmen Sie das Huhn aus dem Kühlschrank und legen Sie es auf den Grill. Für ca. 15 bis 20 Minuten grillen, bis die Säfte aus dem Hühnchen klar sind. Guten Appetit!</string>
+
+
+    <string name="name6">Chili Fajitas</string>
+    <string name="ingredients6">1 Pfund hautlose Hühnerbrust \n\n½ grüner, roter und gelber Paprika, dünn geschnitten \n\n⅓ Tasse Wasser \n\n2 TL Sojasoße \n\n1 Prise Salz \n\n1 Prise schwarzer Pfeffer \n\n2 EL Olivenöl \n\n1 große Zwiebel, dünn geschnitten</string>
+    <string name="steps6">Alle Zutaten für die Marinade sowie das Huhn in einen Behälter geben und mindestens 2 Stunden kühlen. Das Fleisch aus der Marinade nehmen und bei mittlerer Flamme für 4 – 5 Minuten auf jeder Seite grillen. Fleisch in dünne Streifen schneiden. Für die Sauce 2 EL Wasser, 1 TL Sojasoße, ¼ TL Limettensaft, eine Prise Salz, eine Prise schwarzer Pfeffer und 1 EL Olivenöl vermengen. Guten Appetit!</string>
+
+
+    <string name="name10">BBQ Hühnchen mit Spargel umhüllt</string>
+    <string name="ingredients10">2 Hühnerbrüste dünn geschnitten, je 100 g. \n\n12 Spargelspitzen  \n\n2 EL BBQ–Sauce \n\n1 Prise geräucherter Paprika \n\n1 Prise Knoblauchpulver \n\n1 Prise Pfeffer</string>
+    <string name="steps10">Backofen auf 400 °F/200 °C vorheizen. Das Hühnchen mit einem Schlägel flachklopfen. Hähnchenschnitzel mit 1 EL BBQ–Sauce (für jedes Stück) und Gewürzen nach Wunsch würzen. Hühnchen nach oben auf den Grill geben. Im Ofen backen oder auf einem Grill ca. 8 bis 10 Minuten räuchern. Guten Appetit!</string>
+
+
+    <string name="name16">Pilz– und Spinat–Omelett</string>
+    <string name="ingredients16">1 EL Olivenöl \n\n½ Tasse gehackte Schalotten \n\n3 Knoblauchzehen, gehackt \n\n1 (250 g) Packung geschnittene weiße Pilze \n\n1 Thymianzweig \n\n6 Unzen frische Babyspinat \n\nSalz \n\ngemahlener schwarzer Pfeffer \n\n8 große Eier</string>
+    <string name="steps16">Erhitzen Sie eine Pfanne bei mittlerer Hitze. Öl in die Pfanne geben. Schalotten, Knoblauch, Pilze und Thymian hinzufügen. Spinat hinzufügen, anbraten, bis die Flüssigkeit fast verdampft ist. Mischen Sie eine Prise Salz und Pfeffer sowie 4 Eier in einer kleinen Schüssel, mit einem Schneebesen rühren. Pfanne auf mittlere Hitze zurückstellen. Eiermischung dazugeben und 1 Minute kochen lassen. Heben Sie Kanten des Omeletts mit einem Spatel auf und drehen Sie es auf die andere Seite. Guten Appetit!</string>
+
+
+    <string name="name20">Teriyaki–Huhn mit Brokkoli</string>
+    <string name="ingredients20">2 Tassen Brokkoli–Rosen \n\n1 große gewürfelte Hühnerbrust \n\n1 EL Öl \n\nSalz und Pfeffer \n\n1 geschnittenen Paprika \n\n2 Tassen gekochter brauner Reis \n\n¼ Tasse leichte Sojasoße \n\n2 EL Reisweinessig \n\n1 Knoblauchzehe, gehackt \n\n½ TL Sesamöl \n\n¼ TL gemahlener Ingwer</string>
+    <string name="steps20">Eine große Pfanne bei mittlerer Hitze erhitzen. Hähnchen dazugeben, mit Salz und Pfeffer würzen und kochen, bis es nicht mehr rosa ist. Die Zutaten für die Teriyaki–Sauce in einer Schüssel vermengen. Brokkoli–Rosen und Paprika in die Pfanne geben. Teilen Sie das Huhn mit Brokkoli passend für 4 Mahlzeiten auf. Mit Sesamkörnern bestreuen und abdecken. Guten Appetit!</string>
+
+
+    <string name="name30">Leinsamen–Hafermehl mit Heidelbeeren</string>
+    <string name="ingredients30">3 Tassen Wasser \n\n2 Tassen Haferflocken \n\n3 EL Boden Leinsamen \n\n1/8 TL Salz \n\n¼ Tasse Vollmilch \n\n1 Tasse Heidelbeeren \n\n1 EL Heidelbeerkonserven \n\n½ TL geriebene Zitronenschale \n\n1 EL Zitronensaft</string>
+    <string name="steps30">Bringen Sie 3 Tassen Wasser zum Kochen. Rühren Sie die Haferflocken ein und fügen Sie die Leinsamen und Salz hinzu. Reduzieren Sie die Hitze auf mittel–niedrig, weich kochen bei häufigem Umrühren. Milch und Butter einrühren. Geben Sie inzwischen die Blaubeeren und nächsten 4 Zutaten in eine Mikrowellenschüssel, bei hoher Wattzahl für 1,5 Minuten in die Mikrowelle geben, alle 30 Sekunden umrühren. Die Haferflocken auf 4 Schüsseln aufteilen, mit Heidelbeeren und Pekannüssen garnieren. Guten Appetit!</string>
+
+
+    <string name="name37">Würzige &amp; leichte Kung Pao Hühnchen–Mahlzeit</string>
+    <string name="ingredients37">150 g Hühnerbrust \n\n1/6 Knoblauchzehe \n\n33 g gefrorene Erbsen \n\n150 g Paprika \n\n2/3 EL Wasser \n\n⅓ EL Tomatensoße \n\n1/6 EL frischer Ingwer \n\n1/6 EL rote Paprikapfeffersoße \n\n1/6 EL Reisessig \n\ngehackte grüne Zwiebel</string>
+    <string name="steps37">Zutaten für die Soße in eine Schüssel geben und mit einem Schneebesen verrühren. Eine Pfanne auf mittlere Hitze erhitzen und mit Olivenöl besprühen. Wenn die Pfanne heiß ist, geben Sie Knoblauch dazu und braten ihn für ca. 2 Minuten an. Dann gehackte Hähnchenbrust hinzufügen. Hähnchen braten, bis die Außenseite braun ist, ca. 6 bis 8 Minuten. Gehackte Paprika dazu geben und für ca. 3 Minuten anbraten. Langsam in die Sauce gießen und häufig umrühren. Guten Appetit!</string>
+
+
+    <string name="name40">Gesunde fruchtige Haferflocken</string>
+    <string name="ingredients40">½ Tasse Hafer \n\n1 Tasse Wasser \n\n1 EL Honig \n\n1 EL Vanilleextrakt \n\n½ TL gemahlener Zimt \n\n¼ Tasse Heidelbeeren \n\n4 geschnittene Erdbeeren \n\n½ Banane, in Scheiben geschnitten</string>
+    <string name="steps40">Wasser und Hafer in einer Mikrowellenschüssel verrühren. Mikrowelle auf Hoch, bis die Haferflocken das Wasser absorbiert haben. Honig, Vanilleextrakt und gemahlenen Zimt einrühren. Geben Sie die Blaubeeren dazu, mit Bananen– und Erdbeerscheiben garnieren. Guten Appetit!</string>
+
+
+    <string name="name41">Smoothie mit Kiwi, Orangen und Spinat</string>
+    <string name="ingredients41">ein große Handvoll Spinat \n\n2 Kiwi \n\neine Mango \n\nSaft einer Orange</string>
+    <string name="steps41">Waschen Sie den Spinat, schneiden Sie die Wurzeln ab. Die Mango und die Kiwis waschen, dann in kleine Stücke schneiden. Alle Zutaten in einem Mixer schlagen, bis Sie einen Smoothie haben. Guten Appetit!</string>
+
+
+    <string name="name42">Räucherlachs–Guacamole</string>
+    <string name="ingredients42">1 Avocado \n\n57 g geräucherter Lachs \n\n17 g rote Zwiebel, gehackt \n\n2 EL gehackter Koriander \n\n2 EL griechischer Joghurt \n\nPfeffer</string>
+    <string name="steps42">Die Avocados in einer Schüssel pürieren und alle Zutaten dazugeben. Mit Senf, Kreuzkümmel, Zitronensaft, griechischem Joghurt und Pfeffer nach Geschmack würzen. Guten Appetit!</string>
+
+
+    <string name="name43">Mageres Spiegelei und Avocado–Toast</string>
+    <string name="ingredients43">2 Eier \n\n2 geröstete Brotscheiben \n\n1 kleine Avocado \n\n1 TL Limettensaft \n\nSalz \n\nschwarzer Pfeffer \n\nPetersilie</string>
+    <string name="steps43">Bereiten Sie den Toast und das Spiegelei nach persönlicher Präferenz zu. Avocado schälen und mit dem Limettensaft, Salz und Pfeffer mischen. Avocado gleichmäßig auf jeder Scheibe Toast geben und dann jeweils mit einem Spiegelei belegen und nach Ihren Wünschen zusätzlich würzen. Guten Appetit!</string>
+
+
+    <string name="name44">Süßer roter Pre–Workout–Smoothie</string>
+    <string name="ingredients44">1 roter Apfel \n\n½ Rübe \n\n1 Stange Sellerie \n\n3 Erdbeeren \n\n¼ einer Banane \n\ngrüner Tee (optional) \n\n41g Himbeeren \n\n1 TL Ingwer (optional)</string>
+    <string name="steps44">Geben Sie alle Zutaten in einen Mixer. Einfach für ca. 1 Minute pürieren, um sicherzustellen, dass keine Stücke mehr übrig sind und dann cremig pürieren. Einfach als Snack trinken. Guten Appetit!</string>
+
+
+    <string name="name45">In Knoblauch gebratener Spargel mit Parmesan</string>
+    <string name="ingredients45">1 Pfund frischer Spargel \n\n2 EL Olivenöl \n\n3 EL geriebener Parmesan \n\nKnoblauchzehen, gehackt \n\nSalz und Pfeffer</string>
+    <string name="steps45">Die Spargelenden abschneiden. Den Spargel in die Pfanne geben, mit Salz und Pfeffer würzen und in das Olivenöl geben. Legen Sie den Spargel in einer Reihe auf den Grill. Für 5–10 Minuten bei mittlerer Hitze grillen, bis sie Grillmarkierungen aufweisen und weich sind. Guten Appetit!</string>
+
+
+    <string name="name46">Hausgemachtes Pesto mit Garnelen und Zucchini&#8211;Pasta</string>
+    <string name="ingredients46">• 12 frisches Basilikum\n• 7,5 g roher Spinat\n• 7,5 g Walnüsse\n• 20 ml Olivenöl\n• &#189; EL Parmesan\n• &#188; Zitronensaft\n• &#188; Knoblauchzehe\n• Salz\n• Pfeffer\n• 42 g gekochte Garnelen\n• &#188; Zucchini\n• 2 Kirschtomaten geschnitten</string>
+    <string name="steps46">In einem Food&#8211;Mixer die Zutaten für das Pesto pürieren. Mit einem Spiralizer die rohen Zucchini zu Linguine schneiden. Pesto&#8211;Sauce mit den Zucchini&#8211;Linguine vermengen und mit Zangen unterheben. Fügen Sie nach Wunsch eine Eiweißquelle wie gegrillte Garnelen oder Hühnchen hinzu und dann die gehackten Kirschtomaten. Guten Appetit!</string>
+
+
+    <string name="name47">Gewürzter Beeren–Haferflocken–Auflauf</string>
+    <string name="ingredients47">150 g Haferflocken (gekocht) \n\n49 g Heidelbeeren \n\n50 g Brombeeren \n\n3 EL gehackte Walnüsse \n\n½ EL Kokosöl \n\n¼ TL Kurkuma \n\n¼ TL Piment \n\n1 Packung Stevia Marke \"In The Raw\" Marke \n\n1 Prise Zimt \n\n1 EL Müsli</string>
+    <string name="steps47">Kochen Sie die Haferflocken nach Anleitung. Beiseite legen. Eine Antihaft–Pfanne auf mittlere Hitze, Kokosöl hinzugeben. Lassen Sie die Pfanne heiß werden. Beeren dazugeben. Die Beeren mit einer Prise Zimt würzen und rühren. Entfernen Sie die Beeren von der Hitze und lassen Sie die Sauce verdicken. Sehr gut mischen und wenn gewünscht noch etwas mehr Zimt dazugeben. Gießen Sie den warmen Beeren–Sirup auf die Haferflocken. Für etwas Knusprigkeit mit frischem Müsli garnieren. Guten Appetit!</string>
+
+
+    <string name="name48">Pfirsich&#8211;Banane</string>
+    <string name="ingredients48">• 1 Banane\n• 2 Pfirsiche\n• &#189; Tasse Vanille Mandelmilch\n• &#189; Tasse Eiswürfel\n• &#188; TL Zimt\n• Honig (optional)</string>
+    <string name="steps48">Schälen und schneiden Sie frische Pfirsiche und Bananen. Alle Zutaten in einen Mixer geben. Honig hinzugeben und mixen, um den Smoothie nach Wunsch süßer zu machen. Guten Appetit!</string>
+
+
+    <string name="name49">Gebratenes Huhn &amp; Ananas</string>
+    <string name="ingredients49">110 g Hühnerbrust, 4 \n\n40 g Ananas \n\n120 g brauner Reis \n\n⅓ EL Olivenöl \n\n½ TL brauner Senf \n\n1/6 EL geräucherter Paprika \n\nMeersalz \n\nPfeffer</string>
+    <string name="steps49">Die rohen Hühnerbrüste in kleine Stücke hacken. Die Hühnerstücke mit geräuchertem Paprika und braunem Senf würzen. Olivenöl in eine Pfanne geben und Hühnerbruststücke dazu geben. Für ca. 4 Minuten anbraten, bis Huhn zu 80 % durch ist, dann gehackte Paprika hinzufügen. Weitere 2 – 3 Minuten braten und dann die gewürfelte Ananas hinzufügen. Guten Appetit!</string>
+
+
+    <string name="name50">Kräutertee</string>
+    <string name="ingredients50">• 1 Tasse Wasser\n• 1 Teelöffel geriebener frischer Ingwer\n• 1 Teelöffel geriebene Zitronenschale\n• 1 Teelöffel Limettensaft\n• 3 Blätter frische Minze</string>
+    <string name="steps50">Bringen Sie Wasser in einem Topf zum Kochen und geben Sie die restlichen Zutaten dazu. Kochen und rühren, bis der Tee infundiert ist. Guten Appetit!</string>
+
+
+    <string name="name51">Pilz– und Tomaten–Omelett</string>
+    <string name="ingredients51">4 Eiweiß \n\n1 Ei \n\n½ Tasse fettarmer Hüttenkäse \n\n½ Tasse geschnittene Pilze \n\n½ gehackte Tomate</string>
+    <string name="steps51">Eier zusammengeben und leicht schlagen. Mit einem Kochspray kochen Sie die Eier in einer Antihaft–Pfanne. Fügen Sie den Hüttenkäse, die Pilze und die Tomaten in der Mitte des Omeletts hinzu. Kochen, bis die Eier durch sind und umklappen. Guten Appetit!</string>
+
+
+    <string name="name52">Veganer Avocado&#8211;Bananen&#8211;Schokoladenpudding</string>
+    <string name="ingredients52">• 3 Tassen Spinat\n• 2 EL Zitronensaft\n• 2 TL Ingwer\n• 2 Birnen\n• Minze</string>
+    <string name="steps52">Alle Zutaten in einen Mixer geben und pürieren, bis eine cremige Konsistenz erreicht ist. Guten Appetit!</string>
+
+
+    <string name="name53">Gegrillter mexikanischer Mais</string>
+    <string name="ingredients53">4 Maiskolben \n\n1,5 Tassen saure Sahne \n\n1 Tasse geriebener Parmesan \n\n1 Limetten, Saft \n\nrotes Chilipulver \n\n2 in Keile geschnittene Limetten zum Garnieren</string>
+    <string name="steps53">Den Mais auf einem heißen Grill bei einmal Umdrehen grillen, bis er leicht verkohlt. In einer kleinen Schüssel die Mayonnaise, Sauerrahm und Koriander mischen. Limettensaft über dem Mais auspressen und mit Parmesan würzen. Mit Chili–Pulver bestreuen. Guten Appetit!</string>
+
+
+    <string name="name54">Ananas–Kiwi</string>
+    <string name="ingredients54">4 EL Wasser \n\n½ Tasse Milch \n\n½ Tasse Joghurt \n\n1,5 EL Honig \n\n1 Kiwi–Frucht, geschält \n\n1 Tasse Ananasstücke \n\n½ Mango \n\n2 Eiswürfel</string>
+    <string name="steps54">Alle Zutaten bei niedriger Geschwindigkeit mixen, bis alles dick und glatt ist. Guten Appetit!</string>
+
+
+    <string name="name55">Grüner Tee mit Zitrone und Honig</string>
+    <string name="ingredients55">• 1 Zitronenscheibe\n• 2 Teelöffel Grünteepulver\n• 3/4 Tasse heißes Wasser\n• &#189; Tasse Grapefruitsaft\n• 3 EL Zitronensaft\n• 1 TL Honig</string>
+    <string name="steps55">Rühren das Grünteepulver in das heiße Wasser. Fügen Sie den Grapefruitsaft, Zitronensaft und Honig hinzu. Gut mischen und mit einer Zitronenscheibe servieren. Guten Appetit!</string>
+
+
+    <string name="name56">Gegrillte Garnelen&#8211; &amp; Avocado&#8211;Spieße</string>
+    <string name="ingredients56">• 450 g Jumbo&#8211;Garnelen\n• 1,5 Avocados\n• 1 roter Paprika\n• 1 orange Paprika\n• 1 gelber Paprika\n• 1 rote Zwiebel\n• 1 TL Knoblauchpaste\n• &#189; EL extra natives Olivenöl\n• 1 Limette\n• Salz, Pfeffer</string>
+    <string name="steps56">Stellen Sie Ihren Grill auf ca. 400 °F/ 200 °C. Hacken Sie das Gemüse und die Avocado in große Stücke für die Spieße. Garnelen schälen und würzen. Wählen Sie faseriges Gemüse, da es satter macht und eher gut auf einem Spieß bei intensiver Hitze hält. Legen Sie die Spieße auf den Grill und braten Sie sie für ca. 8&#8211;10 Minuten, dann umdrehen und weitere 8 bis 10 Minuten braten. Guten Appetit!</string>
+
+
+    <string name="name57">Sandwich mit würzigem gegrillten Huhn &amp; Ei</string>
+    <string name="ingredients57">• 140 g Hühnerbrust, roh\n• 1 Ei\n• 30 g Rucola\n• &#189; Roma&#8211;Tomate\n• 1 EL Ziegenkäse\n• 1 Vollkornbrötchen\n• Kokosölspray\n• 1 TL geräucherter Paprika\n• &#189; TL Cayennepfeffer\n• Salz\n• Pfeffer</string>
+    <string name="steps57">Die Hähnchenbrust mit Paprika, Cayenne, Kreuzkümmel, Meersalz und Pfeffer würzen. Vollkornbrot in einem Toaster wie gewünscht toasten. Kokosöl in eine Pfanne geben und Herd auf mittlere bis hohe Hitze einstellen. Geben Sie die Hähnchenbrust in die Pfanne und braten, bis die Hühnerbrust vollständig durch ist. Fügen Sie Rucola, Tomate, Ziegenkäse, Huhn und dann das Ei hinzu. Guten Appetit!</string>
+
+
+    <string name="name58">Golden–Glow–Elixier</string>
+    <string name="ingredients58">2 Äpfel \n\n4 mittlere geschälte Orangen \n\n1 geschälte Zitrone \n\n5 – 7 cm langer geschälter frischer Ingwer \n\n5 cm lange frische geschälte Kurkuma, \n\n2 Tassen kaltes Wasser \n\n1 Handvoll Eis</string>
+    <string name="steps58">In einem High–Speed–Mixer alle Zutaten zu einem Smoothie pürieren, geben Sie wenn nötig noch etwas Wasser dazu. Ein hochleistungsfähiger Mixer macht daraus einen cremigen Saft. Wenn Sie statt einem Smoothie lieber einen Saft daraus machen möchten, dann können Sie das gerne tun, die Ballast– und Nährstoffe bleiben erhalten. Guten Appetit!</string>
+
+
+    <string name="name59">Gerolltes Bison&#8211;Omelette</string>
+    <string name="ingredients59">• 1 Ei\n• 3 Eiweiß\n• 110 g mageres faschiertes Bisonfleisch\n• 30 g roher Spinat\n• 58 g Paprika\n• 14 g Mozzarella&#8211;Käse gerieben\n• Knoblauchpulver\n• gemahlener Kümmel\n• Salz\n• Pfeffer</string>
+    <string name="steps59">Bisonfleisch würzen und in einer Antihaft&#8211;Pfanne anbraten. In einer Schüssel Eier mit einer Prise Meersalz und Pfeffer zusammenrühren. Eine separate Antihaft&#8211;Pfanne bei mittlerer Hitze auf den Herd geben. Die Ei&#8211;Mischung hineingeben und wie ein Omelette zubereiten. Pfanne zudecken, damit das Ei durchgekocht wird. Guten Appetit!</string>
+
+
+    <string name="name60">Papaya</string>
+    <string name="ingredients60">2 mittlere Papayas, entkernt &amp; gehackt \n\n1 Tasse Himbeeren \n\n¼ kleine Ananas \n\nIngwer \n\n1 Tasse Milch \n\n2 EL griechischer Joghurt \n\n1,5 Eiswürfel \n\nBeeren als Topping</string>
+    <string name="steps60">Die Zutaten in einen Mixer geben. Zu einem Smoothie mixen. Guten Appetit!</string>
+
+
+    <string name="name61">Lavendel&#8211;Minze&#8211;Tee</string>
+    <string name="ingredients61">• &#188; Tasse frische Lavendelblüten\n• 1 Tasse frische Minzeblätter\n• 4 Tassen Wasser</string>
+    <string name="steps61">Lavendelblüten und Minze in einen Topf geben, Wasser dazu gießen und zum Kochen bringen. Hitze zurückdrehen und den Tee 15 bis 20 Minuten bis zur gewünschten Stärke kochen. Guten Appetit!</string>
+
+
+    <string name="name62">Gesunde Shrimps– &amp; Veggie–Pasta</string>
+    <string name="ingredients62">170 g Garnelen \n\n1 Zucchini \n\n2 Karotten \n\n½ Knoblauchzehe gehackt \n\n¼ rote Zwiebel gehackt \n\n1 EL Sojasoße wenig Natrium \n\n¼ Orangensaft \n\n½ EL Sesamöl</string>
+    <string name="steps62">Sie benötigen einen Julienne–Schäler, um die Zucchini und Karotten zu Gemüse–Nudeln zu schneiden. Als nächstes fügen Sie 1 Esslöffel Sojasoße hinzu. Dann den Apfelessig dazu geben und den Saft aus ¼ Orange. Schließlich noch ½ EL Sesamöl hinzufügen. Setzen Sie eine Pfanne auf mittlere Hitze und sprühen Sie sie mit Kokosöl ein. Knoblauch und rote Zwiebel hinzufügen. Garnelen in die Pfanne geben und schnell mit einem Löffel verrühren, um sicherzustellen, dass alle Garnelen den Geschmack des Knoblauchs und der Zwiebeln aufnehmen. Guten Appetit!</string>
+
+</resources>

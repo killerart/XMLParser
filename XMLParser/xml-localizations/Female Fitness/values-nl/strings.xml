@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Women Fitness Miss Bikini</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">Oefeningen</string>
+    <string name="title_2">Trainingen</string>
+    <string name="title_3">Aangepast</string>
+    <string name="title_4">Geschiedenis</string>
+    <string name="title_5">Meer</string>
+    <string name="done">Gedaan</string>
+    <string name="back">Terug</string>
+    <string name="titles">Titel:  </string>
+    <string name="downl_vid">Video Downloaden</string>
+    <string name="please_wait">Even geduld...</string>
+    <string name="cancel">Afbreken</string>
+    <string name="edit">Wijzigen</string>
+    <string name="work">Mijn Training</string>
+    <string name="create_plus">Om een nieuwe training te maken druk +</string>
+    <string name="save">Opslaan</string>
+    <string name="workout_name">Training Naam:</string>
+    <string name="days_title">Dag Nummer:</string>
+    <string name="delete">Verwijderen</string>
+    <string name="work_title">Training Titel:</string>
+    <string name="options">Opties:</string>
+    <string name="camera">Camera/Galerij</string>
+    <string name="ex_phot_title">Oefeningen Foto’s</string>
+    <string name="name_desc">Naam, Beschrijving</string>
+    <string name="ex_name">Oefening Naam:</string>
+    <string name="desc">Beschrijving:</string>
+
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+
+    <string name="blanck">Vul het tekstveld in, aub</string>
+    <string name="okey">Ok</string>
+    <string name="realy_cancel">Wil je het downloaden echt afbreken? Alles wordt dan gewist!</string>
+    <string name="download_all">Download alle video’s</string>
+    <string name="unzip">Bestanden uitpakken</string>
+    <string name="files">Bestanden</string>
+    <string name="dow_video">Video’s Downloaden</string>
+    <string name="video_saved">Alle video’s zijn met succes opgeslagen!</string>
+    <string name="conn">Controleer je WiFi of telefoon=internetverbinding!</string>
+
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+
+    <string name="start">Start</string>
+    <string name="weight">Gewicht(kg)</string>
+    <string name="repetitions">Herhalingen</string>
+    <string name="set_s">Set seconds</string>
+    <string name="wei">Gewicht</string>
+    <string name="rep">Herhalingen</string>
+    <string name="wei_rep">Prestatie</string>
+    <string name="no_history">Er zijn nog geen oefeningen gedaan</string>
+    <string name="last_val">Laatste waarden</string>
+    <string name="send_f">Verstuur Feedback</string>
+    <string name="rep_bug">Meldt een fout</string>
+    <string name="tel_fr">Vertel een Vriend</string>
+    <string name="rate_us">Beoordeel ons</string>
+    <string name="ad">Toevoegen</string>
+
+    <string name="exit">Weet je het zeker?</string>
+    <string name="sdcard">Geen SD kaart!!</string>
+    <string name="post_to">Op muur plaatsen</string>
+    <string name="not_loged">Niet gelogd</string>
+    <string name="log_fail">Login mislukt</string>
+    <string name="posting">Wordt gepost </string>
+    <string name="posting_succes">Succesvol gepost</string>
+    <string name="email_sent">Email verstuurd</string>
+    <string name="email_notsent">Email niet verstuurd</string>
+
+
+    <string name="reps1">3 sets en 12/12/12 herhalingen</string>
+    <string name="reps2">3 sets en 15/15/15 herhalingen</string>
+    <string name="reps3">3 sets en 20/20/20 herhalingen</string>
+    <string name="reps4">3 sets en 30/30/30 herhalingen</string>
+
+    <string name="app_name_fast">Fitness &amp; Bodybuilding</string>
+    <string name="wk1">Je lichaam heeft de neiging wat extra lichaamsvet op te slaan in je heupen, armen en borstpartij met veel minder vet in je onderlichaam. Kom snel in vorm met kracht gecombineerd met oefeningen voor het bovenlichaam.</string>
+    <string name="wk2">Je bent recht en hebt maar weinig rondingen. Geef je lichaam wat meer vorm in je middel en vorm je lichaam met deze trainingen voor rechte banaanvormige lichaamstypes.</string>
+    <string name="wk3">Je borstpartij en heupen zijn groter dan je middel. Voeg wat extra spiermassa toe en vorm je armen en benen met deze training voor prachtrondingen.</string>
+    <string name="wk4">Je hebt brede schouders en smalle heupen. Verstevig de middenpartij, en geef je heupen en dijen wat meer vorm met deze omgekeerde driehoek training.</string>
+    <string name="wk5">Je bent aan de onderkant wat breder dan aan de bovenkant. Verstevig je armen en schouders, en krijg overal een strakker lichaam met onze peer-vriendelijke</string>
+    <string name="dialog_future">Je kunt geen data invoeren voor toekomstige datums!</string>
+    <string name="info">Kies je feitelijke lichaamsvorm.</string>
+
+    <string name="ex_guide_1">Appel</string>
+    <string name="ex_guide_2">Banaan</string>
+    <string name="ex_guide_3">Zandloper</string>
+    <string name="ex_guide_4">Omgekeerde Driehoek</string>
+    <string name="ex_guide_5">Peer</string>
+    <string name="ex_name_1">Gymnastiekbal Draaiende Kraker</string>
+    <string name="ex_desc_1">Voorbereiding: Ga op de Gymnastiekbal zitten. Loop naar voren met de voeten zodat je op de bal komt liggen met je schouders en hoofd hangend en knieen en heupen gebogen. Buig dan langszaam de rug en neem met de rug de vorm van de bal aan. Houdt met beide handen een gewicht achter de nek of boven de borst vast of doe het zonder gewicht. Buig je taille om je bovenlichaam omhoog te brengen. Ga terug naar beginpositie. Herhaal de oefening.</string>
+    <string name="ex_name_2">Gymnastiekbal gehoekt gestrekt</string>
+    <string name="ex_desc_2">Leg een gymnastiekbal vlak bij je en ga op de gron liggen steunend op de handen, armen gestrekt zoals een opdrukhouding. Leg nu het onderste deel van je schenen op de bal. Tip: Op dit moment moet je lichaam recht zijn van je schenen tot aan de schouders terwijl je handen en armen in de opdrukhouding staan. Dit is je uitgangspositie: -Terwijl je je rug recht houdt en je bovenlichaam stabiel, breng je je billen omhoog naar het plafond, knijp hierbij je buikspieren samen om een zo klein mogelijke afstand te creëren tussen je borst en je heupen. Het resultaat zal zijn dat je een soort hoge brug-positie hebt. -Uitademen bij het doen van dit deel van de oefening. Verlaag dan langszaam je rug om weer inademend naar je uitgangspositie terug te gaan. Tip: Laat je rug niet doorzakken. Herhaal de oefening het aanbevolen aantal keren.</string>
+    <string name="ex_name_3">Tenen Aanraken</string>
+    <string name="ex_desc_3">Om te beginnen ga je plat met je rug op een oefenmat liggen. De armen gestrekt naast je lichaam, handpalmen op de vloer. De benen gesloten. Breng dan langszaam je benen omhoog, loodrecht op de vloer en buig je knieën in 90 gradenstand. Terwijl je je rug vlak op de vloer houdt breng je je schouderpartij omhoog en probeer met je handen je tenen aan te raken. Vergeet vooral niet uit te ademen bij dit deel van de oefening. Breng dan langszaam, terwijl je inademt, je schouders en armen terug naar de beginpositie. Buig de armen niet, maar houdt ze gestrekt naar je tenen gericht. Herhaal de oefening het aanbevolen aantal keren.</string>
+    <string name="ex_name_4">Benen Intrekken</string>
+    <string name="ex_desc_4">Om te beginnen ga je plat met je rug op een oefenmat liggen. De armen gestrekt naast je lichaam, handpalmen op de vloer. De benen gesloten. Dit is de uitgangspositie: - Breng dan, terwijl je uitademt, je schouderpartij omhoog, maar houdt je rug recht. - Buig dan je knieën en breng je heuppartij omhoog terwijl je uitademt. Ga door tot je knieën boven je borst zijn. - Trek de buikspieren samen terwijl je dit deel van de oefening doet en houdt die positie even vast. Tip: Bij deze oefening moeten de onderbenen altijd parallel aan de vloer blijven. - Ga dan terug naar de uitgangspositie terwijl je inademt. Herhaal de oefening het aanbevolen aantal keren.</string>
+    <string name="ex_name_5">Gestrekt &amp; Opdrukken (Op-Neer gestrekt)</string>
+    <string name="ex_desc_5">Begin deze oefening in een opdrukpositie met de armen gestrekt en een recht lichaam. Handen dienen zich onder de schouders te bevinden, benen recht en de romp strak (positie 1). Houdt deze positie 15 seconden vast. Ga dan langszaam naar de volgende positie door de armen een voor een te buigen en op de ellebogen te steunen, het lichaam nog steeds kaarsrecht. Houdt ook deze positie 15 seconden vast (positie 2). Ga dan terug naar de hoge positie met gestrekte armen.</string>
+    <string name="ex_name_6">Berg Beklimmer</string>
+    <string name="ex_desc_6">Neem eerst een opdrukpositie aan met de armen volledig gestrekt. Het lichaan moet een rechte lijn vormen van hoofd tot enkels [A]. Zonder je onder-rug te bewegen til je je rechtervoet van de vloer en beweeg je je rechterknie naar je borst toe [B]. Dan terug naar de startpositie en herhaal de oefening met het andere been. Wissel dit af gedurende de hele oefeningsduur.</string>
+    <string name="ex_name_7">Liggend Zijwaarts Kraken</string>
+    <string name="ex_desc_7">Lig op je rechterzij met je linkerhand op zijkant van je hoofd, benen licht gebogen en op elkaar. Til dan je romp op en weer omlaag, je rechterelleboog gebruikend voor de stabilitiet. Pauseer even en dan terug naar de startpositie.</string>
+    <string name="ex_name_8">V-Up</string>
+    <string name="ex_desc_8">Lig plat op de grond en strek je armen boven je hoofd. De handen hoeven niet samen te zijn voor deze oefening. Langszaam maar gecontroleerd breng je nu gelijktijdig je armen en benen omhoog en laat ze samenkomen boven je heupen. Strek je dan weer langszaam naar de uitgangspositie Blijf te allen tijde naar het plafond kijken.</string>
+    <string name="ex_name_9">Bankje Springen</string>
+    <string name="ex_desc_9">Begin met een bankje ongeveer 30 tot 60 centimeter voor je. Je voeten op schouderbreedte uit elkaar. Dit is je startpositie: - Hurk dan even om je voor te bereiden op de sprong; zwaai je armen naar achter. - Spring dan, je lichaam strekkend en je heupen, knieën en enkels gebruikend zo hoog mogelijk. - Zwaai je armen naar voren en omhoog. - Spring over het bankje en landt met de knieën gebogen om de krachten op te vangen. - Draai je om, gezicht naar de andere kant en herhaal de oefening.</string>
+    <string name="ex_name_10">Zittend Kabel Roeien</string>
+    <string name="ex_desc_10">Voor deze oefening dien je de beschikking te hebben overeen lage kabel-trekmachine met een v-staaf. De V-Staaf geeft je de mogelijkheid om een neutrale grip te hebben waar de handpalmen naar elkaar toe wijzen. Om in startpositie te komen ga je op de machine zitten en plaats je voeten op het voorste platform of steun zodat je knieën licht gebogen zijn en niet op slot. Leun dan voorover met een natuurlijke rugkromming en neem de v-staaf vast. Met gestrekte armen trek je die nu totdat je romp een 90 graden hoek vormt met je benen. Je rug moet licht naar achter gebogen zijn en je borst vooruit. Je zou nu een lichte maar plezierige spanning in de rugspieren moeten voelen. Dit is de startpositie voor deze oefening: - Hoedt je romp op zijn plaats, trek de v-staaf naar je toe met de armen naast je lichaam tot je je buik raakt. - Uitademen terwijl je dit doet. Op dat moment moeten je rugspieren flink gespannen zijn. - Houdt die positie even vast ga dan langszaam terug naar de startpostie terwijl je inademt. Herhaal de oefening het aantal voorgeschreven keren. Let Op: Vermijdt het slingeren van je romp omdat dit letsel in je onderrug kan veroorzaken.</string>
+    <string name="ex_name_11">Brede-Grip Staaf Omlaag Trekken</string>
+    <string name="ex_desc_11">Neem plaats op een trekmachine met een brede staaf aan de bovenste kabel bevestigd. Wees er zeker van dat je het kniekussen op de juiste hoogte afstelt. Dit kussen zal je lichaam vasthouden en niet omhoog laten trekken door de krachten van de machine. Neem de staaf nu vast in een bovenhandse grip (handpalmen naar beneden) in de voorgeschreven grip. Voor een brede grip moeten de handen verder dan schouderbreedte uit elkaar zijn. Medium grip is op schouderbreedte. Een small grip is op minder dan schouderbreedte. Als je nu de staaf in de vereiste grip vast hebt met gestrekte armen breng je je romp ongeveer 30 graden achterover, de rug licht gebogen en de borst vooruit. Dit is je uitgangspositie: - Terwijl je uitademt breng je de staaf naar beneden totdat die je borst raakt door je bovenarmen en schouders naar beneden en naar achter te bewegen. Tip: Concentreer je op het samentrekken van de rugspieren op het eindpunt van deze oefening. - Je bovenlichaam moet in dezelfde positie blijven en alleen je armen mogen bewegen. - Je onderarmen en polsen mogen niets anders doen dan de staaf vasthouden, probeer dus niet de staaf te trekken met de onderarmen. Na heel even vast te hebben gehouden met de schouderbladen naar elkaar toe getrokken laat je de staaf weer langszaam naar de startpositie terugkeren, inademend terwijl je dat doet, je armen weer gestrekt en je rugspieren gestrekt. herhaal de hele oefening het voorgeschreven aantal keren.</string>
+    <string name="ex_name_12">Hyperextensies (Rug Oefeningen)</string>
+    <string name="ex_desc_12">Ga met de buik op een hyperextensiebank liggen, je enkels verankerd onder de voetenkussens. Verstel de bovenste steunen dusdanig dat je dijen vlak op het brede kussen liggen en zodanig dat er nog voldoende ruimte voor je is om zonder problemen voorover te kunnen buigen. Houdt je lichaam helemaal recht en kruis je armen voor je of achter je hoofd. Dit zal je uitgangspositie zijn: Tip: je kunt eventueel ook een gewicht voor je vasthouden voor extra weerstand tussen je gekruiste armen en je borst. - Begin door langszaam voorwaarts te buigen maar houdt je rug recht. - Uitademen terwijl je dit uitvoert. - Blijf voorwaarts bewegen totdat je een strekking voelt in de achillespezen en je niet verder kunt zonder de rug te buigen. Tip: Buig de rug nooit bij deze oefening. Sommige mensen kunnen verder buigen dan anderen. Het belangrijkste is dat je zover gaat als jou lichaam dat toestaat zonder de rug te krommen. - Ga dan langszaam terug naar de startpositie terwijl je inademt. Tip: vermijdt de rug hol te maken maar ga naar een rechte lijn. En slinger ook nooit met je romp om rugletsel te vermijden. Herhaal de gehele oefening het opgegeven aantal keren.</string>
+    <string name="ex_name_13">Geholpen Optrekken</string>
+    <string name="ex_desc_13">Stap op en neem de stang breed bovenhands vast. Ga op een steunplatform staan. Sommige machines vereisen dat je er op knielt. Als je geen assistentie-machine gebruikt vraag dan hulp bij een trainingspartner om je voeten op te tillen tot achter je benen of trek jezelf op met opgetrokken benen. Als je grip te breed is zal dat de beweging verminderen.</string>
+    <string name="ex_name_14">Voorover Gebogen twee Gewichten Tillen</string>
+    <string name="ex_desc_14">Met een halter in elke hand (handpalmen naar het lichaam gericht) buig je licht de knieën en buig je je lichaam naar voren op heuphoogte; terwijl je dit doet houdt je de rug recht totdat die ongeveer parallel is aan de vloer. Tip: vergewis je ervan dat je recht vooruit blijft kijken met de kin omhoog. De gewichten hangen voor je loodrecht naar de vloer gericht en naar je lichaam. Dit is je startpositie: - Houdt je lichaam stil en breng dan alleen de gewichten naar de zijkanten van je lichaam terwijl je uitademt, maar houdt je ellebogen dicht langs je lichaam. je onderarmen en polsen houden alleen de gewichten vast, geen kracht ermee zetten dus. - Op het hoogste punt van deze oefening moet je je rugspieren iets aanspannen en even vasthouden. - Laat dan de gewichten weer langszaam naar de beginpositie zakken terwijl je inademt. Herhaal deze oefening het aantal voorgeschreven keren. Pas Op: Deze oefening is NIET geschikt voor mensen met rugproblemen. Een lage katrol trekmachine is een beter instrument voor hen. Verzeker je van de juiste rugpositie en krom je rug nooit om rugblessure te vermijden. Wees ook voorzichtig met de zwaarte van de gewichten. Bij twijfel gebruik je beter iets lichtere dan de zwaardere.</string>
+    <string name="ex_name_15">Goedemorgen Halter Beweging</string>
+    <string name="ex_desc_15">Deze oefening wordt om veiligheidsredenen beter uitgevoerd in een squat rack. Begin met een voor jou lengte geschikte halter in het rek te plaatsen. Als de juiste hoogte bepaald is en de halter geplaatst, ga je er onder staan met je schouders (net iets onder je nek) er tegen aan. Neem de halter dan met beide handen vast en til die uit het rek door eerst met je benen te tillen en dan je lichaam te rechten. Stap van het rek weg en plaats je voeten op schouderbreedte uit elkaar. Kijk steeds recht voor je uit, houdt je kin steeds omhoog, omdat als je omlaag kijkt je je balans zult verliezen en tevens om een rechte rug te houden. Dit is nu je startpositie: Houdt je benen stil en op zijn plaats, buig je lichaam in de heupen naar voren terwijl je inademt. - Breng je lichaam tot in horizontale positie. - Breng dan langszaam al uitademend de halter weer omhoog en breng je lichaam weer in de uitgangspositie. Herhaal de oefening het aantal voorgeschreven keren.  Pas Op: Dit is geen oefening die je ‘wel eventjes doet’. Ben voorzichtig met het gewicht wat je kiest; neem liever een iets lichtere halter als je twijfelt. De Goedemorgen Halter Beweging is een erg veilige oefening maar alleen als die goed wordt uitgevoerd.</string>
+    <string name="ex_name_16">Omgekeerde Flyes</string>
+    <string name="ex_desc_16">Om te beginnen ga je liggen op een hellende bank met buik en borst op de bank. Houdt de gewichten in je handen met de handpalmen naar elkaar gericht (neutrale grip). Strek je armen naar voren zodat ze een hoek vormen van 90 graden met de bank. Je benen moeten stevig staan met wat druk op de tenen. Dit is je startpositie: - Terwijl je een lichte kromming van de ellebogen handhaaft breng je de gewichten naar buiten en uit elkaar in een vloeiende ronde beweging terwijl je uitademt. Tip: Probeer je schouderbladen naar elkaar te bewegen voor het beste resultaat bij deze oefening. - Je armen moeten in horizontale positie met de vloer komen. - Voel de spanning in de spieren en laat dan langszaam de gewichten weer zakken tot je lichaam weer in startpositie is terwijl je inademt. herhaal de oefening het voorgeschreven aantal keren.</string>
+    <string name="ex_name_17">Een-Arm Halter beweging</string>
+    <string name="ex_desc_17">Kies een vlakke bank voor deze oefening en leg aan elke kant een halter klaar. Plaats dan je rechterbeen op het eind van de bank, buig je lichaam voorwaarts vanuit de heup totdat je bovenlichaam parallel is met de vloer en zet je rechterhand op de bank voor ondersteuning. Neem met je linkerhand de halter van de vloer en houdt het gewicht vast terwijl je je rug recht houdt. De handpalm moet naar binnen gericht zijn. Dit is dan je uitgangspositie: - Breng het gewicht dan recht omhoog terzijde van je borst, maar houdt je bovenarm vlak bij je lichaam en houdt je bovenlichaam stabiel op zijn plaats. Adem uit terwijl je dit doet. Tip: Concentreer je op het spannen van de rugspieren zodra het gewicht in bovenste positie is. Vergewis je ervan dat die kracht uitgevoerd wordt met de rugspieren, niet met je armen. Tenslotte dient je lichaam steeds in een stabiele positie blijven en alleen de armen moeten bewegen. Laat je bovenarmen het werk doen, je onderarmen en polsen houden alleen het gewicht vast; probeer dus niet het gewicht met de onderarm te tillen. - Breng dan langszaam het gewicht weer omlaag terwijl je inademt. Herhaal de oefening het aanbevolen aantal keren.\cf0  \cf2 Verander dan van positie om de andere arm aan de beurt te laten komen. Variaties: Deze Een-arm halterbeweging kan ook gedaan worden op een hoge of lage katrolmachine in plaats van met gewichten.</string>
+    <string name="ex_name_18">Halter Biceps Krul</string>
+    <string name="ex_desc_18">Voor deze oefening sta je rechtop met in elke hand een halter langs je lichaam. Houdt je ellebogen dicht tegen je lichaam en draai je handen zodat de handpalmen naar voren wijzen. Dit is nu je startpositie: - Terwijl je de bovenarmen stil en op zijn plaats houdt til je de gewichten op door de biceps aan te spannen terwijl je uitademt. - Ga door met tillen totdat je biceps volledig zijn gespannen en de gewichten op schouderhoogte zijn. - Houdt deze stand even vast en knijp de biceps samen. - Dan, terwijl je inademt, laat je langszaam de gewichten weer zakken en ga je terug naar de startpositie. Herhaal deze oefening het aantal voorgeschreven keren.</string>
+    <string name="ex_name_19">Grote Halter Krul</string>
+    <string name="ex_desc_19">Voor deze oefening sta je rechtop met een recht lichaam terwijl je een grote halter onderhands op schouderbreedte voor je vasthoudt. Houdt de ellebogen dicht tegen je lichaam aan. Dit is je uitgangspositie: - Terwijl je je bovenarmen op zijn plaats houdt til je de halter op met gebruik van je biceps terwijl je uitademt. Tip: Alleen je onderarmen bewegen. - Ga door met de beweging totdat je biceps volledig gespannen zijn en de halter op schouderhoogte is. - Houdt dit even vast en knijp de biceps even samen. - Laat dan de halter weer langszaam zakken naar de uitgangspositie terwijl je inademt. Herhaal deze oefening het aantal aanbevolen keren.</string>
+    <string name="ex_name_20">Zittende Halter Krul</string>
+    <string name="ex_desc_20">Houdt een halter op schouderbreedte onderhands vast terwijl je op het eind van een bankje zit met de halter op je dijen. Je rug moet recht zijn, je kijkt recht naar voren en je voeten staan stevig op de vloer. Dit is je Zittende Halter Krul uitgangspositie: - Terwijl je je bovenarmen op zijn plaats houdt langs je lichaam, adem je in en breng je de halter omhoog tot die op schouderhoogte is en de biceps volledig gespannen. - Houdt dit even vast, knijp de biceps samen en laat de halter dan gecontroleerd weer langszaam zakken naar de uitgangspositie terwijl je uitademt.</string>
+    <string name="ex_name_21">Halter Krul op een Schuine Bank</string>
+    <string name="ex_desc_21">Ga met de buik op een schuine bank liggen, met onderhands in je handen een halter, je armen recht omlaag. Dit is je uitgangspositie: - Terwijl je je bovenarmen stil houdt, beweeg je met je onderarmen de halter zo hoog mogelijk door alleen door je biceps samen te trekken. Je doet dit terwijl je uitademt. Tip: Alleen de onderarmen bewegen in dit deel van de oefening, de bovenarmen blijven waar ze zijn. - Na even vasthouden ga je langszaam gecontroleerd terug naar de startpositie terwijl je inademt. Tip: vergewis je ervan dat je helemaal naar beneden gaat en je armen laat hangen. Herhaal de oefening het aanbevolen aantal keren. Variaties: je kunt deze oefening ook doen met gewichten of met een E-Z bar.</string>
+    <string name="ex_name_22">Staande Biceps Krul met kabel</string>
+    <string name="ex_desc_22">Je staat rechtop terwijl je een staaf onderhands (handpalmen naar boven) vasthoudt die bevestigd is aan een lage katrol. Houdt de staaf op schouderbreedte vast en houdt je ellebogen dicht tegen je lichaam. Dit zal je startpositie zijn: Terwijl je je bovenarmen niet beweegt, krul je de staaf naar boven door de biceps samen te spannen en adem je uit. Alleen de onderarmen bewegen. ga door met deze beweging totdat de staaf op schouderhoogte is. Houdt die positie even vast en knijp de spieren even samen. - Breng dan, terwijl je inademt, de staaf weer langszaam en gecontroleerd naar de startpositie. Herhaal de oefening het aantal voorgeschreven keren. Variaties: Je kunt voor deze oefening ook een E-Z bar gebruiken of aparte handgrepen.</string>
+    <string name="ex_name_23">Billen oefening</string>
+    <string name="ex_desc_23">Ga geknield op de vloer of oefenmat zitten en zet je armen loodrecht onder de schouders op de grond. Richt je gezicht naar voren en je kin omhoog. Knieën in een 90 graden positie, net als je heup/bovenbenen en armen-schouders. Dit is nu je uitgangspositie: terwijl je uitademt breng je nu je rechterbeen omhoog tot die in een lijn is met je romp. Hierbij houdt je de 90 graden hoek in de knie vast. - Span je bilspieren bij deze oefening en houdt de stand even vast op het hoogste punt. Tip: je bovenbeen moet parallel aan de vloer zijn en onderbeen steekt recht omhoog. - ga terug naar de uitgangspositie terwijl je inademt en vervolg de oefening hetzelfde met je andere been. - Ga door met deze oefening tot je het aantal aanbevolen herhalingen hebt gedaan. Variaties: Je kunt ook eerst het aantal herhalingen doen met het eerste been en daarna alle met het andere been. Verder kun je nog enkelgewichten aanbrengen.</string>
+    <string name="ex_name_24">Een-beens Billen Brug</string>
+    <string name="ex_desc_24">Ga op de vloer liggen met je voeten op een bankje en je knieën gebogen. Til een been op en breng de knie naar je borst. Dit is de uitgangspositie: Voer de oefening uit door je lichaam op te tillen door de hiel te gebruiken en je heup omhoog te brengen en de billen los van de grond te krijgen. - ga zo hoog als je maar kunt en ga dan langszaam terug naar de uitgangspositie.</string>
+    <string name="ex_name_25">Een stijf been Deadlift</string>
+    <string name="ex_desc_25">Sta rechtop, met de voeten gesloten en de handen voor je dijen. Til een been iets op zodat de voet vrij komt van de vloer. Buig je lichaam nu naar voor terwijl je je losse been naar achter en omhoog beweegt. Houdt hierbij je rug recht en de knie in het standbeen licht gebogen. Houd je heup en de knie van het opgeheven been gestrekt tijdens de hele beweging. Zodra spanning gevoeld wordt of de handen de vloer raken, ga je terug naar de uitgangspositie door je lichaam op te richten en je been te laten zakken. Strek daarnbij het been waar je op staat. Herhaal de oefening.</string>
+    <string name="ex_name_26">Een-beens Kabel Terugtrappen</string>
+    <string name="ex_desc_26">Bevestig een leren enkelband aan een lage katrol trekmachine en maak die vast aan je enkel. Ga met je gezicht naar de machine gericht op een halve meter afstand staan en houdt je vast aan de machine voor steun. Houdt je knieën en heup licht gebogen en je buik strak; knijp je bilspieren samen en terwijl je uitademt breng je je werkende been zo hoog mogelijk in een boog naar achter. Tip: Op het hoogste punt dien je de bilspieren nog eens extra te spannen voor het beste resultaat. Breng nu langszaam je been weer terug in startpositie maar geef niet toe aan de kracht van de machine. Herhaal de oefening het geadviseerde aantal keren. Wissel van been en doe de oefening opnieuw zo vaak als geadviseerd. Variaties: je kunt deze oefening ook doen met oefenbanden.</string>
+    <string name="ex_name_27">Schuine bank drukken op de Smith Machine</string>
+    <string name="ex_desc_27">Zet een schuine bank onder een Smith Machine. Plaats de halter op een hoogte dat je er bij kunt als je op de bank ligt met bijna volledig gestrekte armen. Als je het gewenste gewicht hebt gekozen ga je liggen op de schuine bank waarbij je borst recht onder de halter is. Met een pronatiegrip (handpalmen naar voor) neem je de halter iets breder vast dan schouderbreedte; til de halter uit het rek en houdt die recht boven je met gestrekte armen. Dit is je startpositie: - Adem in terwijl je de halter langszaam laat zakken tot boven tegen de borst. Houdt even vast en breng dan de halter weer omhoog naar de startpositie terwijl je uitademt en je borstspieren gebruikt. Zet je armen op slot in gestrekte positie, houdt even vast en laat dan de halter opnieuw langszaam zakken. Tip: Herhaal de oefening het geadviseerde aantal keer. Als je klaar bent plaats je de halter weer in het rek. Let Op: Als je nog nieuw bent met deze oefening wordt geadviseerd iemand te vragen in je buurt te blijven omdat de oefening nogal lastig kan zijn. Als niemand in de buurt is gebruik je liever een lichter gewicht.</string>
+    <string name="ex_name_28">Push-Ups - Nauwe Triceps Positie</string>
+    <string name="ex_desc_28">Ga op de vloer liggen, gezicht omlaag, en plaats je handen dicht bij elkaar op schouderhoogte. Houdt de armen gestrekt in de push-up positie. Laat jezelf langszaam zakken terwijl je inademt tot je borst vlak boven de vloer is. Gebruik hierbij de triceps en de borstspieren. Druk je dan weer op en span de borstspieren aan en adem uit. Even een seconde pauseren en dan herhaal je de oefening het aantal geadviseerde keren. Variaties: Als je deze oefening voor het eerst doet en niet genoeg kracht hebt om hem uit te voeren kun je ook de knieën wat buigen om de druk te verminderen of voer de oefening uit tegen een muur. - Voor geoefende gebruikers: plaats je voeten op een verhoging zoals een bankje om de oefening te versterken.</string>
+    <string name="ex_name_29">Schuine Bank Halter Drukken</string>
+    <string name="ex_desc_29">Ga met de rug op een schuine bank liggen met een gewicht in elke hand en plaats die op je dijen. De handpalmen naar elkaar toe. Dan, met behulp van je dijen kun je de gewichten omhoog brengen, een voor een, totdat ze direct boven je schouders hebt. Als je ze beiden boven de schouders hebt draai je je polsen zodat de handpalmen van je af wijzen. Dit is nu je startpositie: - Vergewis je ervan dat je te allen tijde controle houdt op de gewichten. Adem dan uit en breng de gewichten omhoog, armen recht omhoog. - Zet je armen op slot en houdt dat even vast. Breng dan de gewichten in een gecontroleerde beweging weer terug naar de startpositie terwijl je inademt. Tip: het laten zakken duurt dubbel zo lang als het opdrukken. Herhaal de oefening het aantal geadviseerde keren. Als je klaar bent met de oefening plaats je eerst de gewichten weer op je dijen en dan op de vloer. Dit is de veiligste manier om de gewichten los te laten.</string>
+    <string name="ex_name_30">Schuine bank Gewichten vliegen</string>
+    <string name="ex_desc_30">Met een gewicht in elke hand ga je op een schuine bank liggen die maximaal een hoek van 30 graden heeft. Steek je armen omhoog met de ellebogen licht gebogen. Draai je polsen nu zo dat je handpalmen naar je toe gekeerd zijn en de pinken elkaar bijna aanraken. Dit is je uitgangspositie: - Terwijl je inademt laat je langszaam je armen naar buiten zakken, ondertussen je handpalmen naar elkaar toedraaiend. Tip: Op het eind van de beweging zijn je arman naast je en wijzen de handpalmen omhoog. - Terwijl je uitademt breng je de gewichten weer terug in uitgangspositie in omgekeerde richting, je pinken weer naar elkaar toe. Tip: Besef dat de beweging hoofdzakelijk in de schouders en in de polsen plaats vindt. Er is geen beweging in de elleboog. herhaal de oefening het geadviseerde aantal keren.</string>
+    <string name="ex_name_31">Schuin op Gymnastiekbal Gewichten Drukken</string>
+    <string name="ex_desc_31">Positioneer jezelf ruggelings op een gymnastiekbal liggend zodat je lichaam een hoek van 45 graden vormt met de vloer. Houdt de gewichten vlak boven je kin met je armen gestrekt. Houdt je rug stevig  en je voeten vlak op de grond.</string>
+    <string name="ex_name_32">Halter Drukken op de Bank</string>
+    <string name="ex_desc_32">Ga vlak op een bankje liggen. Gebruik een middelmatige grip (een grip die een hoek van 90 graden mogelijk maakt in het midden van de beweging tussen onderarmen en bovenarmen), til de halter uit het rek en houdt die recht boven je met je armen op slot. Dit is je uitgangspositie: - vanmuit de startpositie adem je in en laat je de halter langszaam zakken tot midden op de borst. - Even vasthouden en dan weer langszaam omhoog brengen in startpositie terwijl je uitademt. Focus jezelf er op dat je borstspieren het werk doen. - Armen op slot en span je borstspieren aan in de startpositie, houdt even vast en herhaal de oefening. Tip: onder ideale omstandigheden gaat het zakken van de halter twee keer langszamer dan het opdrukken. Herhaal de oefening het aantal voorgeschreven keren. Als je klaar bent met de oefening plaats je eerst de halter terug in het rek. Als je nog een nieuweling bent met deze oefening vraag of iemand je in de gaten wil houden. Als er niemand is gebruik dan liever een wat lichter gewicht.</string>
+    <string name="ex_name_33">Gewicht Opzij Plaatsen met Gestrekte Armen</string>
+    <string name="ex_desc_33">Leg een gewicht klaar op het eind van een bankje. verzeker je ervan dat het stevig ligt. Ga dan zelf op het bankje liggen dwars er op, zodat je lichaam en het bankje een kruis vormen, met alleen je schouders op het bankje. je heupen moeten iets lager zijn dan het bankje, de benen gebogen en je voeten stevig op de vloer. Je hoofd bevindt zich niet op het bankje maar steekt er over heen. Neem nu het gewicht met beide handen vast en houdt het met gestrekte armen boven de borst. Beide handpalmen onder het uiteinde van het gewicht. Dit is je uitgangspositie: Pas op: Gebruik altijd een vast gewicht. Een gewicht met losse platen kan tot gevolg hebben dat het uit elkaar valt met alle gevolgen van dien. - Terwijl je je armen gestrekt houdt, verplaats je nu het gewicht in een grote boog tot achter je hoofd terwijl je inademt totdat je een strekking in de borst voelt. - Op dat moment breng je het gewicht via dezelfde weg weer terug in startpositie in omgekeerde richting en adem uit. - Houdt dat even vast en herhaal de oefening het aantal voorgeschreven keren. Pas Op: Als je nog nieuw bent met deze oefening vraag dan iemand om je het gewicht aan te geven. Als dat niet kan wees er dan zeker van dat het gewicht niet op je valt terwijl je naar je startpostite gaat. verder, als eerder aangegeven, zorg ervoor dat het gewicht in perfecte conditie is. Oude gewichten die misschien gelast moeten worden dienen nimmer gebruikt te worden voor deze oefening.</string>
+    <string name="ex_name_34">Smith Machine Hurken</string>
+    <string name="ex_desc_34">Om te beginnen plaats je de halter op de hoogte die voor jou het beste geschikt is. Als dat gedaan is en de halter is op zijn plaats, ga je er onder staan en zet je schouders (net onder je nek) er tegen aan. Houdt de halter nu vast met beide handen met de handpalmen naar voren gericht, en til de halter uit het rek, eerst door met je benen te drukken en je lichaam recht te maken. Zet je voeten op schouderbreedte uit elkaar en de voeten licht naar buiten gericht. Houdt je hoofd recht en houdt je rug recht. Dit is je uitgangspositie: Let Op: Voor deze oefening gebruiken we deze specifieke voetenstand die een algemene ontwikkeling na streeft; maar je kunt elke van de drie voetenstanden gebruiken die in het voetenhoofdstuk beschreven staan. -Begin de halter langszaam naar beneden te verplaatsen door de knieën te buigen terwijl je rechtop blijft met de rug en hoofd. ga verder naar beneden totdat de hoek tussen boven- en onderbenen iets minder dan 90 graden is, je bovenbenen zijn dan niet meer parallel aan de vloer. - Inademen bij dit onderdeel van de oefening. Tip: Als je de oefening correct uitvoert zullen je knieën loodrecht boven je tenen zijn. Als je knieën voorbij die loodrechte lijn steken zet je onnodige spanning op je knieën en wordt de oefening niet correct uitgevoerd. - begin de halter weer omhoog te bewegen terwijl je uitademt door je hakken in de vloer te drukken en je benen te strekken en zo naar de startpositie terugkeert. - Herhaal de oefening het aantal voorgeschreven keren.</string>
+    <string name="ex_name_35">Smith Machine Breed Hurken</string>
+    <string name="ex_desc_35">Voor deze oefening plaats je de halter op schouderhoogte en plaats je de te gebruiken halter in de smith machine. Ga onder de halter staan met je voeten ver uit elkaar en je voeten licht naar buiten gericht. neem de halter dan vast in een wijde grip en plaats de halter dan boven aan de rug. De halter mag niet op je nek rusten! Houdt je rug recht en je hoofd naar voren gericht terwijl je de halter uit het rek tilt: - Doe een klein stapje voorwaarts. - Houdt je gezicht naar voren met een rechte rug, terwijl je langszaam een hurkhouding aanneemt totdat je dijbenen paralleel zijn aan de vloer. - Opdrukken via de hielen en terug naar de starthouding. - Herhaal de oefening het aantal voorgeschreven keren.</string>
+    <string name="ex_name_36">Smith Machine Terugval Beweging</string>
+    <string name="ex_desc_36">Plaats een halter op bovenborsthoogte en ga onder de halter met de schouders en houdt de halter aan twee kanten vast. Zet je voeten onder de halter. Strek nu je benen om de halter op te tillen. Ontkoppel de halter door terug te draaien. Zet een voet naar achter terwijl je het andere been buigt in de knie. Zet je achterste voet op je tenen zo ver mogelijk naar achter. Verlaag je lichaam door door je knie te buigen totdat je achterste knie bijna de grond raakt. Ga dan terug naar de originele staande positie door heup en knie te rechten en de benen te sluiten. Herhaal de oefening met het andere been afwisselen het aantal voorgeschreven keren.</string>
+    <string name="ex_name_37">Benen Drukken</string>
+    <string name="ex_desc_37">Gebruik voor deze oefening een benen-drukmachine. Ga er op zitten en zet je voeten tegen het platform voor je met de voeten op schouderbreedte uit elkaar. Let op: Voor deze oefening gebruiken we deze specifieke voetenstand die een algemene ontwikkeling na streeft; maar je kunt elke van de drie voetenstanden gebruiken die in het voetenhoofdstuk beschreven staan. Haal de vergrendeling van het platform weg en druk het met je voeten weg tot de benen volledig gestrekt zijn. Tip: Let op dat je je knieën niet op slot zet. Benen en lichaam moeten een hoek van 90 graden vomen. Dit is je uitgangspositie: - Terwijl je inademt laat je het platform langszaam naar beneden komen totdat je knieën een 90 graden hoek vormen. - Druk voornamelijk met je hielen en gebruik de vierhoofdige dijspier om terug te gaan naar de uitgangspositie bij het uitademen. Herhaal de oefening het aantal geadvideerde keren en verzeker je ervan dat je het platform op slot zet als je klaar bent. je wilt dat immers niet vol geladen op je krijgen. Pas Op: Kijk altijd of het platform goed vergrendeld is als je de gewichten opbergt of plaatst.</string>
+    <string name="ex_name_38">Gehurkt Drukken</string>
+    <string name="ex_desc_38">Ga met de rug tegen de machine zitten en zet je schouders onder de aanwezige schoudersteunen. Zet je voeten op schouderbreedte op het daarvoor bestemde platform met de voeten iets naar buiten gericht. Tip: Blijf altijd recht voor je uit kijken en blijf tegen de machine aan liggen. Zet je armen en handen op de zijgrepen van de machine en ontgrendel de machine ( dit is vaak te doen via de zijgrepen van de machine van stand te veranderen). Strek nu je benen zonder de knieën op slot te zetten. Dit is je uitgangspositie: Let op: Voor deze oefening gebruiken we deze specifieke voetenstand die een algemene ontwikkeling na streeft; maar je kunt elke van de drie voetenstanden gebruiken die in het voetenhoofdstuk beschreven staan. - Begin de oefening door de unit te verlagen door je knieën te buigen terwijl je je rug recht houdt en je hoofd tegen de steun. Ga door totdat de hoek van de knieën iets minder is dan 90 graden ( dit is de positie waarbij de bovenbenen iets onder parallelniveau met de vloer zijn. Adem in bij het doen van dit deel van de oefening. Tip: Als je de oefening goed uitvoert moet de voorkant van je knieën nu een denkbeeldige loodrechte lijn vormen met je tenen. Als je knieën verder zijn dan je tenen zet je te veel verkeerde druk op je knieën en wordt de oefening niet correct uitgevoerd. - Terwijl je uitademt breng je de unit terug omhoog door voornamelijk het je hakken te drukken terwijl je je benen strekt en naar de startpositie terugkeert. Herhaal de oefening het opgegeven aantal keren.</string>
+    <string name="ex_name_39">Zittend Benen Krommen</string>
+    <string name="ex_desc_39">Stel de machine eerst in op je lichaamsgrootte en ga er dan op zitten met je rug vlak tegen de ruggesteun. Leg je onderbenen (iets onder de kuiten) op de daarvoor bestemde steunen en stel de andere steunen in boven je bovenbenen net boven de knieën. Neem dan de beide handgrepen vast terwijl je je tenen strekt (of je gebruikt een van de andere twee posities) en verzeker je ervan dat je benen volledig gestrekt zijn. Dit is je uitgangspositie: - Adem uit terwijl je de machine naar de onderkant van je dijbenen beweegt en je je knieën buigt. - Houdt de rest van je lichaam stil en in positie. Houdt deze stand even vast. - Laat dan langszaam je benen terug in startpositie gaan terwijl je inademt. herhaal de oefening het opgegegen aantal keren. Pas Op: Gebruik nooit zoveel gewicht bij deze oefening dat je gaat slingeren of forceren omdat je dan een rugblessure of hamstring blessure kunt oplopen.</string>
+    <string name="ex_name_40">Benen Verlengen</string>
+    <string name="ex_desc_40">Voor deze oefening heb je een benen verlengingsmachine nodig. Stel de machine eerst goed in en kies een gewicht. Ga dan op de machine zitten met je benen onder de daarvoor bestemde steunen (je voeten recht naar voor wijzend) en je handen aan de zij-handgrepen. Dit is je startpositie: Tip: Je moet de steunen zodanig instellen dat die net boven je voeten is. Verzeker je er ook van dat je boven- en onderbenen een hoek van 90 graden vormen. Als de hoek kleiner is dan 90 graden wil dat zeggen dat je knieën voor je tenen uitsteken en onnodige druk op de kniegewrichten geeft. Als de machine zo ontworpen is zoek dan een andere machine op of verzeker je ervan dat je, bij het uitvoeren van de oefening, stopt als de 90 graden hoek bereikt wordt. - Gebruik je vierhoofdige dijspieren en strek je benen zo ver mogelijk terwijl je uitademt. Houdt de rest van je lichaam stevig op zijn plaats. - Pauseer een ogenblikje op dat punt. - Breng het gewicht dan langszaam terug naar de uitgangspositie terwijl je inademt en vergewis je ervan dat je de 90 gradenhoek niet voorbij gaat. Herhaal de oefening zoals beschreven.</string>
+    <string name="ex_name_41">Gespreid Hurken</string>
+    <string name="ex_desc_41">Houdt een paar gewichten vast aan de onderkant met beide handen en sta rechtop. Zet dan je benen uit elkaar op meer dan schouderbreedte met licht gebogen knieën. De tenen wijzen naar buiten. Dit is je startpositie: Let Op: Je moet je armen stil houden bij deze oefening. - Zak nu langszaam door de knieën totdat je bovenbenen parallel zijn aan de vloer. Adem in terwijl je dit doet omdat dit het middelpunt is van de oefening. - Druk je lichaam weer omhoog met de hielen terwijl je uitademt en terug gaat naar de startpositie. Herhaal de oefening het aantal opgegeven keren. Pas Op: door je rug niet recht te houden riskeer je een rugblessure.</string>
+    <string name="ex_name_42">Zijwaarts Sumo Hurken</string>
+    <string name="ex_desc_42">Sta rechtop met de benen iets verder dan heupbreedte uit elkaar, tenen en knieën 45 graden naar buiten gekeerd en je handen achter je hoofd. Buig je knieën en ga in een Sumo houding zitten (je heupen zo laag mogelijk zonder je knieën naar voor of achter te knikken). Terwijl je weer rechtop gaat staan til je je rechterknie op naar je rechter elleboog toe. Zet je rechtervoet dan op de grond en ga weer in hurkende sumo positie en herhaal de oefening maar nu met het linkerbeen. Herhaal de hele oefening het aantal opgegeven keer.</string>
+    <string name="ex_name_43">Zijwaarts Hurken</string>
+    <string name="ex_desc_43">Begin staande met de voeten naast elkaar. Hurk dan tot halverwege en zet het rechterbeen zo ver als mogelijk zijwaarts. Breng dan het rechterbeen naar het linkerbeen in de startpositie. Herhaal maar nu met het linkerbeen. Herhaal deze oefening het aantal opgegegven keren.</string>
+    <string name="ex_name_44">Uitvallen met Gewichten</string>
+    <string name="ex_desc_44">Begin staande met de voeten op schouderbreedte uit elkaar en je handen boven je hoofd een gewicht vasthoudend. Stap met een been voorwaarts, daarbij de knie buigend om je heup te verlagen. Ga door tot je achterste knie bijna de grond raakt. Je lichaam moet hioerbij rechtop blijven en de voorste knie moet recht boven de voet blijven. Druk jezelf weer op met de hiel van de voorste voet en strek beide knieën en ga zo weer rechtop staan. Herhaal dit met het andere been naar voren.</string>
+    <string name="ex_name_45">Halter Acteruit Uitval met Knie Hoog</string>
+    <string name="ex_desc_45">Sta rechtop met twee gewichten in je handen opzij van je lichaam. Dit is je uitgangspositie: - Stap een halve meter achteruit het je rechterbeen en laat je lichaam zakken terwijl je rug recht blijft en rechtop. Inademen terwijl je dit doet. Tip: net als in andere oefeningen mag je knie niet voorbij je tenen komen, maar moet er net niet boven blijven, anders forceer je het kniegewricht. Het scheenbeen moet rechtop blijven. Houdt je lichaam rechtop tijdes de uitval, een flexibele heup is belangrijk hierbij. Een lange uitval legt de nadruk op de Grote Bilspier; een korte uitval op de vierhoofdige dijspier. - Druk jezelf weer op en ga naar de startpositie terwijl je uitademt en houdt le lichaam recht boven de rechterknie. Tip: gebruik de bal van je voet bij het rechtkomen om de vierhoofdige dijspier te gebruiken. Om de bilspieren te gebruiken druk je met je hiel. Herhaal de oefening nu met het andere been.</string>
+    <string name="ex_name_46">Grote Halter Achter Uitval Gekruist</string>
+    <string name="ex_desc_46">Om te beginnen plaats je eerst een halter in het rek net onder schouderniveau. Als je juiste hoogte is gekozen en he halter is geplaatst gaa dan onder de halter staan en zet je schouders, net onder de nek, eronder. Neem de halter vast met beide handen en til de halter uit het rek door eerst met je benen te drukken en tegelijkertijd je lichaam te rechten. Stap bij het rek vandaan. Zet dan je rechtervoet naar achter en iets naar links en zak omlaag tot je linkerknie een hoek heeft van 90 graden, maar houdt je lichaam recht en in balans. Inademen terwijl je dit doet. Let Op: je knie mag niet boven de tenen komen, je scheenbeen moet loodrecht op de vloer staan, om knieblessure te vermijden. Gebruik je hiel om weer omhoog te komen en ga terug naar de startpositie terwijl je uitademt. herhaal de oefening het geadviseerde aantal keren en doe het daarna met hetzelfde andere been.</string>
+    <string name="ex_name_47">In Zijligging Benen Tillen</string>
+    <string name="ex_desc_47">Lig op je zij met je benen gestrekt en op elkaar en laat je hoofd op een arm rusten. Span de spieren aan de voorkant van je dijbeen aan en til het bovenste been omhoog. Houdt die positie even vast en laat het been dan weer langszaam zakken tot op je onderste been en til het opnieuw op. Je kunt ook enkelgewichten gebruiken of een weerstandsband.</string>
+    <string name="ex_name_48">Opstappen met Knie Hoog</string>
+    <string name="ex_desc_48">Ga met gesloten voeten en rechtop voor een bankje staan van geschikte hoogte. Dit is je uitgangspositie: - Begin de beweging door je linkervoet op het bankje te zetten. - Verlengen door de heup en je knie van dat been te strekken en met edat been op het bankje te staan. - Zodra je er op staat til je je rechterbeen zo hoog mogelijk op. ga dan terug naar de uitgangsposite op dezelfde maar omgekeerde manier en herhaal met het andere been.</string>
+    <string name="ex_name_49">Hurken met Gewichten</string>
+    <string name="ex_desc_49">Sta recfhtop en houdt een gewicht in elke hand met de handpalmen naar je benen gericht. Zet je benen iets uit elkaar op schouderbreedte en de voeten licht naar buiten gericht. Houdt je gezicht altijd recht naar voor gericht anders kun je je balans verliezen en houdt de rug recht. Dit is nu je startpositie: - Laat nu je lichaam langszaam zakken door je knieën te buigen maar houdt de rug rechtop en je kin omhoog. Ga door tot je op 90 graden bent. Inademen bij dit deel van de oefening. Tip: Als je deze oefening goed uitvoert zullen je knieën een denkbeeldige rechte lijn omlaag naar je tenen maken. Als je knieën voorbij je tenen zijn heb je te veel spanning op het kniegewricht en wordt de oefening niet correct uitgevoerd. - Tijdens het uitademen richt je je weer langszaam op naar de startpositie door je hielen op de vloer te drukken en je benen te strekken. Herhaal de oefening het aantal voorgeschreven maal.</string>
+    <string name="ex_name_50">Stijve Benen Lange Halter Deadlift</string>
+    <string name="ex_desc_50">Houdt een grote halter bovenhands vast (met de handpalmen naar beneden). Je kunt polsbanden gebruiken bij het gebruik van grote gewichten. Sta met een rechte rug en de voeten op schouderbreedte of iets minder uit elkaar. Je knieën zijn licht gebogen. Dit is je uitgangspositie: - Laat de halter nu boven je voeten zakken door je heup te buigen maar houdt je rug recht. - Ga door, net of je iets wilt oprapen totdat je spanning in de achillespees voelt. Inademen bij dit deel van de oefening. - Breng dan langszaam je lichaam weer in rechte positie door je heupen recht te maken tot je weer in de uitgangspositie bent. Uitademen bij dit tweede deel van de oefening. Herhaal de oefening het aantal voorgeschreven keren. Pas Op: Dit is geen oefening voor mensen met lage rugproblemen. De oefening dient ook met grote preciezie te gebeuren. Houdt te allen tijde de rug recht bij het buigen van de heupen. De rug moet altijd recht blijven. Te veel gewicht of schokkende bewegingen kunnen ernstig rugletsel veroorzaken.</string>
+    <string name="ex_name_51">Sumo-stijl Stijve Benen Deadlift</string>
+    <string name="ex_desc_51">Begin met een halter in je handen. Je voeten ver uit elkaar vlak bij de gewichten. Adem in bij dit deel en verlaag je heupen, steeds naar voren kijkend en houdt je borst naar voren. Houdt je knieën stil en laat de halter tot boven je tenen komen door in de heup te buigen en je rug recht te houden. Ga door alsof je iets van de vloer wilt oprapen totdat je spanning voelt in je achillespezen. Breng dan je lichaam weer langszaam terug in de startpositie via dezelfde weg terwijl je uitademt. Herhaal de oefening het aantal voorgeschreven keren.</string>
+    <string name="ex_name_52">Kabel Trekken met het Been</string>
+    <string name="ex_desc_52">Bevestig een enkelband aan je enkel vast en haak daar een kabel van de lage katrol aan vast. Ga dan met je zij naar de machine gericht staan op ongeveer een halve meter, het stalen frame vasthoudend voor steun. Houdt je knieën en heupen licht gebogen en je buik strak. Span je bilspieren aan en beweeg het been met de enkelband langszaam naar buiten, zo hoog mogelijk terwijl je uitademt. Tip: Op het hoogste punt moet je even de bilspieren extra aanspannen en laat dan het been weer langszaam, inademend, weer naar de uitgangspositie. herhaal deze oefening het aantal voorgeschreven keren. verwissel van been en start de oefening opnieuw. Variaties: je kunt de oefening ook doen met oefeningsbanden.</string>
+    <string name="ex_name_53">Arnold Halters Drukken</string>
+    <string name="ex_desc_53">Ga op een bankje met rugsteun zitten en houdt twee gewichten vast voor je bovenste borstgedeelte, handpalmen naar je lichaam gericht en gebogen ellebogen. Tip: Ellebogen moeten vlak bij je lichaam zijn. De startpositie lijkt wat op die van de halter krul: - Om de oefening te beginnen til je de halters omhoog daarbij de handpalmen naar buiten draaiend en ga door tot je armen volledig gestrekt zijn. Adem uit terwijl je dit deel van de oefening doet. - Na even vastgehouden te hebben breng je de gewichten weer langszaam in omgekeerde beweging terug naar de uitgangspositie terwijl je inademt. Tip: De linkerarm beweegt tegen de klok in en de rechterarm met de klok mee. herhaal de oefening het voorgeschreven aantal keren. Variaties: Je kunt deze oefening ook staande uitvoeren, maar dat wordt niet aanbevolen voor mensen met lage rugproblemen.</string>
+    <string name="ex_name_54">Afwisselend Halters Drukken</string>
+    <string name="ex_desc_54">Breng twee halters in een vloeiende beweging naar je schouders door je via je benen en heupen te verlengen terwijl je de gewichten naar je schouders brengt. Druk er dan 1 van direct omhoog tot boven je hoofd door je arm te strekken en je handpalm naar voor te laten wijzen, terwijl je het andere gewicht stationair voor je schouder houdt. Laat het hoge gewicht zakken naar schouderhoogte en breng het andere onmiddelijk omhoog.</string>
+    <string name="ex_name_55">Twee Gewichten voor je Tillen</string>
+    <string name="ex_desc_55">Neem een stel gewichten vast en sta rechtop met de gewichten tegen je dijbenen aan de voorkant, handpalmen naar je dijen gericht. Dit is je uitgangspositie: - Terwijl je je lichaam onbeweeglijk houdt, til je de gewichten met licht gebogen ellebogen naar voor en omhoog tot je armen parallel aan de vloer zijn, en houdt de handpalmen steeds naar onder. Uitademen bij dit deel van de oefening en houdt de gewichten even vast in die positie. - Terwijl je vervolgens inademt laat je de gewichten zeer langszaam zakken tot de uitgangspositie. Herhaal de oefening het voorgeschreven aantal keer. Variaties: De oefening kan ook afwisselend met de armen gedaan worden, eerst links en dan rechts, weer links weer rechts enz. Maar je kunt ook een grote halter gebruiken.</string>
+    <string name="ex_name_56">Lage Katroloefening voor Deltaspieren.</string>
+    <string name="ex_desc_56">Ga met je rechterzij naar een katrolmachine staan. Met je linkerhand voor je lichaam langs moet je nu de lage katrolkabel vasthouden, handpalm naar beneden. Laat je arm voor je lichaam rusten. Je rechterhand kan de machine vasthouden voor steun en balans. Vergewis je van een rechte rug en je voeten staan op schouderbreedte uit elkaar. Dit is je uitgangspositie: - Breng nu in een gecontroleerde beweging je linkerarm langszaam naar links totdat deze horizontaal is aan de grond, en adem ondertussen uit. - Voel de spanning op het hoogtepunt van de oefening voor een seconde en laat je arm weer langszaam naar de uitgangspositie terug gaan bij het inademen. herhaal de oefening zoals voorgeschreven en wissel dan van arm.</string>
+    <string name="ex_name_57">Kabel Vooruit Duwen</string>
+    <string name="ex_desc_57">De kabel vooruit Duwen oefening is een prachtige oefening voor de voorste deltaspieren. Maak een handgreep vast aan een lage katrol en kies het gewenste gewicht. Ga dan met de rug naar de machine staan, rechtop met je blik recht vooruit. Neem de handgreep in je hand en houdt die opzij van je dijbeen. Dit is de startpositie: - Begin dan met de handgreep langszaam naar voor te bewegen door je arm in de schouder te bewegen en je arm gestrekt te houden. Je arm komt volledig horizontaal en houdt dat even vast. - Laat je arm, nog steeds gestrekt, dan weer langszaam naar de startpositie terug gaan. - Laat het gewicht niet vallen of de kabel of handgreep je lichaam aan te raken.</string>
+    <string name="ex_name_58">Een Arms Triceps Push-Up</string>
+    <string name="ex_desc_58">Ga op je rechterzij liggen met de knieën gebogen en de heup omhoog.  Je rechterarm om je schouder en je linkerhand op de vloer voor je. Knijp de biceps samen om je lichaam op te drukken van de vloer, de arm strekkend zo veel je kan. Laat even een 10-tal centimeter zakken en druk opnieuw op. Herhaal dit een paar keer voordat je van arm wisselt.</string>
+    <string name="ex_name_59">Staande Triceps Verlengen met Gewichten</string>
+    <string name="ex_desc_59">Om te beginnen sta je rechtop met één gewicht in twee handen. Je voeten staan op schopuderbreedte uit elkaar. Breng dan het gewicht met beide handen boven je hoofd totdat beide armen gestrekt zijn. het gewicht moet in beide handen rusten met je duimen er omheen. De handpalmen wijzen hierbij naar boven. Dit is je startpositie: - Terwijl je je armen vlak langs je hoofd houdt, laat je het gewicht nu langszaam zakken achter je hoofd totdat je onderarmen je biceps aanraken. Tip: De bovenarmen moet je proberen op hun plaats te houden en alleen je onderarmen mogen bewegen. Inademen terwijl je dit doet. - ga dan terug naar de startpositie terwijl je uitademt. De oefening het opgegeven aantal keren herhalen.</string>
+    <string name="ex_name_60">Doorzakken op Één Been</string>
+    <string name="ex_desc_60">Start met je beide handen met de palmen op een bankje. Een been ver voor je uit gestrekt en het andere voor je op de grond. Hoe dichter je been bij het bankje staat hoe makkelijker het is. Voer de intensiteit op door je voet zo ver mogelijk van je af te plaatsen of hou het eenvoudig door je voet dicht bij de bank te houden. Buig nu je ellebogen en zak zo ver mogelijk door maar zonder je billen de grond te laten raken. Strek je armen en wissel van been. Daarna herhalen.</string>
+    <string name="ex_name_61">Voorover Gebogen Triceps verlengen met Één Gewicht</string>
+    <string name="ex_desc_61">Met een kleine halter in je hand en de handpalm naar je lichaam wijzend, buig je je knieën enigszins en buig voorover via je heupen terwijl je je rug recht houdt tot ongeveer parallel aan de vloer. Blijf wel recht voor je uit kijken met de kin omhoog. Je bovenarm blijft langs je lichaam en je onderarm met het gewicht hangt recht naar beneden. Er moet een hoek van 90 graden zijn in je elleboog. Dit is je startpositie: - Houdt je bovenarm in positie en gebruik je triceps om het gewicht op te tillen terwijl je uitademt tot je onderarm horizontaal is aan de vloer en de hele arm gestrekt. Zoals in veel armoefeningen beweegt alleen de onderarm. - Na even vasthouden en spieren aanspannen laat je het gewicht weer langszaam naar de startpositie terugzakken terwijl je inademt. Herhaal de oefening zoals voorgeschreven en wissel daarna van arm.</string>
+    <string name="ex_name_62">Katrol Triceps Verlengen met één Arm</string>
+    <string name="ex_desc_62">Met je rechterhand neem je een handgreep vast van een hoge katrolmachine met onderhandse grip (handpalmen naar boven). Je moet direct voor de machine staan. Trek de handgreep nu iets naar beneden, en breng je bovenarm en elleboog stationair naast je lichaam. Je bovenarm en onderarm moeten een scherpe hoek met elkaar vormen (minder dan 90 graden).  Je andere arm houdt je in je zij, of je zet je ene voet iets naar voren en de andere iets naar achter voor een stabielere stand. Dit is je startpositie: - Terwijl je je triceps aanspant breng je al uitademend de handgreep naar beneden tot je arm gestrekt is. Tip: Alleen je onderarm beweegt, je bovenarm blijft naast je lichaam op zijn plaats. - Span de triceps wat extra aan en houdt dat even vast. - Ga dan langszaam en inademend weer naar de startpositie terug. Herhaal de oefening als voorgeschreven en wissel daarna van arm. Variaties: Je kunt voor deze oefening ook een oefeningenband gebruiken.</string>
+    <string name="ex_name_63">Triceps Pushdown</string>
+    <string name="ex_desc_63">Bevestig een rechte of gehoekte staaf aan een hoge katrolmachine en houdt die met een bovenhandse grip op schouderbreedte vast. Sta rechtop en houdt je lichaam recht en licht voorover hellend. Breng je bovenarmen dicht tegen je lichaam loodrecht naar beneden. Je onderarmen wijzen omhoog en houden de staaf vast. Dit is je uitgangspositie: Door je triceps te gebruiken breng je de staaf nu naar beneden totdat die de voorkant van je dijen raakt en je armen volledig gestrekt naar de vloer wijzen. je bovenarmen zijn nog steeds op hun plaats en hebben niet bewogen. Je hebt uitgeademd bij dit deel van de oefening. - Houdt deze stand twee tellen vast en breng al inademend de staaf weer terug naar de uitgangspositie. Herhaal de oefening het voorgheschreven aantal keren. Variaties:  Er zijn vele variaties op deze oefening. je kunt bijvoorbeeld een E-Z bar gebruiken, een V-bar die je duim hoger houdt dan je vingers. Je kunt ook een koord aan de katrol bevestigen of een omgekeerde grip hanteren.</string>
+
+    <string name="ex_name_5063">Squat Jacks</string>
+    <string name="ex_desc_5063">Spiergroep. Quadriceps \n\nStap 1. Ga in een lage squat, alsof je een softballvanger bent. \n\nStap 2. Spring omhoog en opzij terwijl je ellebogen in een waaiervorm naar het pafond wijzen. \n\nStap 3. Spring op en breng je benen weer bij elkaar, waarbij je ook tegelijkertijd je armen naar beneden brengt.</string>
+
+    <string name="ex_name_5064">Plank</string>
+    <string name="ex_desc_5064">Spier. Rectus Abdominis \n\nStap 1. Zorg dat je benen gestrekt zijn en hef je op je tenen op. Houd je rug recht en plaats je onderarmen op de vloer. \n\nStap 2. Je onderarmen moeten een rechte lijn vormen met je bovenarmen. Houd deze houding zo lang vast als je kunt.</string>
+
+    <string name="ex_name_5065">Rug Extensie</string>
+    <string name="ex_desc_5065">Spier. Lage rugspier \n\nStap 1. Ga op je buik liggen. Plaats je armen recht voor je uit. \n\nStap 2. Hef je benen en bovenlichaam richting plafond en strek zoveel als je kunt. Houd dit een seconde vast. Keer terug naar de beginhouding.</string>
+
+    <string name="ex_name_5066">Rug Extensie 2</string>
+    <string name="ex_desc_5066">Spiergroep. Lage rugspier \n\nStap 1. Ga op je buik liggen en plaats je armen langs je lichaam, waarbij je handpalmen naar beneden wijzen. Activeer je corespieren door je buikspieren aan te spannen en in te trekken naar je wevelkolom en span je bilspieren. \n\nStap 2. Adem langzaam uit, kom met je bovenlichaam van de vloer, strek je armen en breng ze weer terug naar je heupen. Draai je duimen richting plafond bij het uitvoeren van de beweging. \n\nStap 3. Pauzeer op het hoogste moment voor twee seconden en keer vervolgens naar de beginhouding.</string>
+
+    <string name="ex_name_5067">Been Aanraken</string>
+    <string name="ex_desc_5067">Spier. Rectus Abdominis \n\nStap 1. Ga op de vloer liggen, hef je benen totdat een been een rechte lijn met de vloer vormt. Strek je armen volledig voor je uit. \n\nStap 2. Reik naar je tenen met je handen. Houd dit een seconde vast en keer terug naar de beginhouding.</string>
+
+    <string name="ex_name_5068">Kick Crunch</string>
+    <string name="ex_desc_5068">Spier Rectus Abdominis \n\nStap 1. Ga rechtop staan met je voeten op schouderbreedte van elkaar. \n\nStap 2. Hef je linkerbeen zo hoog als je kunt en raak je linkervoet met beide handen aan. \n\nStap 3. Keer terug naar de beginhouding en herhaal met het andere been. \n\nStap 4. Wissel ieder keer van been en voer de oefening in een hoog tempo uit, totdat je de volledige set hebt gedaan.</string>
+
+    <string name="ex_name_5069">Running Under</string>
+    <string name="ex_desc_5069">Spier. Rectus Abdominis \n\nStap 1. Begin in een opdrukhouding met je handen onder je schouders en zorg dat je lichaam een rechte lijn vormt van je hoofd tot je hielen. \n\nStap 2. Til je rechtervoet van de vloer en breng je rechterknie naar je bovenlichaam toe. Tik met je rechtervoet de vloer aan en keer terug naar de beginhouding. \n\nStap 3. Wissel van been bij iedere herhaling.</string>
+
+    <string name="ex_name_5070">Crunch</string>
+    <string name="ex_desc_5070">SPIER. Rectus Abdominis \n\nStap 1. Ga met gebogen knieën en en houd je voeten plat op de vloer. Kruis je armen voor je borst of houd je handen achter je oren. \n\nStap 2. Gebruik je abs om je hoofd en bovenlichaam te heffen, terwijl je je onderrug stevig op de vloer houdt. \n\nStap 3. Pauzeer met je schouderbladen een paar centimeter van de vloer, keer vervolgens in een gecontroleerde beweging langzaam terug naar de beginhouding.</string>
+
+    <string name="ex_name_5071">Pull In-Out</string>
+    <string name="ex_desc_5071">Spier. Rectus Abdominis \n\nStap 1. Ga op de vloer liggen en plaats beide handen onder je heupen, strek je benen volledig en hef ze lichtjes omhoog. \n\nStap 2. Buig je benen naar je bovenlichaam toe en houd dit gedurende een seconde vast. Keer vervolgens terug naar de beginhouding.</string>
+
+    <string name="ex_name_5072">Heupen Heffen</string>
+    <string name="ex_desc_5072">Spier Rectus Abdominis \n\nStap 1. Ga op je rug liggen met je armen gestrekt langs je lichaam met je benen recht omhoog naar het plafond, zorg ervoor dat ze een rechte lijn met je romp vormen. \n\nStap 2. Trek je navel naar binnen en span je bilspieren  als je je heupen een paar centimeter van de vloer tilt. Laat vervolgens je heupen weer zaken</string>
+
+    <string name="ex_name_5073">Squirm Crunch</string>
+    <string name="ex_desc_5073">Spier. Rectus Abdominis \n\nStap 1. Ga met gebogen knieën op de vloer liggen met je voeten op 45-60 cm uit elkaar. Houd je armen langs je lichaam. \n\nStap 2. Doe de crunch over je bovenlichaam en tot ongeveer 7-10 centimeter over de rechterzijde, raak hierbij je rechterhiel aan als je de contractie gedurende 1 seconde vasthoudt. Adem uit bij de uitvoering van deze beweging. \n\nStap 3. Keer vervolgens langzam terug naar de beginhouding terwijl je inadement. \n\nStap 4. Doe nu de crunch over je bovenlichaam en tot ongeveer 7-10 centimeter over de linkerzijde, raak hierbij je linkerhiel aan als je de contractie gedurende 1 seconde vasthoudt. Adem uit bij de uitvoering van deze beweging en keer vervolgens terug naar de beginhouding, terwijl je inademt. Beide hielen zijn nu aangeraakt, dit wordt beschouwd als 1 rep. Vervolg de oefening met afwisselende kanten.</string>
+
+    <string name="ex_name_5074">Russische Twist</string>
+    <string name="ex_desc_5074">Spier. Obliques \n\nStap 1. Ga op de vloer zitten met een kettlebell of een oefenbal. Breng je benen bij elkaar en buig je knieën in een hoek van ongeveer 90 graden. Houd je bovenlichaam geheven en rug recht. \n\nStap 2. Pak de oefenbal of de kettlebell en houd het ondersteboven bij de handvaten voor een betere grip. Houd het op borsthoogte vast. \n\nStap 3. Draai lichtjes je bovenlichaam en zorg ervoor dat je je rug niet rond maakt. Til je voeten van de vloer met gebogen benen en houd je knieën bij elkaar.</string>
+
+    <string name="ex_name_5075">Fiets Crunches</string>
+    <string name="ex_desc_5075">Spier Obliques \n\nStap 1. Ga op je rug liggen, kom met je schouders en benen omhoog. \n\nStap 2. Breng een knie naar de tegenovergestelde elleboog door naar een kant te crunchen en strek hierbij volledig het andere been. \n\nStap 3. Keer terug naar de beginhouding en crunch naar de tegenovergestelde kant. \n\nStap 4. Herhaal totdat de set compleet is.</string>
+
+    <string name="ex_name_5076">Dancing Crab</string>
+    <string name="ex_desc_5076">Spier Rectus Abdominis \n\nStap 1. Ga op de vloer liggen. Plaats je handen en benen op de vloer. \n\nStap 2. Kom met je bovenlichaam omhoog. Tik snel met je rechterhand je linkerbeen aan, wissel van kant. Verhoog het tempo, doe het zo snel als je kunt.</string>
+
+    <string name="ex_name_5081">Glute Kickback 2</string>
+    <string name="ex_desc_5081">Spier Glutes \n\nStap 1. Plaats je handen en knieën op een mat of op de vloer. Je rug moet parallel aan de vloer en omhoog zijn, zoals getoond. \n\nStap 2. In een gecontroleerde motion, til je been op totdat je hamstrings een lijn vormen met je rug, maar zorg er wel voor dat je knie die 90 graden hoek blijft behouden. Vergeet vooral niet je bilspieren aan te spannen, wanneer je je been volledig naar achteren hebt gestrekt. Aan het einde van de beweging moet het bovenbeen parallel aan de vloer zijn en dient de kuit een rechte lijn met de vloer te vormen. Keer vervolgens terug naar de beginhouding en herhaal met het andere been.</string>
+
+    <string name="ex_name_5082">TRAP ZIJWAARTS BILSPIEREN</string>
+    <string name="ex_desc_5082">Spiergroep. Bilspieren \n\nStap 1. Ga op je handen en knieën, zoals getoond. Je knieën moeten recht onder je heupen zijn en je polsen precies onder je schouders. \n\nStap 2. Houd je rug recht als je een knie van de vloer tilt. Houd de knie gebogen als je het omhoog en zijwaarts tilt. Stap 3 Houd de positie kort vast en breng vervolgens langzaam je knie weer terug naar de vloer. Pauzeer en herhaal.</string>
+
+    <string name="ex_name_5083">Squat Side Kick</string>
+    <string name="ex_desc_5083">Spiergroep. Bilspier \n\nStap 1. Begin in een squatpositie met je heupen naar achteren en je voeten op schouderbreedte van elkaar. \n\nStap 2. Zodra je gaat staan, breng je je gewicht naar je rechterbeen en til je je linkerbeen zijwaarts op. \n\nStap 3. Keer terug naar de squatpositie en herhaal met het rechterbeen.</string>
+
+    <string name="ex_name_5084">Reverse Lunge</string>
+    <string name="ex_desc_5084">Spier. Bilpsier \n\nStap 1. Sta met je voeten op schouderbreedte uit elkaar en zorg dat je tenen naar voren wijzen. \n\nStap 2. Plaats een been zover mogelijk naar achteren en buig je knie totdat je knie de grond raakt, probeer tijdens de hele beweging je bovenlichaam zo recht mogelijk te houden. \n\nStap 3. Zet je af op je voorste voet om naar de beginhouding teurg te keren, doe vervolgens onmiddellijk weer de lunge met datzelfde been. Dit is een herhaling..</string>
+
+    <string name="ex_name_5085">Back Lunge</string>
+    <string name="ex_desc_5085">Spier. Quadriceps \n\nStap 1. Sta met je voeten op schouderbreedte uit elkaar en zorg dat je tenen naar voren wijzen. \n\nStap 2. Zet een stap naar achteren en buig je heupen en knieën zodat je onderlichaam kunt buigen. Alleen de bal van je voet van je achterste been heeft contact met de vloer, laat je vervolgens zakken totdat je knie bijna de grond raakt. \n\nStap 3. Zet je af op je gebogen voet om terug te keren naar de beginhouding en herhaal de oefening door van been te wisselen.</string>
+
+    <string name="ex_name_5086">Plank Leg Touch</string>
+    <string name="ex_desc_5086">Spier. Lage Onderrug \n\nStap 1. Begin in een lage plankpositie met je lichaam in een rechte lijn, je ellebogen zijn onder je schouders en je voeten staan op heupbreedte van elkaar. \n\nStap 2. Hef je been in een hoek van 45 graden, laat vervolgens je voet zakken en op de andere enkel rusten. \n\nStap 3. Keer vervolgens terug in de beginhouding en herhaal met her andere been.</string>
+
+    <string name="ex_name_5087">Liggende Heup Extensie</string>
+    <string name="ex_desc_5087">Spieren. Bilspieren \n\nStap 1. Ga met lichtelijk gebogen knieën op de vloer liggen en je hakken op de grond, plaats je armen langs je lichaam. \n\nStap 2. Duw jezelf omhoog door het aanspannen van je bilspieren en hamstrings, druk je hakken in de vloer en til je heupen zover omhoog, todat je lichaam een helling vormt. Pauzeer en keer vervolgens langzaam terug naar de beginhouding.</string>
+
+    <string name="ex_name_5088">Liggende Heup Extensies Stoel</string>
+    <string name="ex_desc_5088">Spieren. Bilspieren \n\nStap 1. Ga met je bovenrug op een stoel liggen met je hakken op de vloer, houd je knieën lichtjes gebogen en je armen langs het lichaam. \n\nStap 2. Duw jezelf omhoog door het aanspannen van je bilspieren en hamstrings, druk je hakken in de vloer en til je heupen zover omhoog, todat je lichaam een helling vormt. Pauzeer en keer vervolgens langzaam terug naar de beginhouding.</string>
+
+    <string name="ex_name_5089">Bulgarian Split Squat</string>
+    <string name="ex_desc_5089">SPIER Quadriceps \n\nStap 1. Plaats een voet op de vloer ongeveer 0,90 cm voor een stoel en leg je andere voet op de stoel achter je. Houd je handen voor je borst. \n\nStap 2. Gebruik je voorste voet om je evenwicht te bewaren als je door beide knieën buigt en je lichaam in een rechte lijn laat zakken todat de achterste knie een paar centimeter boven de grond hongt en je voorste been in een hoek van 90 graden is gebogen. Zorg ervoor dat de rest van je lichaam een rechte lijn blijft. Keer vervolgens teurg naar de beginhouding en wissel van been.</string>
+
+    <string name="ex_name_5090">Stap Op</string>
+    <string name="ex_desc_5090">Spieren. Bilspieren \n\nStap 1. Sta voor een fitnessbank. Stap met je rechtervoet op de bank, terwijl je je linkervoet op de vloer houdt. \n\nStap 2. Til je linkerknie voor je op. \n\nStap 3. Stap naar beneden met je linkerbeen. Herhaal de oefening met het andere been. Vervolg de oefening door iedere keer van been te wisselen.</string>
+
+    <string name="ex_name_5091">Bench Kickback</string>
+    <string name="ex_desc_5091">Spieren. Bilspieren \n\nStap 1. Plaats je handen en knieën op een fitnessbank. Je rug moet parallel aan de vloer zijn en geheven, zoals getoond. \n\nStap 2. In een gecontroleerde beweging breng je voet naar achteren en omhoog alsof je tegen het plafond achter je wil schoppen. Zorg er wel voor dat je je bilspieren aanspant, zodra je je been volledig achter je hebt gestrekt. Keer vervolgens terug naar de beginhouding en herhaal met het andere been.</string>
+
+    <string name="ex_name_5092">Butt Kick</string>
+    <string name="ex_desc_5092">Spier Quadriceps \n\nStap 1. Sta rechtop en breng een van je hakken naar je billen toe, plaats je handen voor je borst. \n\nStap 2. Wissel vervolgens van kant.</string>
+
+    <string name="ex_name_5093">Squat Kickback</string>
+    <string name="ex_desc_5093">Spiergroep. Bilspieren \n\nStap 1. Sta met je voeten iets meer dan een schouderbreedte van elkaar en squat. \n\nStap 2. Zodra je gaat staan, breng je je gewicht van je ene been op het andere en geef een trap naar achteren met het andere been. \n\nStap 3. Keer vervolgens terug naar de beginhouding en herhaal met de andere kant.</string>
+
+    <string name="ex_name_5095">Push Up Touch</string>
+    <string name="ex_desc_5095">Spier Pectoralis \n\nStap 1. Ga plat op je buik liggen met je handen op de vloer. Plaats je handen onder je schouders, de afstand tussen je handen is minder dan een schouderbreedte en duw jezelf op je armen omhoog, zodat alleen je handen en je tenen op de vloer blijven. Houd je rug recht en je handen wijzen lichtjes naar buiten. \n\nStap 2. Zak door je ellebogen naar beneden, zorg ervoor dat je ellebogen naar je voeten wijzen tijdens het buigen, totdat je borst een paar centimeter boven de vloer hangt</string>
+
+    <string name="ex_name_5096">T Extensie</string>
+    <string name="ex_desc_5096">Spier. Pectoralis \n\nStap 1. Begin in de klassieke opdrukhouding, maar als jezelf omhoog duwt, draai je lichaam een slag en wijs met gestrekte rechterarm naar boven, zoals getoond. Je armen en bovenlichaam moeten een T vormen. \n\nStap 2. Keer vervolgens terug naar de beginhouding, laat jezelf zakken, duw jezelf weer omhoog, draai je lichaam en wijs met je gestrekte linkerarm naar het plafond.</string>
+
+    <string name="ex_name_5115">Push Ups</string>
+    <string name="ex_desc_5115">Spier Pectoralis \n\nStap 1. Met je benen gestrekt naar achteren, plaats je handen onder je schouders op iets meer dan schouderbreedte afstand uit elkaar. \n\nStap 2. Zak door je ellebogen naar beneden totdat je borst net boven de vloer hangt. \n\nStap 3. Duw jezelf weer terug naar de beginposite. A 1-seconde omhoog, 1-seconde pauze, 2-secondes naar beneden is ideaal. \n\nStap 4. Herhaal.</string>
+
+    <string name="ex_name_5116">Triceps Dips</string>
+    <string name="ex_desc_5116">Spier Triceps Brachii \n\nStap 1. Plaats je handen op een stoel die achter je staat en zorg dat je vingers naar voren wijzen. \n\nStap 2. Strek je benen en laat je vervolgens door je ellebogen zakken. \n\nStap 3. Laat je zakken totdat je armen een hoek van 90 graden vormen. \n\nStap 4. Breng jezelf weer omhoog totdat je armen weer gestrekt zijn en herhaal de oefening.</string>
+
+    <string name="ex_name_5117">Inchworm</string>
+    <string name="ex_desc_5117">Spiergroep. Quadriceps \n\nStap 1. Sta rechtop met je voeten op schouderbreedte uit elkaar, buig voorover totdat je vingertoppen de vloer raken. \n\nStap 2. Loop zover als je kunt op je handen naar voren en houd hierbij je benen recht en pauzeer. Loop vervolgens weer op je handen terug naar de beginhouding, herhaal totdat je een volledige set hebt uitgevoerd.</string>
+
+    <string name="ex_name_5097">Stoelhouding</string>
+    <string name="ex_desc_5097">Spieren. Quadriceps \n\nStap 1. Begin in de bergpositie, hef je armen omhoog terwijl je inademt en zorg dat je handpalmen naar elkaar wijzen. \n\nStap 2. Als je uitademt buig je knieën en breng jezelf in een zithouding. \n\nStap 3. Blijf 30 seconden tot 1 minuut in deze houding.</string>
+
+    <string name="ex_name_5098">Squats</string>
+    <string name="ex_desc_5098">Spieren. Ga met je benen op heupbreedte van elkaar staan. \n\nStap 2. Breng je heupen naar beneden totdat je dijbenen parallel aan de vloer zijn. Duw jezelf weer omhoog, pauzeer en breng jezelf weer naar beneden tot de parallele houding. \n\nStap 3. Pauzeer opnieuw en keer vervolgens terug naar het begin.</string>
+
+    <string name="ex_name_5099">180 Jumping Squat</string>
+    <string name="ex_desc_5099">Spiergroep. Quadriceps \n\nStap 1. Sta met je voeten op iets meer dan schouderbreedte uit elkaar, je tenen wijzen lichtjes naar buiten en breng jezelf in de zitpositie. \n\nStap 2. Duw jezelf via je hakken omhoog en spring terwijl je 180 graden draait. \n\nStap 3. Kom neer op je tenen met lichtelijk gebogen knieën en squat. \n\nStap 4. Spring snel op, met een draai naar rechts en ga terug naar de squathouding. Herhaal totdat je een volledige set hebt voltooid.</string>
+
+    <string name="ex_name_5100">Sumo Squat</string>
+    <string name="ex_desc_5100">Spier Quadriceps \n\nStap 1. Sta met gespreide benen waarbij je tenen naar buiten wijzen. \n\nStap 2. Zak door je knieën naar beneden en duw je heupen naar achteren. \n\nStap 3. Zodra je dijbenen parallel aan de vloer zijn, ga je weer rechtop staan en herhaal</string>
+
+    <string name="ex_name_5101">Jump Lunge</string>
+    <string name="ex_desc_5101">Spiergroep. Bilspieren \n\nStap 1. Doe een grote stap terug en zak door je heupen, totdat je achterste knie net boven de vloer hangt en je voorste dijbeen parallel aan de vloer is. \n\nStap 2. Spring in de lucht en wissel van been. \n\nStap 3. Spring opnieuw en keer vervolgens terug naar de beginhouding. \n\nStap 4. Herhaal de oefening totdat je de set hebt voltooid.</string>
+
+    <string name="ex_name_5102">Squat Press Up</string>
+    <string name="ex_desc_5102">Spiergroep. Deltoids \n\nStap 1. Met halters op schouderhoogte zak je naar beneden totdat je in de squathouding bent. \n\nStap 2. Druk je hakken in de vloer en duw je heupen naar voren terwijl je rechtop komt en je de halters boven je schouders duwt.</string>
+
+    <string name="ex_name_5103">Burpee</string>
+    <string name="ex_desc_5103">Spiergroep. Quadriceps \n\nStap 1. Sta rechtop met je voeten op schouderbreedte uit elkaar. \n\nStap 2. Squat en plaats je handen voor je voeten. \n\nStap 3. Spring naar achteren todat je benen volledig gestrekt zijn en je lichaam in plankhouding is. \n\nStap 4. Doe een push up, spring naar voren en duw jezelf via je hakken omhoog om weer in de beginhouding terug te keren. \n\nStap 5. Herhaal totdat de set is voltooid.</string>
+
+    <string name="ex_name_5104">Summo Squat Dumbbell</string>
+    <string name="ex_desc_5104">Spiergroep. Bilspieren \n\nStap 1. Sta met je voeten op ongeveer twee keer schouderbreedte van elkaar, laat je tenen naar buiten wijzen en houd een halter met beide handen vast. \n\nStap 2. Squat en breng de halter tussen je benen. \n\nStap 3. Kom overereind en houd de halter in dezelfde positie. \n\nStap 4. Keer vervolgens terug naar de squathouding en herhaal de oefening voor de duur van de set.</string>
+
+    <string name="ex_name_5105">Zijwaartse Plank Met Dumbbell Laterale Heffing</string>
+    <string name="ex_desc_5105">Spiergroep. Obliques \n\nStap 1. Begin vanuit een gewijzigde zijwaartse plankhouding waarbij je het bovenste been gestrekt hebt en je onderste been naar achteren hebt gebogen met je knie op de mat. \n\nStap 2. Til het bovenste been zo hoog mogelijk op, druk tegelijkertijd je arm naar boven en laat het vervolgens weer zakken. \n\nStap 3. Herhaal en wissel van kant.</string>
+
+    <string name="ex_name_5106">Springende Jacks</string>
+    <string name="ex_desc_5106">Spiergroep. Quadriceps \n\nStap 1. Sta rechtop met je voeten bij elkaar en je armen langs je lichaam. \n\nStap 2. Spring op, spreid je voeten en breng boven handen boven je hoofd. \n\nStap 3. Spring opnieuw en keer vervolgens terug naar de beginhouding. \n\nStap 4. Herhaal totdat de set is voltooid.</string>
+
+    <string name="ex_name_5107">Rennen Met Opgetilde Knieën</string>
+    <string name="ex_desc_5107">Spiergroep. Quadriceps \n\nSTAP 1. Sta rechtop met je voeten op schouderbreedte uit elkaar. Kijk naar voren en open je borstkast. \n\nStap 2. Til je knieën tot je taille op en kom langzaam terug op de bal van je voeten. \n\nStap 3. Herhaal totdat de set is voltooid.</string>
+
+    <string name="ex_name_5108">Op De Plaats Rennen Met Opgeheven Armen</string>
+    <string name="ex_desc_5108">Spier Quadriceps \n\nStap 1. Sta in een wijde spreidstand met je voeten op heupbreedte afstand achter elkaar en je armen naar boven gestrekt. \n\nStap 2. Spring waarbij je tegelijkertijd van been wisselt, door de ene keer het ene been voor en de andere keer het andere been achter en strek tegelijkertijd je armen boven je hoofd. \n\nStap 3. Ga door met dit rennen op de plaats.</string>
+
+    <string name="ex_name_5109">Rennende Man</string>
+    <string name="ex_desc_5109">Spier Quadriceps \n\nSTAP 1. Sta rechtop met je voeten op schouderbreedte uit elkaar. Kijk naar voren en open je borstkast. \n\nStap 2. Til je knieën tot je taille op en keer langzaam terug op de bal van je voeten. \n\nStap 3. Herhaal totdat de set is voltooid.</string>
+
+    <string name="ex_name_5110">Side To Side Hops</string>
+    <string name="ex_desc_5110">Spier. Kuitspier \n\nStap 1. Sta rechtop met je handen langs je lichaam en je voeten op heupbreedte uit elkaar. \n\nStap 2. Spring met beide voeten naar rechts en dan naar links in een snelle, herhalende beweging. \n\nStap 3. Herhaal totdat de set is voltooid.</string>
+
+    <string name="ex_name_5111">Speed Rope</string>
+    <string name="ex_desc_5111">Spier. Kuitspier \n\nStap 1. Houd je handen ter hoogte waarop je een springtouw vasthoudt met je ellebogen lichtjes gebogen, waarbij je de bovenarmen dicht tegen je lichaam houdt. \n\nStap 2. Draai met je polsen net alsof je een springtouw ronddraait en spring. \n\nStap 3. Spring tegelijkertijd met beide voeten en kom neer op de bal van je voet.</string>
+
+    <string name="ex_name_5112">Cross Jacks</string>
+    <string name="ex_desc_5112">Spier. Kuitspier \n\nStap 1. Sta rechtop met je voeten op schouderbreedte van elkaar met je armen zijwaarts gestrekt. \n\nStap 2. Spring en kruis je linkerbeen voor je rechter en kruis je linkerarm over je rechter heen. \n\nStap 3. Spring opnieuw en keer vervolgens terug naar de beginhouding. \n\nStap 4. Herhaal en wissel de positie van je armen en benen.</string>
+
+    <string name="ex_name_5113">Lunge Shoulder Press</string>
+    <string name="ex_desc_5113">Spier Quadriceps \n\nStap 1. Sta met je voeten op heupbreedte van elkaar en houd een halter in elke hand vast. Houd de halters op schouderhoogte vast. \n\nStap 2. Stap met je linkerbeen naar voren en strek je knieën totdat je achterste knie net boven de vloer is en druk de halters omhoog. \n\nStap 3. Herhaal deze beweging gedurende de volledige duur van de set en wissel dan van been.</string>
+
+    <string name="ex_name_5114">Single Arm Dumbbell Snatch</string>
+    <string name="ex_desc_5114">Spier Deltoids \n\nStap 1. Houd de halter met je rechterhand vast, buig door je knieën, duw je heupen naar achteren en breng de halter tussen je voeten. \n\nStap 2. Trek de halter omhoog door je heupen en knieën te strekken en zodra de halter op schouderhoogte is, draai je je handen naar voren en duw je hem recht omhoog. \n\nStap 3. Laat de halter weer zakken en keer vervolgens terug naar de beginhouding. \n\nStap 4. Herhaal en wissel van kant.</string>
+
+    <string name="ex_name_5077">Dumbbell Row Kickback</string>
+    <string name="ex_desc_5077">Spier Triceps Brachii \n\nStap 1. Pak in elke hand een halter, buig je bovenlichaam voorover en buig je knieën lichtjes. \n\nStap 2. Breng je ellebogen omhoog zodat je bovenarmen parallel met de vloer zijn, strek vervolgens je armen helmaal naar achteren uit. \n\nStap 3. Breng langzaam de gewichten naar de beginhouding terug. \n\nStap 4. Herhaal.</string>
+
+    <string name="ex_name_5078">Goedemorgen</string>
+    <string name="ex_desc_5078">Spier. Lage onderrug \n\nStap 1. Sta rechtop met je voeten op schouderbreedte afstand. Plaats de barbell op de achterkant van je schouders. Houd de barbell met een overhandse grip vast. De afstand tussen je handen moet meer dan een schouderbreedte zijn. Zorg er verder voor dat je voeten lichtjes naar buiten wijzen. \n\nStap 2. Houd je rug recht en buig je bovenlichaam naar voren totdat het parallel met de vloer is. Houd dit een seconde vast. Keer vervolgens terug naar de beginhouding.</string>
+
+    <string name="ex_name_5079">One-Arm Dumbbell Row 2</string>
+    <string name="ex_desc_5079">Spier Triceps Brachii \n\nStap 1. Gebruik je niet dominerende hand om de halter vast te houden, terwijl je je dominerende hand op je knie plaatst, zoals getoond. \n\nStap 2. Houd je rug recht als je de halter langs je lichaam laat hangen, waarbij je armen lichtjes voor je schouders hebt hangen. \n\nStap 3. Breng de halter omhoog naar je heupen en weer terug naar beneden, houd hierbij steeds je elleboog dicht bij je lichaam. Focus om je bovenrugspieren te gebruiken bij het uitvoeren van deze beweging. Pauzeer en keer vervolgens langzaam terug naar de beginhouding.</string>
+
+    <string name="ex_name_5080">Deadlift</string>
+    <string name="ex_desc_5080">Spieren. Bilspieren \n\nStap 1. Sta rechtop met je voeten op schouderbreedte van elkaar en houd in elke hand een halter vast. \n\nStap 2. Duw je heupen naar achteren en laat de halters zakken, terwijl je je benen recht of lichtjes gebogen houdt. \n\nStap 3. Keer vervolgens terug naar de beginhouding en herhaal.</string>
+
+    <string name="ex_name_5094">STER-SPRONG</string>
+    <string name="ex_desc_5094">Spiergroepen. Quadriceps \n\nStap 1. Begin in een ontspannen houding met je voeten op schouderbreedte van elkaar, en je armen dicht langs je lichaam. \n\nStap 2. Begin met de beweging door in een halve kniebuiging te gaan en vervolgens explosief zo hoog mogelijk te springen. Strek je hele lichaam, en spreid je benen en armen volledig uit elkaar.</string>
+
+    <string name="extra_main_name">Training-plannen</string>
+
+
+    <string name="day">Dag</string>
+    <string name="round">Reeks</string>
+    <string name="day1">2 dagen per week</string>
+    <string name="day2">3 dagen per week</string>
+    <string name="day3">4 dagen per week</string>
+    <string name="restorePurchases">Aankopen herstellen</string>
+    <string name="textUpgrade">Upgrade naar de Premium versie om 50 Nieuwe Oefeningen te verkrijgen en ads-vrij</string>
+    <string name="one_day_ADS1">1-Dag ZONDER ADS</string>
+    <string name="one_day_ADS2">BEKIJK GESPONSORDE VIDEO</string>
+    <string name="upgrade">NU UPGRADEN</string>
+    <string name="free">Gratis</string>
+    <string name="tell_friend">Vertel een Vriend</string>
+    <string name="send_feedback">Verstuur Feedback</string>
+    <string name="rate_app">Beoordeel ons</string>
+    <string name="facebook">Deel app op Facebook</string>
+    <string name="twitter">Deel de app op Twitter</string>
+    <string name="ic_googleplay">Onze andere apps</string>
+    <string name="ic_settings_">Instellingen</string>
+    <string name="social_follow">Blijf in contact met VGFIT</string>
+    <string name="reminder">Herinnering</string>
+    <string name="daily_reminder">Dagelijkse herinnering</string>
+    <string name="frequency">Frequetie</string>
+    <string name="after_days">Na %1$s dagen van niet-actief zijn</string>
+    <string name="title_8"></string>
+    <string name="menu_bt">Menuknop</string>
+    <string name="units">eenheden</string>
+    <string name="purch_restored">In-app aankopen werden hersteld</string>
+    <string name="success">Succes!</string>
+
+    <string name="ex_cat_1">Buikpartij</string>
+    <string name="ex_cat_2">Rug</string>
+    <string name="ex_cat_3">Biceps</string>
+    <string name="ex_cat_4">Billenpartij</string>
+    <string name="ex_cat_5">Borst</string>
+    <string name="ex_cat_6">Benen</string>
+    <string name="ex_cat_7">Schouders</string>
+    <string name="ex_cat_8">Triceps</string>
+    <string name="time_worout">Het is tijd voor je workout!</string>
+
+    <string name="cat_name6">Buikspieren</string>
+    <string name="cat_name7">Bilspiertraining</string>
+    <string name="cat_name8">Strandlichaam</string>
+    <string name="cat_name9">Vetverbranding</string>
+    <string name="cat_name10">Armen, borst en rug</string>
+    <string name="cat_name11">Slanke benen</string>
+    <string name="cat_name12">Cardio en het hele lichaam</string>
+
+    <string name="extraDescription6">Word strak en werk aan uw wasbord met dit geïnspireerd circuit voor uw abs verbranders.</string>
+    <string name="extraDescription7">Work-out voor de bilspieren en definitie.</string>
+    <string name="extraDescription8">De perfecte combinatie van oefeningen voor meer kracht en totale spierdefinitie.</string>
+    <string name="extraDescription9">Zweet jezelf naar een strak lichaam, met dit intensieve circuit om vet te verbranden.</string>
+    <string name="extraDescription10">Een geweldige work-out voor je armen, borst en rugspieren.</string>
+    <string name="extraDescription11">Geweldige work-out voor definitie van de benen.</string>
+    <string name="extraDescription12">Work-out ontworpen voor vetverbranding en totale spierdefinitie.</string>
+
+
+    <string name="Focus">Focus</string>
+    <string name="Goal">Doel</string>
+    <string name="Skill_level">Niveau</string>
+    <string name="Target_Group">Doelgroep</string>
+    <string name="Place">Plaats</string>
+    <string name="Equipment">Uitrusting</string>
+
+    <string name="focus_1">Core zone</string>
+    <string name="focus_2">Bilspieren.</string>
+    <string name="focus_3">Spieren van het hele lichaam.</string>
+    <string name="focus_4">Spierdefinitie en vetverbranding</string>
+    <string name="focus_5">Biceps, Triceps, Borstspieren, Lage Rugspieren.</string>
+    <string name="focus_6">Bilspieren, Hamstrings, Quadriceps.</string>
+
+    <string name="goal_1">Buikspierdefinitie &amp; Vetverbranding</string>
+    <string name="goal_2">Krijg meer spierdefinitie en volume.</string>
+    <string name="goal_3">Lichaamstraining.</string>
+    <string name="goal_4">Cardioroutine voor het volledige lichaam</string>
+    <string name="goal_5">Win kracht en definitie</string>
+
+    <string name="skill_level">Beginner Intermediair Gevorderd</string>
+
+    <string name="target_group">Mannen en Vrouwen</string>
+
+    <string name="equipment_1">Mat.</string>
+    <string name="equipment_2">Bank, mat.</string>
+    <string name="equipment_3">Handhalter, halterstang.</string>
+    <string name="equipment_4">Bank, handhalter, mat.</string>
+    <string name="place">Gym, Thuis, Kantoor</string>
+
+    <string name="doneKey">Klaar</string>
+    <string name="editKey">Bewerken</string>
+    <string name="intervalsKey">Intervals</string>
+    <string name="myWorkoutsKey">Mijn workouts</string>
+    <string name="pauseKey">Pauzeren</string>
+    <string name="resetKey">Resetten</string>
+    <string name="resumeKey">Hervatten</string>
+    <string name="roundsKey">Rondes</string>
+    <string name="startKey">Starten</string>
+    <string name="currentsetkey">Huidige instellingen</string>
+    <string name="resttimekey">Rusttijd</string>
+    <string name="worktimekey">Werktijd</string>
+    <string name="minkey">Min</string>
+    <string name="seckey">Sec</string>
+    <string name="sets_extra1">30 sec. zonder rusten</string>
+    <string name="sets_extra2">3 sets en 12/11/10 reps</string>
+    <string name="sets_extra3">35 s. werktijd 15 s. rusttijd</string>
+    <string name="sets_extra4">30 s. werktijd 15 s. rusttijd</string>
+    <string name="sets_extra5">2 reeksen 15 reps</string>
+
+    <string name="rep_extra1">30 s. werktijd 15 s. rusttijd</string>
+    <string name="rep_extra2">30 s. trainen, 15 s. rust, 30 s. rust tussen rondes</string>
+    <string name="rep_extra3">3 sets en 12/11/10 reps</string>
+
+    <string name="rep_extra1_how">Trainingsduur, 30 sec., rust tussen de oefeningen, 15 sec.</string>
+    <string name="rep_extra2_how">Trainingsduur 30 sec., rust tussen de oefeningen, 15 sec., rust tussen rondes, 30 sec.</string>
+    <string name="rep_extra3_how">Rust tussen oefeningen, 30 sec., rust tussen sets, 45 sec.</string>
+
+    <string name="enter_text">Tekstbericht invoeren</string>
+    <string name="main_work">Workouts opgesteld om gewichten te tillen en spieren en kracht te kweken.</string>
+
+    <string name="namemeal1_1">Aardbeien en havermoutmap</string>
+    <string name="ingredientMeal1_1">&#189; kop havermout \n\n&#8531; kop magere melk\n\n&#8531; kop vanille Griekse yoghurt \n\n&#189; kop plakjes aardbeien\n\n2 el magere Griekse vanilleyoghurt \n\n1 el geroosterde amandelen</string>
+    <string name="stepsMakeMeal1_1">\'s Avonds roer je de havermout, melk en &#8531; kop yoghurt in een pot of kom, tot het geheel goed is gemengd. Dek af en laat het een nacht in de koelkast staan. Geniet ervan!</string>
+
+
+    <string name="namemeal1_2">Gouden gloed elixir</string>
+    <string name="ingredientMeal1_2">2 appels\n\n4 middelgrote sinaasappels, schil verwijderd \n\n1 citroen, geschild\n\n5&#8211;7 cm verse gember, geschild\n\n5 cm verse kurkuma, geschild \n\n2 koppen koud water \n\n1 handje ijs</string>
+    <string name="stepsMakeMeal1_2">In een snelle blender, blend je alle ingrediënten glad (voeg water toe indien nodig). Een krachtige kwaliteitsblender zal hier een gladde sap van maken. Wil je de ingrediënten liever zo mengen dat er een nog zuiverder sap ontstaat, dan kan dat zonder de vezels en voedingsstoffen kwijt te raken, en het smaakt net zo goed. Geniet ervan!</string>
+
+
+    <string name="namemeal1_3">Tso’s roergebakken kip </string>
+    <string name="ingredientMeal1_3">4 kipfilets, in blokjes \n\n1 kop bloem \n\nplantaardige olie\n\nzout\n\nvers gemalen zwarte peper \n\n2 teentjes knoflook, gehakt \n\n&#189; blik kippenbouillon \n\n3 el honing \n\n4 el sojasaus \n\n2 el limoensap \n\n2 blikken broccoli, alleen de roosjes \n\n2 blikken gekookte witte rijst, als bijgerecht</string>
+    <string name="stepsMakeMeal1_3">Neem een grote kom met maïzena en dep de kip lichtjes om en om. Verplaats de stukken naar een grote kom met bloem en bedek het vlees nogmaals aan alle kanten, en leg het apart. Plaats een groter, diepe koekenpan met &#189; eetlepel plantaardige olie op matig&#8211;hoog vuur. Kruid de kip, dep het vlees droog en leg het apart. Doe er 2 eetlepels maïzena bij en roer het door elkaar. Doe de broccoli en wortels bij de saus en kook tot het zacht is geworden en, ongeveer 5 minuten. Geniet ervan!</string>
+
+
+    <string name="namemeal1_4">Kruidenthee </string>
+    <string name="ingredientMeal1_4">1 kop water \n\n1 theelepel geraspte verse gember \n\n1 theelepel limoenrasp \n\n1 theelepel limoensap \n\n3 blaadjes verse munt </string>
+    <string name="stepsMakeMeal1_4">Breng water aan de kook in een pan en roer er de rest van de ingrediënten door. Kook en blijf roeren tot de thee is getrokken. Geniet ervan!</string>
+
+
+    <string name="namemeal1_5">Gegrilde citroen Dijon&#8211;kippendijen met arugula&#8211;salade</string>
+    <string name="ingredientMeal1_5">4 (120 g) kippendijen \n\n&#189; tl zout \n\n&#188; tl gemalen zwarte peper \n\n2.5 el olijfolie \n\n2 tl citroensap \n\n1 tl gehakt knoflook\n\nkookspray \n\n1 el balsamicoazijn \n\n1 tl honing \n\n1 kop snacktomaten, gehalveerd \n\n1 (150 g) zakje baby&#8211;arugula</string>
+    <string name="stepsMakeMeal1_5">Strooi &#188; theelepel zout en 1/8 theelepel peper over de kip. Combineer de kip met 1&#8211;1,5 theelepels olie, citroensap, mosterd, en knoflook in een kom, hussel om te bedekken. Laat dit 4 minuten staan. Verhit een grillpan boven een matig vuur. Vet de pan in met kookspray. Doe de kip in de pan, gril 5 minuten aan elke kant of tot het gaar is. Snijd de kip in plakken van 6 mm dik. Geniet ervan!</string>
+
+
+    <string name="namemeal2_1">Cottage bessencrunch</string>
+    <string name="ingredientMeal2_1">&#189; kop 2% magere cottage cheese\n\n2 el granola \n\n&#189; kop plakjes bananen \n\n&#189; kop gemengde bessen</string>
+    <string name="stepsMakeMeal2_1">Lepel de cottage cheese in een kleine kom. Garneer het met de rest van de ingrediënten. Geniet ervan!</string>
+
+
+    <string name="namemeal2_2">Ananas Kiwi</string>
+    <string name="ingredientMeal2_2">4 el water \n\n&#189; kop melk \n\n&#189; kop yoghurt\n\n1.5 el honing\n\n1 kiwi fruit, geschild\n\n1 kop ananasstukjes \n\n&#189; een mango\n\n2 ijsklontjes </string>
+    <string name="stepsMakeMeal2_2">Blend alle ingrediënten op een lage snelheid tot het dik en glad is. Geniet ervan!</string>
+
+
+    <string name="namemeal2_3">Gebakken citroenkip </string>
+    <string name="ingredientMeal2_3">4 kipfilets \n\n&#188; kop boter \n\n2 el. olijfolie \n\n1 citroen \n\n1 citroen in plakjes \n\n&#188; kop witte wijn \n\n1 tl zout \n\n1 tl gemalen zwarte peper \n\n&#189; tl paprika \n\n&#189; tl gedroogde peterselie </string>
+    <string name="stepsMakeMeal2_3">Combineer bloem, zout, peper, paprika en peterselie in een ondiepe kom. Verhit olie en boter op een matig&#8211;hoog vuur. Bedek elke kipfilet in de bloem mengsel en doe dit in de hete koekenpan. Voeg citroensap, witte wijn, citroenrasp en rozemarijn toe aan de koekenpan. Bak de kip aan elke bruin tot het volledig gaar is. Geniet ervan!</string>
+
+
+    <string name="namemeal2_4">Courgette Quinoakoekjes</string>
+    <string name="ingredientMeal2_4">&#189; kop romige pindakaas\n\n&#188; kop honing \n\n1 banaan\n\n1 ei \n\n1 tl vanille&#8211;extract \n\n&#189; kop havermout \n\n&#189; kop quinoavlokken \n\n1 tl kaneel \n\n&#188; tl zout \n\n1 kop gemalen courgette, geperst </string>
+    <string name="stepsMakeMeal2_4">Verwarm de oven voor op 180° C. Doe er de pindakaas, ei  en vanille bij in een grote kom, en roer. Voeg er de havermout, quinoavlokken, bakpoeder, kruiden en zout toe aan de kom roer het door elkaar. Vouw de gemalen courgette en chiazaden erdoor. Lepel het deeg op een bakplaat. Bak de koekjes in het midden van de oven, 15 &#8211; 18 minuten, tot de randen goudbruin zijn geworden. Geniet ervan!</string>
+
+
+    <string name="namemeal2_5">Pikante garnalen met verse kruiden</string>
+    <string name="ingredientMeal2_5">1 pond grote garnalen \n\n2 rode chilipepers \n\n1 prei, in dunne plakjes \n\n0,5&#8211;1 el kappertjes, gespoeld en afgegoten \n\n2 teentjes knoflook, in dunne plakjes \n\n&#189; kop grof gesneden peterselie \n\n3 el citroensap\n\n2 el olijfolie </string>
+    <string name="stepsMakeMeal2_5">Zet een sauteerpan op een matig vuur en doe er wat olie in. Doe er garnalen, pepers, prei, kappertjes, knoflook, zout en peper bij, en bak 4 minuten tot de garnalen roze zijn. Haal de pan van het vuur. Doe citroensap in de pan, en schraap de bodem van de pan uit met een lepel. Serveer de garnalen met verse peterselie en basilicum. Geniet ervan!</string>
+
+
+    <string name="namemeal3_1">Lijnzaad&#8211;havermout met blauwe bessen</string>
+    <string name="ingredientMeal3_1">3 koppen water \n\n2 koppen havermout \n\n3 el gemalen lijnzaad \n\n1/8 tl zout \n\n&#188; kop volle melk \n\n1 kop blauwe bessen \n\n1 el bosbessenjam \n\n&#189; tl citroenrasp \n\n1 el citroensap </string>
+    <string name="stepsMakeMeal3_1">Breng 3 koppen water aan de kook. Roer er de havermout door, voeg er lijnzaad en zout aan toe. Zet het vuur op matig&#8211;laag, kook al roerend tot het geheel zacht is geworden. Roer er melk en boter door. Meng ondertussen de blauwe bessen met de volgende 4 ingrediënten in een magnetronbestendige kom, zet de magnetron 1,5 minuten hoog, roer om de 30 seconden. Verdeel de havermout over 4 kommen. Garneer met blauwe bessen en pecannoten. Geniet ervan!</string>
+
+
+    <string name="namemeal3_2">Kokosmelksmoothie met blauwe bessen</string>
+    <string name="ingredientMeal3_2">1 zakje diepvries blauwe bessen \n\n3 rijpe bananen \n\n1 kop yoghurt \n\n1 kop ongezoete kokosmelk \n\n2 el honing </string>
+    <string name="stepsMakeMeal3_2">In een blender pureer je de blauwe bessen, bananen, yoghurt, kokosmelk en honing. Geniet ervan!</string>
+
+
+    <string name="namemeal3_3">Geroerbakte kip en asperges</string>
+    <string name="ingredientMeal3_3">1 el sojasaus \n\n1 el honing \n\n2 kipfilets, in stukjes \n\n1 el olijfolie \n\n1 bos asperges, in stukjes \n\n4 teentjes knoflook, in dunne plakjes \n\n2 tl geroosterde sesamolie </string>
+    <string name="stepsMakeMeal3_3">Meng sojasaus en honing in een afsluitbare zak. Doe er de kip bij en roer het geheel om het vlees een laagje te geven. Leg het in de koelkast tot het klaar is. Verhit ondertussen olie in een grote koekenpan op een matig vuur. Verwijder de asperges en leg ze apart. Verwijder de kip uit de marinade, en leg het in de koekenpan. Voeg er de knoflook, lente&#8211;uitjes en de apart gezette marinade aan toe. Verwijder van het vuur en roer er de sesamolie door. Geniet ervan!</string>
+
+
+    <string name="namemeal3_4">Lavendel muntthee </string>
+    <string name="ingredientMeal3_4">&#188; kop verse lavendelknoppen \n\n1 kop verse muntblaadjes\n\n4 koppen water </string>
+    <string name="stepsMakeMeal3_4">Doe de lavendelkoppen en muntbladeren in een sauspan, schenk er water overheen en breng aan de kook. Zet het vuur laag en laat de thee 15 tot 20 minuten trekken, tot het de gewenste sterkte heeft. Geniet ervan!</string>
+
+
+    <string name="namemeal3_5">Chili Fajitas </string>
+    <string name="ingredientMeal3_5">1 pond kipfilet, zonder vel \n\n&#189; groene, rode en gele paprika, in dunne plakjes \n\n&#8531; kop water\n\n2 tl sojasaus \n\n1 snufje zout \n\n1 snufje zwarte peper\n\n2 el olijfolie \n\n1 grote ui, in dunne plakjes </string>
+    <string name="stepsMakeMeal3_5">Doe alle ingrediënten voor de marinade samen met de kip in een kom of zak en zet dit minstens 2 uur in de koelkast. Verwijder het vlees uit de marinade en grill boven een matig vuur, 4&#8211;5 minuten aan elke kant. Snijd het vlees in dunne plakken. Meng voor de saus 2 el water, 1 tl sojasaus, &#188; tl limoensap, snufje zout, snufje zwarte peper en 1 el olijfolie.  Geniet ervan!</string>
+
+
+    <string name="namemeal4_1">Gezonde, fruitige havermout</string>
+    <string name="ingredientMeal4_1">&#189; kop havermout\n\n1 kop water \n\n1 el honing \n\n1 el vanille&#8211;extract \n\n&#189; tl gemalen kaneel \n\n&#188; kop blauwe bessen \n\n4 plakjes aardbeien\n\n&#189; banaan, in plakjes</string>
+    <string name="stepsMakeMeal4_1">Meng water en havermout in een magnetronbestendige kom. Magnetron op hoge stand tot de havermout het water heeft opgenomen. Roer er honing, vanille&#8211;extract en gemalen kaneel door. Voeg er de blauwe bessen aan toe en garneer met banaan en plakjes aardbei. Geniet ervan!</string>
+
+
+    <string name="namemeal4_2">Koffiesmoothie </string>
+    <string name="ingredientMeal4_2">1 tl instant espressopoeder \n\n1 el heet water \n\n1 kleine banaan, gepeld, in plakjes en diepvries \n\n&#188; kop magere melk \n\n1 el honing \n\n&#189; kop ijsklontjes\n\n gemalen kaneel </string>
+    <string name="stepsMakeMeal4_2">Meng de espressopoeder en het hete water in een blender, en laat dit 1 minuut rusten. Doe er de banaan, melk en honing bij. Dek af en blend tot een glad mengsel. Voer er geleidelijk ijs aan toe en blend tot de gewenste dikte. Bestrooi licht met wat kaneel. Geniet ervan!</string>
+
+
+    <string name="namemeal4_3">Geroerbakte kip &amp; ananas </string>
+    <string name="ingredientMeal4_3">110 g kipfilets\n\n40 g ananas  \n\n120 g volkorenrijst\n\n&#8531; el olijfolie \n\n&#189; tl bruine mosterd \n\n1/6 el gerookte paprikapoeder \n\nzeezout\n\npeper</string>
+    <string name="stepsMakeMeal4_3">Snijd de rauwe kipfilets in kleine stukjes. Kruid de kipstukjes met de paprikapoeder en mosterd. Verwarm olijfolie in een koekenpan en doe er de kipfilet bij. Bak dit ongeveer 4 minuten tot de kip 80% is gegaard, en voeg er vervolgens de gehakte paprika aan toe. Bak dit nogmaals 2 of 3 minuten voor je de blokjes ananas erbij doet. Geniet ervan!</string>
+
+
+    <string name="namemeal4_4">Rauwe chocoladetruffels </string>
+    <string name="ingredientMeal4_4">&#189; kop walnoten, cashewnoten en amandelen, een nacht geweekt in water \n\n3&#8211;4 el amandelmelk\n\n&#188; kop zonnebloempitten \n\n&#188; kop pompoenpitten\n\n2 el carobe&#8211;poeder \n\n3 el kokosvlokken </string>
+    <string name="stepsMakeMeal4_4">Doe alles in de blender, behalve de kokosvlokken, en mix. Maak kleine balletjes van het mengsel met een ijsschep. Rol elk snoepje in kokosvlokken. Serveer koud. Geniet ervan!</string>
+
+
+    <string name="namemeal4_5">Gebakken zalm met groenten </string>
+    <string name="ingredientMeal4_5">2 zalmfilets \n\n1 kop in plakjes courgette \n\n1 kop broccoli \n\n&#189; kop kerstomaatjes \n\nzout \n\npeper \n\nolijfolie</string>
+    <string name="stepsMakeMeal4_5">Verwarm de oven voor op 190° C. Meng de groenten op een grote bakplaat. Kruid de groenten met zout, peper en olijfolie. Leg de filets bij de groenten en bak 18&#8211;20 minuten of tot de zalm is gekookt en de groenten mals zijn. Geniet ervan!</string>
+
+
+    <string name="namemeal5_1">Banaan&#8211;notenhavermout</string>
+    <string name="ingredientMeal5_1">&#189; kop havermout \n\n1 kop water \n\n1 plakjes banaan\n\n1 el gehakte walnoten \n\n1 tl gemalen kaneel </string>
+    <string name="stepsMakeMeal5_1">Meng havermout en 1 kop of water in een kleine magnetronbestendige kom. Kook 3 minuten op een hoge stand. Garneer met banaan slices, walnoten en kaneel. Geniet ervan!</string>
+
+
+    <string name="namemeal5_2">Pink Power</string>
+    <string name="ingredientMeal5_2">1,5 kop kleine verse bloemkoolroosjes \n\n2 koppen watermeloen&#8211;blokjes (zaadjes en schil verwijderd) \n\n1,5 koppen hele aardbeien\n\n180 gram Griekse aardbeienyoghurt \n\n2 el aardbeienjam (eventueel) </string>
+    <string name="stepsMakeMeal5_2">Kook de bloemkool in een kleine steelpan, onder kokend water, tot het zeer zacht is. In een blender meng je de gekookte bloemkool met de watermeloen, aardbeien, yoghurt en, indien gewenst, aardbeienjam. Geniet ervan!</string>
+
+
+    <string name="namemeal5_3">BBQ&#8211;kip met aspergerolletjes</string>
+    <string name="ingredientMeal5_3">2 kipfilets, dun gesneden, 90 gr per stuk\n\n12 aspergestelen \n\n2 el barbecuesaus\n\n1 snufje gerookte paprika \n\n1 snufje knoflookpoeder \n\n1 snufje peper</string>
+    <string name="stepsMakeMeal5_3">Stel oven in op 200°C. Plet de kip met een vleeshamer. Kruid de kipstukjes met 1 el barbecuesaus (voor elk stuk) en kruiden naar keuze. Leg de kip op een grilrooster met het open deel naar beneden. Bak het vlees ongeveer 8 tot 10 minuten in de oven, of rook het op een barbecue. Geniet ervan!</string>
+
+
+    <string name="namemeal5_4">Gember kurkuma kruidenthee</string>
+    <string name="ingredientMeal5_4">2 koppen water \n\n&#189; theelepel vers gesneden gember \n\n&#189; theelepel gemalen kaneel \n\n1 eetlepel honing \n\n1 citroenschijfje </string>
+    <string name="stepsMakeMeal5_4">Breng water aan de kook in een kleine sauspan en doe er kurkuma, gember en kaneel bij. Zet het vuur laag en laat het 10 minuten pruttelen. Schenk de thee in een grote glas, doe er honing en citroen bij. Geniet ervan!</string>
+
+
+    <string name="namemeal5_5">Gegrilde garnalen &amp; avocado&#8211;kebab</string>
+    <string name="ingredientMeal5_5">450 g jumbo garnalen\n\n1.5 avocado’s\n\n1 rode paprika\n\n1 oranje paprika\n\n1 gele paprika\n\n1 rode ui\n\n1 tl knoflookpasta \n\n&#189; el extra virgine olijfolie \n\n1 limoen \n\nzout, peper </string>
+    <string name="stepsMakeMeal5_5">Stel de grill in op ongeveer 200°C. Hak de groenten en avocado in grote stukken voor de kebab. Pel de garnalen en breng ze op smaak. Kies vezelrijke groenten, omdat die vullender zijn en niet van een kebab&#8211;stokje afvallen boven een hoog vuur. Plaats de kebabs op de grill en gaar ze ongeveer 8&#8211;10 minuten, waarna ze omgekeerd worden om nog 8 tot 10 minuten te garen. Geniet ervan!</string>
+
+
+    <string name="namemeal6_1">Ochtendparfait</string>
+    <string name="ingredientMeal6_1">&#188; kop rozijnen en 1 tl gesnipperde sinaasappelschil \n\n1 tl vanille\n\nhalf pak vetarme Neufchatel roomkaas (250 gram) \n\nbroodkruimels \n\n2 koppen verse frambozen, blauwe bessen, plakjes aardbei, en/of perzik in partjes\n\n&#189; kop magere granola\n\nhoning\n\ngesnipperde sinaasappelrasp</string>
+    <string name="stepsMakeMeal6_1">Mix broodkruimels en kaas, en strooi dit over de bakplaat. Besprenkel met olie. Bak 20 tot 25 minuten. Doe een laagje roomkaas in vier glazen, een laagje fruit en een laag granola. Herhaal deze lagen tot aan de garnering van de glazen. Besprenkel met honing en garneer met extra sinaasappelrasp. Voor vier personen. Geniet ervan!</string>
+
+
+    <string name="namemeal6_2">Smoothie met groene thee, kiwi en mango </string>
+    <string name="ingredientMeal6_2">2,5 koppen diepvries mango, in blokjes \n\n3/4 kop vanilleyoghurt\n\n2 el honing\n\n2 el water\n\n3 rijpe kiwi \n\n2 koppen ijsklontjes \n\n&#189; kop babyspinazie \n\n2 el groene thee (getrokken) </string>
+    <string name="stepsMakeMeal6_2">Leg mango, &#189; kop yoghurt, 2 eetlepels honing, 2 eetlepels water en limoenschil in een blender, en mix to het glad is. Doe &#188; kop yoghurt, 2 eetlepels honing, kiwifruit en de volgende 3 ingrediënten in een blender en blend tot het glad is. Geniet ervan!</string>
+
+
+    <string name="namemeal6_3">Geroerbakte citruskip </string>
+    <string name="ingredientMeal6_3">140 g kipfilet, kleine stukjes\n\n34 g broccolini  \n\n25 g baby portobello\n\n&#188; rode paprika \n\n20 g rode ui\n\nkokosolie, spray \n\nsesamzaadjes  \n\n&#188; tl arrowroot\n\n1/8 el knoflookpasta\n\n&#188; tl gemberpasta</string>
+    <string name="stepsMakeMeal6_3">Mix alle ingrediënten voor de geroerbakte saus in een kom. Spray een koekenpan met kokosolie en plaats op een matig vuur. Doe er de kipstukjes bij en bak tot ze ongeveer 85% gaar zijn. Doe er daarna de groente bij en roer met een spatel. Geniet ervan!</string>
+
+
+    <string name="namemeal6_4">Gegrilde Mexicaanse maïs </string>
+    <string name="ingredientMeal6_4">4 maïskolven\n\n1.5 koppen zure room\n\n1 kop geraspte parmezaanse kaas \n\nsap van 1 limoen\n\nrode chilipoeder\n\n2 limoenen in partjes, ter garnering </string>
+    <string name="stepsMakeMeal6_4">Gril de maïs onder een keer omdraaien op een hete grill, tot het iets begint aan te branden. Meng in een kleine kom de mayonaise, zure room en koriander. Giet dit over de maïs, met limoensap en parmezaanse kaas. Besprenkel met chilipoeder. Geniet ervan!</string>
+
+
+    <string name="namemeal6_5">Zalmburger met avocado</string>
+    <string name="ingredientMeal6_5">1 pond zalmfilet\n\n1 kop broodkruimels \n\n1 ei \n\n1 el citroensap \n\nzout en peper \n\nolijfolie \n\n1 grote avocado, gehakt \n\n&#8531; kop rode ui, gehakt \n\n1 limoensap</string>
+    <string name="stepsMakeMeal6_5">Hak de zalmfilet in kleine stukjes en doe die in een mengkom. Roer voorzichtig de rest van de ingrediënten erdoor. Laat het mengsel 5&#8211;10 minuten rusten. Verhit een beetje olie in een grote grillpan op matig vuur. Maak nette pasteitjes van het zalmmengsel. Bak de pasteitjes tot ze aan elke kant bruin zijn, ongeveer 4 minuten aan elke kant. Geniet ervan!</string>
+
+
+    <string name="namemeal7_1">Notenbrood met aardbei en bananen</string>
+    <string name="ingredientMeal7_1">150 g havermout (gekookt)\n\n&#189; geprakte banaan \n\n50 g aardbeien\n\n2 el amandelmelk \n\n1 el vanille&#8211;extract \n\n2 el  gehakte walnoten\n\npakketje stevia merk "In The Raw" \n\ncitroenschil als garnering \n\n1 el Griekse yoghurt (2% vet)\n\n&#189; el gehakte walnoten \n\nmaanzaad</string>
+    <string name="stepsMakeMeal7_1">Kook havermout volgens de aanwijzingen, en zet het even aan de kant. Doe alle ingrediënten in een kom, behalve aardbeien, en mix grondig. Garneer de havermout met vers gehakte aardbeien. Garneer met Griekse yoghurt, gehakte walnoten en maanzaad. Geniet ervan!</string>
+
+
+    <string name="namemeal7_2">Milkshake met aardbei en banaan</string>
+    <string name="ingredientMeal7_2">2 koppen aardbeien\n\n1 vers gepelde banaan\n\n1 kop melk\n\n1 ijsklontje \n\n1 el honing</string>
+    <string name="stepsMakeMeal7_2">Doe alle ingrediënten in een blender en blend het goed door elkaar. Is de smoothie te dik, voeg er dan meer melk aan toe. Is het te dun, doe er dan meer fruit en/of ijs bij. Geniet ervan!</string>
+
+
+    <string name="namemeal7_3">Kruidig &amp; licht Kung Pao kip</string>
+    <string name="ingredientMeal7_3">150 g kipfilet \n\n1/6 teentje knoflook  \n\n33 g peultjes\n\n150 g paprika \n\n2/3 el water \n\n&#8531; el tomatensaus \n\n1/6 el verse gember \n\n1/6 el rode chilisaus \n\n1/6 el rijstazijn \n\ngehakte lente&#8211;ui</string>
+    <string name="stepsMakeMeal7_3">Doe de ingrediënten voor de saus in een kom en roer ze door elkaar. Verhit een koekenpan op matig vuur en vet in met olijfolie. Wanneer de koekenpan heet is, doe je er de knoflook bij en laat je het ongeveer 2 minuten fruiten. Doe er vervolgens de stukjes kipfilet bij. Bak de kip tot de buitenkant is aangebraden, ongeveer 6 tot 8 minuten. Doe er de gehakte paprika\'s bij laat het geheel ongeveer 3 minuten sudderen. Giet er langzaam de saus bij en roer regelmatig. Geniet ervan!</string>
+
+
+    <string name="namemeal7_4">Lavendel muntthee </string>
+    <string name="ingredientMeal7_4">&#188; kop verse lavendelknoppen \n\n1 kop verse muntblaadjes\n\n4 koppen water </string>
+    <string name="stepsMakeMeal7_4">Doe de lavendelkoppen en muntbladeren in een sauspan, schenk er water overheen en breng aan de kook. Zet het vuur laag en laat de thee 15 tot 20 minuten trekken, tot het de gewenste sterkte heeft. Geniet ervan!</string>
+
+
+    <string name="namemeal7_5">Vispakketjes met spinazie en tomaat in folie</string>
+    <string name="ingredientMeal7_5">1 bosje asperges \n\n2 tomaten in plakjes \n\n2 tilapiafilets\n\nolijfolie \n\n&#189; tl chili&#8211;knoflooksaus \n\nzout \n\n1 citroen, in plakjes</string>
+    <string name="stepsMakeMeal7_5">Verwarm de oven voor op 190° C. In een kleine kom meng je de olijfolie, chilisaus en zout. Doe de asperges in het midden van een vel aluminiumfolie, en leg de plekjes tomaat er bovenop; kruid naar smaak. Leg één visfilet op de tomaten in elke pakketje, en smeer het olijfoliemengsel over de vis. Rangschik de citroenschijfjes over de vis. Bak de vis in de oven, ongeveer 25&#8211;30 minuten. Geniet ervan!</string>
+    <string name="cat_name13">Voedingsplan Gewicht</string>
+    <string name="focus_13">Een simpel 7-daags eetplan</string>
+    <string name="days_plan">%1$d dagen plan</string>
+    <string name="goal_13">Gewichtsverlies versnelt je metabolisme.</string>
+    <string name="extraDescription13">Zit meer dan ooit goed in je vel! Leer wat je moet eten, ontdek vetverbrandende voedingsmiddelen, eet smakelijke maaltijden om je metabolisme te versnellen.</string>
+    <string name="meal">Maaltijd %1$d</string>
+    <string name="ingredients">Ingrediënten</string>
+    <string name="steps">Stappen</string>
+    <string name="titleDay1">"Gezonde recepten die geweldig zijn om klaar te maken en uit te proberen "</string>
+    <string name="descriptionDay1">Om je metabolisme op de hoogste stand te houden, dien je je eerste maaltijd binnen 1 uur na het opstaan te eten.</string>
+    <string name="titleDay2">Goede voeding is de basis van een goede gezondheid</string>
+    <string name="descriptionDay2">De oplossing is om binnen 1 uur na het wakker worden, te eten, zodat je je metabolisme op gang brengt.</string>
+    <string name="titleDay3">Plan je ontbijt van te voren</string>
+    <string name="descriptionDay3">Voor het bereiken van de  hoogste vetverbrandingssnelheid, is het ontbijt cruciaal voor je succes bij het afvallen.</string>
+    <string name="titleDay4">Koolhydraten voorzien het lichaam van energie</string>
+    <string name="descriptionDay4">Studies tonen aan dat 5 maaltijden per dag belangrijk zijn voor het behoud van een gezond lichaamsgewicht.</string>
+    <string name="titleDay5">Eiwitten zijn essentieel voor de groei en ontwikkeling</string>
+    <string name="descriptionDay5">Voeding speelt een belangrijke rol bij het handhaven van een gezonde levensstijl.</string>
+    <string name="titleDay6">e bent wat je eet</string>
+    <string name="descriptionDay6">Is letterlijk waar, als je wilt dat je lichaam op topniveau presteert.</string>
+    <string name="titleDay7">Om de grootte van je portie in de gaten te houden, gebruik kleinere borden</string>
+    <string name="descriptionDay7">Stop met emotioneel eten door je hongerige hart te genezen.</string>
+    <string name="extra">Extra</string>
+    <string name="exercise">OEFENING</string>
+
+    <string name="timer">Timer</string>
+    <string name="ex_cat_88">Аlle</string>
+    <string name="muscle">Spier</string>
+
+    <string name="congrulation">Glückwunsch !</string>
+    <string name="thnak_you">Dank je!</string>
+    <string name="after_update">Je hebt 50 nieuwe oefeningen, 7 nieuwe trainingsplannen, 1 voedingsplannen en geen advertenties.</string>
+    <string name="first_restore">Je hebt een Premium-versie. 7 workoutplannen en 1 voedingsplannen zijn voor je toegevoegd.</string>
+    <string name="upgrade_new">UPGRADE</string>
+    <string name="description_upgrade">Ontgrendel alle nieuwe schema’s die door top coaches zijn ontworpen. Bereik makkelijker je doelen.</string>
+    <string name="no_ads">GEEN ADVERTENTIES</string>
+    <string name="no_ads_description">VERWIJDER ALLE ADVERTENTIES. GENIET VAN JOUW TRAININGSSESSIES ZONDER ADS</string>
+    <string name="noty_sound">Meldingen klinken</string>
+    <string name="noty_sound_description">Kies uw speciale toon voor kennisgeving om niets te missen</string>
+    <string name="new_workouts">NIEUWE TRAININGEN</string>
+    <string name="new_workouts_desription">7 NIEUWE TRAININGPLANNEN AANGEPAST VOOR ELKE SPIERGROEP EN GESCHIKTHEIDSDOEL NAAR MAXIMALE RESULTATEN.</string>
+    <string name="upgrade_header">Upgrade om nieuwe 50 oefeningen, 10 trainingsschema\'s, twee voedingsplannen te ontgrendelen en advertenties te verwijderen.</string>
+    <string name="sound">Geluid</string>
+    <string name="buy">Kopen</string>
+
+    <string name="one_time_payment">eenmalige betaling</string>
+    <string name="get_lifetime_access">KRIJG ONBEPERKTE TOEGANG</string>
+    <string name="_3_days_for_free">7 dagen Gratis</string>
+    <string name="get_workouts_courses_with_powerful_support">Verkrijg 100% kant-en-klare workouts met krachtige ondersteuning!</string>
+    <string name="start_your_positive_transformation_today">Begin vandaag nog met uw positieve\ntransformatie!</string>
+    <string name="only_now">Alleen nu</string>
+    <string name="try_it_now">Probeer het Nu</string>
+    <string name="_3_day_nfree_trial">3-daagse \nGratis proefperiode</string>
+    <string name="_7_day_nfree_trial">7-daagse \nGratis proefperiode</string>
+    <string name="new_workoutsN">Nieuwe \nworkouts</string>
+    <string name="month">/maand</string>
+    <string name="year">/jaar</string>
+    <string name="monthly_slim">Мaandelijks</string>
+    <string name="after">na</string>
+    <string name="nutritionPlanName1">VOOR SPIEROPBOUW</string>
+    <string name="nutritionPlanName2">OM AF TE VALLEN</string>
+    <string name="nutrition_plans">Voedingsschema’s</string>
+
+    <string name="title_11">Oefeningen</string>
+
+</resources>

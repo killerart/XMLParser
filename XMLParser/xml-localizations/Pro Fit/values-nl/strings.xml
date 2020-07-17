@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PRO Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">Oefeningen</string>
+    <string name="title_2">Trainingen</string>
+    <string name="title_3">Aangepast</string>
+    <string name="title_4">Geschiedenis</string>
+    <string name="title_5">Meer</string>
+    <string name="done">Gedaan</string>
+    <string name="back">Terug</string>
+    <string name="titles">Titel:  </string>
+    <string name="downl_vid">Video Downloaden</string>
+    <string name="please_wait">Even geduld...</string>
+    <string name="cancel">Afbreken</string>
+    <string name="edit">Wijzigen</string>
+    <string name="work">Mijn Training</string>
+    <string name="create_plus">Om een nieuwe training te maken druk +</string>
+    <string name="save">Opslaan</string>
+    <string name="workout_name">Training Naam:</string>
+    <string name="days_title">Dag Nummer:</string>
+    <string name="delete">Verwijderen</string>
+    <string name="work_title">Training Titel:</string>
+    <string name="options">Opties:</string>
+    <string name="camera">Camera/Galerij</string>
+    <string name="ex_phot_title">Oefeningen Foto’s</string>
+    <string name="name_desc">Naam, Beschrijving</string>
+    <string name="ex_name">Oefening Naam:</string>
+    <string name="desc">Beschrijving:</string>
+
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+
+    <string name="blanck">Vul het tekstveld in, aub</string>
+    <string name="okey">Ok</string>
+    <string name="realy_cancel">Wil je het downloaden echt afbreken? Alles wordt dan gewist!</string>
+    <string name="download_all">Download alle video’s</string>
+    <string name="unzip">Bestanden uitpakken</string>
+    <string name="files">Bestanden</string>
+    <string name="dow_video">Video’s Downloaden</string>
+    <string name="video_saved">Alle video’s zijn met succes opgeslagen!</string>
+    <string name="conn">Controleer je WiFi of telefoon=internetverbinding!</string>
+
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+
+    <string name="start">Start</string>
+    <string name="weight">Gewicht(kg)</string>
+    <string name="repetitions">Herhalingen</string>
+    <string name="set_s">Set seconds</string>
+    <string name="wei">Gewicht</string>
+    <string name="rep">Herhalingen</string>
+    <string name="wei_rep">Prestatie</string>
+    <string name="no_history">Er zijn nog geen oefeningen gedaan</string>
+    <string name="last_val">Laatste waarden</string>
+    <string name="send_f">Verstuur Feedback</string>
+    <string name="rep_bug">Meldt een fout</string>
+    <string name="tel_fr">Vertel een Vriend</string>
+    <string name="rate_us">Beoordeel ons</string>
+    <string name="ad">Toevoegen</string>
+
+    <string name="exit">Weet je het zeker?</string>
+    <string name="sdcard">Geen SD kaart!!</string>
+    <string name="post_to">Op muur plaatsen</string>
+    <string name="not_loged">Niet gelogd</string>
+    <string name="log_fail">Login mislukt</string>
+    <string name="posting">Wordt gepost </string>
+    <string name="posting_succes">Succesvol gepost</string>
+    <string name="email_sent">Email verstuurd</string>
+    <string name="email_notsent">Email niet verstuurd</string>
+
+
+    <string name="s1">4 sets en 15 herhalingen</string>
+    <string name="s2">4 sets en 12/10/8/6 herhalingen</string>
+    <string name="s3">5 sets en 3/3/3/2/1 herhalingen</string>
+
+
+    <string name="dialog_future">Je kunt geen data invoeren voor toekomstige datums!</string>
+
+    <string name="ex_guide_1">Rug en Borst</string>
+    <string name="ex_guide_2">Benen en Onderarmen</string>
+    <string name="ex_guide_3">Schouders, Triceps en Biceps</string>
+    <string name="ex_guide_4">Rug en Triceps</string>
+    <string name="ex_guide_5">Borst en Biceps</string>
+    <string name="ex_guide_6">Benen en Schouders</string>
+    <string name="ex_guide_7">Cyclus 1</string>
+    <string name="ex_guide_8">Cyclus 2</string>
+    <string name="ex_guide_9">Cyclus 3</string>
+    <string name="ex_guide_10">Biceps en Triceps</string>
+    <string name="ex_guide_11">Benen</string>
+    <string name="ex_guide_12">Rug</string>
+    <string name="ex_guide_13">Biceps</string>
+    <string name="ex_guide_14">Borst</string>
+    <string name="ex_guide_15">Schouders</string>
+    <string name="ex_guide_16">Triceps</string>
+
+    <string name="ex_name_1">Air Bike</string>
+    <string name="ex_desc_1">1. Ga plat op de vloer liggen en druk je onderrug tegen de grond aan. Bij deze oefening houd je je handen bij het hoofd. Wees echter wel voorzichtig om tijdens het uitvoeren van de oefening je nek niet te belasten. Breng je schouders in de crunch-positie.\n\n2. Breng je knieën omhoog, zodat ze één rechte lijn met vloer vormen en je onderbenen evenwijdig aan de vloer zijn. Dit is de uigangspositie.\n\n3. Maak vervolgens een langzame fietsbeweging, door je rechterbeen naar voren te brengen en je linkerknie naar je toe te halen en tegelijkertijd de crunch naar de zijkant uit te voeren, waarbij je met je rechterelleboog naar je linkerknie gaat, adem hierbij uit.\n\n4. Ga, terwijl je inademt, terug naar de uitgangspositie.\nVoer, tijdens de fietsbeweging, de crunch naar de andere kant uit, waarbij je je linkerelleboog naar je rechterknie brengt en uitademt.\n\n5. Wissel ieder keer van kant, totdat je alle aanbevolen reps voor iedere zijde hebt uitgevoerd.</string>
+
+    <string name="ex_name_2">Hanging Leg Raise</string>
+    <string name="ex_desc_2">1. Ga met gestrekte armen op armlengte met een wijde of medium greep aan de optrekstang hangen. De benen moeten recht naar beneden hangen met het bekken lichtelijk naar achteren gekanteld. Dit is de uitgangspositie.\n\n2. Breng je benen omhoog, totdat je bovenlichaam een hoek van 90 graden met de benen vormt. Adem uit bij het uitvoeren van deze beweging en houd de spanning ca. 1 seconde vast.\n\n3. Ga, bij het inademen, langzaam terug naar de uitgangspositie.\n\n4. Herhaal dit voor het aantal aanbevolen reps.</string>
+
+    <string name="ex_name_3">Knee:Hip Raise On Parallel Bars</string>
+    <string name="ex_desc_3">1. Ga met je voeten op de voetensteun van het dip station staan, zodat je onderarmen ter hoogte van je bovenlichaam op de steunen rusten en houd de handgrepen vast. Je armen zijn in een hoek van 90 graden gebogen.\n\n2. Houd het bovenlichaam recht, druk de onderrug tegen de steun van het toestel en houd de benen gestrekt naar de vloer. Dit is de uitgangspositie.\n\n3. Als je uitademt, breng je je benen omhoog, strek ze en ga door met deze beweging, totdat je gestrekte benen ongeveer evenwijdig met de vloer zijn, houd vervolgens deze houding een seconde vast. Tip: Gebruik geen momentum (het zwaaien) tijdens de uitvoering van deze oefening.\n\n4. Ga, bij het inademen, langzaam terug naar de uitgangspositie.\n\n5. Herhaal dit voor het aanbevolen aantal reps.</string>
+
+    <string name="ex_name_4">Deadlift</string>
+    <string name="ex_desc_4">1. Ga met je voeten op schouderafstand staan, waarbij je voeten recht naar voren of lichtjes naar buiten wijzen. \n\n2. Breng je billen naar beneden totdat je quadriceps (bovenbeenspieren) ongeveer evenwijdig aan de vloer zijn. De halterstang moet net voor je scheenbenen liggen. Pak de barbell met beide handen vast, waarbij je de handen dichtbij de buitenzijde van benen plaatst. \n\nje 3. Trek met een holle rug de stang op waarbij je  tegelijkertijd met je benen duwt en je rug opheft, waardoor de stang je knieën  vrijmaakt en voor je heupen komt. Tijdens de hele poging houd je schouders en knieën volledig op slot en je armen recht.</string>
+
+    <string name="ex_name_5">Bent Over Barbell Row</string>
+    <string name="ex_desc_5">1. Ga met lichtgebogen knieën staan. Buig het bovenlichaam tot een hoek van ca. 45 graden, en houd je rug recht. \n\n2. Pak met de handen op meer dan schouderbreedte van elkaar de halterstang bovenhands vast en laat je armen recht naar beneden hangen: \n\n3. Adem in, span je buikspieren isometrisch en trek de stang recht omhoog, totdat het je borst lichtjes raakt. \n\n4. Ga terug naar de uitgangspositie, adem uit.</string>
+
+    <string name="ex_name_6">Bent Over Two Dumbbell Row</string>
+    <string name="ex_desc_6">1. Pak een paar dumbbells en houd ze op taillehoogte vast, zorg dat je rug vlak blijft. Strek je armen recht naar beneden, met de handpalmen tegenover elkaar.\n\n2. Breng de dumbbells op borsthoogte en ga terug naar de gestrekte uitgangspositie, zorg er verder voor dat tijdens de hele oefening je rug stabiel en recht blijft.</string>
+
+    <string name="ex_name_7">Chin Up</string>
+    <string name="ex_desc_7">1. Pak de halterstang met je handen vast, waarbij je handpalmen en vingers van het lichaam wijzen. Dit heet de geproneerde greep. \n\n2. Houd je armen recht en hang zonder te zwaaien, recht naar beneden. Ontspan je schouders en lichaam. \n\n3. Trek je in een vloeiende beweging op, zorg ervoor dat het niet een stotende beweging wordt. De kin moet over de stang komen. Laat je rustig tot de uitgangspositie zakken.</string>
+
+    <string name="ex_name_8">One Arm Dumbbell Row</string>
+    <string name="ex_desc_8">1. Plaats je linkerknie en linkerhand op een vlakke bank met je rechterbeen stevig op de vloer. \n\n2. Leun voorover, zodat je rug vlak en evenwijdig aan de grond is. \n\n3. Pak de dumbbell vast met je rechterhand, waarbij je handpalm naar het lichaam wijst, en hef of roei de dumbbell naar de buitenzijde van je ribben. Ga terug naar de uitgangspositie en herhaal.</string>
+
+    <string name="ex_name_9">Reverse Grip Bent Over Rows</string>
+    <string name="ex_desc_9">1. Ga met lichtgebogen knieën staan. Buig het bovenlichaam tot een hoek van ca. 45 graden, en houd je rug recht. \n\n2. Pak met de handen op meer dan schouderbreedte van elkaar de halterstang onderhands vast en laat je armen recht naar beneden hangen: \n\n3. Adem in, span je buikspieren isometrisch en trek de stang recht omhoog, totdat het je borst lichtjes raakt. \n\n4. Ga terug naar de uitgangspositie, adem uit.</string>
+
+    <string name="ex_name_10">Seated Cable Rows</string>
+    <string name="ex_desc_10">1. Om met de seated cable rows te beginnen, pak de handvaten vast van je favoriete stang (zoals die van de afbeelding). \n\n2. Zit met een rechte rug met je benen gebogen tegen het metalen blok. \n\n3. Strek je armen en voel je lats (brede rugspieren) strekken. Trek het gewicht tegen je lichaam aan, totdat de handvaten je buik raken.</string>
+
+    <string name="ex_name_11">Underhand Cable Pulldowns</string>
+    <string name="ex_desc_11">1. Maak een lange stang aan de pulldown machine vast en stel het rolkussen zodanig in, dat wanneer je zit, je knieën in een juiste hoek zijn gebogen en je voeten plat op de grond zijn. \n\n2. Pak, terwijl je zit, de stang met een wijde onderhandse greep vast en houd je bovenlichaam goed recht, waarbij je lichtjes vanuit je heupen achterover leunt. \n\n3. Trek de stang vanaf je gezicht naar de bovenkant van je borst en pauzeer. Laat door het strekken van je armen langzaam de stang naar de uitgangspositie terugkeren.</string>
+
+    <string name="ex_name_12">V - Bar Pull Down</string>
+    <string name="ex_desc_12">1. Ga op een pulldown machine zitten, waarvan de V-stang aan het bovenste katrol is vastgemaakt.\n\n2. Stel het rolkussen aan de hand van je lengte af. Dit rolkussen voorkomt dat je lichaam door de weerstand van de stang omhoog wordt getrokken.\n\n3. Pak de V-stang met de handpalmen tegenover elkaar (een neutrale greep) beet. Breng je borst naar voren en leun een beetje achterover (ca. 30 graden) om de lats beter aan te spannen. Dit is de uitgangspositie.\n\n4. Gebruik je lats bij het naar beneden trekken van de stang en druk je schouderbladen tegen elkaar aan. Trek de stang door totdat je borst bijna de V-stang raakt. Adem uit bij het uitvoeren van deze beweging. Tip: Houd tijdens de oefening het bovenlichaam onbeweegelijk.\n\n5. Houd de stang in de benedenpositie één seconde vast, ga vervolgens langzaam terug naar de uitgangspositie en adem hierbij in.\n\n6. Herhaal dit met het aantal gewenste reps.</string>
+
+    <string name="ex_name_13">Wide Grip Lat Pulldown</string>
+    <string name="ex_desc_13">1. Maak een lange stang aan de pulldown machine vast en stel het rolkussen zodanig in, dat wanneer je zit, je knieën in een juiste hoek zijn gebogen en je voeten plat op de grond zijn. \n\n2. Pak, terwijl je zit, de stang met een wijde bovenhandse greep vast en houd je bovenlichaam goed recht, waarbij je lichtjes vanuit je heupen achterover leunt. \n\n3. Trek de stang vanaf je gezicht naar de bovenkant van je borst en pauzeer. Laat door het strekken van je armen langzaam de stang naar de uitgangspositie terugkeren.</string>
+
+    <string name="ex_name_14">Barbell Curls Reverse Grip</string>
+    <string name="ex_desc_14">1. Sta met je voeten enigszins uit elkaar en je armen gestrekt naar beneden, gebruik hierbij de bovenhandse greep (duimen naar elkaar toe).\n\n2. Adem in, houd je ellebogen in de zij, buig je onderarmen en breng de barbell op borsthoogte. Adem uit bij het afwerken van de beweging. \n\n3. Deze oefening traint vooral de strekspieren van de pols en de vingers. De brachioradialis wordt hierdoor ook getraind en in mindere mate de biceps.</string>
+
+    <string name="ex_name_15">Staande Barbell Curl</string>
+    <string name="ex_desc_15">1. Sta met je voeten enigszins uit elkaar en je armen recht naar beneden, gebruik hierbij de onderhandse greep (duimen van elkaar af).\n\n2. Adem in, houd je ellebogen in de zij, buig je onderarmen en breng de barbell op borsthoogte. Adem uit bij het afwerken van de beweging. \n\n3. Deze oefening traint vooral de strekspieren van de pols en de vingers. De brachioradialis wordt hierdoor ook getraind en in mindere mate de biceps.</string>
+
+    <string name="ex_name_16">Barbell Curl With Ez-Neck</string>
+    <string name="ex_desc_16">1. Ga staan met je bovenlichaam rechtop en houd een E-Z Curl Bar bij de binnenste gedeelte vast. De handpalmen moeten naar voren gericht zijn en enigszins naar binnen zijn gekanteld door de vorm van de stang. De ellebogen moeten dicht tegen je bovenlichaam zijn. Dit is de uitgangspositie.\n\n2. Houd je bovenarmen stil en breng de halterstang omhoog. Span je biceps aan, terwijl je uitademt. Tip: Alleen de onderarmen bewegen.\n\n3. Ga door met de beweging totdat je de biceps volledig hebt aangespannen en de stang op schouderhoogte is. Houd de spanning ca. één seconde vast door je onderarmen krachtig tegen je biceps aan te drukken.\n\n4. Breng vervolgens, terwijl je inademt, de halterstang langzaam naar de uitgangspositie terug.\n\n5. Herhaal dit met het aanbevolen aantal reps.</string>
+
+    <string name="ex_name_17">Scott Curl</string>
+    <string name="ex_desc_17">1. Pak de halterstang vast met de handen op schouderbreedte van elkaar. \n\n2. Breng langzaam de stang omhoog, totdat je onderarmen naar het plafond wijzen (iets meer dan verticaal). \n\n3. Pauzeer een seconde en laat de halter tot de uitgangspositie zakken.</string>
+
+    <string name="ex_name_18">Curl On The Lower Block</string>
+    <string name="ex_desc_18">1. Maak een rechte stang aan het lage katrol van het kabelstation vast. \n\n2. Pak vervolgens de stang op schouderbreedte met een onderhandse greep vast en houd het op armlengte net voor je dijbenen. \n\n3. Houd je knieën lichtgebogen. Breng zover als je kunt de stang naar je borst toe, zonder je bovenarmen te bewegen.</string>
+
+    <string name="ex_name_19">Curl On The Simulator Scott</string>
+    <string name="ex_desc_19">1. Zit  en houd de handvaten van de simulater met een bodem greep, waarbij je elleboog op op het plankje komt te rusten.\n\n2. Adem in en buig de armen, en til de handgreep op;\n\n3. Adem uit bij het einde van de oefening.</string>
+
+    <string name="ex_name_20">Dumbell Hammer Curl </string>
+    <string name="ex_desc_20">1. Pak met iedere hand een dumbbell en zorg dat je handpalmen en halters naar binnen wijzen. \n\n2. Houd je armen in een hoek van 90 graden. \n\n3. Houd je ellebogen dicht tegen je lichaam in een onbeweeglijke positie en breng de gewichten naar je schouder. \n\n4. Breng vervolgens de halters langzaam terug naar de uitgangspositie.</string>
+
+    <string name="ex_name_21">Seated Dumbbell Curl</string>
+    <string name="ex_desc_21">1. Ga met een rechte rug zitten en laat de dumbells met een onderhande greep naast je hangen. Houd je armen recht.\n\n2. Breng de dumbbells omhoog, terwijl je je bovenarmen op de plaats houdt. Zorg ervoor dat je tijdens de beweging je schouders niet gebruikt. \n\n3. Houd de spanning één seconde vast en ga vervolgens terug naar de uitgangspositie.</string>
+
+    <string name="ex_name_22">Curl With Dumbbells Sitting On An Incline Bench</string>
+    <string name="ex_desc_22">1. Ga op een vlakke trainingsbank zitten met in iedere hand een dumbbell die je op armlengte vasthoudt. Houd de ellebogen dicht tegen het bovenlichaam aan.\n\n2. Draai je handpalmen zodat ze naar je bovenlichaam wijzen. Dit is de uitgangspositie.\n\n3. Houd je bovenarmen stil, breng de halters omhoog en zodra de dumbells voorbij je dijbenen zijn, draai je je polsen, zodat je handpalmen aan het einde van de beweging naar voren wijzen. Zorg ervoor dat je de biceps aanspant bij uitademing en ook dat je alleen de onderarmen beweegt. Ga door met de beweging totdat je de biceps volledig hebt aangespannen en de dumbbells op schouderhoogte zijn. Houd de aangespannen houding van de biceps één seconde vast.\n\n4. Laat de dumbbells, terwijl je inademt, langzaam naar de uitgangspositie zakken, waarbij je de polsen weer naar de neutrale greep draait.\n\n5. Herhaal dit voor het aanbevolen aantal reps.</string>
+
+    <string name="ex_name_23">Standing Dumbbell Curl</string>
+    <string name="ex_desc_23">1. Ga staan met je voeten op ongeveer heupbreedte van elkaar en houd je buikspieren aangespannen, terwijl je medium zware dumbbells langs je dijbenen houdt. \n\n2. Span de biceps aan en buig de armen, waarbij je de halters naar de schouders brengt. Houd de ellebogen stil en hef de halters zo hoog als je kunt, zonder de ellebogen te bewegen. \n\n3. Laat de halters langzaam zakken en houd de ellebogen lichtgebogen als ze beneden zijn (zet de gewrichten niet op slot (niet overstrekken) en probeer de spanning in de spier te houden)</string>
+
+    <string name="ex_name_24">Seated Calf Raise</string>
+    <string name="ex_desc_24">1. Stel het kussen zodanig af dat je scheenbenen een rechte lijn vormen en het kussen net boven je knieën ligt. \n\n2. Til het gewicht op door je hielen op de ballen van je voeten omhoog te brengen. \n\n3. Laat langzaam je hielen zakken, totdat je een rek in de kuitspier voelt. Om de binnenste en buitenste kuitbeenspier te trainen, wijs je respectievelijk met je tenen naar buiten en naar binnen.</string>
+
+    <string name="ex_name_25">Seated Smith Machine Calf Raise</string>
+    <string name="ex_desc_25">1. Plaats de verhoging ongeveer 30 cm voor de platte bank.\n\n2. Ga op de bank zitten en zet de ballen van je voeten op de verhoging neer.\n\n3. Laat iemand de Smith barbell op de bovenkant van je dijbenen, ongeveer 7,5 cm van je knieën af, plaatsen en \ndaar vasthouden. Dit is je uitgangspositie.\n\n4. Hef je hielen zo hoog mogelijk als je kunt, terwijl je de kuitspieren aanspant en uitademt.\n\n5. Houd de spanning één seconde vast, voordat je langzaam weer naar de uitgangspositie teruggaat. Tip: Om maximaal profijt van de oefening te behalen, strek je kuitspieren zover als je kunt.\n\n6. Herhaal dit voor het aanbevolen aantal reps.</string>
+
+    <string name="ex_name_26">Standing Dumbbell Calf Raise</string>
+    <string name="ex_desc_26">1. Ga staan met een recht bovenlichaam en in iedere hand een dumbbell naast je lichaam. Plaats de ballen van de voet op een stepper of een harde en stabiele houten verhoging (ca. 5 tot 7,5 cm hoog) met de hielen op de vloer. Dit is je uitgangspositie.\n\n2. De tenen kunnen of recht naar voren wijzen (om alle spierdelen gelijkmatig te trainen), of naar binnen (voor extra training van de buitenste kop) of naar buiten (voor extra training van de binnenste kop), breng de hielen van de grond, terwijl je uitademt en je kuitspieren aanspant. Houd de volledig aangespannen kuitspieren één seconde vast.\n\n3. Adem in en ga terug naar de uitgangspositie door langzaam je hielen weer naar de grond te brengen.\n\n4. Herhaal dit voor de aanbevolen aantal keren.</string>
+
+    <string name="ex_name_27">Standing Smith Machine Calf Raise</string>
+    <string name="ex_desc_27">1. Plaats een stepper of verhoging onder de stang van de Smith machine. Stel de stang op een hoogte in die het beste met je lengte overeenkomt. Nadat de juiste hoogte is ingesteld en de stang geladen is, stap je met de ballen van je voeten op de verhoging en plaats je de stang achter op de schouders.\n\n2. Pak de stang vast met de handpalmen naar voren gericht. Draai de stang om hem uit het rek te halen. Dit is de uitgangspositie.\n\n3. Hef je hielen zo hoog mogelijk als je kunt, doe dit door op de ballen van je voeten te gaan staan, en strek je kuiten wanneer je ze volledig hebt aangespannen. Je knieën blijven gestrekt. Houd de aangespannen houding één seconde vast, voordat je teruggaat.\n\n4. Ga, terwijl je inademt, langzaam terug naar de uitgangspositie door je hielen te laten zakken.\n\n5. Herhaal dit voor het aanbevolen aantal reps.</string>
+
+    <string name="ex_name_28">Barbell Bench Press</string>
+    <string name="ex_desc_28">1. Om de oefening bankdrukken correct uit te voeren, moet je plat op het fitnessbankje liggen met je voeten plat op de vloer. Wanneer de stang nog in het rek zit, ligt het net achter je hoofd. Het is belangrijk om bij deze oefening met een spotter te werken, vooral als je een losstaande halter of dumbbells gebruikt, dit om te voorkomen dat je het gewicht op jezelf laat vallen. \n\n2. Zodra je de halter uit het rek hebt gedrukt, komt te stang boven het midden van je borst te hangen. \n\n3. Houd gedurende de hele oefening je hoofd op de bank. Zodra je de halter in een stabiele greep hebt, laat het als je dat kunt langzaam naar je borst zakken. \n\n4. Zorg dat je armen naar buiten wijzen, terwijl je het gewicht laat zakken, en zodra je aan onderkant van de beweging bent, druk je de stang terug naar een gestrekte houding, waarbij je je concentreert om het gewicht door je borst en armen omhoog te drukken.</string>
+
+    <string name="ex_name_29">Decline Dumbbell Bench Press</string>
+    <string name="ex_desc_29">1. Zorg ervoor dat je benen goed vast zitten aan het einde van de hellende halterbank en plaats beide handen met de dumbbells op je dijbenen. De handpalmen wijzen naar elkaar toe.\n\n2. Zodra je ligt, breng je de dumbbells voor je op schouderbreedte van elkaar.\n\n3. Eenmaal op schouderhoogte, draai je de polsen naar voren, zodat je handpalmen van je af wijzen. Dit is de uitgangshouding.\n\n4. Laat, terwijl je uitademt, de halters langzaam naar de zijkanten zakken. Houd tijdens de oefening volledige controle over de dumbbells. Tip: Tijdens de beweging moeten de onderarmen altijd evenwijdig met de vloer zijn.\n\n5. Bij het uitademen, druk je de dumbbells omhoog door je borstspieren te gebruiken. Zet je armen op slot in de aangespannen houding, knijp je borst samen, houd dit één seconde vast en laat het vervolgens langzaam zakken. Tip: Het laten zakken moet minstens twee keer zo lang duren als het omhoog brengen.\n\n6. Herhaal de beweging met het aantal voorgeschreven reps van je trainingsprogramma.</string>
+
+    <string name="ex_name_30">Decline Dumbbell Flyes</string>
+    <string name="ex_desc_30">1. Zorg ervoor dat je benen goed vast zitten aan het einde van de decline fitnessbank en plaats je beide handen met de dumbbells op je dijbenen. De handpalmen wijzen naar elkaar toe.\n\n2. Zodra je ligt, breng je de dumbbells voor je op schouderbreedte van elkaar.\n\n3. Eenmaal op schouderhoogte, draai je de polsen naar voren, zodat je handpalmen van je af wijzen. Dit is de uitgangshouding.\n\n4. Laat, terwijl je uitademt, de halters langzaam naar de zijkanten zakken. Houd tijdens de oefening volledige controle over de dumbbells. Tip: Tijdens de beweging moeten de onderarmen altijd evenwijdig met de vloer zijn.\n\n5. Bij het uitademen, druk je de dumbbells omhoog door je borstspieren te gebruiken. Zet je armen op slot in de aangespannen houding, knijp je borst samen, houd dit één seconde vast en laat het vervolgens langzaam zakken. Tip: Het laten zakken moet minstens twee keer zo lang duren als het omhoog brengen.\n\n6. Herhaal de beweging met het aantal voorgeschreven reps van je trainingsprogramma.</string>
+
+    <string name="ex_name_31">Decline Press</string>
+    <string name="ex_desc_31">1. Ga op je rug liggen op een decline fitnessbank. Pak de barbell met een bovenhandse greep vast. \n\n2. Laat de barbell naar de onderzijde van je borst zakken en houd je ellebogen dicht tegen je lichaam aan. De barbell moet aan het einde van de beweging lichtjes je borst raken.</string>
+
+    <string name="ex_name_32">Dumbbell Bench Press</string>
+    <string name="ex_desc_32">1. Ga plat op de fitnessbank liggen met je voeten stevig op de vloer en je armen naar boven gestrekt, met in iedere hand een dumbbell, waarbij de handpalmen naar elkaar wijzen.\n\n2. Adem in en laat de dumbbells tot borsthoogte zakken, terwijl je je ellebogen buigt en je de onderarmen draait om je handen in de pronatiestand te brengen. \n\n3. Durk de dumbbells weer omhoog en voer een isometrische aanspanning uit om de spanning op de borstspieren te isoleren; adem uit bij het afronden van de beweging.</string>
+
+    <string name="ex_name_33">Dumbbell Flyes</string>
+    <string name="ex_desc_33">1. Om de oefening dumbbell flies uit te voeren, kies je in eerste instantie voor een relatief licht gewicht voor iedere hand. Je zult eerst moeten uitvinden wat voor jou het juiste gewicht is om de dumbbell flies te doen. Begin met een licht gewicht en bouw het langzaam op. \n\n2. Ga op een halterbank liggen en strek beide armen met beide dumbbells recht boven je borst uit. Dit is de uitgangspositie. \n\n3. Spreid beide armen in een wijde halve cirkel naar buiten toe, en laat ze zakken totdat ze opzij van je lichaam zijn. Je armen mogen lichtjes gebogen zijn. Dit is het ‘vlieg’ gedeelte van de dumbbell flies. Het heet zo, omdat het net lijkt of je vliegt. \n\n4. Volg dezelfde halve cirkel terug totdat de dumbbells weer in de uitgangspositie zijn teruggekeerd. Dit is één rep van de dumbbell fly.</string>
+
+    <string name="ex_name_34">Incline Dumbbell Flies</string>
+    <string name="ex_desc_34">1. Om de oefening dumbbell flies uit te voeren, kies je in eerste instantie voor een relatief licht gewicht voor iedere hand. Je zult eerst moeten uitvinden wat voor jou het juiste gewicht is om de dumbbell flies te doen. Begin met een licht gewicht en bouw het langzaam op. \n\n2. Ga op een op een incline halterbank liggen en strek beide armen met beide dumbbells recht boven je borst uit. Dit is de uitgangspositie. \n\n3. Spreid beide armen in een wijde halve cirkel naar buiten toe, en laat ze zakken totdat ze opzij van je lichaam zijn. Je armen mogen lichtjes gebogen zijn. Dit is het ‘vlieg’ gedeelte van de dumbbell flies. Het heet zo, omdat het net lijkt of je vliegt. \n\n4. Volg dezelfde halve cirkel terug totdat de dumbbells weer in de uitgangspositie zijn teruggekeerd. Dit is één rep van de dumbbell fly.</string>
+
+    <string name="ex_name_35">Incline Dumbbell Press</string>
+    <string name="ex_desc_35">1. Om in de juiste houding te beginnen, ga je op de fitnessbank zitten met een dumbbell in iedere hand, die je op je dijbenen laat rusten. Terwijl je achterover op de bank gaat liggen, duw je de dumbbells met behulp van je dijbenen naar je borst. \n\n2. Vervolgens strek je je armen boven je borst en houd je de ellebogen lichtjes gebogen. Je handpalmen wijzen hierbij naar voren. Houd je voeten stevig op de vloer en je rug neutraal, (je onderrug mag een beetje hol zijn).\n\n3. Laat de dumbbells zakken door je ellebogen naar de buitenkant te buigen. Ga door met deze beweging, totdat de ellebogen net onder je schouders vallen. Druk vervolgens de dumbbells weer omhoog totdat ze boven, elkaar net niet raken en laat ze lichtjes naar binnen wijzen. \n\n4. Houd je ellebogen enigszins gebogen, maar zet ze niet op slot. Herhaal dit totdat je alle herhalingen hebt uitgevoerd. Om weer rechtop te zitten, houd de dumbbells op borsthoogte en breng je benen eerst omhoog en daarna van je af om je lichaam momentum mee te geven, zodat je rechtop kunt zitten.</string>
+
+    <string name="ex_name_36">Incline Press</string>
+    <string name="ex_desc_36">1. Deze oefening lijkt veel op de gewone barbell bench press behalve dat je een free weight bench press machine gebruikt en dat je hierbij de bovenste groep borstspieren traint in plaats van de middelste borstspieren. \n\n2. Druk de barbell uit het rek en laat het tot ongeveer 7,5 cm boven je sleutelbeen (net onder je adamsappel) zakken, druk vervolgens de stang weer terug naar de uitgangspositie. \n\n3. LAAT DE STANG DE HET BOVENSTE DEEL VAN JE BORST NIET RAKEN (dit veroorzaakt onnodige stress op je schoudergewrichten en haalt de spanning van je bovenste borstspieren weg, en dat zijn juist de spieren die we met deze oefening willen trainen!). \n\n4. Zorg er in ieder geval voor, dat je de stang langzaam en op een beheerste wijze laat zakken. Maar, bij het naar boven drukken van de stang, doe je dit juist op een explosieve manier.</string>
+
+    <string name="ex_name_37">Push-Up</string>
+    <string name="ex_desc_37">1. Lig met gestrekte armen recht onder je, je handen plat op de vloer en op schouderbreedte (of breder) van elkaar. \n\n2. Houd je voeten bij elkaar of lichtjes gespreid. \n\n3. Adem in en buig je ellebogen om je bovenlichaam naar de vloer te brengen, vermijd extreme overstrekkking van je wervelkolom. \n\n4. Druk jezelf door je armen op, gestrekte houding, terwijl je uitademt bij het afronden van de beweging.</string>
+
+    <string name="ex_name_38">Palms-Down Wrist Curl Over A Bench</string>
+    <string name="ex_desc_38">1. Zit en laat je onderarmen op je dijbenen of op een bank rusten. \n\n2. Houd de stang met een bovenhandse greep vast, waarbij je polsen passief zijn gestrekt. \n\n3. Adem in en breng de stang met je polsen omhoog.\n\n4. Adem uit bij het afronden van de beweging.</string>
+
+    <string name="ex_name_39">Palms-Up Barbell Wrist Curl Over A Bench</string>
+    <string name="ex_desc_39">1. Zit en laat je onderarmen op je dijbenen of op een bank rusten. \n\n2. Houd de stang met een onderhandse greep vast, waarbij je polsen passief zijn gestrekt. \n\n3. Adem in en breng de stang met je polsen omhoog.\n\n4. Adem uit bij het afronden van de beweging.</string>
+
+    <string name="ex_name_40">Standing Palms- Up Barbell Behind The Back Wrist Curl</string>
+    <string name="ex_desc_40">1. Pak een barbell achter je rug vast,, gebruik hierbij een onderhandse greep en houd je armen recht. Laat de barbell op je gestrekte vingers rusten.\n\n2. Strek je polsen om de barbell zo hoog mogelijk te brengen.\n\n3. Voer vervolgens de omgekeerde beweging uit door de barbell te laten zakken.</string>
+
+    <string name="ex_name_41">Barbell Lunge</string>
+    <string name="ex_desc_41">1. Begin door de barbell ter hoogte van je bovenste rugspieren te plaatsen en gebruik hierbij een bovenhandse greep met de handen iets meer dan schouderbreedte uit elkaar. \n\n2. Sta met je voeten op ca. 20 cm uit elkaar en laat de tenen naar voren wijzen.\n\n3. Zet een stap (60-90 cm) naar voren, houd hierbij je buikspieren ingetrokken en je bovenlichaam recht.\n\n4. Buig langzaam een knie naar de grond, net alsof je wilt gaan knielen, terwijl je de andere knie in een hoek van 90 graden buigt, maar laat je knie de grond niet raken.\n\n5. Laat je lichaam net to boven de vloer zakken en houd deze houding even vast, voordat je naar de uitgangspositie teruggaat. Herhaal met het andere been.</string>
+
+    <string name="ex_name_42">Barbell Squat</string>
+    <string name="ex_desc_42">1. Deze oefening is hetzelfde als de conventionele squat, met het verschil dat je benen meer gespreid zijn en je tenen naar buiten wijzen, omdat hierdoor de binnenste dijbeenspieren worden getraind. \n\n2. De spieren die hierbij getraind worden zijn: - de quadriceps - alle adductoren - de gluteuls - de hamstrings - alle ruggewervels spieren</string>
+
+    <string name="ex_name_43">Dumbbell Lunge</string>
+    <string name="ex_desc_43">1. Ga staan met de dumbbells aan iedere zijde. \n\n2. Lunge met het eerste been naar voren. Zet eerst je hiel neer en vervolgens je voorvoet. Laat je lichaam zakken door je knie en heup van het voorste been te buiten, terwijl het achterste been bijna de vloer raakt. \n\n3. Ga terug de staande basis houding door de heup en knie van het voorste been te strekken. Herhaal dit door de lunge met het andere been te doen.</string>
+
+    <string name="ex_name_44">Front Barbell Squat</string>
+    <string name="ex_desc_44">1. Plaats de dumbbell over je anterieure deltoids, houd je bovenarmen evenwijdig aan de vloer, buig je ellebogen, kruis je twee armen, pak de stang vast en kijk recht voor je uit. \n\n2. Adem in en ga in de hurkhouding zitten.\n\n3. Ga terug naar de uitgangshouding, adem uit terwijl je de beweging afrond.</string>
+
+    <string name="ex_name_45">Good Morning</string>
+    <string name="ex_desc_45">1. Houd de barbell met een bovenhandse greep vast, zodat het op je bovenste rugspieren en niet op je nek rust. Plaats je voeten op schouderbreedte uit elkaar, houd je knieën lichtjes gebogen en je rug recht. \n\n2. Buig geleidelijk naar voren door vanuit je heupen je borst te laten zakken, terwijl je de natuurlijke kromming van je onderrug handhaaft. Houd je hoofd recht en zorg ervoor dat je knieën in dezelfde hoek gebogen blijven.\n\n3. Hef je bovenlichaam op om naar de uitgangspositie terug te keren.</string>
+
+    <string name="ex_name_46">Leg Extensions</string>
+    <string name="ex_desc_46">1. Hef langzaam het gewicht op, door beide benen naar boven uit te strekken. Doe dit in een vloeiende beweging. \n\n2. Houd deze houding één seconde vast. Laat het gewicht weer langzaam naar de uitgangspositie zakken. Herhaal de beweging.</string>
+
+    <string name="ex_name_47">Leg Press</string>
+    <string name="ex_desc_47">1. Ga op het machine zitten met je hoofd en rug tegen de steun. Plaats je voeten op de voetplaat op heupbreedte uit elkaar, waarbij je hielen plat op de plaat rusten. \n\n2. De benen moeten een hoek van ca. 90 graden met de knieën vormen, dit hoeft niet per se precies te zijn, zolang de hielen maar plat op de plaat blijven. \n\n3. De knieën moeten in een lijn met de voeten liggen en mogen niet naar binnen of naar buiten zijn gedraaid. Houd je billen tegen het zitgedeelte aangedrukt. \n\n4. Als je billen toch omhoog komen en de benen een te scherpe hoek vormen, moet je het zitgedeelte aanpassen, todat je de juiste houding krijgt. Je herkent deze slechte houding als het niet lijkt dat je knieën voor je ogen zitten en je je opgevouwen voelt. Pak de handvaten.</string>
+
+    <string name="ex_name_48">Lying Leg Curls</string>
+    <string name="ex_desc_48">1. Pas overeenkomstig je lengte de stang van het rolkussen aan en ga met je gezicht naar beneden op de leg curl machine liggen met het rolkussen op de achterzijde van je benen (een paar centimeters onder je kuiten). \nTip: Het beter om een leg curl machine waarmee een hoek gemaakt kan worden te gebruiken, dan een machine waarmee dat niet mogelijk is, omdat de hoekuitvoering van de oefening beter voor de opbouw van de ihamstrings is.\n\n2. Houd je bovenlichaam plat op de bank, zorg ervoor dat je benen volledig gestrekt zijn en pak de handvaten aan de zijkant van de machine. Plaats je tenen recht (of je kunt ook een van de twee andere posities gebruiken die bij de voetposities staan beschreven). Dit is de uitgangspositie.\n3. Terwijl je uitademt, breng je je benen zover mogelijk omhoo, zonder dat je bovenbenen van de bank omhoogkomen. Zodra je de volledige aangespannen houding hebt bereikt, houd je dit gedurende één seconde vast.\n4. Terwijl je inademt, breng je de benen terug naar de beginpositie. Herhaal dit met het aanbevolen aantal herhalingen.</string>
+
+    <string name="ex_name_49">Romanian Deadlift</string>
+    <string name="ex_desc_49">1. Sta met de halterstand op armhoogte voor je. Je kunt op een verhoging gaan staan, om de reikwijdte van de beweging te vergroten.\n\n2. Begin met het lichtjes buigen van de knieën, vervolgens de heupen, waarbij je je billen zover mogelijk naar achteren brengt, en je je bovenlichaam naar beneden brengt zover als je lenig bent. Houd de rug continue volledig gestrekt en de halter moet in contact met de benen blijven. Wanneer deze oefening correct wordt uigevoerd, voel je een zware druk in de hamstrings.\n\n3. Voer de beweging omgekeerd uit om naar de uitgangspositie terug te keren.</string>
+
+    <string name="ex_name_50">Stiff-Legged Dumbbell Deadlift</string>
+    <string name="ex_desc_50">1. Pak in iedere hand een dumbbell en houd ze langs je lichaam op armhoogte vast.\n\n2. Ga staan met een recht bovenlichaam en je benen op schouderbreedte smaller van elkaar. De knieën zijn lichtjes gebogen. Dit is de uitgangspositie.\n\n3. Houd de knieën stil, laat de dumbbells naar de bovenzijde van je voeten zakken door vanuit je taille te buigen, houd hierbij je rug recht. Buig verder naar voren alsof je iets van de vloer wilt oprapen, totdat je een stretch in de hamstrings voelt. Adem uit bij het uitvoeren van deze beweging\n\n4. Begin je bovenlichaam op te heffen door je heupen en je taille te strekken, totdat je weer in de uitgangspositie bent. Adem in bij het uitvoeren van deze beweging.\n\n5. Herhaal dit met het aanbevolen aantal herhalingen.</string>
+
+    <string name="ex_name_51">Arnold Dumbbell Press</string>
+    <string name="ex_desc_51">1.  Ga op een vlakke fitnessbank zitten en houd in iedere hand een dumbbell op schouderhoogte vast. Je handen zijn naar binnen gericht en je ellebogen wijzen naar de vloer.\n\n2. Draai beide polsen naar buiten totdat je handpalmen van je af wijzen. Strek tegelijkertijd je armen boven je hoofd uit. Houd deze houding één seconde vast. Ga vervolgens terug naar de uitgangspositie.</string>
+
+    <string name="ex_name_52">Bent Over Dumbbell Rear</string>
+    <string name="ex_desc_52">1. Ga rechtop staan met een dumbbell in iedere hand en met een incline bench voor je.\n\n2. Terwijl je je rug recht houdt en de natuurlijke kromming van je rug handhaaft, leun je voorover totdat je voorhoofd de bank die voor je staat, raakt. Laat de armen voor je in een rechte lijn met de vloer hangen. De handpalmen moeten naar elkaar wijzen en je bovenlichaam moet parallel aan de vloer zijn. Dit is de uitgangspositie.\n\n3. Houd je bovenlichaam naar voren gebogen en onbeweeglijk, de armen recht met licht gebogen ellebogen en hef de dumbbells in een rechte lijn naar weerszijde totdat beide armen parallel aan de vloer zijn. Adem uit bij het opheffen van de halters. Let op: zwaai niet met het bovenlichaam of breng de armen niet terug\n4. Na het vasthouden van één seconde op de top van de oefening, laat je vervolgens de dumbbells langzaam naar de uitgangspositie zakken.\n\n5. Herhaal dit met het aanbevolen aantal reps.</string>
+
+    <string name="ex_name_53">Dumbbell Shoulder Press</string>
+    <string name="ex_desc_53">1. Ga met een rechte rug op een fitnessbank of een stoel zitten. \n\n2. Pak in iedere hand een dumbbell en houd ze aan de zijkant van de schouders, waarbij  je duimen tegen elkaar aanwijzen. \n\n3. Druk simpelweg de dumbbells boven je hoofd uit en ga terug naar de uitgangspositie net aan de buitenzijde van je schouders.</string>
+
+    <string name="ex_name_54">Front Dumbbell</string>
+    <string name="ex_desc_54">1. Ga in een lichte spreidstand staan. \n\n2. Houd de dumbbells met je handpalmen naar beneden wijzend vast (bovenhandse greep), waarbij de dumbbells tegen je dijbenen of lichtjes langs de zijkant van je lichaam rusten.\n\n3. Adem in en hef de dumbbells naar voren tot schouderhoogte.\n\n4. Adem uit bij het afronden van de beweging.</string>
+
+    <string name="ex_name_55">Lateral Raise</string>
+    <string name="ex_desc_55">1. Ga in een lichte spreidstand staan. \n\n2. Houd je rug recht, je armen hangen aan de zijkant van je lichaam met in iedere hand een dumbbell. \n\n3. Hef de dumbbells tot schouderhoogte, waarbij je de ellebogen enigszins gebogen hebt. \n\n4. Ga terug naar de uitgangshouding.</string>
+
+    <string name="ex_name_56">Overhead Press</string>
+    <string name="ex_desc_56">1. Ga rechtop staan en houd de barbell op schouderhoogte achter je hoofd vast, waarbij je de handen op schouderbreedte van elkaar hebt, de ellebogen gebogen met handpalmen die naar voren wijzen.\n\n2. Druk de barbell met volledig gestrekte armen boven je hoofd uit. Houd je rug recht en blijf tijdens de hele beweging rechtop staan.</string>
+
+    <string name="ex_name_57">Peck Deck-Reverse Machine Flyes</string>
+    <string name="ex_desc_57">1. Ga op een pec deck machine zitten met je gezicht naar de rugleuning en je armen gestrekt om de handvaten te pakken.\n\n2. Adem in en druk je ellebogen naar achteren, waarbij je scapulae aan het einde van de beweging wordt samengedrukt. \n\n3. Adem uit bij het afronden van de beweging.</string>
+
+    <string name="ex_name_58">Standing Military Press</string>
+    <string name="ex_desc_58">1. Ga rechtop staan, houd de barbell op schouderhoogte tegen de bovenkant van je borst aan met je handen op schouderbreedte van elkaar, ellebogen gebogen met handen die naar voren wijzen.\n\n2. Druk de barbell met volledig gestrekte armen boven je hoofd uit. Houd je rug recht en blijf tijdens de hele beweging rechtop staan. </string>
+
+    <string name="ex_name_59">Upright Barbell Row</string>
+    <string name="ex_desc_59">1. Ga in een lichte spreidstand staan. Houd je rug recht. \n\n2. Houd de stang met een bovenhandse greep vast, waarbij je handen op handbreedte of iets meer van elkaar zijn. \n\n3. Adem in en trek de barbell recht omhoog totdat het je kin raakt. \n\n4. Hef je ellebogen zo hoog mogelijk op het topppunt van de beweging. \n\n5. Adem uit en laat de barbell langzaam naar de uitgangshouding zakken.</string>
+
+    <string name="ex_name_60">Close Grip Barbell Bench Press</string>
+    <string name="ex_desc_60">1. Ga op een vlak halterbankje liggen. \n\n2. Lig plat op de rug en pak de barbell boven je beet met een zeer smalle greep. \n\n3. Focus je op een afstand van ca. 15 tot 20 cm tussen beide handen. Til nu de barbell uit de haltersteunen en laat het langzaam tot 7,5 cm boven je borst zakken en druk vervolgens de stang weer terug naar de uitgangshouding. \n\n4. Zorg ervoor dat je je ellebogen tijdens de volledige range van de beweging dicht bij je bovenlichaam houdt.</string>
+
+    <string name="ex_name_61">Diamond Push-Up</string>
+    <string name="ex_desc_61">1. Positioneer jezelf in de standaard pushup positie, maar plaats je handen direct onder je borst met gespreide wijsvingers en duimen die elkaar raken en zo een ‘diamant’ vormen.\n\n2. Houd je rug vlak als je je lichaam laat zakken totdat je borst bijna je handen raakt.\n\n3. Pauzeer, en druk jezelf weer terug naar de uitgangsositie.</string>
+
+    <string name="ex_name_62">Dips</string>
+    <string name="ex_desc_62">1. Om in de uitgangshouding te komen, houd je lichaam op armlengte met je armen bijna op slot boven de stangen.\n\n2. Vervolgens adem je in en laat je jezelf langzaam zakken. Je bovenlichaam moet rechtop blijven en je ellebogen dicht bij je lichaam. Hierdoor kan je je beter concentreren op het trainen van de triceps. Laat jezelf zodanig zakken, totdat de bovenarm een hoek van 90 graden met de onderarm vormt.\n\n3. Adem nu uit en druk je bovenlichaam weer terug naar boven door je triceps te gebruiken om je lichaam naar de uitgangshouding terug te brengen.\n\n4. Herhaal de beweging met het voorgeschreven aantal reps.</string>
+
+    <string name="ex_name_63">Dumbbell Triceps Extension Standing</string>
+    <string name="ex_desc_63">1. Sta stil en pak de dumbbell met beide handen beet en houd het achter je hoofd op armlengte vast. Tip: het zou beter zijn als iemand het je kon aangeven, vooal als het erg zwaar is. De weerstand moet in je handpalmen rusten met je duimen er omheen. De handpalm moet naar binnen gericht zijn. Dit is de uitgangshouding.\n\n2. Houd de bovenarmen dicht bij je hoofd (ellebogen naar binnen en in een rechte lijn met de vloer, verlaag de weerstand in een lower the resistance in a semi-circular motion achter je hoofd totdat je onderarmen je biceps raken. Tip: de bovenarmen moeten stil blijven en alleen de onderarmen mogen bewegen. Adem in als je dit uitvoert.\n3. Ga terug naar de uitgangshouding en gebruik hierbij de triceps om de dumbbell op te tillen. Adem uit als je dit uitvoert.\n\n4. Herhaal dit voor het aanbevolen aantal reps.</string>
+
+    <string name="ex_name_64">EZ-Bar Skullcrusher</string>
+    <string name="ex_desc_64">1. Plaats de halterstang boven je ogen, en houd de triceps onder enige druk, terwijl je armen in een gestrekte positie zijn. \n\n2. Houd nu je bovenarmen in de gestrekte positie gefixeerd, terwijl je je ellebogen buigt en het gewicht gecontrolleerd naar je voorhoofd laat zakken.</string>
+
+    <string name="ex_name_65">EZ-Bar Skullcrusher Sitting</string>
+    <string name="ex_desc_65">1. Ga op een halterbankje zitten en pak een barbell beet. Houd het op armlengte boven je hoofd vast met de handpalmen naar binnen gericht.\n\n2. Houd je bovenarmen stabiel als je de barbell achter je hoofd laat zakken, totdat je onderarmen net iets verder dan parallel aan vloer zijn.\n\n3. Pauzeer, en strek vervolgens je armen om de dumbbells in weer in de uitgangshouding te brengen.</string>
+
+    <string name="ex_name_66">EZ-Bar Skullcrusher Standing</string>
+    <string name="ex_desc_66">1. Ga staan met je voeten op shouderbreedte van elkaar en pak een barbell beet. Houd het op armlengte boven je hoofd vast met de handpalmen naar binnen gericht.\n\n2. Houd je bovenarmen stabiel als je de barbell achter je hoofd laat zakken, totdat je onderarmen net iets verder dan parallel aan vloer zijn.\n\n3. Pauzeer, en strek vervolgens je armen om de dumbbells in weer in de uitgangshouding te brengen.</string>
+
+    <string name="ex_name_67">Reverse Grip Triceps Pushdown</string>
+    <string name="ex_desc_67">1. Sta met het gezicht naar de machine toe met je handen op de stang en je ellebogen tegen je zij aan.\n\n2. Adem in en strek je armen, maar houd je ellebogen tegen je zij. \n\n3. Adem uit bij het afronden van de beweging.</string>
+
+    <string name="ex_name_68">Triceps Overhead Extension With Rope</string>
+    <string name="ex_desc_68">1. Maak een touw aan onderste katrol van de machine vast. Na het selecteren van het juiste gewicht, pak het touw met beide handen beet en sta met je rug naar de kabel toe.\n\n2. Plaats je handen achter je hoofd, waarbij je ellebogen recht naar boven wijzen. Je ellebogen beginnen gebogen en je kunt je houding nu enigszins wijzigen door lichtjes van de machine weg te leunen om een betere stabiliteit te creëren. Dit is de uitgangshouding.\n\n3. Om de beweging uit te voeren, strek via de elleboog terwijl je de bovenarmen in positie houdt en breng de armen boven je hoofd.\n\n4. Knijp op de top van de oefening je triceps, en laat langzaam het gewicht naar de uitgangshouding terug gaan.</string>
+
+    <string name="ex_name_69">Triceps Pushdown</string>
+    <string name="ex_desc_69">1. Sta met je gezicht naar de machine toe met je handen op de stang en je ellebogen tegen je zij aan. \n\n2. Adem in en strek je armen, maar houd je ellebogen tegen je zij. \n\n3. Adem uit bij het afronden van de beweging.</string>
+
+    <string name="Abs">Buikspieren</string>
+    <string name="Back">Rug</string>
+    <string name="Biceps">Biceps</string>
+    <string name="Calf">Kuiten</string>
+    <string name="Chest">Borst</string>
+    <string name="Legs">Benen</string>
+    <string name="Shoulders">Schouders</string>
+    <string name="Triceps">Triceps</string>
+    <string name="Forearms">Onderarmen</string>
+
+
+    <string name="day">Dag</string>
+    <string name="round">Reeks</string>
+    <string name="day1">2 dagen per week</string>
+    <string name="day2">3 dagen per week</string>
+    <string name="day3">4 dagen per week</string>
+    <string name="restorePurchases">Aankopen herstellen</string>
+    <string name="textUpgrade">Upgrade naar de Premium versie om 50 Nieuwe Oefeningen te verkrijgen en ads-vrij</string>
+    <string name="one_day_ADS1">1-Dag ZONDER ADS</string>
+    <string name="one_day_ADS2">BEKIJK GESPONSORDE VIDEO</string>
+    <string name="upgrade">NU UPGRADEN</string>
+    <string name="free">Gratis</string>
+    <string name="tell_friend">Vertel een Vriend</string>
+    <string name="send_feedback">Verstuur Feedback</string>
+    <string name="rate_app">Beoordeel ons</string>
+    <string name="facebook">Deel app op Facebook</string>
+    <string name="twitter">Deel de app op Twitter</string>
+    <string name="ic_googleplay">Onze andere apps</string>
+    <string name="ic_settings_">Instellingen</string>
+    <string name="social_follow">Blijf in contact met VGFIT</string>
+    <string name="reminder">Herinnering</string>
+    <string name="daily_reminder">Dagelijkse herinnering</string>
+    <string name="frequency">Frequetie</string>
+    <string name="after_days">Na %1$s dagen van niet-actief zijn</string>
+    <string name="title_8"></string>
+    <string name="menu_bt">Menuknop</string>
+    <string name="units">eenheden</string>
+    <string name="purch_restored">In-app aankopen werden hersteld</string>
+    <string name="success">Succes!</string>
+
+    <string name="work_1">Fitness voor Beginners</string>
+    <string name="work_2">Fitness voor Lichaamsverandering</string>
+    <string name="work_3">Fitness Algemeen</string>
+    <string name="work_4">Antagonisten</string>
+    <string name="work_5">Zelfde Spier</string>
+    <string name="work_6">Tri-sets</string>
+    <string name="work_2header">Supersets</string>
+    <string name="work_1header">Training</string>
+
+    <string name="doneKey">Klaar</string>
+    <string name="editKey">Bewerken</string>
+    <string name="intervalsKey">Intervals</string>
+    <string name="myWorkoutsKey">Mijn workouts</string>
+    <string name="pauseKey">Pauzeren</string>
+    <string name="resetKey">Resetten</string>
+    <string name="resumeKey">Hervatten</string>
+    <string name="roundsKey">Rondes</string>
+    <string name="startKey">Starten</string>
+    <string name="currentsetkey">Huidige instellingen</string>
+    <string name="resttimekey">Rusttijd</string>
+    <string name="worktimekey">Werktijd</string>
+    <string name="minkey">Min</string>
+    <string name="seckey">Sec</string>
+
+    <string name="one_time_payment">eenmalige betaling</string>
+    <string name="get_lifetime_access">KRIJG ONBEPERKTE TOEGANG</string>
+    <string name="_3_days_for_free">7 dagen Gratis</string>
+    <string name="get_workouts_courses_with_powerful_support">Verkrijg 100% kant-en-klare workouts met krachtige ondersteuning!</string>
+    <string name="start_your_positive_transformation_today">Begin vandaag nog met uw positieve\ntransformatie!</string>
+    <string name="only_now">Alleen nu</string>
+    <string name="try_it_now">Probeer het Nu</string>
+    <string name="_3_day_nfree_trial">3-daagse \nGratis proefperiode</string>
+    <string name="_7_day_nfree_trial">7-daagse \nGratis proefperiode</string>
+    <string name="new_workoutsN">Nieuwe \nworkouts</string>
+    <string name="month">/maand</string>
+    <string name="year">/jaar</string>
+    <string name="monthly_slim">Мaandelijks</string>
+    <string name="after">na</string>
+    <string name="nutritionPlanName1">VOOR SPIEROPBOUW</string>
+    <string name="nutritionPlanName2">OM AF TE VALLEN</string>
+    <string name="nutrition_plans">Voedingsschema’s</string>
+
+    <string name="title_11">Oefeningen</string>
+</resources>

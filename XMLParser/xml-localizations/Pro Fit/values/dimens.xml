@@ -1,0 +1,101 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+    ///new
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="height_bar">55dp</dimen>
+    <dimen name="timer_txt_size">18sp</dimen>
+    <dimen name="timer_txt_size_cancel">22sp</dimen>
+    <dimen name="textsize_graph">8sp</dimen>
+    <dimen name="pading_menu_button">15dp</dimen>
+    <dimen name="size_arrow_item">25dp</dimen>
+
+    <dimen name="margin_left_backbt">15dp</dimen>
+    <dimen name="margin_left_backbt_text">30dp</dimen>
+    <dimen name="height_shadow_top_bar">5dp</dimen>
+
+    <dimen name="refresh_header_height_twitter">20dp</dimen>
+    <dimen name="size_text_title_item">18sp</dimen>
+
+    <dimen name="height_history_listview">125dp</dimen>
+    <dimen name="height_timer_expand">105dp</dimen>
+    <dimen name="height_write_list">73dp</dimen>
+    <dimen name="status_bar_height">24dp</dimen>
+    <dimen name="height_only_timer">90dp</dimen>
+    <dimen name="height_calendar_button">30dp</dimen>
+    <dimen name="width_download_dialog">240dp</dimen>
+
+
+
+    <dimen name="height_menu_button">82dp</dimen>
+    <dimen name="shadow_pading">20dp</dimen>
+    <dimen name="size_text_desc_item">14sp</dimen>
+    <dimen name="size_icon_left_menu">35dp</dimen>
+
+    <dimen name="padding_right_item_workout">0dp</dimen>
+    <dimen name="height_item_workout">150dp</dimen>
+
+
+    <dimen name="height_image_purch">150dp</dimen>
+    <dimen name="size_igredients">8sp</dimen>
+
+    <dimen name="height_image_meal">200dp</dimen>
+
+    <dimen name="size_text_day">22sp</dimen>
+    <dimen name="size_text_title">18sp</dimen>
+    <dimen name="size_text_description">14sp</dimen>
+
+    <dimen name="size_container_meal_foto">100dp</dimen>
+
+    <dimen name="size_layout_icon_left_menu">67dp</dimen>
+    <dimen name="header_upgrade_height">310dp</dimen>
+    <dimen name="padding_upgrade_to_top">10dp</dimen>
+    <dimen name="padding_between_text_upgrade">0dp</dimen>
+    <dimen name="between_desc_upgrade">15dp</dimen>
+    <dimen name="beteween_recycle_preview">-10dp</dimen>
+    <dimen name="heigh_dialog_purchase">180dp</dimen>
+    <dimen name="width_dialog_purchase">240dp</dimen>
+    <dimen name="logo_vgfit_height">40dp</dimen>
+
+    //Subscribe dimension
+    <dimen name="size_cover_subscription">249dp</dimen>
+    <dimen name="size_text_height_subscription">200dp</dimen>
+    <dimen name="size_text_wight_subscription">205dp</dimen>
+    <dimen name="left_margin_cover">10dp</dimen>
+    <dimen name="margin_text_top">50dp</dimen>
+
+    <dimen name="size_icon_to_subscribe">28dp</dimen>
+
+    <dimen name="grey_line_square_height">170dp</dimen>
+    <dimen name="grey_line_square_width">230dp</dimen>
+    <dimen name="grey_line_square_pading_left">20dp</dimen>
+    <dimen name="grey_line_square_pading_top">0dp</dimen>
+
+    <dimen name="button_start_subscr_height">68dp</dimen>
+    <dimen name="button_start_subscr_wight">200dp</dimen>
+    <dimen name="button_start_subscr_left_padding">-90dp</dimen>
+    <dimen name="button_start_subscr_text_size">29sp</dimen>
+
+    <dimen name="padding_terms">0dp</dimen>
+
+    <dimen name="purchase_free">14sp</dimen>
+    <dimen name="purchase_price">12sp</dimen>
+    <dimen name="purchase_restore">11sp</dimen>
+
+    <dimen name="to_top_text">12dp</dimen>
+
+    <dimen name="size_text_subscribe_life">17sp</dimen>
+    <dimen name="size_text_subscribe_life_2">14sp</dimen>
+    <dimen name="list_item_height">64dp</dimen>
+
+
+    <dimen name="list_item_elevation">2dp</dimen>
+    <dimen name="list_item2_height">96dp</dimen>
+    <dimen name="list_group_item_height">96dp</dimen>
+    <dimen name="list_group_item_with_add_remove_buttons_height">108dp</dimen>
+</resources>

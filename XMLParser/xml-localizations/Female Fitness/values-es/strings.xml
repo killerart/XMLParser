@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Women Fitness Miss Bikini</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <string name="title_1">Ejercicios</string>
+    <string name="title_2">Entrenamientos</string>
+    <string name="title_3">Personalizado</string>
+    <string name="title_4">Historial</string>
+    <string name="title_5">Más</string>
+    <string name="done">Acabado</string>
+    <string name="back">Atrás</string>
+    <string name="titles">Título:  </string>
+    <string name="downl_vid">Descargando video</string>
+    <string name="please_wait">Por favor, espera...</string>
+    <string name="cancel">Cancelar</string>
+    <string name="edit">Editar</string>
+    <string name="work">Mi entrenamiento</string>
+    <string name="create_plus">Para crear un nuevo entrenamiento pulsa +</string>
+    <string name="save">Guardar</string>
+    <string name="workout_name">Nombre del entrenamiento:</string>
+    <string name="days_title">Número de Días:</string>
+    <string name="delete">Eliminar</string>
+    <string name="work_title">Título del Entrenamiento:</string>
+    <string name="options">Opciones:</string>
+    <string name="camera">Cámara/Galería</string>
+    <string name="ex_phot_title">Fotos del Ejercicio</string>
+    <string name="name_desc">Nombre, Descripción</string>
+    <string name="ex_name">Nombre del Ejercicio:</string>
+    <string name="desc">Descripción:</string>
+    <string name="auto">Auto</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="retake">Retake</string>
+    <string name="preview">Preview</string>
+    <string name="use">Use</string>
+    <string name="erorr">Error!</string>
+    <string name="blanck">Por favor, rellena el campo de texto!</string>
+    <string name="okey">Ok</string>
+    <string name="realy_cancel">De verdad quieres cancelar el proceso de descarga? Se perderán todos los datos que no se hayan guardado!</string>
+    <string name="download_all">Descargar todos los videos</string>
+    <string name="unzip">Descomprimiendo Archivos</string>
+    <string name="files">Archivos</string>
+    <string name="dow_video">Descargando Videos</string>
+    <string name="video_saved">Todos los videos han sido guardados con éxito!</string>
+    <string name="conn">Por favor, comprueba tu conexión inalámbrica a internet</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="status">Status</string>
+    <string name="empty_message">00:00</string>
+    <string name="start">Inicio</string>
+    <string name="weight">Peso(kg)</string>
+    <string name="repetitions">Repeticiones</string>
+    <string name="set_s">Establecer segundos</string>
+    <string name="wei">Peso</string>
+    <string name="rep">Repeticiones</string>
+    <string name="wei_rep">Rendimiento</string>
+    <string name="no_history">No se ha hecho ningún ejercicio todavía</string>
+    <string name="last_val">Últimos valores</string>
+     <string name="send_f">Enviar comentarios</string>
+    <string name="rep_bug">Informar de un error</string>
+    <string name="tel_fr">Decírselo a un amigo</string>
+    <string name="rate_us">Valóranos</string>
+      <string name="ad">Añadir</string>
+      
+      <string name="exit">Estás seguro?</string>
+    <string name="sdcard">No hay tarjeta SD!</string>
+    <string name="post_to">Publicar en la pared</string>
+    <string name="not_loged">No se ha iniciado sesión</string>
+    <string name="log_fail">No se ha podido iniciar sesión</string>
+    <string name="posting">Publicando </string>
+    <string name="posting_succes">Pubicado con éxito</string>
+    <string name="email_sent">Email Enviado</string>
+    <string name="email_notsent">Email No Enviado</string>
+
+    <string name="reps1">3  series y 12/12/12 repeticiones</string>
+    <string name="reps2">3  series y 15/15/15 repeticiones</string>
+    <string name="reps3">3  series y 20/20/20 repeticiones</string>
+    <string name="reps4">3  series y 30/30/30 repeticiones</string>
+
+    <string name="app_name_fast">Fitness &amp; Bodybuilding</string>
+    <string name="wk1">Se tiende a tener exceso de grasa en la cintura, los brazos y los pechos, y muy poca grasa en la parte baja del cuerpo. Ponte en forma con rapidez con intensos ejercicios combinados para la parte superior del cuerpo.</string>
+    <string name="wk2">Eres recta con muy pocas curvas. Da más forma a tu cintura y esculpe los glúteos con este ejercicio para cuerpos de tipo plátano.</string>
+    <string name="wk3">Tu busto y caderas son mayores en comparación a tu cintura. Agregar un tono muscular a todo el cuerpo y moldea los brazos y las piernas con este ejercicio curv-a-licioso.</string>
+    <string name="wk4">Tienes hombros hombros y caderas estrechas. Aprieta el abdomen y moldea las nalgas y los muslos con este ejercicio para tipo triángulo invertido.</string>
+    <string name="wk5">Eres un poco más ancha en la parte de abajo que en la parte superior. Moldea los brazos y los hombros y se más compacta con este ejercicio adecuado para los tipos pera.</string>
+    <string name="dialog_future">No se pueden introducir datos para fechas posteriores!</string>
+    <string name="info">Elije la forma real de tu cuerpo.</string>
+
+    <string name="ex_guide_1">Manzana</string>
+    <string name="ex_guide_2">Plátano</string>
+    <string name="ex_guide_3">Reloj de arena</string>
+    <string name="ex_guide_4">Triángulo invertido</string>
+    <string name="ex_guide_5">Pera</string>
+    <string name="ex_name_1">Abdominales con Bola de Torsión</string>
+    <string name="ex_desc_1">Preparación: Siéntate en la pelota. Camina hacia adelante y túmbate en la bola con los hombros y la cabeza colgando y las rodillas y las caderas dobladas. Suavemente extiende la espalda para abarcar el contorno de la bola. Sujeta la placa tras el cuello o en el pecho con las dos manos o sin utilizar ningún peso. Flexiona la cintura para levantar la parte superior del torso. Vuelve a la posición original. Repite.</string>
+    <string name="ex_name_2">Ejercicio Plank de Estabilidad con Bola</string>
+    <string name="ex_desc_2">Coloca una pelota de ejercicio cerca y túmbate en el suelo delante de ella con las manos en el suelo a la anchura de los hombros en posición de flexión. Ahora, coloca la parte inferior de las espinillas en la parte superior de la pelota. Sugerencias: En este punto, las piernas deben estar completamente extendidas, con las espinillas encima de la bola y la parte superior del cuerpo debe estar en una posición como para hacer flexiones, apoyándote en los dos brazos extendidos por delante de ti. Esta será tu posición inicial: A la vez que se mantiene la espalda totalmente recta y la parte superior del cuerpo inmóvil, eleva los glúteos hacia el techo, apretando el abdomen para disminuir la distancia entre las costillas y las caderas. El resultado final va a ser la posición del puente. - Exhala al realizar esta parte del movimiento. - Baja la espalda despacio hasta la posición inicial a la vez que inhalas. Sugerencia: No dejes que la espalda se curve hacia abajo. Repite el procedimiento la cantidad de veces recomendada.</string>
+    <string name="ex_name_3">Tocar los Dedos de los Pies</string>
+    <string name="ex_desc_3">Para comenzar, túmbate en el suelo o en una colchoneta de ejercicios con la espalda apoyada en el suelo. Los brazos deben estar a los lados y con las palmas hacia abajo. Las piernas deben tocarse entre sí. Lentamente eleva las piernas en el aire hasta que estén casi perpendiculares con el suelo, y dobla las rodillas en un ángulo de 90 grados. Mientras se mantiene la espalda pegada al suelo, levanta lentamente el torso y usa las manos para intentar tocarte los dedos de los pies. Recuerda expirar al realizar esta parte del ejercicio. Lentamente comienza a bajar el torso y los brazos hasta la posición inicial a la vez que inhalas. Recuerda que debes mantener los brazos rectos apuntando hacia los dedos de los pies. Repite la cantidad de veces recomendada.</string>
+    <string name="ex_name_4">Tensado de Pierna</string>
+    <string name="ex_desc_4">Túmbate en una colchoneta de ejercicios con las piernas extendidas y las palmas mirando hacia abajo junto a ti. Esta será tu posición inicial: - Levanta lentamente el torso con la espalda apoyada en el suelo. Recuerda expirar al realizar esta parte del ejercicio. - Dobla las rodillas y tirar de la parte superior de los muslos hacia el medio de tu cuerpo a la vez que exhalas. Continua hasta que las rodillas estén más o menos al nivel del tórax. - Contrae tus abdominales al ejecutar este movimiento y quédate así un segundo. Sugerencia: Cuando realices el movimiento, la parte inferior de las piernas (pantorrillas) siempre debe permanecer paralela al suelo. - Vuelve a la posición de partida a la vez que inhalas. Repite la cantidad de veces recomendada.</string>
+    <string name="ex_name_5">Plank y flexiones (arriba-abajo).</string>
+    <string name="ex_desc_5">Comienza este ejercicio en plank, en la parte superior de una posición de flexiones. Asegúrate de que tus manos estén justo debajo de los hombros, las piernas rectas y el núcleo activado (posición 1). Mantén esta posición durante 15 segundos. Baja los antebrazos sin caer de rodillas. Lleva un antebrazo cada vez a la colchoneta, en plank inferior. Con los antebrazos en paralelo, mantén esta posición durante 15 segundos (posición 2). A continuación, regresa a la plank superior con ambos brazos rectos.</string>
+    <string name="ex_name_6">Alpinista</string>
+    <string name="ex_desc_6">Asume una posición de flexiones con los brazos totalmente rectos. Tu cuerpo debe formar una línea recta desde la cabeza hasta los tobillos [A]. Sin permitir que la postura de la parte baja cambie, levanta el pie derecho del suelo y mueve lentamente la rodilla derecha hacia el pecho [B]. Vuelve a la posición inicial y repite con la pierna izquierda. Alterna una y otra vez durante la duración del ejercicio.</string>
+    <string name="ex_name_7">Abdominales Laterales Tumbados</string>
+    <string name="ex_desc_7">Túmbate sobre el lado derecho con la mano izquierda al lado de la cabeza y las piernas ligeramente elevadas, la izquierda sobre la derecha. Procede a levantar el torso hacia arriba y hacia abajo, usando el codo derecho para mantener la estabilidad. Haz una pausa y vuelvea a la posición inicial.</string>
+    <string name="ex_name_8">V hacia Arriba</string>
+    <string name="ex_desc_8">Túmbate de espaldas y extiende los brazos por encima de la cabeza. No es necesario que entrelaces las manos para este ejercicio. En un movimiento lento y controlado, levanta simultáneamente los brazos y las piernas, hasta que se junten en el punto medio del torso.  Regresa a la posición inicial con un movimiento lento y controlado. Mantén la mirada hacia el techo.</string>
+    <string name="ex_name_9">Salto de Banco</string>
+    <string name="ex_desc_9">Comienza con una caja o banco de 30-60cm delante de ti. Colócate con los pies separados a la anchura de los hombros. Esta será tu posición inicial: - Haz una breve sentadilla en preparación para el salto, balancea los brazos detrás de ti. - Sal de esta posición, extendiendo las caderas, las rodillas y los tobillos para saltar lo más alto posible. - Mueve los brazos hacia adelante y hacia arriba.- Salta por encima del banco, aterrizando con las rodillas dobladas para absorber el impacto a través de las piernas. - Date la vuelta y mira en la dirección opuesta, y, a continuación, salta de nuevo sobre el banco.</string>
+    <string name="ex_name_10">Cable Fijo Sentado</string>
+    <string name="ex_desc_10">Para este ejercicio necesitarás tener acceso a un equipo de remo con polea baja y barra en V. Nota: La barra en V te permitirá tener un agarre neutral en el que las palmas de las manos se colocan una frente a la otra. Para tomar la posición inicial, en primer lugar siéntate en la máquina y coloca los pies en la plataforma delantera o la traviesa, asegurándote de que las rodillas estén ligeramente dobladas. Inclínate hacia adelante mientras mantienes la alineación natural de la espalda y agarra la barra V. Con los brazos extendidos échate hacia atrás hasta que el torso se encuentre a un ángulo de 90 grados con las piernas. La espalda debe estar ligeramente arqueada y el pecho debe sobresalir. Deberás sentir una sensación agradable de estiramiento al  mantener la barra en frente de ti. Esta es la posición inicial del ejercicio: - Manteniendo el torso inmóvil, tira de las palancas hacia el torso a la vez que mantienes los brazos cerca hasta que toque los abdominales. - Respira mientras realizas el movimiento. En ese momento, deberás apretar los músculos de la espalda. - Mantén esta contracción durante un segundo y regresa lentamente a la posición original, respirando. Repite la cantidad de veces recomendada. Precaución: Evita mover el torso hacia adelante y atrás, ya que puedes causar una lesión en la espalda al hacerlo.</string>
+    <string name="ex_name_11">Estiramientos Laterales Anchos</string>
+    <string name="ex_desc_11">Siéntate en una máquina pulldown con una barra ancha ajustada a la polea. Asegúrate de ajustar el soporte de rodilla de la máquina para que se acople a tu altura. Estas almohadillas evitarán que se eleve tu cuerpo por la resistencia de la barra. Agarra la barra con las palmas de las manos mirando hacia adelante. Nota sobre el agarre: Para un agarre ancho, las manos deben estar separadas a una distancia mayor que la anchura de los hombros. Para un agarre medio, las manos deben estar separadas a una distancia igual a la de la anchura de los hombros, y para un agarre más cerrado, la distancia debe ser menor que la de la anchura de los hombros. Mientras tienes los brazos extendidos delante de ti sujetando la barra con un agarre ancho,  mueve el torso hacia atrás unos 30 grados, a la vez que creas una curvatura en la parte inferior de la espalda y sacas el pecho hacia afuera. Esta es tu posición inicial: - Cuando exhales, lleva la barra hacia abajo hasta que toque la parte superior de tu pecho, moviendo los hombros y la parte superior de los brazos hacia abajo y hacia atrás. Sugerencia: Concéntrate en contraer los músculos de la espalda una vez que llegues a la posición contraída. - La parte superior del torso debe permanecer inmóvil y sólo los brazos deben moverse. - Los antebrazos no deberán hacer ningún otro ejercicio salvo para sujetar la barra; por lo tanto, no intentes tirar hacia abajo de la barra con los antebrazos. Tras un segundo en la posición de contracción apretando los omoplatos, devuelve lentamente la barra a la posición inicial, con los brazos completamente extendidos y los laterales completamente estirados. - Inhala durante esta parte del movimiento. Repite el movimiento la cantidad de veces indicadas.</string>
+    <string name="ex_name_12">Hiperextensiones (extensiones de la espalda).</string>
+    <string name="ex_desc_12">Túmbate boca abajo sobre un banco de hiperextensión, colocando los tobillos firmemente en las patas. Ajusta la almohadilla superior, si es posible, para que la parte superior de los muslos esté plana sobre la almohadilla ancha, dejando espacio suficiente para doblar la cintura sin ningún tipo de restricción. Con el cuerpo recto, cruza los brazos delante de ti o detrás de la cabeza. Esta será su posición inicial: Sugerencia: También se puede sostener una chapa de peso para una mayor resistencia, frente a ti, con los brazos cruzados. - Empieza doblando la cintura hacia adelante lentamente, hasta donde puedas, manteniendo la espalda recta. - Inspira al realizar este movimiento. - Sigue avanzando hacia adelante hasta que sienta un buen estiramiento de los tendones y no puedas seguir adelante sin que doblar la espalda. Sugerencia: Nunca dobles la espalda al realizar este ejercicio. Además, algunas personas pueden ir más lejos que otras. La clave es llegar tan lejos como te permita el cuerpo sin  redondear la espalda. - Eleva lentamente el torso hacia atrás y la posición inicial, a la vez que inhalas. Sugerencia: Evita la tentación de arquear la espalda pasando de una línea recta. Y no gires el torso, para proteger tu espalda de lesiones. Repite la cantidad de veces recomendada.</string>
+    <string name="ex_name_13">Pull-ups Asistidos</string>
+    <string name="ex_desc_13">Súbete y agarra la barra con el agarre ancho. Bájate a la palanca de asistencia o plataforma. Algunas máquinas asistidas requieren que te arrodilles en la plataforma. Si no se usa una máquina asistida, se puede solucionar dejando que un compañero de entrenamiento ponga los sus pies detrás de tus piernas o que se suba con las piernas en la elevación. El rango de movimiento se reducirá si el agarre es demasiado ancho.</string>
+    <string name="ex_name_14">Doblada sobre Dos Mancuernas</string>
+    <string name="ex_desc_14">Con una pesa en cada mano (las palmas de las manos hacia el torso), dobla las rodillas ligeramente y lleva el torso hacia delante, doblando la cintura; asegúrate de mantener la espalda recta hasta que esté casi paralela al suelo. Sugerencia: Asegúrate de mantener la cabeza recta. Las pesas deben colgar directamente delante de ti y los brazos deben colgar en perpendiculares al suelo y el torso. Esta es la posición inicial: A la vez que se mantiene el torso inmóvil, levanta las pesas a tu lado (y exhala), manteniendo los codos cerca del cuerpo (no hagas ninguna fuerza con el antebrazo, aparte de sujetar las pesas). - En la posición superior contraída, aprieta los músculos de la espalda y mantén la posición durante un segundo. - Baja lentamente el peso de nuevo a la posición inicial e inhala. Repite la cantidad de veces recomendada. Precaución: este ejercicio no es recomendable para personas con problemas de espalda. Una máquina de polea baja es la mejor elección para las personas con problemas de espalda. Asegúrate que tienes la posición correcta y no tuerzas la espalda, ya que puedes provocar lesiones de espalda. Ten cuidado con el peso utilizado y, en caso de duda, utiliza menos peso, en vez de más.</string>
+    <string name="ex_name_15">Haltera de Piernas Rectas</string>
+    <string name="ex_desc_15">Este ejercicio se realiza mejor en una jaula de sentadillas por motivos de seguridad. Para empezar, en primer lugar, ajusta la barra en una jaula que mejor se adapte a tu altura. Una vez que se ha elegido la altura correcta y que la barra está cargada, colócate bajo la barra y pon la parte posterior de los hombros (ligeramente por debajo del cuello) a través de ella. Agárrate a la barra con los brazos a cada lado y levántala empujando primero con las piernas y al mismo tiempo enderezando el torso. Sepárate de la jaula y coloca las piernas usando la medida de la anchura de los hombros. Mantén la cabeza recta en todo momento, ya que si miras hacia abajo perderás el equilibrio, y mantén también la espalda derecha. Esta será tu posición inicial: - Manteniendo las piernas inmóviles, mueve el torso hacia delante, doblando las caderas e inhalando. - Baja el torso hasta que quede paralelo al suelo. - Comienza a subir la barra a medida que exhalas, elevando el torso hacia la posición inicial. Repite la cantidad de veces recomendada. Precaución: Este no es un ejercicio para ser tomado a la ligera. Ten cuidado con el peso utilizado y, en caso de duda, utiliza menos peso, en vez de más. Este ejercicio es muy seguro pero sólo si se realiza correctamente.</string>
+    <string name="ex_name_16">Crucifijo Invertido</string>
+    <string name="ex_desc_16">Para comenzar, túmbate en un banco inclinado con el pecho y el estómago presionados contra la pendiente. Toma las mancuernas en cada mano con las palmas frente a frente (agarre neutro). Extiende los brazos delante de ti de modo que estén en posición perpendicular a la inclinación del banco. Las piernas deben estar inmóviles mientras se aplica presión con los dedos de los pies. Esta es la posición de inicio: - Manteniendo una ligera curva en los codos, mueve las pesas hacia afuera y lejos una de otra (hacia el lado) con un movimiento en arco, y exhala. Sugerencia: Trata de juntar los omoplatos para obtener los mejores resultados de este ejercicio. - Los brazos se deben elevar hasta que queden paralelos al suelo. - Siente la contracción y baja lentamente las pesas hasta la posición inicial e inhala. Repite la cantidad de veces recomendada.</string>
+    <string name="ex_name_17">Mancuerna con un solo Brazo</string>
+    <string name="ex_desc_17">Elige un banco llano y coloca una mancuerna a cada lado. Coloca la pierna derecha sobre el final del banco, dobla el torso hacia delante por la cintura hasta que la parte superior del cuerpo esté en paralelo con el suelo, y coloca tu mano derecha en el otro extremo del banco para apoyarte. Utiliza la mano izquierda para coger la pesa del suelo y sujeta el peso al mismo tiempo que mantienes la parte inferior de la espalda recta. La palma de la mano debe estar orientada hacia el torso. Esta será tu posición inicial: - Lleva la resistencia directamente hacia el lado del pecho, manteniendo la parte superior del brazo cerca de ti y el torso inmóvil. Exhala al realizar este paso. Sugerencia: Concéntrate en apretar los músculos de la espalda una vez que llegues a la posición final. También, asegúrate de que la fuerza se realiza con los músculos de la espalda y no con los brazos. Por último, la parte superior del torso debe permanecer inmóvil y sólo los brazos deben moverse. Los antebrazos no deben hacer ningún otro esfuerzo salvo sujetar la mancuerna; por lo tanto, no intentes elevar la pesa con los antebrazos. - Baja la resistencia hasta la posición inicial. Inhala al realizar este paso. Repite el movimiento en la cantidad especificada de repeticiones. \cf0 \cf2 Cambia de lado y repite con el otro brazo. Variaciones: Se puede hacer tambié usando una polea alta o baja en lugar de una pesa.</string>
+    <string name="ex_name_18">Flexiones con Mancuernas para Bíceps</string>
+    <string name="ex_desc_18">Colócate de pie, recta, con una pesa en cada mano y los brazos extendidos. Mantén los codos cerca del torso y gira las palmas de las manos hasta que estén mirando hacia delante. Esta será tu posición inicial: - Ahora, manteniendo la parte superior de los brazos fijos, exhala y flexiona los brazos contrayendo los bíceps. - Sigue levantando las pesas hasta que tus bíceps estén completamente contraídos y las mancuernas a nivel del hombro. - Mantén esta posición durante un rato corto mientras aprietas tus bíceps. - Después, inhala y lentamente comienza a bajar las pesas a la posición inicial. Repite la cantidad de veces recomendada.</string>
+    <string name="ex_name_19">Flexión con Haltera</string>
+    <string name="ex_desc_19">Colócate de pie con el torso recto sujetando una haltera a la anchura de los hombros. La palma de las manos debe estar orientada hacia adelante y los codos cerca de el torso. Esta será tu posición inicial: - Mientras se mantiene la parte superior de los brazos fija, flexiona las pesas hacia adelante mientras contraes los biceps, y exhala. Sugerencia: Sólo se deben mover los antebrazos. - Continúa con el movimiento hasta que los bíceps estén completamente contraídos y la barra esté a la altura de los hombros. - Mantén la posición contraída durante un segundo y aprieta bien los bíceps. - Comienza a llevar la barra de vuelta a la posición inicial a la vez que inhalas. Repite el procedimiento la cantidad de veces recomendada.</string>
+    <string name="ex_name_20">Flexión con Haltera Sentada</string>
+    <string name="ex_desc_20">Agarra una haltera a la anchura de los hombros con un agarre pronado (palmas hacia adelante) y siéntate en el extremo de un banco llano con la haltera sobre sus muslos. La espalda debe estar recta, la cabeza mirando hacia adelante y los pies firmes en el suelo. Esta será tu posición inicial: - A la vez que mantienes la parte superior de los brazos fija y cerca del cuerpo, inhala y empieza a mover las pesas hacia arriba y hacia adelante hasta llegar a una posición totalmente contraída. - Espera un segundo, aprieta los bíceps y baja el peso en un movimiento controlado hasta la posición inicial.</string>
+    <string name="ex_name_21">Flexiones con Haltera Contra una Pendiente</string>
+    <string name="ex_desc_21">Túmbate en un banco inclinado, con los brazos sosteniendo una haltera y colgando hacia abajo en una línea horizontal. Esta será tu posición inicial: - Mientras mantienes la parte superior de los brazos fija, flexiona los brazos tan alto como puedas, a la vez que aprietas los bíceps. Exhala al realizar esta parte del ejercicio. Sugerencia: Solo se deben mover los antebrazos. No balancees los brazos. Tras una segunda contracción, vuelve lentamente a la posición inicial mientras inhalas. Sugerencia: Asegúrate de que desciendes hasta abajo. Repite la cantidad de veces recomendada. Variaciones: Puedes hacer este ejercicio con una barra E-Z o  pesa.</string>
+    <string name="ex_name_22">Flexión de Bíceps de Pie con Cable</string>
+    <string name="ex_desc_22">Colócate de pie con el torso recto y sujeta una barra de flexión con cable que esté conectada a una polea baja. Agarra la barra a la anchura de los hombros y mantén los codos cerca del torso. Las palmas de las manos deben estar hacia arriba (agarre supino) Esta será tu posición inicial: - Mientras mantienes la parte superior de los brazos inmóvil, flexiona los brazos contrayendo los biceps y exhala. Sólo se deben mover los antebrazos. Continúa con el movimiento hasta que tus bíceps estén bien contraídos y la barra esté a la altura de los hombros. Mantén esta posición durante un segundo a la vez que aprietas los músculos. - Comienza a llevar la barra a la posición inicial a la vez que inhalas. Repite la cantidad de veces recomendada. Variación: También se puede realizar este movimiento con un accesorio de haltera E-Z o de un solo tirador.</string>
+    <string name="ex_name_23">Contragolpe Glúteos</string>
+    <string name="ex_desc_23">Arrodíllate en el suelo o en una colchoneta de ejercicios y dobla la cintura con los brazos extendidos por delante (perpendicular al torso) para ponerte en una posición de flexiones con las rodillas dobladas, pero con los brazos separados a la anchura de los hombros. La cabeza deberá estar recta y la curvatura de las rodillas deberá formar un ángulo de 90 grados entre los muslos y las pantorrillas. Esta será tu posición inicial: - A la vez que inhalas, levanta la pierna derecha hasta que los tendones de la corva estén en la misma línea que la espalda, manteniendo el ángulo de 90 grados. - Contrae los glúteos durante todo el movimiento y mantén la contracción durante un segundo. Sugerencia: Al final del movimiento, la parte superior de la pierna deberá estar paralela al suelo, y la pantorrila perpendicular a él. - Vuelve a la posición inicial mientras inspiras y repite con la pierna izquierda. - Sigue alternando las piernas hasta que hayas hecho todas las repeticiones recomendadas. Variaciones: Para este ejercicio también se puede realizar todas las repeticiones con una pierna primero y luego con la otra. También puedes añadir pesas para los tobillos.</string>
+    <string name="ex_name_24">Puente Glúteos con una sola Pierna</string>
+    <string name="ex_desc_24">Túmbate en el suelo con los pies sobre el banco y rodillas dobladas. Levanta una pierna y mueve la rodilla hacia el pecho. Esta será tu posición inicial: - Ejecuta el movimiento, dirigiendo con el talón, extendiendo la cadera hacia arriba y elevando los glúteos del suelo. - Extiéndela todo lo que puedas, haz una pausa y vuelve a la posición inicial.</string>
+    <string name="ex_name_25">Peso Muerto con una sola Pierna</string>
+    <string name="ex_desc_25">De pie con los pies juntos y las manos delante de los muslos. Levanta la pierna ligeramente, lo justo para que el pie ya no toque el suelo. Inclina el torso hacia delante y hacia abajo mientras elevas la pierna levantada hacia atrás. Mantén la espalda recta y la rodilla de la pierna de apoyo ligeramente doblad. Mantén la cadera y la rodilla de la pierna extendida durante todo el movimiento. Una vez que se sienta el estiramiento o que las manos toquen el suelo, vuelve a la posición original elevando el torso y bajando la pierna. Endereza la rodilla de la pierna de apoyo al enderezar el torso. Repite.</string>
+    <string name="ex_name_26">Contragolpe de una Pierna con Cable</string>
+    <string name="ex_desc_26">Engancha un brazalete tobillero de cuero a una polea de cable baja y ponte el brazalete en el tobillo. Colócate en frente de las pesas a una distancia de unos 60 cm, agarrando las estructura de acero como soporte. Manteniendo las rodillas y las caderas ligeramente dobladas y los abdominales apretados, contrae los glúteos para dar una patada con la pierna hacia atrás, en un arco semicircular, lo más alto que puedas, a la vez que exhalas. Sugerencia: En el punto de máxima extensión, aprieta los glúteos durante un segundo para lograr una máxima contracción. Ahora, lentamente, mueve la pierna hacia delante, resistiendo el tirón del cable hasta llegar a la posición inicial. Repite la cantidad de veces recomendada. Cambia de pierna y repite el movimiento por el otro lado. Variaciones: Puedes realizar este ejercicio con bandas elásticas.</string>
+    <string name="ex_name_27">Levantamientos con Máquina Smith y Banco Inclinado</string>
+    <string name="ex_desc_27">Coloca un banco en pendiente debajo de la máquina Smith. Coloca la haltera a una altura que puedas alcanzar cuando estés tumbada y tus brazos casi totalmente e extendidos. Una vez que has elegido el peso necesario, túmbate en el banco inclinado y asegúrate de que la parte superior del pecho está alineada con la haltera. Con un agarre pronado (palmas hacia adelante) más amplio que la anchura de los hombros, quita la barra del bastidor y sujétala directamente delante de ti, con los brazos bloqueados. Esta será tu posición inicial: - Al inhalar, baja lentamente hasta que sientas la barra en la parte superior del pecho. - Tras una pausa de un segundo, lleva la barra a la posición inicial, a la vez que exhalas y empuja la barra usando los músculos del pecho. Mantén los brazos en la posición de contracción, espera un segundo y comienza a bajar lentamente. Sugerencia: Deberás tardar, por lo menos, el doble de tiempo en bajar que en subir. - Repite el movimiento la cantidad de veces indicada. Cuando hayas terminado, coloca la barra en el bastidor. Precaución: Si es la primera vez que haces este ejercicio, se aconseja utilizar un observador, ya que puede ser un poco complicado. Si no tienes ningún observador, se conservadora con la cantidad de peso utilizada.</string>
+    <string name="ex_name_28">Flexiones Tríceps</string>
+    <string name="ex_desc_28">Túmbate en el suelo boca abajo y coloca las manos a una distancia menor que la anchura de los hombros. Asegúrate de que sostienes el torso con los brazos extendidos. Baja el torso hasta que tu pecho casi toque el suelo, inhalando. Utilizando el tríceps y algunos músculos pectorales, empuja la parte superior del cuerpo hasta la posición de partida y aprieta el pecho. Exhala al realizar este paso. Después de pausa de un segundo en la posición contraída, repite el movimiento la cantidad de veces indicada. Variaciones: - Si es la primera vez que haces este ejercicio y no tienes la fuerza necesaria para llevarlo a cabo, puedes doblar las piernas para disminuir la resistencia o realizar el ejercicio contra la pared en lugar del suelo. - Para las más avanzadas, puedes colocar los pies en una superficie alta, como un banco, con el fin de aumentar la resistencia.</string>
+    <string name="ex_name_29">Levantamientos en Pendiente con Mancuerna</string>
+    <string name="ex_desc_29">Túmbate en un banco inclinado con una mancuerna en cada mano sobre los muslos. Las palmas de las manos deberán estar una frente a la otra. Usando los muslos para ayudarte a empujar las pesas, levanta las pesas, de una en una, para sujetarlas a la anchura de los hombros. Una vez que tengas las pesas elevadas a la anchura de los hombros, gira las muñecas hacia delante, hasta que las palmas de las manos miren hacia el otro lado. Esta será tu posición inicial: - Asegúrate de mantener un control total de las pesas en todo momento. Exhala y empuja las pesas hacia arriba con el pecho. - Bloquea los brazos arriba, espera un segundo y empìeza a bajar la pesa lentamente. Sugerencia: Lo ideal es que al bajar la pesa se tarde aproximadamente el doble de tiempo que al subirla. Repite el movimiento la cantidad de veces indicada. Cuando hayas terminado, coloca las pesas sobre los muslos y después en el suelo. Esta es la manera más segura de soltar las pesas.</string>
+    <string name="ex_name_30">Flexiones Inclinadas con Mancuerna</string>
+    <string name="ex_desc_30">Coge una mancuerna en cada mano y túmbate en un banco en pendiente con una inclinado que no sobrepase los 30 grados. Extiende los brazos por encima, doblando ligeramente los codos. Gira las muñecas hasta que las palmas de las manos estén de frente a ti. Sugerencia: Los dedos meñiques deben estar juntos. Esta será tu posición inicial: - A medida que inhalas, comienza a bajar lentamente los brazos a los lados, manteniéndolos extendidos y girando las muñecas hasta que las palmas de las manos estén frente a frente. Sugerencia: Al final del movimiento los brazos estarán a los lados y las palmas de las manos mirando hacia el techo. - A la vez que exhalas, comienza a bajar las pesas hasta la posición inicial, mediante la inversión del movimiento y girando las manos hasta que los dedos meñiques vuelvan a estar juntos. Sugerencia: Ten en cuenta que el movimiento sólo ocurrirá en la articulación del hombro y en la muñeca. No hay movimiento en la articulación del codo. Repite la cantidad de veces recomendada.</string>
+    <string name="ex_name_31">Levantamientos Inclinados con Bola Suiza y Mancuernas</string>
+    <string name="ex_desc_31">Colócate con la espalda sobre una bola suiza de manera que el torso esté en un ángulo de 45 grados con el suelo. Sujeta las pesas por encima de la barbilla, con los brazos rectos. Mantén el torso fijo y los pies en el suelo.</string>
+    <string name="ex_name_32">Levantamientos de Haltera en Banco</string>
+    <string name="ex_desc_32">Túmbate en un banco llano. Con un agarre de anchura media (un agarre que forme un ángulo de 90 grados, a mitad del movimiento, entre los antebrazos y la parte superior de los brazos), levanta la barra del bastidor y sujétala recta sobre ti con los brazos bloqueados. Esta será tu posición inicial: - Desde la posición inicial, inhala y empieza a bajar lentamente hasta que la barra toque la parte central de tu pecho. - Tras una breve pausa, empuja la barra de vuelta a la posición inicial al mimo tiempo que exhalas. Centra tu atención en empujar la barra con los músculos del pecho. - Bloquea los brazos y aprieta el pecho en la posición contraída en la parte superior del movimiento, espera un segundo y empieza a bajar lentamente. Sugerencia: Lo ideal es que al bajar la pesa se tarde aproximadamente el doble de tiempo que para subirla. Repite el movimiento la cantidad de veces indicada. Cuando hayas terminado, coloca la barra en el bastidor. Precaución: Si eres nueva a este ejercicio, se aconseja usar un observador. Si no hay ninguno disponible, se conservadora con la cantidad de peso utilizada.</string>
+    <string name="ex_name_33">Levantamiento de Mancuerna con Brazo Recto</string>
+    <string name="ex_desc_33">Coloca una pesa de pie en un banco plano. Asegurándote que la pesa se mantiene sobre el banco, túmbate en posición perpendicular al banco (con el torso a través, formando una cruz) sólo con los hombros sobre la superficie. Las caderas deben estar debajo del banco y las piernas dobladas con los pies firmemente sobre el suelo. La cabeza también debe estar fuera del banco. Agarra la pesa con ambas manos y sujétala sobre el pecho con los brazos extendidos. Las palmas de las manos deben presionar contra la parte inferior de uno de los lados de la pesa. Esta será tu posición inicial: Precaución: Asegúrate siempre de que la pesa utilizada para este ejercicio es segura. Si se utiliza una pesa con las placas sueltas puede que se rompa y caiga sobre tu rostro. Manteniendo los brazos rectos, baja la pesa lentamente en un arco por detrás de la cabeza e inhalando, hasta que sientas un estiramiento en el pecho. - En este punto, lleva la pesa a la posición inicial en el mismo arco y exhala al realizar este movimiento. - Mantén la pesa en la posición inicial durante un segundo y repite el movimiento las veces indicadas. Precaución: Si es la primera vez que haces este ejercicio, se recomienda que un observador te pase la pesa. Si no,  asegúrate de que la pesa no se caiga sobre ti mientras colocas el torso para llevar a cabo el ejercicio. También, como ya he  mencionado, asegúrate de que la pesa se encuentra en un perfecto estado de funcionamiento. Las pesas antiguas que necesitan soldadura nunca se deben usar para este ejercicio.</string>
+    <string name="ex_name_34">Sentadilla con Máquina Smith</string>
+    <string name="ex_desc_34">Sentadilla con Máquina Smith</string>
+    <string name="ex_name_35">Sentadillas Anchas con Máquina Smith</string>
+    <string name="ex_desc_35">Configura la máquina Smith para sentadillas anchas colocando la barra a la altura de los hombros y carga el peso deseado en la máquina Smith. Colócate de pie bajo la barra con las piernas en la posición ancha y los dedos de los pies ligeramente hacia afuera. Agarra la barra con una agarre ancho y coloca el centro de la barra en la parte superior de los músculos de la espalda. La barra no debe apoyarse en el cuello! Mantén la espalda recta, mirando al frente y levanta el peso del bastidor: - da un pequeño paso al frente. - Mantén la vista al frente con la espalda recta y desciende lentamente hasta que los muslos estén paralelos al suelo. - Empujándote con los talones, levanta la barra hasta la posición inicial. - Repite las veces que quieras.</string>
+    <string name="ex_name_36">Zancada Trasera con Máquina Smith</string>
+    <string name="ex_desc_36">Con la barra a la altura de la parte superior del pecho, colócala en la parte de atrás de los hombros y agárrala por los lados. Coloca los pies bajo la barra. Endereza las piernas para levantar el peso. Suelta la barra girándola hacia atrás. Da un paso atrás con una pierna mientras doblas la otra. Coloca el pie hacia atrás sobre el suelo. Baja el cuerpo flexionando la rodilla y la cadera de la pierna de apoyo hasta que la rodilla de la pierna trasera esté casi en contacto con suelo. Vuelve a la posición inicial de pie, extendiendo la cadera y la rodilla de la pierna de apoyo y colocando la otra pierna junto a ella. Repite el movimiento con la otra pierna alternando entre ambos lados.</string>
+    <string name="ex_name_37">Flexiones de Piernas</string>
+    <string name="ex_desc_37">Utilizando una máquina de flexión de piernas, siéntate en la máquina y coloca las piernas en la plataforma, directamente delante de ti con una distancia media entre los pies (anchura de hombros). Nota: Para los efectos de esta discusión, utilizaremos la posición de distancia media, que ayuda al desarrollo general; sin embargo, puedes elegir cualquiera de las tres posiciones de pies descritas en la sección de colocación de pies. Baja las barras de seguridad manteniendo en su lugar la plataforma con el peso y empuja la plataforma hacia arriba, hasta que tus piernas estén completamente extendidas delante de ti. Sugerencia: Asegúrate de no bloquear las rodillas. El torso y las piernas deben hacer un perfecto ángulo de 90 grados. Esta será tu posición inicial: - A la vez que inhalas, baja lentamente la plataforma hasta que la parte superior e inferior de las piernas formen un ángulo de 90 grados. - Empujando sobre todo con los talones de los pies y usando los cuadriceps, regresa a la posición inicial, exhalando. Repite la cantidad de veces recomendada y asegúrate de cerrar los pasadores de seguridad correctamente, una vez que hayas terminado. No querrás que se te caiga la plataforma encima con todo el peso. Precaución: Asegúrate siempre de que la plataforma esté bloqueada de forma segura cuando vuelvas a poner peso.</string>
+    <string name="ex_name_38">Sentadilla Hack</string>
+    <string name="ex_desc_38">Coloca la parte trasera del torso contra el respaldo de la máquina y ajusta los hombros en las hombreras . Coloca las piernas en la plataforma con un anchura media y los dedos de los pies ligeramente hacia afuera. Sugerencia: Mantén la cabeza recta en todo momento, y la espalda pegada al respaldo. Coloca los brazos en las asas laterales de la máquina y desconecta las barras de seguridad (que en muchos diseños se realiza moviendo el asas laterales de una posición frontal a una diagonal). Estira las piernas sin bloquear las rodillas. Esta será tu posición inicial: Nota: Para los efectos de esta discusión, utilizaremos la postura media antes descrita, que ayuda al desarrollo en general; sin embargo, puedes elegir cualquiera de las tres posiciones descritas en la sección de colocación de los pies. - Comienza a bajar lentamente la unidad flexionando las rodillas a la vez que mantienes una postura recta con la cabeza derecha (la espalda en el respaldo en todo momento). Continúa bajando hasta que el ángulo entre la parte superior de la pierna y la pantorrila forme una ángulo de un poco menos de 90 grados (que es el punto en el que la parte superior de las piernas están por debajo de la paralela al suelo). - Inhala al realizar esta parte del movimiento. Sugerencia: Si se realiza el ejercicio correctamente, la parte delantera de las rodillas deberán formar una imaginaria línea recta con la punta de los dedos, perpendicular a la parte frontal. Si las rodillas sobrepasan esa línea imaginaria (si van más ayá que los dedos de los pies) estarás ejerciendo una presión indebida sobre la rodilla y el ejercicio se está realizando de manera incorrecta. - Comienza a levantar la unidad a la vez que exhalas, empujando el suelo principalmente con el talón del pie, al mismo tiempo que enderezas las piernas y regresas a la posición inicial. Repite la cantidad de veces recomendada.</string>
+    <string name="ex_name_39">Flexión de Pierna Sentada</string>
+    <string name="ex_desc_39">Ajusta la palanca de la máquina para ajustarse a tu altura y siéntate en la máquina con la espalda en el respaldo. Coloca la parte posterior de la pierna en el brazo acolchado (sólo a unos pocos centímetros de las pantorrillas) y fijar la almohadilla del regazo contra los muslos, por encima de las rodillas. Agarra las asas laterales de la máquina con los dedos de los pies rectos (o también puedes utilizar cualquiera de las otras dos posiciones) y asegúrate de que las piernas estén completamente rectas delante de ti. Esta será tu posición inicial: - A la vez que exhalas, tira de la palanca de la máquina todo lo que puedas hacia la parte posterior de los muslos, flexionado las rodillas. - Mantén el torso inmóvil en todo momento. Mantén la posición contraída durante un segundo. - Vuelve lentamente a la posición inicial, inhalando. Repite la cantidad de veces recomendada. Precaución: No hay que utilizar nunca demasiado peso, ya que puedes poner en riesgo tanto la parte inferior de la espalda como los tendones.</string>
+    <string name="ex_name_40">Extensiones de Piernas</string>
+    <string name="ex_desc_40">Para este ejercicio tendrás que utilizar una máquina de extensión de pierna. En primer lugar, elije el peso y siéntate en la máquina con las piernas debajo del panel (con los pies apuntando hacia adelante) y las manos sujetando las barras laterales. Esta será tu posición inicial: Sugerencia: Tendrás que ajustar el panel de modo que quede sobre la parte inferior de la pierna (justo por encima del pie). También, asegúrate de que las piernas formen un ángulo de 90 grados entre la parte inferior y la parte superior de la pierna. Si el ángulo es inferior a 90 grados, esto significa que la rodilla está por delante de los dedos de los pies, lo que provoca un exceso de tensión en la articulación de la rodilla. Si la máquina está diseñada de esa manera, tendrás que buscar otro equipo o simplemente asegurarte de que, cuando empieces a hacer el ejercicio, dejas de bajar una vez que llegas a un ángulo de 90 grados. - Utilizando el cuádriceps, extiende las piernas al máximo y exhala a la vez. Asegúrate de que el resto del cuerpo permanece inmóvil en el asiento. - Haz una pausa de un segundo en esa posición. - Baja lentamente el peso a la posición original al mismo tiempo que inhalas, asegurándote de no exceder el ángulo de 90 grados. Repite la cantidad de veces recomendada.</string>
+    <string name="ex_name_41">Sentadilla Sumo</string>
+    <string name="ex_desc_41">Sujeta las pesas por la base con ambas manos y colócate de pie. Mueve las piernas a una anchura más amplia que la de los hombros con las rodillas ligeramente dobladas. Los dedos de los pies deben estar hacia fuera. Esta es la posición inicial: Nota: Los brazos deben permanecer inmóviles mientras se realiza este ejercicio. - Lentamente dobla las rodillas y baja las piernas hasta que los muslos estén paralelos al suelo. Asegúrate de inhalar, ya que esta la parte excéntrica del ejercicio. - Presiona principalmente con el talón del pie para que el cuerpo vuelva a la posición inicial a la vez que se exhala. Repite la cantidad de veces recomendada. Precaución: Si no se mantiene la espalda recta se pueden provocar lesiones.</string>
+    <string name="ex_name_42">Sentadilla Sumo y Flexión Lateral</string>
+    <string name="ex_desc_42">Ponte de pie con los pies ligeramente separados a más anchura de la de las caderas, los dedos de los pies y las rodillas en un ángulo de 45 grados girado hacia fuera y las manos detrás de la cabeza. Dobla las rodillas y haz una sentadilla sumo (bajando las caderas lo más que puedas sin dejar que las rodillas se muevan hacia adelante o hacia atrás). Al impulsarte para volver a ponerte de pie, levanta la rodilla derecha hacia el codo derecho. Pon el pie derecho en el suelo y repite inmediatamente lo mismo con la izquierda. Repite, alternando cada vez.</string>
+    <string name="ex_name_43">Sentadilla Lateral</string>
+    <string name="ex_desc_43">Comienza de pie con los pies juntos. Baja hasta la mitad y da un paso lateral a la derecha, tan lejos como puedas. Lleva la pierna derecha hacia la izquierda, volviendo a la posición inicial. Da cada vez un paso a cada lado.</string>
+    <string name="ex_name_44">Zancadas Andadas con Peso</string>
+    <string name="ex_desc_44">Comienza de pie con los pies separados a la anchura de los hombros y las manos estiradas sobre la cabeza con pesas. Da un paso adelante con una pierna, flexionando las rodillas para bajar la cadera. Baja hasta que la rodilla trasera toque casi el suelo. La postura deberá permanecer recta y la rodilla delantera deberá estar por delante del pie delantero. Empuja con el talón del pie delantero y extiende ambas rodillas para volver a subir. Da un paso adelante con el pie trasero, y repite el ejercicio con la otra pierna.</string>
+    <string name="ex_name_45">Zancada Trasera con Mancuernas y Rodilla Elevada</string>
+    <string name="ex_desc_45">De pie con el torso erguido y dos pesas en las manos a los lados del cuerpo. Esta será tu posición inicial: - Da un paso atrás con la pierna derecha, a unos 60cm del pie izquierdo, y baja la parte superior del cuerpo, manteniendo el torso erguido y el equilibrio. Inhala al bajar. Sugerencia: Al igual que en los otros ejercicios, no dejes que la rodilla sobrepase los dedos de los pies cuando bajas, ya que ejercerá una tensión excesiva en la articulación de la rodilla. Asegúrate de mantener la espinilla perpendicular al suelo. Mantén el torso erguido durante la zancada; los flexores de cadera son importantes. Una zancada larga refuerza el gluteus maximus; una corta los cuadríceps. - Empuja hacia arriba y vuelve a la posición inicial y, al exhalar, levanta la rodilla derecha manteniendo la espalda recta. Sugerencia: Utiliza la planta del pie para empujar, con el fin de acentuar los cuádriceps. Para centrarse en los glúteos, presiona con los talones. Repite con la pierna contraria.</string>
+    <string name="ex_name_46">Zancada Trasera Cruzada con Haltera</string>
+    <string name="ex_desc_46">Para comenzar, coloca la barra en el bastidor, justo por debajo del nivel del hombro. Una vez que se ha elegido la altura correcta y la barra está cargada, colócate bajo ésta y pon la parte posterior de los hombros (ligeramente por debajo del cuello) contra ella. Agarra la barra con los dos brazos a cada lado y levántala del bastidor, empujando primero con las piernas y al mismo tiempo enderezando el torso. Aléjate del bastidor y da un paso hacia atrás y a la izquierda con el pie derecho, y desciende en una zancada hasta que la rodilla izquierda esté doblada alrededor de 90 grados, manteniendo el torso erguido y el equilibrio. Inhala al bajar. Nota: No dejes que la rodilla sobrepase los dedos de los pies cuando desciendes, ya que esto ejerce una presión indebida sobre la articulación de la rodilla. Usando principalmente el talón, empuja hacia arriba y vuelve a la posición inicial, exhalando a la vez. Repite el movimiento la cantidad de veces recomendada y, a continuación, hazlo con la pierna izquierda.</string>
+    <string name="ex_name_47">Elevación de Pierna Tumbada de Lado</string>
+    <string name="ex_desc_47">Túmbate de lado con las piernas una encima de la otra y la cabeza apoyada en el brazo. Aprieta los músculos de la parte delantera del mulo de arriba y levanta esa pierna en el aire. Manténla arriba un segundo, bájala hasta que toque la otra pierna y vuelve a levantarla de nuevo. También puedes utilizar pesas para tobillos o una banda elástica de resistencia.</string>
+    <string name="ex_name_48">Step-Ups con Elevación de Rodilla</string>
+    <string name="ex_desc_48">De pie en frente de un banco de altura apropiada, con los pies juntos. Esta será tu posición inicial: - Inicia el movimiento dando un paso hacia arriba, colocando el pie izquierdo encima del banco. - Extiende la cadera y la rodilla de la pierna delantera hasta estar de pie en el banco. - De pie sobre el banco con la pierna izquierda, flexiona la rodilla derecha y la cadera, levantando la rodilla lo más alto posible. Revierte este movimiento para bajarte del banco y repite la secuencia con la otra pierna.</string>
+    <string name="ex_name_49">Sentadilla con Mancuerna</string>
+    <string name="ex_desc_49">De pie, recta, con una pesa en cada mano (palmas mirando hacia los lados de las piernas). Coloca las piernas a la anchura media de los hombros con los dedos de los pies ligeramente hacia afuera. Mantén la cabeza recta en todo momento, ya que si miras hacia abajo perderás el equilibrio, y mantén la espalda derecha. Esta será tu posición inicial: - Comienza a bajar lentamente el torso doblando las rodillas, a la vez que mantienes una postura recta con la cabeza derecha. Continúa bajando hasta llegar a los 90 grados. - Inhala al realizar esta parte del movimiento. Sugerencia: Si se realiza el ejercicio correctamente, la parte delantera de las rodillas deberá formar una imaginaria línea recta con la punta de los dedos de los pies, en perpendicular a la parte frontal. Si las rodillas sobrepasan esa línea imaginaria (si están por delante de los dedos de los pies) estarás ejerciendo una presión indebida sobre la rodilla y el ejercicio se habrá realizado de manera incorrecta. - Comienza a subir la barra a la vez que exhalas, presionando el suelo con el talón principalmente, a medida que enderezas las piernas y vuelves a la posición inicial. Repite la cantidad de veces recomendada.";
+"Stiff-Legged Barbell Deadlift "="Peso Muerto con Mancuernas y Pierna Recta</string>
+    <string name="ex_name_50">Peso Muerto con Mancuernas y Pierna Recta</string>
+    <string name="ex_desc_50">Agarra la barra con un agarre pronado (palmas hacia abajo). Es posible que necesites muñequeras si vas a usar una cantidad importante de peso. De pie, con el torso recto y las piernas separadas a la anchura de los hombros o menos. Las rodillas deben estar ligeramente dobladas. Esta es la posición inicial: Sin mover las rodillas, baja la haltera hasta la parte superior de los pies doblando la cadera y manteniendo la espalda recta. Sigue moviéndote hacia adelante como si fueras a coger algo del suelo, hasta que sientas que se estiran los tendones. Inhala al realizar este movimiento. Empieza a enderezar de nuevo el torso estirando la cadera hasta volver a la posición inicial. Exhala al realizar este movimiento. Repite la cantidad de veces recomendada. Precaución: Este ejercicio no se recomienda para personas con problemas de espalda baja. También se debe tratar con el mayor respeto y prestando especial atención de torcer la espalda hacia delante al bajar el torso; la espalda debe estar siempre recta. Los movimientos repentinos o el exceso de peso pueden lesionarte la espalda.</string>
+    <string name="ex_name_51">Sumo de Pierna Recta y Peso Muerto</string>
+    <string name="ex_desc_51">Comienza con una placa en las manos. Los pies deberán colocarse muy separados. Inhala y baja las caderas, mirando hacia adelante y con el pecho hacia afuera. Sin mover las rodillas, baja la haltera hasta la parte superior de los pies, doblando las rodillas y manteniendo la espalda recta. Sigue moviéndote hacia adelante como si fueras a recoger algo del suelo, hasta que sientas un estiramiento de los tendones de la corva. Inhala al realizar este movimiento. Empieza a elevar el torso extendiendo las caderas hasta que vuelvas a la posición inicial. Exhala al realizar este movimiento. Repite la cantidad cantidad de veces recomendada.</string>
+    <string name="ex_name_52">Extensiones Laterales de una Pierna con Cable</string>
+    <string name="ex_desc_52">Engancha una tobillera de cuero a una polea de cable baja y, a continuación, conecta la tobillera al tobillo. Colócate de lado al bastidor de pesas a una distancia de unos 60 cm y agarra el marco de acero como apoyo. Manteniendo las rodillas y las caderas ligeramente dobladas y los abdominales apretados, contrae los glúteos para extender la pierna hacia el lateral, tan alto como puedas  y exhalando a la vez. Sugerencia: En el punto de máxima extensión, aprieta los glúteos durante un segundo para lograr una máxima contracción. Vuelve a mover lentamente la pierna hacia delante, resistiendo el tirón del cable hasta llegar a la posición inicial. Repite la cantidad de veces recomendada. Cambia de pierna y repite el movimiento para el otro lado. Variaciones: Puedes realizar este ejercicio con bandas elásticas.</string>
+    <string name="ex_name_53">Flexiones Mancuerna Arnold</string>
+    <string name="ex_desc_53">Siéntate en un banco de ejercicio con respaldo y sujeta dos pesas delante de ti a la altura de la parte superior del pecho, con las palmas hacia el cuerpo y los codos doblados. Sugerencia: Los brazos deben estar junto al torso. La posición inicial debe ser como la posición contraída de la flexión con mancuernas: - Para realizar el movimiento, levanta las pesas a la vez que giras las palmas de las manos, hasta que estén mirando hacia delante. - Sigue levantando las pesas hasta que los brazos estén extendidos por encima de ti, con el brazo recto. Exhala al realiza esta parte del movimiento. - Tras una breve pausa arriba, empieza a bajar las pesas a la posición original y gira las palmas de las manos hacia ti. Sugerencia: El brazo izquierdo se girará en sentido contrario a las agujas del reloj,  mientras que el derecho se girará en el sentido de las agujas del reloj. Inhala al realizar esta parte del movimiento. Repite la cantidad de veces recomendada. Variaciones: Puedes realizar el ejercicio de pie, pero no se recomienda para personas con problemas lumbares.</string>
+    <string name="ex_name_54">Flexiones Alternas con Mancuerna</string>
+    <string name="ex_desc_54">Acerca dos mancuernas a tus hombros. Mantén las pesas en los hombros extendiendo las piernas y las caderas mientras mueves las pesas hacia los hombros. Coloca una de ellas directamente sobre tu cabeza extendiendo el codo, girándolo de manera que la palma mira hacia adelante mientras sujetas la otra pesa sin moverla. Baja la pesa a la posición inicial y, de inmediato, repite con el otro brazo.</string>
+    <string name="ex_name_55">Elevación Delantera con dos Mancuernas</string>
+    <string name="ex_desc_55">Coge un par de pesas y permanece con el tronco recto y las pesas delante de los muslos con los brazos extendidos y las palmas de las manos mirando hacia los muslos. Esta será tu posición inicial: Sin mover el torso (sin balanceo), levanta las pesas hacia la parte delantera doblando ligeramente el codo y con las palmas de las manos siempre mirando hacia abajo. Continúa subiendo hasta que los brazos estén un poco más que paralelos al suelo. - Exhala al ejecutar esta parte del movimiento y haz una pausa de un segundo, arriba. - A la vez que inhalas, baja las mancuernas lentamente hasta la posición inicial. Repite la cantidad de veces recomendada. Variaciones: Este ejercicio también se puede realizar alternando las manos, lo que significa hacer una repetición con el brazo derecho y, a continuación, con el izquierdo, vuelta al derecho, etc. , y también se pueden usar halteras.</string>
+    <string name="ex_name_56">Elevación Deltoides con Polea Baja</string>
+    <string name="ex_desc_56">Comienza colocándote al lado derecho de una máquina de polea baja. Usa la mano izquierda para, cruzando el cuerpo, agarrar un asa de la polea baja con agarre pronado (palmas hacia abajo). Apoya el brazo delante de ti. La mano derecha debe agarrar la máquina para un mejor apoyo y equilibrio. Asegúrate de que tu espalda está erguida y los pies separados a la anchura de los hombros. Esta es la posición de inicio: - Comienza usando la mano izquierda y cruzando el cuerpo hasta que se encuentra a la altura del hombro, a la vez que se exhala. - Siente la contracción en la parte superior durante un segundo y comienza a bajar lentamente la palanca hasta la posición de inicio, mientras inhalas. Repite la cantidad de veces recomendada. Cambia de brazo y repite el ejercicio.</string>
+    <string name="ex_name_57">Elevación Delantera con Cable</string>
+    <string name="ex_desc_57">Es un ejercicio estupendo para aislar los deltoides delanteros. Prepárate para el ejercicio enganchando una cuerda al cable de una máquina de polea baja y selecciona el peso que deseas utilizar. Colócate de pie mirando al lado opuesto de la máquina y sujeta la cuerda. De pie, con la mirada hacia delante, agarrando la cuerda a la altura de los muslos. Esta es la posición de inicio: - Levanta lentamente la cuerda alrededor de la altura de los hombros, manteniendo los brazos rectos y el cuerpo quieto. - Haz una pausa y, a continuación, baja lentamente la barra a la posición inicial. - No dejas que la barra te toque el cuerpo.</string>
+    <string name="ex_name_58">Flexiones de Tríceps con un solo Brazo</string>
+    <string name="ex_desc_58">Túmbate sobre el lado derecho con las rodillas dobladas. Envuelve el brazo derecho alrededor del hombro y coloca la mano izquierda en el suelo, delante de ti. Contrae el tríceps para empujar el cuerpo hacia arriba, enderezando el brazo izquierdo lo más que puedas. Baja unos centímetros y sigue empujando hacia arriba y hacia abajo antes de cambiar de lado.</string>
+    <string name="ex_name_59">Extensión de Triceps con Mancuerna</string>
+    <string name="ex_desc_59">Para comenzar, colócate de pie con una pesa en cada mano. Con los pies separados a la anchura de los hombros. Lentamente usa ambas manos para agarrar la pesa y levántala sobre tu cabeza hasta que los brazos estén extendidos por completo. La resistencia deberá estar en las palmas de las manos con los pulgares alrededor. Las palmas de las manos deberá mirar hacia arriba, hacia el techo. Esta será tu posición inicial: - Manteniendo la parte superior de los brazos junto a la cabeza y los codos perpendiculares al suelo, baja la resistencia, en un movimiento semicircular, por detrás de la cabeza hasta que los antebrazos toquen tus bíceps. Sugerencia: La parte superior de los brazos debe permanecer inmóvil y sólo los antebrazos deben moverse. Inhala al realizar este paso. - Vuelve a la posición inicial usando el tríceps para levantar la pesa. Exhala al realizar este paso. Repite la cantidad de veces recomendada.</string>
+    <string name="ex_name_60">Zambullida de Una sola Pierna en Banco</string>
+    <string name="ex_desc_60">Comienza con las palmas de las manos apoyadas en un banco de ejercicio. Ten una pierna extendida hacia fuera y una pierna plantada en el suelo. Cuanto más cerca esté el pie del banco, más fácil será. Aumenta la intensidad colocando el pie lo más lejos posible, o hazlo fácil poniendo el pie cerca del banco. Dobla los codos y zambúllete hacia abajo tanto como puedas sin que las nalgas toquen el suelo. Estira los brazos. Cambia de pierna y repite.</string>
+    <string name="ex_name_61">Extensión Doblada de Triceps con Un solo Brazo y Mancuernas</string>
+    <string name="ex_desc_61">Con una pesa en una mano y la palma orientada hacia el torso, dobla las rodillas ligeramente y lleva el torso hacia delante, doblando la cintura, a la vez que se mantiene la espalda recta hasta que esté casi paralela al suelo. Asegúrate de mantener la cabeza recta. La parte superior del brazo debe estar junto al torso y paralela al suelo, mientras que el antebrazo está apuntando hacia el suelo y la mano sujetando el peso. Sugerencia: Deberá haber un ángulo de 90 grados entre el antebrazo y la parte superior del brazo. Esta es la posición inicial: - Sin mover la parte superior de los brazos, usa el tríceps para levantar las pesas a la vez que exhalas, hasta que los antebrazos queden paralelos al suelo y el brazo esté extendido. Al igual que en muchos otros ejercicios de brazos, sólo se mueve el antebrazo. - Tras un segundo de contracción, baja lentamente la pesa hasta la posición inicial, a la vez que inhalas. Repite el movimiento la cantidad de veces indicada. Cambia de brazo y repite el ejercicio.</string>
+    <string name="ex_name_62">Extensión de Triceps de un solo Brazo con Cable</string>
+    <string name="ex_desc_62">Con la mano derecha, coge una sola asa enganchada a la polea de cable alto con un agarre supino (con las palmas hacia arriba). Deberás estar de pie en frente del bastidor de pesas. Tira de la palanca hacia abajo, de forma que la parte superior del brazo y el codo estén pegados al lateral del cuerpo. La parte superior del brazo y el antebrazo deben formar un ángulo agudo (menos de 90 grados). Puedes mantener el otro brazo junto a la cintura y una pierna delante de ti y la otra detrás, para un mejor equilibrio. Esta será tu posición inicial: Al contraer los tríceps, mueve el asa hacia abajo, hasta que el brazo esté recto. Exhala al realizar este movimiento. Sugerencia: Sólo se deben mover los antebrazos. La parte superior de los brazos debe permanecer inmóvil en todo momento. - Aprieta los tríceps y mantén esta posición durante un segundo. - Devuelve el asa lentamente a la posición inicial. Repite cantidad de veces recomendada y, a continuación, realiza el mismo movimiento con el otro brazo. Variaciones: Puedes usar bandas elásticas para realizar este ejercicio.</string>
+    <string name="ex_name_63">Presión de Triceps</string>
+    <string name="ex_desc_63">Engancha una barra recta o en ángulo a una polea alta y agarra con un agarre pronado (palmas hacia abajo) a la anchura de los hombros. De pie, con el torso recto y una muy pequeña inclinación hacia adelante, mueve la parte superior de los brazos cerca del cuerpo y perpendiculares al suelo. Los antebrazos deben estar apuntando hacia la polea mientras sostienen la barra. Esta es la posición inicial: - Usando el tríceps, baja la barra hasta que toque la parte delantera de los muslos y los brazos estén totalmente extendidos y perpendiculares al suelo. La parte superior de los brazos siempre debe permanecer inmóvil junto al torso y sólo se deben mover los antebrazos. Exhala al realizar este movimiento. - Tras una pausa de un segundo en la posición contraída, baja la barra lentamente hasta la posición inicial. Inhala al realizar este paso. Repita la cantidad de veces recomendada. Variaciones: Hay muchas variaciones de este movimiento. Por ejemplo, se puede utilizar un enganche de barra E-Z, así como una en ángulo V que permita que el pulgar esté más alto que el dedo meñique. También puedes atar una cuerda a la polea, así como usar un agarre inverso en la barra ejercicios.</string>
+
+    <string name="ex_name_5063">Saltos De Tijera</string>
+    <string name="ex_desc_5063">Grupo de músculos: cuádriceps \n\nPaso 1. Siéntate en cuclillas, como si fueras un receptor de béisbol. \n\nPaso 2. Salta hacia arriba y hacia afuera mientras extiendes los codos hacia arriba hacia el techo. \n\nPaso 3. Salta y vuelve a juntar las piernas juntas, bajando los brazos al mismo tiempo.</string>
+
+    <string name="ex_name_5064">Plancha</string>
+    <string name="ex_desc_5064">Músculo: recto abdominal \n\nPaso 1. Apoya los antebrazos en el suelo, manteniendo las piernas estiradas y la espalda recta. \n\nPaso 2. Los antebrazos y todo el cuerpo deben formar una línea recta y paralela al suelo. Permanece en esta posición tanto tiempo como puedas.</string>
+
+    <string name="ex_name_5065">Extensión Lumbar</string>
+    <string name="ex_desc_5065">Músculo: zona lumbar \n\nPaso 1. Túmbate boca abajo en el suelo. Extiende los brazos hacia delante. \n\nPaso 2. Eleva las piernas y la parte superior del cuerpo hacia arriba, y estira todo lo que pueda. Espera un segundo y vuelve a la posición inicial.</string>
+
+    <string name="ex_name_5066">Extensión Lumbar 2</string>
+    <string name="ex_desc_5066">Grupo de músculos: zona lumbar \n\nPaso 1. Túmbate boca abajo en el suelo con los brazos al lado de las caderas y las palmas hacia abajo. Activa los músculos de la espalda y abdominales contrayendo los músculos abdominales hacia tu columna vertebral y apretando los glúteos. \n\nPaso 2. Exhala lentamente y levantar el pecho del suelo y los brazos hacia arriba y hacia atrás hacia tus caderas. Gira tus pulgares hacia el techo mientras realizas el movimiento. \n\nPaso 3. Mantén esta posición durante dos segundos, y después vuelve a la posición inicial.</string>
+
+    <string name="ex_name_5067">Toque Del Pie</string>
+    <string name="ex_desc_5067">Músculo: recto abdominal \n\nPaso 1. Túmbate en el suelo, levanta las piernas hasta que una pierna esté perpendicular al suelo. Extiende completamente los brazos delante de ti. \n\nPaso 2. Toca los dedos de los pies con las manos. Mantén esta posición durante un segundo, y después vuelve a la posición inicial.</string>
+
+    <string name="ex_name_5068">Patada Alta</string>
+    <string name="ex_desc_5068">Músculo: recto abdominal \n\nPaso 1. Empieza de pie con los pies separados el ancho de tus caderas. \n\nPaso 2. Levanta tu pierna izquierda lo más alto que puedas, y toca tu pie izquierdo con ambas manos. \n\nPaso 3. Vuelve a la posición inicial y repite con la otra pierna. \n\nPaso 4. Sigue alternando las piernas, a un ritmo rápido, hasta que termines la serie.</string>
+
+    <string name="ex_name_5069">Flexiones Con Piernas</string>
+    <string name="ex_desc_5069">Músculo: recto abdominal \n\nPaso 1. Túmbate en el suelo en la posición para hacer flexiones, con las manos a los lados y el cuerpo formando una línea recta desde la cabeza hasta los talones. \n\nPaso 2. Levanta tu pie derecho del suelo y flexiona la rodilla derecha hacia tu pecho. Toca el suelo con el pie derecho y vuelve a la posición inicial. \n\nPaso 3. Sigue haciendo este movimiento alternando las piernas.</string>
+
+    <string name="ex_name_5070">Abdominales</string>
+    <string name="ex_desc_5070">Músculo: recto abdominal \n\nPaso 1. Túmbate boca arriba con las rodillas dobladas y los pies planos pegados al suelo. Dobla los brazos y colócalos sobre el pecho o pon las manos detrás de las orejas. \n\nPaso 2. Usa tu abdomen para levantar la cabeza y la parte superior del torso mientras mantienes la parte baja de la espalda pegada firmemente al suelo. \n\nPaso 3. Mantén está posición, con los omoplatos a un par de centímetros del suelo, y vuelve lentamente a la posición inicial usando un movimiento controlado.</string>
+
+    <string name="ex_name_5071">Abdominales Con Flexión De Piernas</string>
+    <string name="ex_desc_5071">Músculo: recto abdominal \n\nPaso 1. Túmbate en el suelo, coloca ambas manos debajo de las caderas, extiende completamente las piernas y levántalas ligeramente. \n\nPaso 2. Dobla las piernas hacia la parte superior del cuerpo y mantén la posición durante un segundo. Vuelve a la posición inicial.</string>
+
+    <string name="ex_name_5072">El Puente</string>
+    <string name="ex_desc_5072">Músculo: recto abdominal \n\nPaso 1. Túmbate boca arriba con las manos a los lados y las piernas perpendiculares al torso. \n\nPaso 2. Contrae tu abdomen y tus glúteos mientras levantas las caderas a solo unos centímetros del suelo y después baja.</string>
+
+    <string name="ex_name_5073">Abdominales Laterales</string>
+    <string name="ex_desc_5073">Músculo: recto abdominal \n\nPaso 1. Túmbate en el suelo, dobla las rodillas y mantén los pies separados, a unos 45-60 centímetros. Extiende los brazos a los lados. \n\nPaso 2. Haz abdominales hacia el lado derecho tocando tu talón derecho y manteniendo la posición un segundo. Exhala mientras realizas este movimiento. \n\nPaso 3. Después vuelve lentamente a la posición inicial mientras inspiras. \n\nPaso 4. Ahora repite el movimiento hacia el lado izquierdo y toca tu talón izquierdo, manteniendo esta posición un segundo. Exhala mientras realizas este movimiento y después vuelve a la posición inicial mientras inspiras. Cuando hayas tocado los dos talones, esto se considera una repetición. Continúa alternando los lados.</string>
+
+    <string name="ex_name_5074">Giros Rusos</string>
+    <string name="ex_desc_5074">Músculo: oblicuos \n\nPaso 1. Siéntate en el suelo con un balón medicinal a tu lado. Junta las piernas y dobla las rodillas, formando un ángulo de 90 grados. Mantén el pecho levantado y la espalda recta. \n\nPaso 2. Coge el balón medicinal sosteniéndolo boca abajo por las asas para un mejor control. Debe estar a la altura del pecho. \n\nPaso 3. Gira tu torso ligeramente, teniendo cuidado de no doblar la espalda. Levanta los pies del suelo pero mantén las rodillas juntas y las piernas dobladas.</string>
+
+    <string name="ex_name_5075">Abdominales Bicicleta</string>
+    <string name="ex_desc_5075">Músculo: oblicuos \n\nPaso 1. Túmbate boca arriba, levanta los hombros del suelo y levanta las piernas. \n\nPaso 2. Dobla una rodilla y acércala al codo opuesto, flexionando tu abdomen y extendiendo completamente la otra pierna. \n\nPaso 3. Vuelve a la posición inicial y repite en el lado opuesto. \n\nPaso 4. Repite hasta completar la serie.</string>
+
+    <string name="ex_name_5076">El Cangrejo</string>
+    <string name="ex_desc_5076">Músculo: recto abdominal \n\nPaso 1. Túmbate boca arriba en el suelo. Coloca las manos y las piernas en el suelo. \n\nPaso 2. Levanta la parte superior de tu cuerpo y toca rápidamente tu pierna izquierda con tu mano derecha. Repite con el otro lado y hazlo cada vez más rápido.</string>
+
+    <string name="ex_name_5081">Patadas Hacia Atrás 2</string>
+    <string name="ex_desc_5081">Músculo: glúteos \n\nPaso 1. Empieza a cuatro patas en una esterilla o en el suelo. Tu espalda debe estar paralela al suelo y levantada, como se muestra en la imagen. \n\nPaso 2. Con un movimiento controlado, levanta tu pierna hasta que el muslo esté alineado con la espalda mientras mantienes un ángulo de 90 grados. Asegúrate de contraer los glúteos, cuando la pierna está completamente extendida detrás de ti. Al final del movimiento, el muslo debe estar paralelo al suelo mientras que la pantorrilla debe estar perpendicular a este. Vuelve a la posición inicial y repite con la otra pierna.</string>
+
+    <string name="ex_name_5082">PATADAS LATERALES PARA GLÚTEOS</string>
+    <string name="ex_desc_5082">Grupo de músculos: glúteos \n\nPaso 1. Empieza a cuatro patas, como se muestra en la imagen. Las rodillas deben estar alineadas con las caderas y las muñecas deben estar directamente debajo de los hombros. \n\nPaso 2. Mantén la espalda recta mientras levantas una rodilla del suelo. Con la rodilla doblada, levántala hacia fuera y hacia arriba hacia el lado. \n\nPaso 3. Mantén esta posición unos segundos, y baja lentamente la rodilla de nuevo al suelo. Haz una pequeña pausa y repite el movimiento.</string>
+
+    <string name="ex_name_5083">Sentadillas Con Patada Lateral</string>
+    <string name="ex_desc_5083">Grupo de músculos: glúteos \n\nPaso 1. Empieza en una posición en cuclillas con las caderas hacia atrás y los pies separados a la misma distancia que los hombros. \n\nPaso 2. Levántate, con tu peso sobre la pierna derecha y levanta la pierna izquierda hacia un lado. \n\nPaso 3. Vuelve a la posición de cuclillas y repite con la pierna derecha.</string>
+
+    <string name="ex_name_5084">Zancada Invertida</string>
+    <string name="ex_desc_5084">Músculo: glúteos \n\nPaso 1. Empieza de pie con los pies separados a la misma distancia que los hombros, y los dedos de los pies apuntando hacia adelante. \n\nPaso 2. Da un paso hacia atrás tan lejos como sea posible con tu pierna dominante y baja hasta que tu rodilla toque el suelo, manteniendo tu torso lo más recto posible. \n\nPaso 3. Apóyate en tu talón delantero para volver a la posición inicial, y después rebota hacia atrás con esa pierna. Esta es una repetición.</string>
+
+    <string name="ex_name_5085">Zancada Hacia Atrás</string>
+    <string name="ex_desc_5085">Músculo: cuádriceps \n\nPaso 1. Empieza de pie con los pies separados a la misma distancia que los hombros, y los dedos de los pies apuntando hacia adelante. \n\nPaso 2. Da un paso atrás, permitiendo que tus caderas y rodillas se flexionen para bajar tu cuerpo. Baja hasta que tu rodilla casi toque el suelo. \n\nPaso 3. Apoyándote en el pie doblado, empuja y vuelve a la posición inicial y repite el ejercicio con la otra pierna.</string>
+
+    <string name="ex_name_5086">Plancha Con Elevación De Pierna</string>
+    <string name="ex_desc_5086">Músculo: zona lumbar \n\nPaso 1. Empieza adoptando la misma posición que para una plancha normal, con el cuerpo formando una línea recta, los codos doblados y alineados con tus hombros y los pies separados el ancho de tus caderas. \n\nPaso 2. Levanta tu pierna izquierda formando un ángulo de 45 grados, y después baja el pie sobre el otro tobillo. \n\nPaso 3. Vuelve a la posición inicial y repite con la otra pierna.</string>
+
+    <string name="ex_name_5087">Extensión De Cadera Tumbado</string>
+    <string name="ex_desc_5087">Músculo: glúteos \n\nPaso 1. Túmbate en el suelo, con los talones en el suelo, mantén las rodillas ligeramente dobladas y los brazos a los lados. \n\nPaso 2. Empujando con los glúteos y los músculos isquiotibiales, empuja los talones hacia abajo y levanta las caderas hasta que tu cuerpo forme una rampa. Mantén esta posición un momento y vuelve lentamente a la posición inicial.</string>
+
+    <string name="ex_name_5088">Extensión De Cadera En La Silla</string>
+    <string name="ex_desc_5088">Músculo: glúteos \n\nPaso 1. Coloca tu espalda sobre la silla y coloca los pies en el suelo, manteniendo las rodillas ligeramente dobladas y los brazos a los lados. \n\nPaso 2. Empujando con los glúteos y los músculos isquiotibiales, presiona los talones en el suelo y levanta las caderas hasta que tu cuerpo forme una rampa. Mantén esta posición un momento y vuelve lentamente a la posición inicial.</string>
+
+    <string name="ex_name_5089">Sentadilla Búlgara</string>
+    <string name="ex_desc_5089">Músculo: cuádriceps \n\nPaso 1. Coloca un pie en el suelo, aproximadamente 90 cm en frente de una silla y coloca tu otro pie en una silla detrás de ti. Extiende tus manos delante de tu pecho. \n\nPaso 2. Usa tu pie delantero para tener equilibrio mientras doblas las dos rodillas para bajar tu cuerpo hasta que tu rodilla trasera está a unos centímetros del suelo y tu pierna delantera está doblada a 90 grados. El resto de tu cuerpo debe formar una línea recta. Vuelve a la posición inicial y repite con la otra pierna.</string>
+
+    <string name="ex_name_5090">Subir Escalones</string>
+    <string name="ex_desc_5090">Músculo: glúteos \n\nPaso 1. Empieza de pie cerca del banco de ejercicios. Sube con el pie derecho en el banco mientras mantienes el pie izquierdo en el suelo. \n\nPaso 2. Levanta la rodilla izquierda delante de ti. \n\nPaso 3. Baja con la pierna izquierda. Repite el ejercicio con la otra pierna y sigue alternando.</string>
+
+    <string name="ex_name_5091">Patada En El Banco</string>
+    <string name="ex_desc_5091">Músculo: glúteos \n\nPaso 1. Ponte de rodillas en el banco. Tu espalda debe estar paralela al suelo y levantada, como se muestra en la imagen. \n\nPaso 2. Con un movimiento controlado, empuja uno de los pies hacia atrás y hacia arriba como si estuviera pateando el techo detrás de ti. Asegúrate de contraer los glúteos, cuando tu pierna esté completamente extendida detrás de ti. Vuelve a la posición inicial y repite con la otra pierna.</string>
+
+    <string name="ex_name_5092">Patada</string>
+    <string name="ex_desc_5092">Músculo: cuádriceps \n\nPaso 1. Empieza de pie y levanta un talón del suelo hacia tus glúteos. Coloca tus brazos delante de tu pecho. \n\nPaso 2. Repite con la otra pierna.</string>
+
+    <string name="ex_name_5093">Sentadilla Con Patada</string>
+    <string name="ex_desc_5093">Grupo de músculos: glúteos \n\nPaso 1. Empieza con los pies separados un poco más que el ancho de los hombros y haz una sentadilla. \n\nPaso 2. Al levantarte, transfiere tu peso a una pierna y da una patada hacia atrás con la pierna opuesta. \n\nPaso 3. Vuelve a la posición inicial y repite con la otra pierna.</string>
+
+    <string name="ex_name_5095">Flexiones Con Toque</string>
+    <string name="ex_desc_5095">Músculo: pectoral \n\nPaso 1. Túmbate boca abajo con las manos en el suelo. Coloca las manos debajo de los hombros, la distancia entre las manos debe ser más estrecha que el ancho de los hombros y levántate usando los brazos de modo que solo tus manos y los dedos de tus pies toquen el suelo. Mantén la espalda recta, y las manos apuntando ligeramente hacia afuera. \n\nPaso 2. Baja hasta que tu pecho esté a unos pocos centímetros del suelo doblando los codos. Tus codos deben doblarse hacia tus pies.</string>
+
+    <string name="ex_name_5096">Extensión T</string>
+    <string name="ex_desc_5096">Músculo: pectoral \n\nPaso 1. Empieza en la posición clásica para hacer abdominales, pero a medida que te levantes, gira tu cuerpo levantando tu brazo derecho y extiéndelo como se muestra en la imagen. Tus brazos y tu torso deben formar una T. \n\nPaso 2. Vuelva a la posición inicial, baja, levántate de nuevo y repite el movimiento con la otra mano.</string>
+
+    <string name="ex_name_5115">Flexiones</string>
+    <string name="ex_desc_5115">Músculo: pectoral \n\nPaso 1. Con las piernas extendidas hacia atrás, apóyate en las manos, ligeramente más separadas que el ancho de los hombros. \n\nPaso 2. Dobla los codos y baja el pecho hasta que esté justo por encima del suelo. \n\nPaso 3. Sube de nuevo a la posición inicial. Lo ideal es empujar 1 segundo, hacer una pausa de 1 segundo, y bajar 2 segundos. \n\nPaso 4. Repite.</string>
+
+    <string name="ex_name_5116">Fondos Para Tríceps</string>
+    <string name="ex_desc_5116">Músculo: tríceps brachii \n\nPaso 1. Coloca las manos detrás de ti en una silla o banco, de modo que tus dedos apunten hacia adelante. \n\nPaso 2. Extiende las piernas y comienza a doblar los codos. \n\nPaso 3. Baja hasta que tus brazos formen un ángulo de 90 grados. \n\nPaso 4. Levántate de nuevo hasta que tus brazos estén rectos, y repite el ejercicio.</string>
+
+    <string name="ex_name_5117">El Gusanito</string>
+    <string name="ex_desc_5117">Grupo de músculos: cuádriceps \n\nPaso 1. Empieza de pie con los pies separados el ancho de tus hombros y agáchate hasta tocar el suelo con las manos. \n\nPaso 2. Camina con las manos hacia adelante, hasta donde puedas, manteniendo las piernas rectas y mantén esta posición un momento. Camina con las manos de nuevo hasta la posición inicial y repite hasta completar la serie.</string>
+
+    <string name="ex_name_5097">La Silla</string>
+    <string name="ex_desc_5097">Músculo: cuádriceps \n\nPaso 1. Empieza de pie y a medida que inspires, levanta tus brazos, con las palmas una frente a la otra. \n\nPaso 2. Al espirar, dobla las rodillas y baja como si fueras a sentarte en una silla. \n\nPaso 3. Mantén esta posición entre 30 segundos y 1 minuto.</string>
+
+    <string name="ex_name_5098">Sentadillas</string>
+    <string name="ex_desc_5098">Músculo: glúteos \n\nPaso 1. Empieza de pie con los pies separados el ancho de tus caderas. \n\nPaso 2. Baja las caderas hasta que tus muslos estén paralelos al suelo. Sube a la posición inicial, espera un momento, y después vuelve a bajar. \n\nPaso 3. Espera de nuevo y vuelve a la posición inicial.</string>
+
+    <string name="ex_name_5099">Sentadilla Con Salto 180</string>
+    <string name="ex_desc_5099">Grupo de músculos: cuádriceps \n\nPaso 1. Empieza de pie con los pies un poco más separados que el ancho de tus hombros y los dedos de los pies apuntando ligeramente hacia fuera y haz una sentadilla. \n\nPaso 2. Salta usando tus talones y girando a la izquierda 180 grados. \n\nPaso 3. Aterriza sobre los dedos de los pies con las rodillas ligeramente dobladas y en cuclillas. \n\nPaso 4. Salta rápidamente girando hacia la derecha, y vuelve a la posición de cuclillas. Repite hasta completar la serie.</string>
+
+    <string name="ex_name_5100">Sentadilla Sumo</string>
+    <string name="ex_desc_5100">Músculo: cuádriceps \n\nPaso 1. Empieza de pie con los pies separados y con los dedos de los pies apuntando hacia los lados. \n\nPaso 2. Baja doblando las rodillas y empujando las caderas hacia atrás. \n\nPaso 3. Una vez que tus muslos estén paralelos al suelo, sube de nuevo y repite.</string>
+
+    <string name="ex_name_5101">Zancada Con Salto</string>
+    <string name="ex_desc_5101">Grupo de músculos: glúteos \n\nPaso 1. Da un paso grande hacia atrás y baja las caderas, de modo que tu rodilla trasera es justo por encima del suelo, y tu muslo delantero esté paralelo al suelo. \n\nPaso 2. Salta y cambia la posición de las piernas. \n\nPaso 3. Salta de nuevo y vuelve a la posición inicial. \n\nPaso 4. Repite el ejercicio hasta completar la serie.</string>
+
+    <string name="ex_name_5102">Sentadillas Con Pesas</string>
+    <string name="ex_desc_5102">Grupo de músculos: deltoides \n\nPaso 1. Usando unas pesas a la altura de tus hombros, haz una sentadilla apoyándote en los talones. \n\nPaso 2. Presiona tus talones contra el suelo y empuja las caderas hacia adelante para ponerte de pie, levantando las pesas por encima de los hombros a medida que subes.</string>
+
+    <string name="ex_name_5103">Salto De Rana</string>
+    <string name="ex_desc_5103">Grupo de músculos: cuádriceps \n\nPaso 1. Empieza de pie con los pies separados el ancho de tus hombros. \n\nPaso 2. Haz una sentadilla y coloca tus manos delante de tus pies. \n\nPaso 3. Salta hacia arriba de nuevo hasta que tus piernas estén completamente extendidas y tu cuerpo esté en la posición de la plancha. \n\nPaso 4. Flexiona los brazos haciendo un ejercicio abdominal, salta hacia adelante y después vuelve a la posición inicial colocando tu peso en los talones. \n\nPaso 5. Repite hasta completar la serie.</string>
+
+    <string name="ex_name_5104">Sentadilla Sumo Con Pesa</string>
+    <string name="ex_desc_5104">Grupo de músculos: glúteos \n\nPaso 1. Empieza de pie con los pies separados aproximadamente dos veces el ancho de tus hombros, con los dedos de los pies apuntando hacia afuera y sujetando una pesa con ambas manos. \n\nPaso 2. Haz una sentadilla y lleva la pesa entre las piernas. \n\nPaso 3. Sube de nuevo manteniendo la pesa con las manos en la misma posición. \n\nPaso 4. Vuelve a la posición en cuclillas y repite la hasta completar la serie</string>
+
+    <string name="ex_name_5105">Plancha Lateral Con Pesa</string>
+    <string name="ex_desc_5105">Grupo de músculos: oblicuos \n\nPaso 1. Empieza en una posición de plancha lateral modificada, con la pierna de arriba extendida y la pierna inferior doblada hacia atrás con la rodilla en la esterilla. \n\nPaso 2. Levanta la pierna de arriba tan alto como puedas, y simultáneamente levanta también tu brazo y después bájalos. \n\nPaso 3. Repite y después repite con el otro lado.</string>
+
+    <string name="ex_name_5106">Saltos Cons Separación De Piernas</string>
+    <string name="ex_desc_5106">Grupo de músculos: cuádriceps \n\nPaso. 1 Empieza de pie con los pies juntos y las manos a los lados. \n\nPaso 2. Salta, abre las piernas y junta ambas manos por encima de tu cabeza. \n\nPaso 3. Salta de nuevo y vuelve a la posición inicial. \n\nPaso 4. Repite hasta completar la serie.</string>
+
+    <string name="ex_name_5107">Correr Con Elevación De Rodillas</string>
+    <string name="ex_desc_5107">Grupo de músculos: cuádriceps \n\nPaso 1. Empieza de pie con los pies separados el ancho de tus hombros. Mira hacia adelante y abre tu pecho. \n\nPaso 2. Levanta las rodillas hasta tu cintura y después baja lentamente. \n\nPaso 3. Repite hasta completar la serie.</string>
+
+    <string name="ex_name_5108">Correr Estacionario Con Los Brazos Levantados</string>
+    <string name="ex_desc_5108">Músculo: cuádriceps \n\nPaso 1. Empieza de pie con un pie extendido hacia atrás, el talón levantado, y los brazos extendidos hacia arriba. \n\nPaso 2. Salta alternando las piernas hacia adelante y hacia atrás, levantando al mismo tiempo las manos hacia arriba. \n\nPaso 3. Sigue repitiendo el movimiento.</string>
+
+    <string name="ex_name_5109">Correr Estacionario</string>
+    <string name="ex_desc_5109">Músculo: cuádriceps \n\nPaso 1. Empieza de pie con los pies separados el ancho de los hombros y mirando hacia adelante, abriendo tu pecho. \n\nPaso 2. Levanta las rodillas hacia arriba, y bájalas lentamente. \n\nPaso 3. Repite hasta completar la serie.</string>
+
+    <string name="ex_name_5110">Saltos A Los Lados</string>
+    <string name="ex_desc_5110">Músculo: pantorrillas \n\nPaso 1. Empieza de pie con las manos a los lados y los pies separados el ancho de las caderas. \n\nPaso 2. Salta con ambos pies a la derecha y después a la izquierda, con un movimiento rápido y repetitivo. \n\nPaso 3. Repite hasta completar la serie.</string>
+
+    <string name="ex_name_5111">Salto De Cuerda</string>
+    <string name="ex_desc_5111">Músculo: pantorrillas \n\nPaso 1. Coloca las manos como si tuvieras una cuerda para saltar, con los codos ligeramente doblados y manteniendo los brazos cerca de los lados de tu cuerpo. \n\nPaso 2. Gira tus muñecas para simular el movimiento de la cuerda y salta. \n\nPaso 3. Salta con ambos pies al mismo tiempo y aterriza sobre la parte delantera de tus pies.</string>
+
+    <string name="ex_name_5112">Salto Cruzado</string>
+    <string name="ex_desc_5112">Músculo: pantorrillas \n\nPaso 1. Empieza de pie con los pies separados el ancho de tus hombros y los brazos extendidos a los lados. \n\nPaso 2. Salta y cruza la pierna izquierda delante de la derecha, y tu brazo izquierdo por encima del derecho. \n\nPaso 3. Salta de nuevo y vuelve a la posición inicial. \n\nPaso 4. Repite y ve alternando la posición de tus brazos y piernas.</string>
+
+    <string name="ex_name_5113">Zancada Con Pesas</string>
+    <string name="ex_desc_5113">Músculo: cuádriceps \n\nPaso 1.Empieza de pie con los pies separados el ancho de tus caderas y con una pesa en cada mano. Coloca las pesas a la altura de los hombros. \n\nPaso 2. Da un paso hacia adelante con la pierna izquierda y flexiona las rodillas hasta que la rodilla trasera esté justo por encima del suelo, levanta las pesas hacia arriba. \n\nPaso 3. Repite este movimiento hasta completar la serie y después repite con la otra pierna.</string>
+
+    <string name="ex_name_5114">Arrancada Con Mancuerna Con Una Mano</string>
+    <string name="ex_desc_5114">Músculo: deltoides \n\nPaso 1. Coge una pesa con la mano derecha, dobla las rodillas, empuja las caderas hacia atrás y lleva la pesa entre tus piernas. \n\nPaso 2. Levanta la pesa, extendiendo las caderas y las rodillas y, cuando la pesa esté a la altura de tu hombro, gira la mano hacia delante y levanta la pesa hacia arriba. \n\nPaso 3. Baja la pesa y vuelve a la posición inicial. \n\nPaso 4. Repite y después repite con el otro lado.</string>
+
+    <string name="ex_name_5077">Remo Con Mancuerna Hacia Atrás</string>
+    <string name="ex_desc_5077">Músculo: tríceps brachii \n\nPaso 1. Coge un par de pesas, agacha tu torso y dobla ligeramente las rodillas. \n\nPaso 2. Levanta los codos hacia arriba, de modo que tus brazos estén paralelos al suelo, y extiéndelos completamente hacia atrás. \n\nPaso 3. Baja lentamente las pesas a la posición inicial. \n\nPaso 4. Repite.</string>
+
+    <string name="ex_name_5078">Buenos Días</string>
+    <string name="ex_desc_5078">Músculo: zona lumbar \n\nPaso 1. Empieza de pie con los pies separados el ancho de tus hombros. Sujeta una mancuerna en la parte posterior de tus hombros con las manos. La distancia entre las manos debe ser más ancha que el ancho de los hombros. Coloca tus pies para que apunten ligeramente hacia fuera. \n\nPaso 2. Mantén la espalda recta y dobla la parte superior de tu cuerpo hasta que esté paralela al suelo. Espera un segundo y vuelve a la posición inicial.</string>
+
+    <string name="ex_name_5079">Remo A Una Mano Con Mancuerna 2</string>
+    <string name="ex_desc_5079">Músculo: tríceps brachii \n\nPaso 1. Coge una pesa con tu mano no dominante, mientras colocas tu mano dominante y tu rodilla en un banco, como se muestra en la imagen. \n\nPaso 2. Mantén la espalda recta mientras dejas que la pesa cuelgue para que tu brazo se alinee justo delante de tu hombro. \n\nPaso 3. Levanta la pesa hacia atrás y hacia la cadera mientras mantienes el codo cerca de tu cuerpo. Concéntrate en usar los músculos de la parte superior de tu espalda al hacer este movimiento. Espera un momento y después vuelve lentamente a la posición inicial.</string>
+
+    <string name="ex_name_5080">Peso Muerto</string>
+    <string name="ex_desc_5080">Músculo: glúteos \n\nPaso 1. Empieza de pie con los pies separados el ancho de tus hombros y coge una pesa en cada mano. \n\nPaso 2. Empuje tus caderas hacia atrás y baja las pesas, manteniendo las piernas rectas o ligeramente dobladas. \n\nPaso 3. Vuelve a la posición inicial y repite.</string>
+
+    <string name="ex_name_5094">SALTOS ESTRELLA</string>
+    <string name="ex_desc_5094">`Grupo de músculos. Cuadríceps \n\nPaso 1. Comienza en una postura relajada con los pies separados al ancho de los hombros y mantén los brazos cerca del cuerpo. \n\nPaso 2. Para iniciar el movimiento, ponte casi de cuclillas y salta de nuevo hacia arriba lo más alto posible. Extiende completamente tu cuerpo, separando las piernas y los brazos del cuerpo.</string>
+
+    <string name="extra_main_name">Planes de entrenamiento</string>
+
+    <string name="day">Día</string>
+    <string name="round">Tanda</string>
+    <string name="day1">2 días por semana</string>
+    <string name="day2">3 días por semana</string>
+    <string name="day3">4 días por semana</string>
+    <string name="restorePurchases">Restaurar compras</string>
+    <string name="textUpgrade">Actualiza a la versión Premium para desbloquear 50 ejercicios nuevos y eliminar los anuncios.</string>
+    <string name="one_day_ADS1">1 Día SIN ANUNCIOS</string>
+    <string name="one_day_ADS2">VER VÍDEO PATROCINADO</string>
+    <string name="upgrade">ACTUALIZAR AHORA</string>
+    <string name="free">Gratis</string>
+    <string name="tell_friend">Decírselo a un amigo</string>
+    <string name="rate_app">Valóranos</string>
+    <string name="send_feedback">Enviar comentarios</string>
+    <string name="facebook">Compartir aplicación en Facebook </string>
+    <string name="twitter">Comparte la app en Twitter</string>
+    <string name="ic_googleplay">Nuestras otras apps</string>
+    <string name="ic_settings_">Configuración</string>
+    <string name="social_follow">Mantente conectado con VGFIT</string>
+    <string name="reminder">Recordatorio</string>
+    <string name="daily_reminder">Recordatorio diario</string>
+    <string name="frequency">Frecuencia</string>
+    <string name="after_days">Después de %1$s días de inactividad</string>
+    <string name="menu_bt">Botón de menú</string>
+    <string name="units">Unidades</string>
+    <string name="purch_restored">Las compras In-app han sido restauradas</string>
+    <string name="success">¡Éxito!</string>
+
+    <string name="ex_cat_1">Abdomen</string>
+    <string name="ex_cat_2">Volver</string>
+    <string name="ex_cat_3">Bíceps</string>
+    <string name="ex_cat_4">Gluteos</string>
+    <string name="ex_cat_5">Pecho</string>
+    <string name="ex_cat_6">Piernas</string>
+    <string name="ex_cat_7">Hombros</string>
+    <string name="ex_cat_8">Tríceps</string>
+    <string name="time_worout">¡Es hora de entrenar!</string>
+
+
+    <string name="cat_name6">Abdominales</string>
+    <string name="cat_name7">Ejercicios para glúteos</string>
+    <string name="cat_name8">Cuerpo listo para el bikini</string>
+    <string name="cat_name9">Quemar grasa</string>
+    <string name="cat_name10">Brazos, pecho y espalda</string>
+    <string name="cat_name11">Piernas esbeltas</string>
+    <string name="cat_name12">Cardio y todo el cuerpo</string>
+
+    <string name="extraDescription6">Pierde peso y trabaja tu tableta con este cricuito quema-grasas abdominal</string>
+
+    <string name="extraDescription7">Ejercicios para glúteos y definición.</string>
+    <string name="extraDescription8">La combinación perfecta de ejercicios para obtener un cuerpo más definido y fuerte.</string>
+    <string name="extraDescription9">Adelgaza con este circuito quema grasa.</string>
+    <string name="extraDescription10">Ejercicios para los brazos, el pecho y los músculos de la espalda.</string>
+    <string name="extraDescription11">Ejercicios muy buenos para definir las piernas.</string>
+    <string name="extraDescription12">Entrenamiento diseñado para quemar grasa y definir todo el cuerpo.</string>
+
+
+    <string name="Focus">Concentración</string>
+    <string name="Goal">Objetivo</string>
+    <string name="Skill_level">Nivel de habilidad</string>
+    <string name="Target_Group">Grupo objetivo</string>
+    <string name="Place">Lugar</string>
+    <string name="Equipment">Equipamiento</string>
+
+    <string name="focus_1">Zona central</string>
+    <string name="focus_2">Músculos Glúteos.</string>
+    <string name="focus_3">Músculos totales del cuerpo.</string>
+    <string name="focus_4">Definición muscular y quemadura de grasa.</string>
+    <string name="focus_5">Bíceps, Tríceps, Pectorales, Lumbares.</string>
+    <string name="focus_6">Glúteos, Tendones Isquiotibiales, Músculos Cuádriceps.</string>
+
+    <string name="goal_1">Définition des abdos et combustion des graisses.</string>
+    <string name="goal_2">Obtener definición y volumen.</string>
+    <string name="goal_3">Condicionamiento corporal.</string>
+    <string name="goal_4">Routine de cardio pour tout le corps.</string>
+    <string name="goal_5">Consigue fuerza y definición </string>
+
+    <string name="skill_level">Desde el nivel intermedio al avanzado</string>
+
+    <string name="target_group">Hombres y Mujeres</string>
+
+    <string name="equipment_1">Esterilla.</string>
+    <string name="equipment_2">Banco, esterilla.</string>
+    <string name="equipment_3">Mancuerna, pesa.</string>
+    <string name="equipment_4">Banco, mancuerna, esterilla.</string>
+    <string name="place">Gimnasio, Casa, Oficina</string>
+
+
+
+
+    <string name="doneKey">Hecho</string>
+    <string name="editKey">Editar</string>
+    <string name="intervalsKey">Intervalos</string>
+    <string name="myWorkoutsKey">Mis ejercicios</string>
+    <string name="pauseKey">Pausa</string>
+    <string name="resetKey">Reiniciar</string>
+    <string name="resumeKey">Reanudar</string>
+    <string name="startKey">Empezar</string>
+    <string name="roundsKey">Rondas</string>
+    <string name="currentsetkey">Ajustes Actuales</string>
+    <string name="resttimekey">Tiempo de Descanso</string>
+    <string name="worktimekey">Tiempo de Ejercicio</string>
+    <string name="minkey">Mín</string>
+    <string name="seckey">Seg</string>
+    <string name="sets_extra1">30 seg. con tiempo de descanso</string>
+    <string name="sets_extra2">3 sets y 12/11/10 repeticiones</string>
+    <string name="sets_extra3">35 seg. de trabajo 15 seg. de descanso</string>
+    <string name="sets_extra4">30 seg. de trabajo 15 seg. de descando</string>
+    <string name="sets_extra5">2 tantas 15 repeticiones</string>
+
+
+    <string name="rep_extra1">30 seg. de trabajo 15 seg. de descando</string>
+    <string name="rep_extra2">30 s de entrenamiento, 15 s de descanso, 30 s de descanso entre ciclos</string>
+    <string name="rep_extra3">3 sets y 12/11/10 repeticiones</string>
+
+    <string name="rep_extra1_how">Tiempo de entrenamiento 30 s. Tiempo de descanso entre ejercicios 15 s.</string>
+    <string name="rep_extra2_how">Tiempo de entrenamiento 30 s. Tiempo de descanso entre ejercicios 15 s. Tiempo de descanso entre rondas 30 s.</string>
+    <string name="rep_extra3_how">Tiempo de descanso entre ejercicios 30 s. Tiempo de descanso entre series 30 s.</string>
+    <string name="enter_text">Introducir mensaje de texto</string>
+    <string name="main_work">Ejercicios diseñados para elevar pesos y aumentar la masa muscular y la fuerza</string>
+
+    <string name="namemeal1_1">Avena con fresas y nata</string>
+    <string name="ingredientMeal1_1">&#189; taza de copos avena \n\n&#8531; taza de leche desnatada \n\n&#8531; taza de yogurt griego sabor vainilla \n\n&#189; taza de fresas en rodajas \n\n2 cucharadas de yogur griego desnatado sabor vainilla \n\n1 cucharada de almendras tostadas</string>
+    <string name="stepsMakeMeal1_1">Mezclar bien la avena, la leche y &#8531; de taza de yogur en un tarro o tazón. Cubrir y dejar en la nevera toda la noche. ¡Buen provecho!</string>
+
+
+    <string name="namemeal1_2">Elixir dorado</string>
+    <string name="ingredientMeal1_2">2 manzanas \n\n4 naranjas medianas, peladas \n\n1 limón, pelado \n\nun trozo de jengibre fresco de 5 cm, pelado \n\nun trozo de cúrcuma fresca de 5 cm, pelado \n\n2 tazas de agua fría \n\n1 puñado de hielo</string>
+    <string name="stepsMakeMeal1_2">En una licuadora de alta velocidad, mezclar todos los ingredientes hasta que queden homogéneos, añadiendo más agua si es necesario. Una licuadora de alta potencia hará que el batido quede muy líquido. Si lo prefiere también puede exprimir los ingredientes, pero al licuarlos no eliminará la fibra y los nutrientes. ¡Buen provecho!</string>
+
+
+    <string name="namemeal1_3">Stir&#8211;fry de pollo</string>
+    <string name="ingredientMeal1_3">e   4 pechugas de pollo, cortadas en dados \n\n1 taza de harina \n\naceite vegetal \n\nsal \n\npimienta negra recién molida  \n\n2 dientes de ajo picados \n\n&#189; lata de caldo de pollo \n\n3 cucharadas de miel \n\n4 cucharadas de salsa de soja \n\n2 cucharadas de zumo de lima \n\n2 latas de brócoli, solo floretes \n\n2 latas de arroz blanco cocinado, para servir</string>
+    <string name="stepsMakeMeal1_3">En un bol grande, recubrir el pollo con un poco de maicena. Transferir el pollo a otro bol grande lleno de harina y cubrir de nuevo y luego dejar a un lado. Llenar una sartén grande y honda con &#189; aceite vegetal sobre fuego medio&#8211;alto. Sazonar el pollo, cocinar, escurrir y reservar. Añadir 2 cucharadas de maicena y remover para incorporar a la salsa, añadir el brócoli y la zanahoria picada y cocinar hasta que estén tiernos, durante 5 minutos. ¡Buen provecho!</string>
+
+
+    <string name="namemeal1_4">Té de hierbas</string>
+    <string name="ingredientMeal1_4">1 taza de agua \n\n1 cucharadita de jengibre fresco rallado \n\n1 cucharadita de ralladura de limón \n\n1 cucharadita de zumo de lima \n\n3 hojas de menta fresca</string>
+    <string name="stepsMakeMeal1_4">Llevar el agua a ebullición en una olla y añadir los ingredientes. Remover hasta que el té esté listo. ¡Buen provecho!</string>
+
+
+    <string name="namemeal1_5">Muslos de pollo asados con limón y mostaza Dijon y ensalada de rúcula</string>
+    <string name="ingredientMeal1_5">4 muslos de pollo deshuesados sin piel \n\n&#189; cucharadita de sal \n\n&#188; cucharadita de pimienta negra molida \n\n2 cucharadas y media de aceite de oliva \n\n2 cucharaditas de zumo de limón \n\n1 cucharadita de ajo picado \n\nspray para cocinar \n\n1 cucharada de vinagre balsámico \n\n1 cucharadita de miel \n\n1 taza de tomates uva cortados por la mitad \n\n1 paquete de rúcula bebé</string>
+    <string name="stepsMakeMeal1_5">Sazonar el pollo con una pizca de sal y una pizca de pimienta. Añadir una cucharadita de aceite, el zumo de limón, la mostaza y el ajo sobre el pollo en un bol, y mezclar para recubrirlo. Dejar reposar 4 minutos. Calentar una sartén a fuego medio. Recubrir la sartén con el spray para cocinar. Añadir el pollo a la sartén, freír durante 5 minutos por cada lado o hasta que esté hecho. Cortar el pollo en tiras. ¡Buen provecho!</string>
+
+
+    <string name="namemeal2_1">Requesón con frutas rojas</string>
+    <string name="ingredientMeal2_1">&#189; taza de requesón bajo en grasa 2% \n\n2 cucharadas de granola \n\n&#189; taza de plátanos en rodajas \n\n&#189; taza de frutas rojas</string>
+    <string name="stepsMakeMeal2_1">Colocar el requesón en un tazón pequeño. Cubrir con los demás ingredientes. ¡Buen provecho!</string>
+
+
+    <string name="namemeal2_2">Piña y kiwi</string>
+    <string name="ingredientMeal2_2">4 cucharadas de agua \n\n&#189; taza de leche \n\n&#189; taza de yogurt \n\n1 cucharada y media de miel \n\n1 kiwi, pelado \n\n1 taza de trozos de piña \n\n&#189; mango \n\n2 cubitos de hielo</string>
+    <string name="stepsMakeMeal2_2">Licuar todos los ingredientes a baja velocidad hasta que la mezcla quede homogénea. ¡Buen provecho!</string>
+
+
+    <string name="namemeal2_3">Pollo al limón en la sartén</string>
+    <string name="ingredientMeal2_3">4 pechugas de pollo \n\n&#188; taza de mantequilla \n\n2 cucharadas de aceite de oliva \n\n1 limón \n\n1 limón cortado en rodajas \n\n&#188; taza de vino blanco \n\n1 cucharadita de sal \n\n1 cucharadita de pimienta negra molida \n\n&#189; cucharadita pimentón \n\n&#189; cucharadita de perejil seco</string>
+    <string name="stepsMakeMeal2_3">Mezclar la harina, la sal, la pimienta, el pimentón y el perejil en un recipiente poco profundo. Calentar el aceite y la mantequilla a fuego medio&#8211;alto. Cubrir cada pechuga de pollo con la mezcla de harina y añadir a la sartén caliente. Añadir el zumo de limón, el vino blanco, limón rallado y romero. Cocinar el pollo por cada lado hasta que esté hecho. ¡Buen provecho!</string>
+
+
+    <string name="namemeal2_4">Galletas de quínoa y calabacín</string>
+    <string name="ingredientMeal2_4">&#189; taza de mantequilla de cacahuete cremosa \n\n&#188; de taza de miel \n\n1 plátano \n\n1 huevo \n\n1 cucharadita de extracto de vainilla \n\n&#189; taza de copos de avena  \n\n&#189; taza de copos de quínoa \n\n1 cucharadita de canela \n\n&#188; cucharadita de sal \n\n1 taza de calabacín rallado, escurrido</string>
+    <string name="stepsMakeMeal2_4">Precalentar el horno a 175 ° C. Añadir la mantequilla de cacahuete, la miel, el plátano, el huevo, y la vainilla en un bol grande, y mezclar. Incorporar la avena, los copos de quínoa, el polvo para hornear, las especias y la sal al bol y mezclar. Añadir el calabacín y las semillas de chía. Usando una cuchara, colocar bolitas de masa en una bandeja. Hornear las galletas en la rejilla del centro durante 15 &#8211; 18 minutos hasta que los bordes estén dorados. ¡Buen provecho!</string>
+
+
+    <string name="namemeal2_5">Gambas con hierbas frescas</string>
+    <string name="ingredientMeal2_5">0,5 kg de gambas grandes \n\n2 pimientos rojos picantes \n\n1 puerro, cortado en rodajas finas \n\n0,5&#8211;1 cucharada de alcaparras, enjuagadas y escurridas \n\n2 dientes de ajo, picados \n\n&#189; taza de perejil picado \n\n3 cucharadas de zumo de limón \n\n2 cucharadas de aceite de oliva</string>
+    <string name="stepsMakeMeal2_5">Calentar una sartén a fuego medio y añadir aceite. Añadir las gambas, los pimientos, el puerro, las alcaparras, el ajo, la sal y la pimienta y cocinar durante 4 minutos hasta que la gamba quede rosada. Retirar del fuego. Añadir el zumo de limón, y raspar el fondo de la sartén con una cuchara. Servir las gambas con perejil fresco y albahaca. ¡Buen provecho!</string>
+
+
+    <string name="namemeal3_1">Avena con linaza y arándanos</string>
+    <string name="ingredientMeal3_1">3 tazas de agua \n\n2 tazas de copos de avena \n\n3 cucharadas de semillas de linaza molidas \n\n1/8 cucharadita de sal \n\n&#188; taza de leche entera \n\n1 taza de arándanos \n\n1 cucharada de arándanos enlatados \n\n&#189; cucharadita de limón rallado \n\n1 cucharada de zumo de limón</string>
+    <string name="stepsMakeMeal3_1">Llevar 3 tazas de agua a ebullición. Añadir la avena, la linaza y la sal. Cocinar a fuego medio hasta que esté listo, removiendo con frecuencia. Añadir la leche y la mantequilla. Mezclar los arándanos y los 4 ingredientes siguientes en un recipiente para microondas, cocine a fuego alto durante 1 minuto y medio, removiendo cada 30 segundos. Dividir la avena entre 4 cuencos y colocar los arándanos y pacanas encima. ¡Buen provecho!</string>
+
+
+    <string name="namemeal3_2">Batido de leche de coco con arándanos</string>
+    <string name="ingredientMeal3_2">1 bolsa de arándanos congelados \n\n3 plátanos maduros \n\n1 taza de yogur natural \n\n1 taza de leche de coco sin azúcar \n\n2 cucharadas de miel</string>
+    <string name="stepsMakeMeal3_2">En una licuadora, licuar los arándanos, los plátanos, el yogur, la leche de coco y la miel. ¡Buen provecho!</string>
+
+
+    <string name="namemeal3_3">Stir&#8211;fry de pollo y espárragos</string>
+    <string name="ingredientMeal3_3">1 cucharada de salsa de soja \n\n1 cucharada de miel \n\n2 pechugas de pollo, cortadas en trozos \n\n1 cucharada de aceite de oliva \n\n1 manojo de espárragos cortados en trozos \n\n4 dientes de ajo, cortados en rodajas finas \n\n2 cucharaditas de aceite de sésamo tostado</string>
+    <string name="stepsMakeMeal3_3">En una bolsa con cierre hermético, mezclar la salsa de soja y la miel. Añadir el pollo y removerlo para cubrir. Guardar en la nevera. Mientras tanto, calentar el aceite en una sartén grande a fuego medio. Cocinar los espárragos, retirar y reservar. Retirar el pollo de la bolsa y añadir a la sartén. A continuación, añadir el ajo, las cebolletas y la marinada a la sartén. Retirar del fuego y añadir el aceite de sésamo. ¡Buen provecho!</string>
+
+
+    <string name="namemeal3_4">Té de menta y lavanda</string>
+    <string name="ingredientMeal3_4">&#188; taza de pétalos de lavanda frescos \n\n1 taza de hojas de menta fresca \n\n4 tazas de agua</string>
+    <string name="stepsMakeMeal3_4">Colocar los pétalos de lavanda y las hojas de menta en una cacerola, añadir el agua y llevar a ebullición. Dejar hervir a fuego lento hasta conseguir la concentración deseada, entre 15 y 20 minutos. ¡Buen provecho!</string>
+
+
+    <string name="namemeal3_5">Fajitas con chili</string>
+    <string name="ingredientMeal3_5">0,5 kg de pechuga de pollo sin piel \n\n&#189; pimiento verde, rojo y amarillo, cortado en tiras finas \n\n&#8531; taza de agua \n\n2 cucharaditas de salsa de soja \n\n1 pizca de sal \n\n1 pizca de pimienta negra \n\n2 cucharadas de aceite de oliva \n\n1 cebolla grande, cortada en rodajas finas</string>
+    <string name="stepsMakeMeal3_5">Combinar todos los ingredientes de la marinada con el pollo en un recipiente y dejar reposar en la nevera durante al menos 2 horas. Retirar la carne de la marinada y asar a fuego medio durante 4&#8211;5 minutos por cada lado. Cortar la carne en tiras finas. Para la salsa, combinar 2 cucharadas de agua, 1 cucharadita de salsa de soja, &#188; cucharadita de zumo de lima, una pizca de sal, una pizca de pimienta negra y 1 cucharada de aceite de oliva.  ¡Buen provecho!</string>
+
+
+    <string name="namemeal4_1">Avena saludable con fruta</string>
+    <string name="ingredientMeal4_1">&#189; taza de avena \n\n1 taza de agua \n\n1 cucharada de miel \n\n1 cucharada de extracto de vainilla \n\n&#189; cucharadita de canela molida \n\n&#188; taza de arándanos \n\n4 fresas cortadas \n\n&#189; plátano, cortado en rodajas</string>
+    <string name="stepsMakeMeal4_1">Mezclar el agua y la avena en un recipiente para microondas. Cocinar en el microondas hasta que la avena haya absorbido el agua. Añadir la miel, el extracto de vainilla y la canela molida. Colocar los arándanos y las rodajas de plátano y fresas encima. ¡Buen provecho!</string>
+
+
+    <string name="namemeal4_2">Batido de café</string>
+    <string name="ingredientMeal4_2">1 cucharadita de café espresso instantáneo en polvo \n\n1 cucharada de agua caliente \n\n1 plátano pequeño, pelado, cortado y congelado \n\n&#188; taza de leche desnatada \n\n1 cucharada de miel \n\n&#189; taza de cubos de hielo \n\ncanela molida</string>
+    <string name="stepsMakeMeal4_2">En una licuadora mezclar el polvo de espresso y el agua caliente y dejar reposar durante un minuto. Añadir el plátano, la leche y la miel. Cubrir y licuar hasta que quede la mezcla quede homogénea. Añadir hielo gradualmente hasta obtener la consistencia deseada. Espolvorear con canela. ¡Buen provecho!</string>
+
+
+    <string name="namemeal4_3">Stir&#8211;fry de pollo y piña</string>
+    <string name="ingredientMeal4_3">110 g de pechuga de pollo, 4 oz \n\n40 g de piña, 1,4 oz \n\n120 g de arroz integral, 4,4 oz \n\n&#8531; cucharada de aceite de oliva \n\n&#189; cucharadita de mostaza  \n\n1/6 cucharada de pimentón ahumado \n\nsal marina \n\npimienta</string>
+    <string name="stepsMakeMeal4_3">Cortar las pechugas de pollo crudas en trozos pequeños. Sazonar el pollo con el pimentón ahumado y la mostaza. Calentar el aceite de oliva en una sartén y luego añadir los trozos de pechuga de pollo. Cocinar durante unos 4 minutos hasta que el pollo esté casi listo, y añadir el pimiento picado. Cocinar otros 2 o 3 minutos antes de agregar la piña cortada en dados. ¡Buen provecho!</string>
+
+
+    <string name="namemeal4_4">Trufas de chocolate raw</string>
+    <string name="ingredientMeal4_4">&#189; taza de nueces, anacardos y almendras dejadas en agua durante la noche \n\n3&#8211;4 cucharadas de leche de almendras \n\n&#188; taza de semillas de girasol \n\n&#188; taza de semillas de calabaza \n\n2 cucharadas de algarrobo en polvo \n\n3 cucharadas de copos de coco</string>
+    <string name="stepsMakeMeal4_4">Colocar todos los ingredientes en la licuadora, excepto los copos de coco, y mezclar. Hacer pequeñas bolitas con la mezcla usando un sacabolas de helado. Rodar cada bolita por los copos de coco. Servir frías. ¡Buen provecho!</string>
+
+
+    <string name="namemeal4_5">Salmón al horno con verduras</string>
+    <string name="ingredientMeal4_5">2 filetes de salmón \n\n1 taza de calabacín cortado \n\n1 taza de brócoli \n\n&#189; taza de tomates cherry \n\nsal \n\npimienta \n\naceite de oliva</string>
+    <string name="stepsMakeMeal4_5">Precalentar el horno a 190 ° C. Combinar las verduras en una bandeja grande y sazonarlas con sal, pimienta y aceite de oliva. Colocar los filetes al lado de las verduras y hornear 18&#8211;20 minutos o hasta que el salmón esté hecho y las verduras estén tiernas. ¡Buen provecho!</string>
+
+
+    <string name="namemeal5_1">Avena con nueces y plátano</string>
+    <string name="ingredientMeal5_1">&#189; tazas de copos de avena  \n\n1 taza de agua \n\n1 plátano en rodajas \n\n1 cucharada de nueces picadas \n\n1 cucharadita de canela molida</string>
+    <string name="stepsMakeMeal5_1">Mezclar la avena y 1 taza de agua en un bol pequeño para microondas. Cocinar en el microondas a una temperatura alta durante 3 minutos. Colocar las rodajas de plátano, nueces y canela encima. ¡Buen provecho!</string>
+
+
+    <string name="namemeal5_2">Batido rosa</string>
+    <string name="ingredientMeal5_2">1 taza y media de floretes frescos de coliflor \n\n2 tazas de cubitos de sandía (sin semillas ni corteza) \n\n1 taza y media de fresas enteras \n\n1 yogur griego de fresa \n\n2 cucharadas de mermelada de fresa (opcional)</string>
+    <string name="stepsMakeMeal5_2">En una cacerola pequeña hervir la coliflor hasta que esté muy tierna. En una licuadora combinar la coliflor cocida, la sandía, las fresas, el yogur y, si se desea, la mermelada de fresa. ¡Buen provecho!</string>
+
+
+    <string name="namemeal5_3">Espárragos envueltos en pollo con salsa barbacoa</string>
+    <string name="ingredientMeal5_3">2 pechugas de pollo finamente cortadas, 85g cada una \n\n12 espárragos \n\n2 cucharadas de salsa barbacoa \n\n1 pizca de pimentón ahumado \n\n1 pizca de ajo en polvo \n\n1 pizca de pimienta</string>
+    <string name="stepsMakeMeal5_3">Calentar el horno a 400°F/ 200°C. Aplanar el pollo para hacer un filete. Sazonar los filetes de pollo con 1 cucharada de salsa barbacoa (para cada pieza) y especias. Envolver 6 espárragos con un filete de pollo. Colocar sobre la parrilla en el horno con la parte cerrada hacia abajo. Hornear durante unos 8 a 10 minutos. ¡Buen provecho!</string>
+
+
+    <string name="namemeal5_4">Té de hierbas con cúrcuma y jengibre</string>
+    <string name="ingredientMeal5_4">2 tazas de agua \n\n&#189; cucharadita de jengibre fresco picado \n\n&#189; cucharadita de canela molida \n\n1 cucharada de miel \n\n1 rodaja de limón</string>
+    <string name="stepsMakeMeal5_4">Lleve el agua a ebullición en una cacerola pequeña y añadir la cúrcuma, el jengibre, y la canela. Dejar hervir a fuego lento durante 10 minutos. Verter el té en un vaso grande, añadir miel y limón. ¡Buen provecho!</string>
+
+
+    <string name="namemeal5_5">Brochetas con gambas y aguacate</string>
+    <string name="ingredientMeal5_5">450 g de gambas jumbo \n\n1 aguacate y medio \n\n1 pimiento rojo \n\n1 pimiento naranja \n\n1 pimiento amarillo \n\n1 cebolla roja \n\n1 cucharadita de pasta de ajo \n\n&#189; cucharada de aceite de oliva virgen extra \n\n1 lima \n\nsal, pimienta</string>
+    <string name="stepsMakeMeal5_5">Calentar la parrilla a unos 400° F/200° C. Cortar las verduras y el aguacate en trozos grandes piezas para las brochetas. Pelar las gambas y salpimentar. Elegir verduras fibrosas, que sacian y se mantienen mejor en la brocheta. Colocar las brochetas en la parrilla y dejar unos 8&#8211;10 minutos. Después, dar la vuelta y dejar otros 8&#8211;10 minutos. ¡Buen provecho!</string>
+
+
+    <string name="namemeal6_1">Parfait para el desayuno</string>
+    <string name="ingredientMeal6_1">&#188; taza de pasas y 1 cucharadita de piel de naranja picada \n\n1 cucharadita de vainilla \n\nmedio paquete de queso crema  \n\nmigas de pan \n\n2 tazas de frambuesas, arándanos, fresas en rodajas y/o melocotones cortados \n\n&#189; taza de granola baja en grasa \n\nmiel \n\nnaranja rallada</string>
+    <string name="stepsMakeMeal6_1">Mezclar las migas de pan y el queso, y espolvorear sobre una bandeja para hornear. Rociar con aceite. Hornear durante 20&#8211;25 minutos. En cuatro vasos colocar una capa de mezcla de queso crema, una capa de fruta y una capa de granola. Repetir hasta llenar los vasos. Cubrir con miel y ralladura de naranja. ¡Buen provecho!</string>
+
+
+    <string name="namemeal6_2">Té verde, kiwi y mango</string>
+    <string name="ingredientMeal6_2">2 tazas y media de mango en dados congelado \n\n3/4 taza de yogur de vainilla \n\n2 cucharadas de miel \n\n2 cucharadas de agua \n\n3 kiwis maduros \n\n2 tazas de cubitos de hielo \n\n&#189; taza de espinacas baby \n\n2 cucharadas de té verde embotellado</string>
+    <string name="stepsMakeMeal6_2">Añadir el mango, &#189; taza de yogur, 2 cucharadas de miel, 2 cucharadas de agua y la ralladura de una lima en una licuadora, y batir hasta que la mezcla quede homogénea. Añadir &#188; taza de yogur, 2 cucharadas de miel, los kiwis, y los 3 ingredientes siguientes en una licuadora y licuar hasta que la mezcla quede homogénea. ¡Buen provecho!</string>
+
+
+    <string name="namemeal6_3">Stir&#8211;fry de pollo con cítricos</string>
+    <string name="ingredientMeal6_3">140 g / 5 oz de pechuga de pollo, en trozos pequeños \n\n34 g / 0,25 oz de broccolini \n\n25 g / 0,875 oz de champiñones portobello baby \n\n&#188; pimiento rojo \n\n20 g / 0,7 onzas de cebolla roja \n\nspray de aceite de coco \n\nsemillas de sésamo \n\n&#188; cucharadita de almidón de arrurruz \n\n1/8 cucharada de pasta de ajo \n\n&#188; cucharadita de pasta de jengibre</string>
+    <string name="stepsMakeMeal6_3">En un bol, mezclar todos los ingredientes para la salsa stir&#8211;fry. Recubrir una sartén con aceite de coco y calentar a fuego medio. Añadir los trozos de pollo y cocinar hasta que estén casi hechos. Añadir las verduras y remover utilizando una espátula. ¡Buen provecho!</string>
+
+
+    <string name="namemeal6_4">Maíz mexicano a la parrilla</string>
+    <string name="ingredientMeal6_4">4 mazorcas de maíz \n\n1 taza y media de crema agria \n\n1 taza de parmesano rallado \n\nel zumo de un limón \n\nchile rojo en polvo \n\n2 limas cortadas en cuñas, para decorar</string>
+    <string name="stepsMakeMeal6_4">Colocar las mazorcas de maíz en la parrilla y darles la vuelta hasta que estén un poco carbonizadas. En un bol pequeño mezclar la mayonesa, la crema agria y el cilantro. Exprimir el zumo de limón sobre las mazorcas y espolvorear con parmesano y chile en polvo. ¡Buen provecho!</string>
+
+
+    <string name="namemeal6_5">Hamburguesa de salmón con aguacate</string>
+    <string name="ingredientMeal6_5">1 filete de salmón \n\n1 taza de pan rallado \n\n1 huevo \n\n1 cucharada de zumo de limón \n\nsal y pimienta \n\naceite de oliva \n\n1 aguacate grande, picado \n\n&#8531; taza de cebolla roja picada \n\nzumo de 1 limón</string>
+    <string name="stepsMakeMeal6_5">Picar el filete de salmón en trozos pequeños y transferirlo en un bol. Incorporar el resto de los ingredientes. Dejar reposar la mezcla durante 5&#8211;10 minutos. Calentar un poco de aceite en una sartén grande a fuego medio. Formar hamburguesas con la mezcla de salmón. Freír las hamburguesas hasta dorar por ambos lados alrededor de 4 minutos. ¡Buen provecho!</string>
+
+
+    <string name="namemeal7_1">Avena con fresas, plátano y nueces</string>
+    <string name="ingredientMeal7_1">150 g de copos de avena cocinados \n\n&#189; plátano machacado \n\n50 g de fresas \n\n2 cucharadas de leche de almendras \n\n1 cucharada de extracto de vainilla \n\n2 cucharadas de nueces picadas \n\nstevia de la marca \"In The Raw\" \n\nralladura de limón \n\n1 cucharada de yogur griego (2% de grasa) \n\n&#189; cucharada de nueces picadas \n\nsemillas de amapola</string>
+    <string name="stepsMakeMeal7_1">Cocinar la avena siguiendo las instrucciones del paquete y reservar. Añadir todos los ingredientes en un bol excepto las fresas, y mezclar bien. Colocar las fresas recién cortadas encima de la avena. Adornar con yogur griego, nueces picadas y semillas de amapola. ¡Buen provecho!</string>
+
+
+    <string name="namemeal7_2">Batido de fresa y plátano</string>
+    <string name="ingredientMeal7_2">2 tazas de fresas \n\n1 plátano pelado  \n\n1 taza de leche \n\n1 cubo de hielo \n\n1 cucharada de miel</string>
+    <string name="stepsMakeMeal7_2">Añadir todos los ingredientes en una batidora y licuar hasta que la mezcla quede homogénea. Si el batido es demasiado espeso, añadir más leche. Si es demasiado líquido, añadir más fruta y/o hielo. ¡Buen provecho!</string>
+
+
+    <string name="namemeal7_3">Pechuga de pollo picante y ligera Kung Pao</string>
+    <string name="ingredientMeal7_3">150 g / 0,3 lb de pechuga de pollo \n\n1/6 diente de ajo \n\n33 g / 1,17 oz de guisantes  \n\n150 g / 5,17 oz de pimiento \n\n2/3 cucharadas de agua \n\n&#8531; cucharada de salsa de tomate \n\n1/6 cucharada de jengibre fresco \n\n1/6 cucharada de salsa de chile rojo \n\n1/6 cucharada de vinagre de arroz \n\ncebolla verde picada</string>
+    <string name="stepsMakeMeal7_3">En un bol, añadir los ingredientes para la salsa y mezclar. Calentar una sartén a fuego medio y recubrir con spray de aceite de oliva. Cuando la sartén esté caliente, añadir el ajo y dorar unos 2 minutos. A continuación, añadir las pechugas de pollo cortadas. Freír el pollo hasta que esté dorado, entre 6 y 8 minutos. Añadir los pimientos picados y freír durante unos 3 minutos. Añadir lentamente la salsa y remover. ¡Buen provecho!</string>
+
+
+    <string name="namemeal7_4">Té de menta y lavanda</string>
+    <string name="ingredientMeal7_4">&#188; taza de pétalos de lavanda frescos \n\n1 taza de hojas de menta fresca \n\n4 tazas de agua</string>
+    <string name="stepsMakeMeal7_4">Colocar los pétalos de lavanda y las hojas de menta en una cacerola, añadir el agua y llevar a ebullición. Dejar hervir a fuego lento hasta conseguir la concentración deseada, entre 15 y 20 minutos. ¡Buen provecho!</string>
+
+
+    <string name="namemeal7_5">Paquetes de pescado con espinacas y tomate</string>
+    <string name="ingredientMeal7_5">1 manojo de espárragos \n\n2 tomates picados \n\n2 filetes de tilapia \n\naceite de oliva \n\n&#189; cucharadita de salsa de ajo y chili \n\nsal \n\n1 limón, cortado en rodajas</string>
+    <string name="stepsMakeMeal7_5">Precalentar el horno a 190 ° C. En un bol pequeño, mezclar el aceite de oliva, la salsa de chili y la sal. Colocar los espárragos en el centro del papel de aluminio, colocar el tomate en rodajas uniformemente encima y sazonar. Colocar un filete de pescado encima de los tomates en cada paquete, y aliñar con la mezcla de aceite de oliva. Colocar las rodajas de limón sobre el pescado. Hornear el pescado durante 25&#8211;30 minutos. ¡Buen provecho!</string>
+    <string name="cat_name13">Plan Nutricional de Peso</string>
+    <string name="focus_13">Plan de comida limpia para 7 días</string>
+    <string name="goal_13">La pérdida de peso acelera el metabolismo.</string>
+    <string name="extraDescription13">¡Ponte en tu mejor forma! Aprende a comer, descubre alimentos quemagrasas y disfruta de sabrosos platos para acelerar tu metabolismo.</string>
+    <string name="meal">Comida %1$d</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="steps">Pasos</string>
+    <string name="titleDay1">Recetas saludables que son maravillosas de preparer y probar</string>
+    <string name="descriptionDay1">Para que tu metabolismo funcione a pleno rendimiento, debes tomar tu primera comida en la 1ª hora después de levantarte.</string>
+    <string name="titleDay2">Una buena nutrición es la base de una buena salud</string>
+    <string name="descriptionDay2">La solución es comer en el plazo de 1 hora después de despertarte, para que actives tu metabolismo.</string>
+    <string name="titleDay3">Planifica tu desayuno con antelación</string>
+    <string name="descriptionDay3">Para una quema más rápida de grasas, el desayuno es muy importante en tu pérdida de peso.</string>
+    <string name="titleDay4">Los carbohidratos suministras energía al cuerpo</string>
+    <string name="descriptionDay4">Los estudios demuestras que es importante tomar 5 comidas al día para mantener un peso saludable.</string>
+    <string name="titleDay5">La proteína es esencial para el crecimiento y el desarrollo</string>
+    <string name="descriptionDay5">La nutrición juega un papel clave en el mantenimiento de un estilo de vida saludable.</string>
+    <string name="titleDay6">Eres lo que comes</string>
+    <string name="descriptionDay6">Es totalmente cierto, si quieres que tu cuerpo rinda al máximo nivel.</string>
+    <string name="titleDay7">Para controlar el tamaño de las porciones usa platos más pequeños</string>
+    <string name="descriptionDay7">Elimina los atracones emocionales curando el hambre de tu corazón.</string>
+    <string name="days_plan">Plan de %1$d días</string>
+    <string name="extra">Extra</string>
+    <string name="exercise">EJERCICIO</string>
+
+    <string name="timer">Minutero</string>
+    <string name="ex_cat_88">Тodos</string>
+    <string name="muscle">Músculo</string>
+
+    <string name="congrulation">Felicitaciones !</string>
+    <string name="thnak_you">¡Gracias!</string>
+    <string name="after_update">Tienes 50 ejercicios nuevos, 7 nuevos planes de entrenamiento, 1 planes de nutrición y no anuncios.</string>
+    <string name="first_restore">Tienes una versión Premium. Se agregaron 7 planes de entrenamiento y 1 planes de nutrición para usted.</string>
+    <string name="upgrade_new">ACTUALIZAR</string>
+    <string name="description_upgrade">Desbloquea todos los planes nuevos diseñados por los mejores entrenadores. Alcanza tus metas más fácilmente.</string>
+    <string name="no_ads">SIN ANUNCIOS</string>
+    <string name="no_ads_description">DESHACERSE DE TODOS LOS ANUNCIOS. DISFRUTA DE TUS SESIONES DE ENTRENAMIENTO SIN ANUNCIOS</string>
+    <string name="noty_sound">Sonido de notificación</string>
+    <string name="noty_sound_description">Elige tu tono especial para notificar que no te pierdas nada</string>
+    <string name="new_workouts">NUEVOS ENTRENAMIENTOS</string>
+    <string name="new_workouts_desription">7 NUEVOS PLANES DE ENTRENAMIENTO PERSONALIZADOS PARA CADA GRUPO MUSCULAR Y SU IDONEIDAD META PARA ENFOCARSE EN LOS RESULTADOS MÁXIMOS.</string>
+    <string name="upgrade_header">Actualiza para desbloquear nuevos 50 ejercicios, 10 planes de entrenamiento, 2 planes de nutrición y eliminar anuncios.</string>
+    <string name="sound">Sonido</string>
+    <string name="buy">Comprar</string>
+
+    <string name="one_time_payment">pago único</string>
+    <string name="get_lifetime_access">CONSIGUE ACCESO TOTAL</string>
+    <string name="_3_days_for_free">7 días GRATIS</string>
+    <string name="get_workouts_courses_with_powerful_support">¡Consigue programas de ejercicios listos al 100% con gran apoyo!</string>
+    <string name="only_now">Solo ahora</string>
+    <string name="start_your_positive_transformation_today">¡Inicia tu transformación\npositiva hoy!</string>
+    <string name="try_it_now">Pruébalo ahora</string>
+    <string name="_3_day_nfree_trial">3-días\nPeríodo de prueba gratis</string>
+    <string name="_7_day_nfree_trial">7-días\nPeríodo de prueba gratis</string>
+    <string name="new_workoutsN">Nuevos \nejercicios</string>
+    <string name="month">/mes</string>
+    <string name="year">/año</string>
+    <string name="monthly_slim">Мensual</string>
+    <string name="after">después</string>
+    <string name="nutritionPlanName2">PÉRDIDA DE PESO</string>
+    <string name="nutritionPlanName1">DESARROLLO MUSCULAR</string>
+    <string name="nutrition_plans">Planes de nutrición</string>
+    <string name="title_11">Ejercicios</string>
+</resources>

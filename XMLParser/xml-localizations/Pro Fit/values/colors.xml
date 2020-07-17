@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="grey">#747474</color>
+    <color name="text_color">#ffffff</color>
+    <color name="grey2">#b4b4b4</color>
+    <color name="red">#2ba8ff</color>
+    <color name="red_bar">#2ba8ff</color>
+    <color name="red_bar_tr">#E62c2c2c</color>
+    <color name="selected_item">#2ba8ff</color>
+    <color name="timer_color_presed">#ffcb606a</color>
+    <color name="txt_menu_not_presed">#e5aeab</color>
+    <color name="color_circle_grey">#efefef</color>
+    <color name="frag1_layout">#d667cd</color>
+    <color name="frag2_layout">#fc4883</color>
+    <color name="frag3_layout">#dd3f3f</color>
+    <color name="frag4_layout">#f69146</color>
+    <color name="frag5_layout">#fcc748</color>
+    <color name="menu_layout">#2ba8ff</color>
+    <color name="text_color_hint">#80f3b46c</color>
+    <color name="exit_layout">#48e0fc</color>
+    <color name="switch_color">#2ba8ff</color>
+    <color name="circle_foto">#2ba8ff</color>
+    <color name="circle_foto_not">#802ba8ff</color>
+    <color name="background_editext_full_exercise">#2c2c2c</color>
+    <color name="text_color_exercise">#B38c88ff</color>
+    <color name="cell_color_exercise">#662c2c2c</color>
+    <color name="background">#3c3c3c</color>
+    <color name="divider">#1A2ba8ff</color>
+    <color name="divider2">#2ba8ff</color>
+
+    <color name="grey_opacity">#4Db4b4b4</color>
+    <color name="redY_axis">#4Dcb3f33</color>
+
+    <color name="grey_text">#CC747474</color>
+
+    <color name="shadow_left_menu">#99000000</color>
+
+    <color name="red_transp">#802ba8ff</color>
+    <color name="digits_interval">#494949</color>
+    <color name="white_transparent">#80ffffff</color>
+
+    <color name="status_bar">#3A3A3C</color>
+
+    <color name="background_history">#B30D0D0D</color>
+    <color name="line_history">#2ba8ff</color>
+    <color name="digits_history">#BBBBBB</color>
+    <color name="line_cell_red">#59b7f9</color>
+    <color name="line_shadow_red">#0596fc</color>
+    <color name="cell_red">#2ba8ff</color>
+
+
+    <color name="bgGradientStart">#000000</color>
+    <color name="bgGradientEnd">#d8000000</color>
+
+    <color name="bgSolidDark">#55000000</color>
+    <color name="counter_workout">#A5A5A6</color>
+
+    <color name="headGradientStart">#00ffffff</color>
+    <color name="headGradientCenter">#00ffffff</color>
+    <color name="headGradientEnd">#96000000</color>
+
+    <color name="colorListDivider">#e6e6e6</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="tint">#CC0079FF</color>
+
+
+    <color name="color_separator">#909090 </color>
+    <color name="selected_color">#08FD8E</color>
+    <color name="selected_color_opacity">#D908FD8E</color>
+<!--    <color name="selected_color">#08FD8E</color>-->
+    <color name="main_background">#2C2C2E</color>
+<!--    <color name="main_background">#2C2C2E</color>-->
+    <color name="grey_background">#3A3A3C</color>
+<!--    <color name="grey_background">#3A3A3C</color>-->
+    <color name="text_color_graph">#909090</color>
+
+</resources>

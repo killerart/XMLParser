@@ -49,7 +49,7 @@ namespace XMLParser {
             var keys = new HashSet<string>();
             HttpClientHandler clientHandler;
             foreach (var file in files) {
-                var translations = ParseStringsFile(file);
+                var translations = ParseXMLFile(file);
                 keys.UnionWith(translations.Keys);
                 clientHandler = new HttpClientHandler {
                     ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; }
@@ -61,7 +61,7 @@ namespace XMLParser {
             }
             return keys;
         }
-        static Dictionary<string, string> ParseStringsFile(string path) {
+        static Dictionary<string, string> ParseXMLFile(string path) {
             var translations = new Dictionary<string, string>();
             string key = string.Empty;
             string value = string.Empty;
